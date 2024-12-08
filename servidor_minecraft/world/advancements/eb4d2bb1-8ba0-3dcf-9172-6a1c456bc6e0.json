@@ -77,9 +77,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_masters_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/crimson_chair": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -92,6 +104,18 @@
   "regions_unexplored:recipes/decorations/maple_shrub": {
     "criteria": {
       "has_maple_sapling": "2024-12-08 04:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_the_beginning": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -137,6 +161,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_nautical_crossbow": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
     "criteria": {
       "has_raw_tin": "2024-12-08 04:47:41 +0000"
@@ -171,6 +201,12 @@
   "beachparty:beachpartypalm_tall_torch": {
     "criteria": {
       "has_the_recipe": "2024-12-08 04:52:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_masters_katana": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -210,6 +246,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2024-12-08 04:20:15 +0000"
@@ -243,6 +285,12 @@
   "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-08 04:25:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shields/shield_tower_guard": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -348,6 +396,18 @@
     },
     "done": true
   },
+  "mcdw:recipes/shortbows/bow_mechanical_shortbow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/spears/spear_fortune": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/purple_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-08 04:29:50 +0000"
@@ -408,6 +468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_taburet": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -435,6 +501,18 @@
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_lost_souls": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_leggings": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
     },
     "done": true
   },
@@ -474,9 +552,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_nocturnal_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cherry_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shortbows/bow_purple_storm": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -498,9 +588,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-08 04:28:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_void_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -546,6 +648,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_slicer": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-08 04:28:22 +0000"
@@ -582,6 +690,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_pink_scoundrel": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/boat": {
     "criteria": {
       "in_water": "2024-12-08 04:20:15 +0000"
@@ -606,6 +720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2024-12-08 04:56:56 +0000"
@@ -624,9 +744,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_trickbow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
     "criteria": {
       "has_core_specification_item": "2024-12-08 04:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -714,6 +846,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-08 05:04:19 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bar_stool_cincinnasite": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -723,6 +861,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2024-12-08 04:28:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bonebow": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
     },
     "done": true
   },
@@ -747,6 +891,18 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-12-08 04:12:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_azure_seeker": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_beestinger": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -786,6 +942,18 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_winters_touch": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_fence": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -795,6 +963,30 @@
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_frost_slayer": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/sickles/sickle_last_laugh_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/evocation_robe_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
     },
     "done": true
   },
@@ -832,6 +1024,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/evocation_robe_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/wooden_brewingstation": {
     "criteria": {
       "has_furnace": "2024-12-08 04:33:01 +0000"
@@ -862,9 +1060,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_sign": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_dual": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -976,6 +1186,12 @@
     },
     "done": true
   },
+  "barteringstation:recipes/decorations/bartering_station": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-08 04:21:36 +0000",
@@ -983,9 +1199,21 @@
     },
     "done": false
   },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/distillation_tower/diesel": {
     "criteria": {
       "has_oil": "2024-12-08 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_rapid": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -1025,6 +1253,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/gauntlets/gauntlet_soul_fist": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-08 04:33:01 +0000"
@@ -1043,6 +1277,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_green_menace": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitro_diesel": {
     "criteria": {
       "has_diesel": "2024-12-08 04:12:29 +0000",
@@ -1053,6 +1293,12 @@
   "advancednetherite:recipes/netherite_gold_block": {
     "criteria": {
       "has_ingredients": "2024-12-08 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -1110,6 +1356,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2024-12-08 05:04:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2024-12-08 04:25:12 +0000"
@@ -1119,6 +1371,12 @@
   "betternether:recipes/decorations/crimson_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/gold_cable": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -1194,6 +1452,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-08 04:27:41 +0000"
@@ -1254,6 +1518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2024-12-08 04:20:15 +0000"
@@ -1263,6 +1533,12 @@
   "soulsweapons:root": {
     "criteria": {
       "crafting_table": "2024-12-08 04:25:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_burst": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -1308,6 +1584,12 @@
     },
     "done": true
   },
+  "alloy_forgery:recipes/alloy_forgery/gold_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -1317,6 +1599,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2024-12-08 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_exploding": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -1344,6 +1632,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_feral_soul": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/vacuum_freezer/helium": {
     "criteria": {
       "has_heliumplasma": "2024-12-08 04:12:29 +0000"
@@ -1353,6 +1647,12 @@
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2024-12-08 04:25:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/battle_robe_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -1378,6 +1678,12 @@
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000",
       "has_the_recipe": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_haunted_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -1423,6 +1729,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/wire_mill/gold_cable": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -1447,6 +1759,18 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_harp": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_call_of_the_void": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_sign": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -1462,6 +1786,12 @@
   "betterend:recipes/decorations/lucernia_ladder": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_heavy": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -1489,9 +1819,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_doom_crossbow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_taburet": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -1510,6 +1852,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-08 04:28:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -1555,6 +1903,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_auto": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/juniper_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-08 04:26:30 +0000"
@@ -1573,6 +1927,12 @@
     },
     "done": true
   },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -1588,6 +1948,12 @@
   "betternether:recipes/decorations/stalagnate_ladder": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman_smithing": {
+    "criteria": {
+      "has_enderman": "2024-12-08 05:04:16 +0000"
     },
     "done": true
   },
@@ -1639,6 +2005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-08 04:27:41 +0000"
@@ -1687,9 +2059,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/shulker_armor_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2024-12-08 04:40:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -1748,6 +2132,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/longbows/bow_guardian_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-08 04:20:15 +0000"
@@ -1757,6 +2147,12 @@
   "betterend:recipes/misc/iron_hammer": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
     },
     "done": true
   },
@@ -1799,6 +2195,12 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunting_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -1856,6 +2258,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-08 04:20:15 +0000"
@@ -1865,6 +2273,12 @@
   "promenade:recipes/crafting/palm/boat": {
     "criteria": {
       "in_water": "2024-12-08 04:20:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_the_end": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -1922,6 +2336,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2024-12-08 04:20:15 +0000"
@@ -1952,6 +2372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_small": {
     "criteria": {
       "has_oak_planks": "2024-12-08 04:25:12 +0000"
@@ -1961,6 +2387,12 @@
   "handcrafted:recipes/misc/oak_side_table": {
     "criteria": {
       "has_oak_side_table": "2024-12-08 04:25:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-08 05:04:16 +0000"
     },
     "done": true
   },
@@ -2027,6 +2459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2024-12-08 04:56:56 +0000"
@@ -2087,6 +2525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_chair": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -2105,6 +2549,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_ladder": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -2120,6 +2570,12 @@
   "advancednetherite:recipes/building_blocks/netherite_iron_block": {
     "criteria": {
       "has_the_recipe": "2024-12-08 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_slayer": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -2165,9 +2621,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/golden_witch_altar": {
+    "criteria": {
+      "has_item": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_chair": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_gold_cable": {
+    "criteria": {
+      "has_gold": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -2177,9 +2645,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_taburet": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -2243,6 +2723,18 @@
     },
     "done": true
   },
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-08 04:25:12 +0000"
@@ -2261,15 +2753,45 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_resolute_tempest_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shields/shield_royal_guard": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-08 04:20:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2024-12-08 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -2297,9 +2819,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/tinted_greenhouse_glass": {
     "criteria": {
       "has_glass": "2024-12-08 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2024-12-08 05:03:22 +0000"
     },
     "done": true
   },
@@ -2330,6 +2864,12 @@
   "bewitchment:recipes/tools/mending_poppet": {
     "criteria": {
       "has_item": "2024-12-08 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -2399,6 +2939,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/shortbows/bow_shortbow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -2447,9 +2993,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_sabrewing": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_echo_of_the_valley": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -2489,9 +3053,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/evocation_robe_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_web_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -2519,9 +3095,39 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_power_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2024-12-08 05:12:28 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_burst_gale_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2024-12-08 05:12:56 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-08 05:04:19 +0000"
     },
     "done": true
   },
@@ -2574,6 +3180,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_butterfly": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2024-12-08 04:20:15 +0000"
@@ -2610,6 +3222,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/longbows/bow_longbow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_shrub": {
     "criteria": {
       "has_oak_sapling": "2024-12-08 04:27:17 +0000"
@@ -2640,9 +3258,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/treetap": {
     "criteria": {
       "has_planks": "2024-12-08 04:25:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_boneclub": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_chill_gale_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -2706,9 +3342,28 @@
     },
     "done": true
   },
+  "beachparty:beachpartybikini": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000",
+      "has_the_recipe": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_broken_sawblade": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/helix_tree_gate": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-08 05:04:19 +0000"
     },
     "done": true
   },
@@ -2796,6 +3451,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/gauntlets/gauntlet_maulers": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/end_lotus_gate": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -2850,6 +3511,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/netherite_iron_block": {
     "criteria": {
       "has_ingredients": "2024-12-08 04:12:29 +0000"
@@ -2862,9 +3529,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/whips/whip_whip": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_chair": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -2874,9 +3553,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_soul": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/netherite_ingots": {
     "criteria": {
       "has_ingredients": "2024-12-08 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_grave_bane": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -2972,6 +3663,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/gold_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -2981,6 +3678,12 @@
   "techreborn:recipes/extractor/string_from_bed": {
     "criteria": {
       "has_bed": "2024-12-08 04:33:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_imploding": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -2996,6 +3699,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_taburet": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -3005,6 +3714,12 @@
   "bewitchment:recipes/tools/judgment_poppet": {
     "criteria": {
       "has_item": "2024-12-08 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -3122,6 +3837,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/vanguard_armor_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "rpg_series:root": {
     "criteria": {
       "always": "2024-12-08 04:12:28 +0000"
@@ -3170,6 +3891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/emerald_gear_chestplate": {
     "criteria": {
       "has_emerald": "2024-12-08 04:40:13 +0000"
@@ -3203,6 +3930,18 @@
   "ae2wtlib:recipes/magnet_card": {
     "criteria": {
       "has_wct": "2024-12-08 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-08 05:04:19 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_twin_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -3249,6 +3988,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_wind_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2024-12-08 04:20:15 +0000"
@@ -3269,6 +4014,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-08 05:04:14 +0000",
+      "minecraft:spider": "2024-12-08 05:05:57 +0000",
       "minecraft:zombie": "2024-12-08 04:16:42 +0000"
     },
     "done": false
@@ -3310,6 +4057,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_bubble_burster": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-12-08 04:34:42 +0000"
@@ -3331,6 +4084,12 @@
   "techreborn:recipes/chemical_reactor/nitrocoal_fuel": {
     "criteria": {
       "has_glyceryl": "2024-12-08 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/battle_robe_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
     },
     "done": true
   },
@@ -3529,9 +4288,21 @@
     },
     "done": true
   },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -3598,6 +4369,18 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-08 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/golden_candelabra": {
+    "criteria": {
+      "has_item": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -3766,9 +4549,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/whips/whip_vine_whip": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -3815,6 +4610,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_moon": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/leather": {
     "criteria": {
       "has_rotten_flesh": "2024-12-08 04:21:08 +0000"
@@ -3857,6 +4658,18 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_cutlass": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_soul_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_black": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -3881,9 +4694,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/shortbows/bow_love_spell_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/combat/tag_shield": {
     "criteria": {
       "has_tag_minecraft_planks": "2024-12-08 04:25:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_elite_power_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -3896,6 +4721,12 @@
   "betterend:recipes/decorations/end_lotus_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_voidcaller_crossbow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -3914,6 +4745,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-08 04:52:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -3971,6 +4808,18 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-08 05:04:19 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_boots": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/detector_rail": {
     "criteria": {
       "has_stone_pressure_plate": "2024-12-08 04:33:01 +0000"
@@ -3980,6 +4829,18 @@
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_chest": "2024-12-08 04:56:56 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/bone_rib_cage": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/longbows/bow_red_snake": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
     },
     "done": true
   },
@@ -4049,6 +4910,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_snow_bow": {
+    "criteria": {
+      "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/emerald_gear_boots": {
     "criteria": {
       "has_emerald": "2024-12-08 04:40:13 +0000"
@@ -4067,6 +4934,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/staves/staff_growing_staff": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -4082,6 +4955,12 @@
   "bclib:recipes/redstone/tag_hopper": {
     "criteria": {
       "has_tag_c_chest": "2024-12-08 04:56:56 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-08 05:04:16 +0000"
     },
     "done": true
   },
@@ -4104,6 +4983,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/orc_skin_recipe": {
+    "criteria": {
+      "got_the_orc_skin": "2024-12-08 05:10:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-08 04:54:30 +0000"
@@ -4116,6 +5001,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2024-12-08 05:09:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/wood_plate": {
     "criteria": {
       "has_planks": "2024-12-08 04:25:12 +0000"
@@ -4125,6 +5016,12 @@
   "bewitchment:recipes/tools/death_protection_poppet": {
     "criteria": {
       "has_item": "2024-12-08 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2024-12-08 05:12:28 +0000"
     },
     "done": true
   },
@@ -4143,6 +5040,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-08 04:50:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2024-12-08 05:12:56 +0000"
     },
     "done": true
   },
