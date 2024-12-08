@@ -2920,3 +2920,16 @@ BCLib - Nether BiomeSource (48a41370)
 [04:18:35] [spark-worker-pool-1-thread-3/INFO]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)
 [04:21:16] [Server thread/INFO]: Sebas2K24 has made the advancement [Not Today, Thank You]
 [04:21:40] [Server thread/INFO]: Arkanenn has made the advancement [Monster Hunter]
+[04:23:48] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Sebas2K24 accepted server config.
+[04:23:56] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Arkanenn accepted server config.
+[04:24:16] [Server thread/INFO]: Villager class_1646['Sang'/4054, l='ServerLevel[world]', x=-26.71, y=74.00, z=-179.50] died, message: 'Sang was slain by Arkanenn'
+[04:24:16] [Server thread/INFO]: Named entity class_1646['Sang'/4054, l='ServerLevel[world]', x=-26.71, y=74.00, z=-179.50] died: Sang was slain by Arkanenn
+[04:27:46] [Server thread/INFO]: Sebas2K24 has made the advancement ['X' Marks the Spot]
+[04:28:22] [Server thread/INFO]: Sebas2K24 has made the advancement [Stone Age]
+[04:28:58] [Server thread/INFO]: Sebas2K24 has made the advancement [Gravedigger]
+[04:29:32] [Worker-Main-13/WARN]: Tried to access a block entity before it was created. class_2338{x=167, y=82, z=-429}
+[04:29:32] [Worker-Main-13/WARN]: Tried to access a block entity before it was created. class_2338{x=167, y=82, z=-429}
+[04:29:50] [Server thread/INFO]: Sebas2K24 has made the advancement [Sky of Beginning]
+[04:30:24] [Server thread/INFO]: Named entity class_3989['Trenton'/358, l='ServerLevel[world]', x=-19.67, y=95.42, z=92.70] died: Trenton was slain by Vindicator
+[04:32:43] [Server thread/INFO]: Arkanenn has made the advancement ['X' Marks the Spot]
+[04:33:19] [Server thread/INFO]: Sebas2K24 has made the advancement [Wild Crops]
