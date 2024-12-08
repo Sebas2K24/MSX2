@@ -2861,3 +2861,62 @@ BCLib - Nether BiomeSource (48a41370)
 [04:09:11] [Netty Epoll Server IO #2/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
 [04:09:11] [Netty Epoll Server IO #2/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
 [04:09:11] [Netty Epoll Server IO #2/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
+[04:11:56] [Server thread/INFO]: [Handshake] Sending channel query
+[04:12:16] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[04:11:57] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[04:12:24] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[04:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27529ms or 550 ticks behind
+[04:12:24] [Server thread/INFO]: [Handshake] Sending channel query
+[04:12:24] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[04:12:24] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[04:12:24] [Server thread/INFO]: Arkanenn[/127.209.0.181:60769] logged in with entity id 969 at (0.5, 130.0, -6.5)
+[04:12:25] [Server thread/INFO]: Sending server config values to client
+[04:12:25] [Server thread/INFO]: Syncing config to Arkanenn (9cec9663-a88f-3331-a121-6c630f3d8724)
+[04:12:26] [Server thread/INFO]: Loading config from file...
+[04:12:26] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:12:26] [Server thread/INFO]: Arkanenn joined the game
+[04:12:26] [Server thread/INFO]: Updating all forceload tickets for 9cec9663-a88f-3331-a121-6c630f3d8724
+[04:12:27] [Server thread/INFO]: PLAYER_JOIN
+[04:12:27] [Server thread/INFO]: add_player wand
+[04:12:27] [Server thread/INFO]: config sent
+[04:12:27] [Server thread/INFO]: Sebas2K24[/127.42.90.33:34557] logged in with entity id 970 at (1.5, 122.0, 7.5)
+[04:12:27] [Server thread/INFO]: Sending server config values to client
+[04:12:27] [Server thread/INFO]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[04:12:27] [Server thread/INFO]: Loading config from file...
+[04:12:27] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:12:27] [Server thread/INFO]: Sebas2K24 joined the game
+[04:12:27] [Server thread/INFO]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[04:12:27] [Server thread/INFO]: PLAYER_JOIN
+[04:12:27] [Server thread/INFO]: add_player wand
+[04:12:27] [Server thread/INFO]: config sent
+[04:12:28] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[04:12:28] [Server thread/INFO]: Arkanenn has made the advancement [Mythic Mobs]
+[04:12:28] [Server thread/INFO]: Sebas2K24 has made the advancement [Mythic Mobs]
+[04:12:30] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[04:12:32] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Arkanenn -> Global
+[04:12:32] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Arkanenn. Claiming: GRAVE / Robbing: INVENTORY
+[04:12:33] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Sebas2K24 -> Global
+[04:12:33] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Sebas2K24. Claiming: GRAVE / Robbing: INVENTORY
+[04:12:35] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Arkanenn accepted server config.
+[04:12:37] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Sebas2K24 accepted server config.
+[04:12:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17938ms or 358 ticks behind
+[04:15:55] [Server thread/INFO]: <Sebas2K24> mondongo
+[04:16:42] [Server thread/INFO]: Sebas2K24 has made the advancement [Monster Hunter]
+[04:17:33] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[04:18:18] [Server thread/INFO]: Made Sebas2K24 a server operator
+[04:18:18] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Sebas2K24 accepted server config.
+[04:18:24] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[04:18:24] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[04:18:28] [spark-worker-pool-1-thread-1/INFO]: [⚡] Starting a new profiler, please wait...
+[04:18:28] [spark-worker-pool-1-thread-1/INFO]: [⚡] Profiler is now running! (async)
+[04:18:28] [spark-worker-pool-1-thread-1/INFO]: [⚡] It will run in the background until it is stopped by an admin.
+[04:18:28] [spark-worker-pool-1-thread-1/INFO]: [⚡] To stop the profiler and upload the results, run:
+[04:18:28] [spark-worker-pool-1-thread-1/INFO]: [⚡]   /spark profiler stop
+[04:18:28] [spark-worker-pool-1-thread-1/INFO]: [⚡] To view the profiler while it's running, run:
+[04:18:28] [spark-worker-pool-1-thread-1/INFO]: [⚡]   /spark profiler open
+[04:18:33] [spark-worker-pool-1-thread-3/INFO]: [⚡] Stopping the profiler & uploading results, please wait...
+[04:18:35] [spark-worker-pool-1-thread-3/INFO]: [⚡] Profiler stopped & upload complete!
+[04:18:35] [spark-worker-pool-1-thread-3/INFO]: https://spark.lucko.me/1fwofqMbHa
+[04:18:35] [spark-worker-pool-1-thread-3/INFO]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)
+[04:21:16] [Server thread/INFO]: Sebas2K24 has made the advancement [Not Today, Thank You]
+[04:21:40] [Server thread/INFO]: Arkanenn has made the advancement [Monster Hunter]
