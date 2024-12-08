@@ -1510,6 +1510,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/light_blue_coffin": {
+    "criteria": {
+      "has_item": "2024-12-08 05:22:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/vacuum_freezer/helium": {
     "criteria": {
       "has_heliumplasma": "2024-12-08 04:12:29 +0000"
@@ -1544,6 +1550,12 @@
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000",
       "has_the_recipe": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_haunted_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-08 05:22:34 +0000"
     },
     "done": true
   },
@@ -2025,6 +2037,12 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunting_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-08 05:22:34 +0000"
     },
     "done": true
   },
@@ -2594,6 +2612,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_bubble_bow": {
+    "criteria": {
+      "has_bow": "2024-12-08 05:22:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_sign": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -2756,6 +2780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-08 05:22:34 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-08 04:20:59 +0000"
@@ -2813,6 +2843,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_web_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-08 05:22:34 +0000"
     },
     "done": true
   },
@@ -3280,6 +3316,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2024-12-08 05:22:34 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2024-12-08 04:25:26 +0000"
@@ -3313,6 +3355,12 @@
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_bed": {
+    "criteria": {
+      "has_bed": "2024-12-08 05:22:16 +0000"
     },
     "done": true
   },
@@ -3562,6 +3610,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_twin_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-08 05:22:34 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrofuel": {
     "criteria": {
       "has_oil": "2024-12-08 04:12:29 +0000",
@@ -3643,6 +3697,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-08 05:22:34 +0000",
       "minecraft:drowned": "2024-12-08 04:21:40 +0000"
     },
     "done": false
@@ -3678,9 +3733,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/blue_coffin": {
+    "criteria": {
+      "has_item": "2024-12-08 05:22:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/whispering_gourd_lantern": {
     "criteria": {
       "has_torch": "2024-12-08 04:39:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2024-12-08 05:22:34 +0000"
     },
     "done": true
   },
@@ -4121,6 +4188,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_phantom_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-08 05:22:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/blackwood_boat": {
     "criteria": {
       "in_water": "2024-12-08 04:20:29 +0000"
@@ -4306,6 +4379,12 @@
   "mcdw:recipes/swords/sword_cutlass": {
     "criteria": {
       "has_gold_ingot": "2024-12-08 04:33:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_soul_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-08 05:22:34 +0000"
     },
     "done": true
   },
@@ -4534,6 +4613,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-08 04:31:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_snow_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-08 05:22:34 +0000"
     },
     "done": true
   },
