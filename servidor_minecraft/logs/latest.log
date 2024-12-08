@@ -3484,3 +3484,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:18:51] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=699, y=66, z=-859}
 [05:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
 [05:23:16] [Server thread/INFO]: [Sebas2K24: Teleported Sebas2K24 to Arkanenn]
+[05:25:37] [Server thread/INFO]: [Sebas2K24: Gamerule doWeatherCycle is now set to: false]
+[05:34:02] [Server thread/INFO]: Arkanenn lost connection: Disconnected
+[05:34:02] [Server thread/INFO]: Arkanenn left the game
+[05:34:02] [Server thread/INFO]: remove player wand
+[05:34:02] [Server thread/INFO]: Updating all forceload tickets for 9cec9663-a88f-3331-a121-6c630f3d8724

@@ -312,6 +312,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-12-08 05:33:01 +0000"
+    },
+    "done": false
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-08 04:28:22 +0000"
@@ -948,6 +954,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2024-12-08 05:26:55 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/acacia_chair": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
@@ -999,6 +1011,12 @@
   "mcdw:recipes/bows/bow_bonebow": {
     "criteria": {
       "has_bone": "2024-12-08 05:04:16 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2024-12-08 05:26:55 +0000"
     },
     "done": true
   },
@@ -2057,6 +2075,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/flint_from_gravel": {
+    "criteria": {
+      "has_gravel": "2024-12-08 05:29:01 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_doom_crossbow": {
     "criteria": {
       "has_string": "2024-12-08 05:05:57 +0000"
@@ -2150,6 +2174,12 @@
   "bewitchment:recipes/decorations/juniper_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-08 04:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-08 05:29:01 +0000"
     },
     "done": true
   },
@@ -3166,6 +3196,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-08 05:29:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-08 05:16:28 +0000"
@@ -3391,6 +3427,12 @@
   "betterend:recipes/decorations/dragon_tree_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-08 04:20:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2024-12-08 05:26:55 +0000"
     },
     "done": true
   },
@@ -4443,6 +4485,12 @@
     },
     "done": true
   },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2024-12-08 05:29:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-12-08 04:25:22 +0000"
@@ -4501,6 +4549,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-08 05:04:14 +0000",
       "minecraft:spider": "2024-12-08 05:05:57 +0000",
+      "minecraft:enderman": "2024-12-08 05:29:01 +0000",
       "minecraft:zombie": "2024-12-08 04:16:42 +0000"
     },
     "done": false
@@ -5143,6 +5192,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2024-12-08 05:26:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_pickaxe": {
     "criteria": {
       "has_wooden_pickaxe": "2024-12-08 04:27:25 +0000"
@@ -5189,6 +5244,12 @@
   "regions_unexplored:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2024-12-08 04:20:15 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2024-12-08 05:26:55 +0000"
     },
     "done": true
   },
@@ -5273,6 +5334,12 @@
   "mcdw:recipes/bows/bow_elite_power_bow": {
     "criteria": {
       "has_string": "2024-12-08 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-08 05:29:01 +0000"
     },
     "done": true
   },
