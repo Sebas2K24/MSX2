@@ -5,6 +5,8 @@
   "alwaysShowRepairCost": false,
   "showHarvestLevel": true,
   "showEfficiency": true,
+  "showSwordEfficiency": false,
   "showDurability": true,
-  "alwaysShowDurability": false
+  "alwaysShowDurability": false,
+  "showHorseArmorProtection": true
 }

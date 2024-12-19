@@ -1,3 +1,4 @@
+
 [health]
 	#Render vanilla hearts
 	#Default: true
@@ -18,6 +19,7 @@
 	#There can be one color in case vanilla frozen heart is wanted
 	#Default: ["#3E70E6"]
 	frozenColors = ["#3E70E6"]
+
 [absorption]
 	#Render vanilla hearts
 	#Default: true
@@ -35,3 +37,4 @@
 	#Two alternating colors while freezing
 	#Default: ["#90D136", "#36D183"]
 	frozenColors = ["#90D136", "#36D183"]
+

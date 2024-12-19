@@ -1,0 +1,29 @@
+{
+	id: "7FC6FBF7F41D96D9"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ count: 10, item: "vampirism:human_heart" }
+		{
+			item: {
+				Count: 1
+				id: "vampirism:vampire_book"
+				tag: {
+					author: "Unknown"
+					id: "poem1"
+					title: "My mother"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "vampirism:blood_bottle"
+				tag: {
+					Damage: 8
+				}
+			}
+		}
+	]
+	title: "VAmpire"
+}

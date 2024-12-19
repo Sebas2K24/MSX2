@@ -1,0 +1,18 @@
+{
+	id: "2659FA27FDEA1454"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ item: "bloodandmadness:weapons/flamesprayer" }
+		{
+			item: {
+				Count: 1
+				id: "bloodandmadness:weapons/cutlass"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "FatherGasgoine"
+}

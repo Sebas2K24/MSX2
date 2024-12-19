@@ -1,0 +1,6 @@
+#Hitmarker duration
+#Range: 0 ~ 50
+"Hitmarker Duration" = 4
+#Debug Mode - used for making animations for guns
+"Debug Mode - Dont touch this" = false
+

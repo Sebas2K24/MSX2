@@ -9,13 +9,7 @@
 	drop_loot_crates: false
 	emergency_items_cooldown: 300
 	grid_scale: 0.5d
-	icon: {
-		Count: 1b
-		id: "ftbquests:custom_icon"
-		tag: {
-			Icon: "prominent:textures/other/prominent_logo.png"
-		}
-	}
+	icon: "blue_skies:soul_fragment"
 	lock_message: ""
 	loot_crate_no_drop: {
 		boss: 0
@@ -23,7 +17,7 @@
 		passive: 4000
 	}
 	pause_game: false
-	progression_mode: "flexible"
-	title: "&6&lProminence II&7 RPG"
+	progression_mode: "linear"
+	title: "[\"\",{\"text\":\"DarkRPG\",\"color\":\"red\",\"bold\":true,\"underlined\":false}]"
 	version: 13
 }

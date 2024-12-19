@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SLN",
+		"A  ",
+		"   "
+	],
+	"key": {
+		"S": {"item": "enigmaticlegacy:thicc_scroll"},
+		"L": {"item": "irons_spellbooks:legendary_ink"},
+		"N": {"item": "minecraft:nether_star"},
+		"A": {"item": "occultism:awakened_feather"}
+		},
+	"result": {
+		"item": "skilltree:amnesia_scroll",
+		"count": 1
+	}
+}

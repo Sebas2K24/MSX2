@@ -1,0 +1,26 @@
+{
+	id: "1159EC74A6A24D37"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "bloodandmadness:weapons/threaded_cane_cane"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "bloodandmadness:weapons/shadow_blade"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Micolashnighnmare"
+}
