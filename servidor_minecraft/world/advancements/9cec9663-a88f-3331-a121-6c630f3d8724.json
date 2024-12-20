@@ -4485,6 +4485,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-20 05:10:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-20 05:09:24 +0000"
@@ -4536,6 +4542,18 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 05:14:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2024-12-20 05:13:56 +0000"
     },
     "done": true
   },
@@ -4800,6 +4818,12 @@
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2024-12-20 05:14:55 +0000"
     },
     "done": true
   },

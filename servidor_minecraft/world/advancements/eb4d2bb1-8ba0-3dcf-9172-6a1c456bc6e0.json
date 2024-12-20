@@ -3011,6 +3011,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2024-12-20 04:09:14 +0000",
+      "pumpkin_pie": "2024-12-20 05:15:22 +0000",
       "bread": "2024-12-20 02:39:22 +0000",
       "cooked_chicken": "2024-12-20 04:15:37 +0000"
     },
@@ -5147,6 +5148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-20 05:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-20 04:49:03 +0000"
@@ -5222,6 +5229,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-20 04:48:55 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_ore_block": {
+    "criteria": {
+      "has_coal_block": "2024-12-20 05:14:22 +0000"
     },
     "done": true
   },
@@ -5555,6 +5568,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
     "criteria": {
       "has_mangrove_planks": "2024-12-20 04:56:16 +0000"
@@ -5681,6 +5700,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2024-12-20 05:14:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_bench": {
     "criteria": {
       "has_mangrove_bench": "2024-12-20 04:56:16 +0000"
@@ -5690,6 +5715,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
     },
     "done": true
   },
@@ -5759,6 +5790,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-20 04:52:13 +0000"
@@ -5783,9 +5820,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/coal_block_slab": {
+    "criteria": {
+      "has_coal_block": "2024-12-20 05:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-20 04:52:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
     },
     "done": true
   },
@@ -5867,6 +5922,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-20 05:10:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-20 04:11:05 +0000"
@@ -5894,6 +5955,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-20 04:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
     },
     "done": true
   },
@@ -5969,6 +6036,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/misc/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2024-12-20 05:14:08 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mangrove_log_bridge_middle": {
     "criteria": {
       "has_planks": "2024-12-20 04:56:16 +0000"
@@ -6005,6 +6078,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-12-20 05:14:08 +0000"
+    },
+    "done": true
+  },
   "farlanders:recipes/combat/nightfall_sword": {
     "criteria": {
       "has_diamond": "2024-12-20 04:36:08 +0000"
@@ -6038,6 +6117,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
     },
     "done": true
   },
@@ -6080,6 +6165,18 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2024-12-20 05:14:08 +0000"
     },
     "done": true
   },
@@ -6149,6 +6246,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-12-20 05:14:08 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/misc/living_arrow": {
     "criteria": {
       "has_arrow": "2024-12-20 03:42:54 +0000"
@@ -6197,6 +6300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_mangrove_planks": "2024-12-20 04:56:16 +0000"
@@ -6221,6 +6330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2024-12-20 04:41:38 +0000"
@@ -6230,6 +6345,12 @@
   "refurbished_furniture:recipes/decorations/blue_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 04:52:02 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_coal_block_from_coal_block": {
+    "criteria": {
+      "has_coal_block": "2024-12-20 05:14:22 +0000"
     },
     "done": true
   },
@@ -6293,6 +6414,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2024-12-20 05:14:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/blue_industrial_lamp": {
     "criteria": {
       "has_blue_industrial_lamp": "2024-12-20 04:52:02 +0000"
@@ -6344,6 +6477,12 @@
   "connectedglass:recipes/misc/scratched_glass_purple_pane2": {
     "criteria": {
       "recipe_condition2": "2024-12-20 04:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
     },
     "done": true
   },
@@ -6482,6 +6621,12 @@
   "cfm:recipes/decorations/dye_purple_picket_gate": {
     "criteria": {
       "has_dye": "2024-12-20 04:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-20 05:14:08 +0000"
     },
     "done": true
   },
@@ -6668,6 +6813,12 @@
   "sophisticatedstorage:recipes/misc/mangrove_barrel": {
     "criteria": {
       "has_mangrove_plank": "2024-12-20 04:56:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2024-12-20 05:14:08 +0000"
     },
     "done": true
   },

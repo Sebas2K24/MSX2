@@ -5563,3 +5563,13 @@ java.lang.NullPointerException: Element not found: amount
 [20Dec2024 05:09:31.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Best Friends Forever]
 [20Dec2024 05:11:13.995] [Server thread/WARN] [tombstone/]: The death event of the player Arkanenn was canceled by another mod
 [20Dec2024 05:11:13.997] [Server thread/INFO] [tombstone/]: The player Arkanenn has successfully been saved
+[20Dec2024 05:13:40.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved wrongly!
+[20Dec2024 05:13:56.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Apothic Spawners]
+[20Dec2024 05:14:00.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Ashes 'n Bones]
+[20Dec2024 05:14:55.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Captured!]
+[20Dec2024 05:16:12.706] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[20Dec2024 05:17:46.706] [Server thread/WARN] [tombstone/]: The death event of the player Arkanenn was canceled by another mod
+[20Dec2024 05:18:32.560] [Server thread/WARN] [tombstone/]: The death event of the player Arkanenn was canceled by another mod
+[20Dec2024 05:18:32.565] [Server thread/INFO] [tombstone/]: The player Arkanenn has successfully been saved
+[20Dec2024 05:20:38.421] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[20Dec2024 05:23:05.958] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/16825, l='ServerLevel[world]', x=262.87, y=31.00, z=101.57]
