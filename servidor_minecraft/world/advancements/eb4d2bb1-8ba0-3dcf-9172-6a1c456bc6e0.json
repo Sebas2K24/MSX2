@@ -1507,6 +1507,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-20 04:36:35 +0000",
+      "minecraft:creeper": "2024-12-20 05:00:48 +0000",
       "minecraft:husk": "2024-12-20 04:13:43 +0000",
       "minecraft:zombie": "2024-12-20 02:32:50 +0000"
     },
@@ -5344,6 +5345,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-20 05:09:18 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_blue_pane2": {
     "criteria": {
       "recipe_condition2": "2024-12-20 04:52:02 +0000"
@@ -5488,6 +5495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 05:00:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blue_plate": {
     "criteria": {
       "has_blue_plate": "2024-12-20 04:52:02 +0000"
@@ -5509,6 +5522,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_drawer": {
     "criteria": {
       "has_mangrove_planks": "2024-12-20 04:56:16 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 05:00:48 +0000"
     },
     "done": true
   },
@@ -6067,6 +6086,12 @@
   "fishofthieves:recipes/decorations/birch_fish_plaque": {
     "criteria": {
       "has_item_frame": "2024-12-20 04:39:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 05:00:48 +0000"
     },
     "done": true
   },
@@ -6733,6 +6758,12 @@
   "decorative_blocks:recipes/building_blocks/mangrove_seat": {
     "criteria": {
       "has_plank": "2024-12-20 04:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 05:00:48 +0000"
     },
     "done": true
   },

@@ -5558,3 +5558,8 @@ java.lang.NullPointerException: Element not found: amount
 [20Dec2024 04:54:22.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Neighborhood Brawl]
 [20Dec2024 04:54:22.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Bad Deal]
 [20Dec2024 04:57:42.725] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[20Dec2024 05:09:13.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[20Dec2024 05:09:18.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Best Friends Forever]
+[20Dec2024 05:09:31.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Best Friends Forever]
+[20Dec2024 05:11:13.995] [Server thread/WARN] [tombstone/]: The death event of the player Arkanenn was canceled by another mod
+[20Dec2024 05:11:13.997] [Server thread/INFO] [tombstone/]: The player Arkanenn has successfully been saved

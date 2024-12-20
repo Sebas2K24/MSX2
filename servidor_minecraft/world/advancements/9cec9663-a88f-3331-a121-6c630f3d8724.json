@@ -4317,6 +4317,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2024-12-20 04:50:58 +0000"
@@ -4326,6 +4332,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_stool": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-20 05:09:31 +0000"
     },
     "done": true
   },
@@ -4419,6 +4431,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/decorations/spruce_fish_plaque": {
     "criteria": {
       "has_item_frame": "2024-12-20 04:44:16 +0000"
@@ -4443,6 +4461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/decorations/bamboo_fish_plaque": {
     "criteria": {
       "has_item_frame": "2024-12-20 04:44:16 +0000"
@@ -4461,6 +4485,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-20 04:50:58 +0000"
@@ -4470,6 +4500,12 @@
   "fishofthieves:recipes/decorations/cherry_fish_plaque": {
     "criteria": {
       "has_item_frame": "2024-12-20 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "bonetorch:recipes/decorations/bonetorch": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
     },
     "done": true
   },
@@ -4569,6 +4605,12 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/sitting_skeleton": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
@@ -4584,6 +4626,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
     },
     "done": true
   },
@@ -4710,6 +4758,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
     },
     "done": true
   },
