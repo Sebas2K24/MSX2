@@ -1,7 +1,0 @@
-{
-	chapter_groups: [
-		{ id: "31D4B6F3C6A48621", title: "[\"\",{\"text\":\"Role Play\",\"color\":\"gold\",\"bold\":true,\"underlined\":false}]" }
-		{ id: "06E963504CC232B9", title: "[\"\",{\"text\":\"Adventure\",\"color\":\"blue\",\"bold\":true,\"underlined\":false}]" }
-		{ id: "7BA688758CAFB058", title: "[\"\",{\"text\":\"Collecter\",\"color\":\"green\",\"bold\":true,\"underlined\":false}]" }
-	]
-}

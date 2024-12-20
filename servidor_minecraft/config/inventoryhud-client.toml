@@ -2,18 +2,18 @@
 #Settings for Inventory HUD
 [inventoryhud]
 	#Inventory HUD mini mode
-	invMini = true
+	invMini = false
 	#Inventory HUD vertical mode
-	invVert = true
+	invVert = false
 	#Inventory HUD alpha
 	#Range: 0 ~ 100
 	invAlpha = 0
 	#Toggle on by default
 	byDefault = false
 	#Animate recently picked up items
-	animatedInv = true
+	animatedInv = false
 	#Hide background if inventory is empty
-	hideBackground = true
+	hideBackground = false
 	#Show Inventory HUD when debug menu is open
 	invWithDebug = true
 
@@ -38,13 +38,13 @@
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
 	armView = "PERCENTAGE"
 	#Show item durability bar
-	armBars = true
+	armBars = false
 	#Move all items at once or each one
 	moveAll = true
 	#Show/Hide empty slot icon
 	showEmpty = true
 	#Show overall count of items in main/off hand
-	showCount = true
+	showCount = false
 	#ArmorHUD scale in persentage from 50 to 150
 	#Range: 50 ~ 150
 	armScale = 100
@@ -77,22 +77,22 @@
 	#Show Potion HUD when debug menu is open
 	potWithDebug = true
 	#Show all levels of effects
-	potionLevels = true
+	potionLevels = false
 
 #DONT TOUCH THESE FIELDS!
 [positions]
 	#Inventory HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	invValign = "CENTER"
+	invValign = "BOTTOM"
 	#Inventory HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	invHalign = "RIGHT"
+	invHalign = "MIDDLE"
 	#Inventory HUD position (X)
 	#Range: -9999 ~ 9999
-	xPos = 39
+	xPos = 0
 	#Inventory HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPos = 0
+	yPos = 150
 	#Armor HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	armValign = "BOTTOM"
@@ -113,10 +113,10 @@
 	potHalign = "LEFT"
 	#Potion HUD position (X)
 	#Range: -9999 ~ 9999
-	xPotionPos = 2
+	xPotionPos = 20
 	#Potion HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPotionPos = 12
+	yPotionPos = 20
 	#Helmet position (X)
 	#Range: -9999 ~ 9999
 	helmPosX = 103
@@ -217,7 +217,7 @@
 #Notification settings
 [notification]
 	#Last notified mod version
-	lastNotifiedVersion = "4.2.4"
+	lastNotifiedVersion = "4.3.1740"
 	#Notify more than once
-	keepNotifying = false
+	keepNotifying = true
 

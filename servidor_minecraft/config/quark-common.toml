@@ -24,7 +24,7 @@
 	#This will have various knock-on effects but might make the Weald more common, or appear closer to modded biomes. Who knows?
 	"Terrablender Modify Vanilla Anyway" = false
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
-	"Enable Onboarding" = true
+	"Enable Onboarding" = false
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not generate the Quark Programmer Art resource pack
@@ -197,8 +197,8 @@
 
 	[building.leaf_carpet]
 		#This feature disables itself if any of the following mods are loaded:
-		# - immersive_weathering
 		# - woodworks
+		# - immersive_weathering
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -237,8 +237,8 @@
 		#Allowed values: [0,1]
 		"Fall Damage Multiplier" = 0.5
 		#This feature disables itself if any of the following mods are loaded:
-		# - environmental
 		# - goated
+		# - environmental
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -246,8 +246,8 @@
 	[building.variant_bookshelves]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -266,8 +266,8 @@
 	[building.variant_ladders]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -286,7 +286,7 @@
 	"Easy Transfering" = true
 	"Expanded Item Interactions" = true
 	"Hotbar Changer" = true
-	"Inventory Sorting" = false
+	"Inventory Sorting" = true
 	"Item Sharing" = true
 	"Quick Armor Swapping" = true
 
@@ -527,14 +527,11 @@
 	"Horses Swim" = true
 	"Improved Sponges" = true
 	"Lock Rotation" = true
-	"Magma Keeps Concrete Powder" = true
 	"Map Washing" = true
 	"More Banner Layers" = true
 	"More Note Block Sounds" = true
-	"More Villagers" = true
 	"No Durability On Cosmetics" = true
 	"Pat The Dogs" = true
-	"Petals On Water" = true
 	"Pig Litters" = true
 	"Poison Potato Usage" = true
 	"Reacharound Placing" = true
@@ -550,6 +547,9 @@
 	"Vexes Die With Their Masters" = true
 	"Villagers Follow Emeralds" = true
 	"Zombie Villagers On Normal" = true
+	"Magma Keeps Concrete Powder" = true
+	"Petals On Water" = true
+	"More Villagers" = true
 
 	[tweaks.automatic_recipe_unlock]
 		#A list of recipe names that should NOT be added in by default
@@ -641,10 +641,6 @@
 		"Maximum Crawl Distance" = 10
 		"Enable Placing On Water" = true
 
-	[tweaks.lock_rotation]
-		#When true, lock rotation indicator in the same style as crosshair
-		"Render Like Cross Hair" = true
-
 	[tweaks.map_washing]
 		#This feature disables itself if any of the following mods are loaded:
 		# - supplementaries
@@ -658,10 +654,6 @@
 
 	[tweaks.more_note_block_sounds]
 		"Enable Amethyst Sound" = true
-
-	[tweaks.more_villagers]
-		"Ocean Villager" = true
-		"Beach Villager" = true
 
 	[tweaks.no_durability_on_cosmetics]
 		#Allow applying cosmetic items such as color runes with no anvil durability usage? Cosmetic items are defined in the quark:cosmetic_anvil_items tag
@@ -762,6 +754,14 @@
 		#Can raw ore blocks be smelted, taking 9x the time a normal item?
 		"Smelt Raw Ore Blocks" = true
 
+	[tweaks.lock_rotation]
+		#When true, lock rotation indicator in the same style as crosshair
+		"Render Like Cross Hair" = true
+
+	[tweaks.more_villagers]
+		"Ocean Villager" = true
+		"Beach Villager" = true
+
 [world]
 	"Ancient Wood" = true
 	"Azalea Wood" = true
@@ -770,7 +770,6 @@
 	"Chorus Vegetation" = true
 	Corundum = true
 	"Fairy Rings" = true
-	"Fallen Logs" = true
 	"Glimmering Weald" = true
 	"Monster Box" = true
 	"Nether Obsidian Spikes" = true
@@ -778,6 +777,7 @@
 	"No More Lava Pockets" = true
 	Permafrost = true
 	"Spiral Spires" = true
+	"Fallen Logs" = true
 
 	[world.ancient_wood]
 		"Ancient Fruit Gives Exp" = true
@@ -1124,20 +1124,6 @@
 			"Is Blacklist" = false
 			Dimensions = ["minecraft:overworld"]
 
-	[world.fallen_logs]
-		#Percentage of fallen logs spawning as hollow. Requires Hollow Logs Module to be enabled
-		"Hollow Chance" = 0.7
-		Rarity = 5
-		#chance for logs to spawn on water
-		"On Water Chance" = 0.1
-		"Sparse Biome Rarity" = 12
-		#Tags that define which biomes can have which wood types
-		"Biome Tags" = ["quark:has_fallen_acacia=minecraft:acacia_log", "quark:has_fallen_birch=minecraft:birch_log", "quark:has_fallen_cherry=minecraft:cherry_log", "quark:has_fallen_dark_oak=minecraft:dark_oak_log", "quark:has_fallen_jungle=minecraft:jungle_log", "quark:has_fallen_mangrove=minecraft:mangrove_log", "quark:has_fallen_oak=minecraft:oak_log", "quark:has_fallen_spruce=minecraft:spruce_log"]
-
-		[world.fallen_logs.dimensions]
-			"Is Blacklist" = false
-			Dimensions = ["minecraft:overworld"]
-
 	[world.monster_box]
 		#The chance for the monster box generator to try and place one in a chunk. 0 is 0%, 1 is 100%
 		#This can be higher than 100% if you want multiple per chunk.
@@ -1342,6 +1328,20 @@
 			[world.spiral_spires.biomes.biomes]
 				Biomes = ["minecraft:end_highlands"]
 				"Is Blacklist" = false
+
+	[world.fallen_logs]
+		Rarity = 5
+		"Sparse Biome Rarity" = 12
+		#Tags that define which biomes can have which wood types
+		"Biome Tags" = ["quark:has_fallen_acacia=minecraft:acacia_log", "quark:has_fallen_birch=minecraft:birch_log", "quark:has_fallen_cherry=minecraft:cherry_log", "quark:has_fallen_dark_oak=minecraft:dark_oak_log", "quark:has_fallen_jungle=minecraft:jungle_log", "quark:has_fallen_mangrove=minecraft:mangrove_log", "quark:has_fallen_oak=minecraft:oak_log", "quark:has_fallen_spruce=minecraft:spruce_log"]
+		#chance for logs to spawn on water
+		"On Water Chance" = 0.1
+		#Percentage of fallen logs spawning as hollow. Requires Hollow Logs Module to be enabled
+		"Hollow Chance" = 0.7
+
+		[world.fallen_logs.dimensions]
+			"Is Blacklist" = false
+			Dimensions = ["minecraft:overworld"]
 
 [mobs]
 	Crabs = true
@@ -1560,7 +1560,7 @@
 	"Long Range Pick Block" = true
 	"Microcrafting Helper" = true
 	"Soul Candles" = true
-	"Usage Ticker" = true
+	"Usage Ticker" = false
 	"Uses For Curses" = true
 	"Variant Animal Textures" = true
 	"Wool Shuts Up Minecarts" = true
@@ -1742,12 +1742,12 @@
 		"Disable Mushroom Block Removal" = true
 		#Makes tripwire hooks unable to be duplicated
 		"Disable Tripwire Hook Dupe" = true
+		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman"]
+		"Elytra Allowed Dimensions" = ["minecraft:the_end"]
 		#Makes villages spawn less often when close to spawn
 		"Village Spawn Nerf" = false
 		#Distance at which villages will spawn as normal. Effect scales linearly from world spawn
 		"Village Spawn Nerf Distance" = 7000
-		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman"]
-		"Elytra Allowed Dimensions" = ["minecraft:the_end"]
 
 	[experimental.overlay_shader]
 		#Sets the name of the shader to load on a regular basis. This can load any shader the Camera module can (and requires the Camera module enabled to apply said logic).
@@ -1785,7 +1785,7 @@
 			"Variant Types" = ["slab", "stairs", "wall", "fence", "fence_gate", "vertical_slab"]
 			#By default, only a mod's namespace is scanned for variants for its items (e.g. if coolmod adds coolmod:fun_block, it'll search only for coolmod:fun_block_stairs).
 			# Mods in this list are also scanned for variants if none are found in itself (e.g. if quark is in the list and coolmod:fun_block_stairs doesn't exist, it'll try to look for quark:fun_block_stairs next)
-			"Tested Mods" = ["quark", "everycomp", "v_slab_compat"]
+			"Tested Mods" = ["quark"]
 			"Print Variant Map To Log" = false
 			#Format is 'alias=original' in each value (e.g. 'wall=fence' means that a failed search for, minecraft:cobblestone_fence will try cobblestone_wall next)
 			Aliases = ["carpet=slab", "pane=fence"]
@@ -1824,7 +1824,7 @@
 	"Matrix Enchanting" = true
 	Pipes = true
 	"Tiny Potato" = true
-	"Totem Of Holding" = true
+	"Totem Of Holding" = false
 
 	[oddities.backpack]
 		#Set this to true to allow the backpacks to be unequipped even with items in them
@@ -1840,22 +1840,22 @@
 
 	[oddities.magnets]
 		#Any items you place in this list will be derived so that any block made of it will become magnetizable
-		"Magnetic Derivation List" = ["minecraft:iron_ingot", "minecraft:copper_ingot", "minecraft:exposed_copper", "minecraft:weathered_copper", "minecraft:oxidized_copper", "minecraft:raw_iron", "minecraft:raw_copper", "minecraft:iron_ore", "minecraft:deepslate_iron_ore", "minecraft:copper_ore", "minecraft:deepslate_copper_ore", "quark:gravisand"]
+		"Magnetic Derivation List" = ["minecraft:iron_ingot", "minecraft:copper_ingot", "minecraft:exposed_copper", "minecraft:weathered_copper", "minecraft:oxidized_copper", "minecraft:raw_iron", "minecraft:raw_copper", "minecraft:iron_ore", "minecraft:deepslate_iron_ore", "minecraft:copper_ore", "minecraft:deepslate_copper_ore"]
 		#Block/Item IDs to force-allow magnetism on, regardless of their crafting recipe
-		"Magnetic Whitelist" = ["minecraft:chipped_anvil", "minecraft:damaged_anvil", "minecraft:iron_horse_armor", "minecraft:chainmail_helmet", "minecraft:chainmail_boots", "minecraft:chainmail_leggings", "minecraft:chainmail_chestplate", "#minecraft:cauldrons"]
+		"Magnetic Whitelist" = ["minecraft:chipped_anvil", "minecraft:damaged_anvil"]
 		#Block/Item IDs to force-disable magnetism on, regardless of their crafting recipe
-		"Magnetic Blacklist" = ["minecraft:tripwire_hook", "minecraft:map"]
+		"Magnetic Blacklist" = ["minecraft:tripwire_hook"]
 		"Use Pre End Recipe" = false
-		#When true magnets will never push something that pistons cant push. Disable to have further control. This allows iron rods to break obsidian for example
-		"Use Piston Logic" = true
 		#Allows magnets to push and pull entities in the 'affected_by_magnets' tag (edit it with datapack). Turning off can reduce lag
 		"Affect Entities" = true
 		#Allows magnets to push and pull entities having magnetic armor. Requires 'magnetic_entities' config ON
 		"Affects Armor" = true
 		#Determines how fast entities are pulled by magnets. Still follows the inverse square law
-		"Entities Pull Force" = 0.18000000715255737
+		"Entities Pull Force" = 0.15000000596046448
 		#Stonecutters pulled by magnets will silk touch the blocks they cut.
 		"Stone Cutter Silk Touch" = true
+		#When true magnets will never push something that pistons cant push. Disable to have further control. This allows iron rods to break obsidian for example
+		"Use Piston Logic" = true
 		#The maximum hardness of a block that a stonecutter pushed by magnets can cut through.
 		"Stone Cutter Max Hardness" = 3.0
 

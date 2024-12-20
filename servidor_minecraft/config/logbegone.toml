@@ -1,5 +1,0 @@
-
-[logbegone]
-	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Exception caught when registering wandering trader", "Caught an error from mod ", "Missing textures in model ", "Ingredients are being removed at ", "Failed to execute LootRule ", "Found a broken recipe", "Exception caught when registering villager", "Unable to load model", "Redirecting ", "Couldn't parse element ", "Non-existent flag ", "Registering Runtime"]
-	regex = ["Disconnecting VANILLA connection attempt", "Channels ", "Exception caught when registering wandering trader", "Caught an error from mod ", "Missing textures in model ", "Ingredients are being removed at ", "Failed to execute LootRule ", "Found a broken recipe", "Exception caught when registering villager", "Unable to load model", "Redirecting ", "Couldn't parse element ", "Non-existent flag ", "Registering Runtime"]
-

@@ -34,8 +34,6 @@
 	mimicreamBlacklist = ["alexsmobs:blood_sprayer", "alexsmobs:hemolymph_blaster"]
 	#Whether wild raccoons steal food from chests.
 	raccoonStealFromChests = true
-	#Whether wild crows steal crops from farmland.
-	crowsStealCrops = true
 	#Whether fish oil gives players a special levitation effect.
 	fishOilMeme = true
 	#Whether soul vulture spawns should be restricted solely to the nether fossil structure or to whatever biome is specified in their respective biome config.
@@ -129,6 +127,8 @@
 	#The distance in blocks that will cause an underminer to dissapear when approached by a player.
 	#Range: 1.0 ~ 10000.0
 	underminerDisappearDistance = 8.0
+	#Whether wild crows steal crops from farmland.
+	crowsStealCrops = true
 	#1 out of this number chance for leaves to drop an acacia when broken. Fortune is automatically factored in
 	#Range: > 0
 	acaciaBlossomChance = 130

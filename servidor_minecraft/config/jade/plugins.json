@@ -1,7 +1,4 @@
 {
-  "toms_trading_network": {
-    "vending_machine": true
-  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -54,16 +51,14 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "easy_villagers": {
-    "villager": true,
-    "converter": true,
-    "breeder": true
+  "tombstone": {
+    "graves": true
   },
-  "reliquary": {
-    "pedestal": true,
-    "altar": true,
-    "mortar": true,
-    "cauldron": true
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
+  "supplementaries": {
+    "hat_stand": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -73,45 +68,22 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "apotheosis": {
-    "adventure": true,
-    "ench": true,
-    "spawner": true
-  },
   "waystones": {
     "waystone": true
   },
   "camera": {
     "image_frame": true
   },
-  "vampirism": {
-    "altar_pillar": true,
-    "weapon_table": true,
-    "player_faction.lord_level_number": false,
-    "alchemy_table": true,
-    "entity_blood.show_fraction": false,
-    "entity_blood.max_for_render": 40,
-    "potion_table": true,
-    "totem": true,
-    "research_table": true,
-    "entity_blood.icon_per_line": 10,
-    "player_faction": true,
-    "entity_blood": true,
-    "altar_of_infusion": true,
-    "garlic_beacon": true,
-    "pedestal_charging": true,
-    "altar_of_inspiration": true
+  "securitycraft": {
+    "showowner": true,
+    "showmodules": true,
+    "info": true,
+    "showcustomname": true
   },
-  "goety": {
-    "block_owner": true,
-    "soul_energy": true,
-    "summon_lifespan": true
-  },
-  "cookingforblockheads": {
-    "fridge": true,
-    "oven": true,
-    "sink": true,
-    "milk_jar": true,
-    "toaster": true
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
   }
 }
