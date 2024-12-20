@@ -5509,3 +5509,15 @@ java.lang.NullPointerException: Element not found: amount
 [20Dec2024 04:11:18.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Isn't It Iron Pick]
 [20Dec2024 04:11:30.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Apothic Spawners]
 [20Dec2024 04:11:48.743] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[20Dec2024 04:12:45.569] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[20Dec2024 04:12:45.574] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[20Dec2024 04:14:37.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Take Aim]
+[20Dec2024 04:14:56.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Ashes 'n Bones]
+[20Dec2024 04:20:18.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkanenn lost connection: Disconnected
+[20Dec2024 04:20:18.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn left the game
+[20Dec2024 04:20:41.481] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/7696, l='ServerLevel[world]', x=207.05, y=23.00, z=172.09]
+[20Dec2024 04:20:41.610] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/7697, l='ServerLevel[world]', x=207.35, y=26.00, z=177.72]
+[20Dec2024 04:21:09.160] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/7696, l='ServerLevel[world]', x=207.05, y=23.00, z=172.09]
+[20Dec2024 04:21:09.161] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/7697, l='ServerLevel[world]', x=207.35, y=26.00, z=177.72]
+[20Dec2024 04:22:19.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Die Classy]
+[20Dec2024 04:22:32.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1303, l='ServerLevel[world]', x=94.88, y=82.00, z=32.30] died, message: 'Weaponsmith was slain by Zombie'

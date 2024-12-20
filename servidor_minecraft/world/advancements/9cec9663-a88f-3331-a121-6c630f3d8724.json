@@ -1151,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-20 04:11:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 03:56:45 +0000"
@@ -1897,6 +1903,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2024-12-20 04:13:56 +0000",
       "bread": "2024-12-20 03:39:44 +0000"
     },
     "done": false
@@ -2303,6 +2310,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-20 04:18:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 03:56:45 +0000"
@@ -2370,6 +2383,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-20 04:11:18 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/remote_group_upgrade": {
     "criteria": {
       "has_template": "2024-12-20 03:33:44 +0000"
@@ -2433,6 +2452,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-20 04:11:04 +0000",
+      "minecraft:husk": "2024-12-20 04:12:15 +0000",
       "minecraft:zombie": "2024-12-20 03:57:16 +0000"
     },
     "done": false
@@ -3221,6 +3242,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 03:56:45 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cyan_table_lamp": {
+    "criteria": {
+      "has_carpet": "2024-12-20 04:15:14 +0000"
     },
     "done": true
   },
@@ -4051,6 +4078,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_chestplate": "2024-12-20 03:46:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-20 04:18:59 +0000"
     },
     "done": true
   },
