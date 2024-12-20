@@ -59,6 +59,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-20 03:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-20 03:45:36 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2024-12-20 03:33:44 +0000"
@@ -92,6 +104,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2024-12-20 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "farlanders:root": {
+    "criteria": {
+      "attack_anything": "2024-12-20 03:45:30 +0000"
     },
     "done": true
   },
@@ -173,6 +191,12 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2024-12-20 03:40:36 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/cherry_trim": {
     "criteria": {
       "has_planks": "2024-12-20 03:33:44 +0000"
@@ -233,6 +257,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 03:45:36 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2024-12-20 03:33:44 +0000"
@@ -248,6 +278,18 @@
   "corail_woodcutter:recipes/biomesoplenty/from_magic_planks": {
     "criteria": {
       "has_ingredient": "2024-12-20 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-20 03:46:06 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/requiem_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-20 03:44:56 +0000"
     },
     "done": true
   },
@@ -359,6 +401,12 @@
     },
     "done": true
   },
+  "jcraft:obtain_stand_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-20 03:44:56 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-20 03:33:44 +0000"
@@ -389,6 +437,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-20 03:45:36 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
     "criteria": {
       "has_template": "2024-12-20 03:33:44 +0000"
@@ -407,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-20 03:39:44 +0000"
+    },
+    "done": false
+  },
   "mcwfencesbop:recipes/redwood_hedge": {
     "criteria": {
       "has_birch": "2024-12-20 03:33:44 +0000"
@@ -422,6 +482,12 @@
   "corail_woodcutter:recipes/from_bamboo_planks": {
     "criteria": {
       "has_ingredient": "2024-12-20 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-20 03:45:36 +0000"
     },
     "done": true
   },
@@ -446,6 +512,12 @@
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2024-12-20 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stand_disc": {
+    "criteria": {
+      "has_arrow": "2024-12-20 03:44:56 +0000"
     },
     "done": true
   },
@@ -502,6 +574,12 @@
     "criteria": {
       "has_fishing_rod": "2024-12-20 03:33:44 +0000",
       "has_fillet_knife": "2024-12-20 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/living_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-20 03:44:56 +0000"
     },
     "done": true
   },
@@ -812,9 +890,27 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-12-20 03:46:06 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/bamboo_trim": {
     "criteria": {
       "has_planks": "2024-12-20 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-20 03:39:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-12-20 03:46:06 +0000"
     },
     "done": true
   },
@@ -954,6 +1050,12 @@
   "mcwfencesbop:recipes/umbran": {
     "criteria": {
       "has_acacia": "2024-12-20 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-20 03:46:06 +0000"
     },
     "done": true
   },

@@ -5447,3 +5447,15 @@ java.lang.NullPointerException: Element not found: amount
 [20Dec2024 03:39:59.739] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
 [20Dec2024 03:40:06.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Arkanenn to Sebas2K24]
 [20Dec2024 03:41:06.560] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[20Dec2024 03:41:40.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Set own game mode to Creative Mode]
+[20Dec2024 03:43:03.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Set own game mode to Survival Mode]
+[20Dec2024 03:45:10.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Set the time to 1000]
+[20Dec2024 03:45:24.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/arna/jcraft/common/gravity/util/NetworkUtil$PacketMode
+[20Dec2024 03:45:36.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Cover Me with Diamonds]
+[20Dec2024 03:45:52.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Cover Me with Diamonds]
+[20Dec2024 03:46:06.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [I Found It Underground]
+[20Dec2024 03:46:06.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Apothic Affixes]
+[20Dec2024 03:49:48.204] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/kosmx/emotes/common/network/PacketTask
+[20Dec2024 03:50:00.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerCloneEntity['Arkanenn'/3938, l='ServerLevel[world]', x=113.38, y=84.00, z=90.32] died: Arkanenn was slain by Iron Golem
+[20Dec2024 03:50:28.460] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerCloneEntity['Arkanenn'/4009, l='ServerLevel[world]', x=119.65, y=84.00, z=91.25] died: Arkanenn was slain by Iron Golem
+[20Dec2024 03:52:12.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Set own game mode to Creative Mode]

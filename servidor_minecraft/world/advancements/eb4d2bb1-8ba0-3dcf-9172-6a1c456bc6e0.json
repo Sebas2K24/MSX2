@@ -5057,6 +5057,36 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-20 03:45:52 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/requiem_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-20 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-20 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stand_disc": {
+    "criteria": {
+      "has_arrow": "2024-12-20 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/living_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-20 03:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
