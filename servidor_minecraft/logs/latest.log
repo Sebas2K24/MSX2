@@ -5549,3 +5549,7 @@ java.lang.NullPointerException: Element not found: amount
 [20Dec2024 04:38:39.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Close Quarters]
 [20Dec2024 04:41:14.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Far From Perfect]
 [20Dec2024 04:41:28.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Suit Up]
+[20Dec2024 04:43:01.744] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[20Dec2024 04:43:03.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Sweet Dreams]
+[20Dec2024 04:46:09.022] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/8794, l='ServerLevel[world]', x=15.76, y=40.00, z=174.54]
+[20Dec2024 04:46:09.027] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/9151, l='ServerLevel[world]', x=0.63, y=37.00, z=170.01]

@@ -5062,6 +5062,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/crimson_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-20 04:36:08 +0000"
@@ -5074,9 +5104,39 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-20 04:14:37 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/dark_oak_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/grongle_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
     },
     "done": true
   },
@@ -5086,9 +5146,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-20 04:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-20 04:48:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
     },
     "done": true
   },
@@ -5101,6 +5197,12 @@
   "skilltree:recipes/misc/assassin_necklace": {
     "criteria": {
       "has_bone": "2024-12-20 04:11:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
     },
     "done": true
   },
@@ -5128,9 +5230,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/jungle_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_step": {
     "criteria": {
       "has_slab": "2024-12-20 04:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
     },
     "done": true
   },
@@ -5152,6 +5272,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2024-12-20 04:04:12 +0000"
@@ -5164,9 +5296,33 @@
     },
     "done": true
   },
+  "fishofthieves:recipes/decorations/acacia_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-20 04:48:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2024-12-20 04:11:05 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/spruce_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
     },
     "done": true
   },
@@ -5176,15 +5332,75 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/oak_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-20 04:11:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/bamboo_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
     },
     "done": true
   },
@@ -5200,15 +5416,51 @@
     },
     "done": true
   },
+  "undergarden:recipes/transportation/smogstem_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-20 04:11:05 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/recipe_diamond_brush": {
     "criteria": {
       "has_item": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/cherry_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
     },
     "done": true
   },
@@ -5221,6 +5473,12 @@
   "betterarcheology:recipes/tools/diamond_brush": {
     "criteria": {
       "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
     },
     "done": true
   },
@@ -5248,6 +5506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/combat/anubis_sheathed": {
     "criteria": {
       "has_diamond": "2024-12-20 04:36:08 +0000"
@@ -5272,9 +5536,21 @@
     },
     "done": true
   },
+  "fishofthieves:recipes/decorations/birch_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
+    },
+    "done": true
+  },
   "celestisynth:obtain_frostbound": {
     "criteria": {
       "criteria": "2024-12-20 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/mangrove_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
     },
     "done": true
   },
@@ -5284,9 +5560,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/misc/living_arrow": {
     "criteria": {
       "has_arrow": "2024-12-20 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
     },
     "done": true
   },
@@ -5314,15 +5602,39 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/diamond_quiver": {
     "criteria": {
       "has_gems_diamond": "2024-12-20 04:36:08 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:root": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-20 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
     },
     "done": true
   },
@@ -5350,9 +5662,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-20 04:41:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-20 04:48:55 +0000"
     },
     "done": true
   },
@@ -5362,9 +5686,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
     },
     "done": true
   },
@@ -5386,15 +5728,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-20 04:48:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-12-20 04:48:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-20 04:04:12 +0000"
     },
     "done": true
   },
+  "undergarden:recipes/transportation/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/boxing_gloves": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:49:03 +0000"
+    },
+    "done": true
+  },
   "justaraftmod:recipes/transportation/mangrove_raft": {
     "criteria": {
       "has_log": "2024-12-20 04:09:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2024-12-20 04:41:38 +0000"
     },
     "done": true
   },
@@ -5410,11 +5812,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-20 04:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-20 04:48:55 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
@@ -5425,6 +5839,12 @@
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2024-12-20 04:02:55 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/warped_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:39:58 +0000"
     },
     "done": true
   },
