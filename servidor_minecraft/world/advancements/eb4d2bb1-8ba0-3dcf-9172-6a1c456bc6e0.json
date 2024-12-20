@@ -5063,6 +5063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-20 03:59:08 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/misc/requiem_arrow": {
     "criteria": {
       "has_arrow": "2024-12-20 03:42:54 +0000"
@@ -5081,9 +5087,27 @@
     },
     "done": true
   },
+  "celestisynth:obtain_frostbound": {
+    "criteria": {
+      "criteria": "2024-12-20 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2024-12-20 03:52:36 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/misc/living_arrow": {
     "criteria": {
       "has_arrow": "2024-12-20 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2024-12-20 03:54:46 +0000"
     },
     "done": true
   },

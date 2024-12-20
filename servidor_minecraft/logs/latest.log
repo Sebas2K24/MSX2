@@ -5459,3 +5459,32 @@ java.lang.NullPointerException: Element not found: amount
 [20Dec2024 03:50:00.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerCloneEntity['Arkanenn'/3938, l='ServerLevel[world]', x=113.38, y=84.00, z=90.32] died: Arkanenn was slain by Iron Golem
 [20Dec2024 03:50:28.460] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerCloneEntity['Arkanenn'/4009, l='ServerLevel[world]', x=119.65, y=84.00, z=91.25] died: Arkanenn was slain by Iron Golem
 [20Dec2024 03:52:12.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Set own game mode to Creative Mode]
+[20Dec2024 03:52:36.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Lightning Strikes Twice]
+[20Dec2024 03:53:48.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Set the weather to clear]
+[20Dec2024 03:53:52.877] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/1891, l='ServerLevel[world]', x=209.09, y=26.00, z=87.41]
+[20Dec2024 03:53:54.518] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/item/AttackHurtTypes
+[20Dec2024 03:53:54.532] [Server thread/WARN] [tombstone/]: The death event of the player Arkanenn was canceled by another mod
+[20Dec2024 03:53:54.536] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[20Dec2024 03:53:54.541] [Server thread/INFO] [tombstone/]: The player Arkanenn has successfully been saved
+[20Dec2024 03:54:05.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Set own game mode to Survival Mode]
+[20Dec2024 03:56:05.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement ['X' Marks the Spot]
+[20Dec2024 03:56:11.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Hunt and Gather]
+[20Dec2024 03:56:12.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerCloneEntity['Arkanenn'/4790, l='ServerLevel[world]', x=88.54, y=86.14, z=75.84] died: Arkanenn was slain by Iron Golem
+[20Dec2024 03:56:39.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Diamonds!]
+[20Dec2024 03:56:45.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Acquire Hardware]
+[20Dec2024 03:57:00.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkanenn moved wrongly!
+[20Dec2024 03:57:16.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Monster Hunter]
+[20Dec2024 03:58:14.368] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1410, l='ServerLevel[world]', x=76.31, y=79.00, z=63.42] died, message: 'Nitwit was slain by Zombie'
+[20Dec2024 03:58:19.309] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[20Dec2024 03:58:19.326] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[20Dec2024 03:58:20.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [This is the End]
+[20Dec2024 04:00:07.210] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/6137, l='ServerLevel[world]', x=159.92, y=35.00, z=-11.69]
+[20Dec2024 04:00:07.211] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/6137, l='ServerLevel[world]', x=159.92, y=35.00, z=-11.69]
+[20Dec2024 04:00:26.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [A Strange Grave Dust]
+[20Dec2024 04:00:50.095] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[20Dec2024 04:01:34.816] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[20Dec2024 04:01:46.264] [Server thread/WARN] [tombstone/]: The death event of the player Arkanenn was canceled by another mod
+[20Dec2024 04:02:06.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 was retired
+[20Dec2024 04:02:06.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[20Dec2024 04:02:08.211] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheHandEntity['The Hand'/6394, l='ServerLevel[world]', x=195.76, y=20.00, z=81.83]
+[20Dec2024 04:02:09.894] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
