@@ -5541,3 +5541,11 @@ java.lang.NullPointerException: Element not found: amount
 [20Dec2024 04:26:08.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1346, l='ServerLevel[world]', x=112.13, y=82.00, z=39.37] died, message: 'Weaponsmith was retired'
 [20Dec2024 04:26:44.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Set the weather to clear]
 [20Dec2024 04:30:39.913] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/9151, l='ServerLevel[world]', x=0.63, y=37.00, z=170.01]
+[20Dec2024 04:36:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Diamonds!]
+[20Dec2024 04:36:34.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Take Aim]
+[20Dec2024 04:37:17.508] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/8794, l='ServerLevel[world]', x=15.76, y=40.00, z=174.54]
+[20Dec2024 04:38:24.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Disme A Dozen]
+[20Dec2024 04:38:33.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/1348, l='ServerLevel[world]', x=116.03, y=84.05, z=78.71] died, message: 'Shepherd was slain by Zombie'
+[20Dec2024 04:38:39.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Close Quarters]
+[20Dec2024 04:41:14.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Far From Perfect]
+[20Dec2024 04:41:28.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Suit Up]

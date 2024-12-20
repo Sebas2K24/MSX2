@@ -1506,6 +1506,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-20 04:36:35 +0000",
       "minecraft:husk": "2024-12-20 04:13:43 +0000",
       "minecraft:zombie": "2024-12-20 02:32:50 +0000"
     },
@@ -4630,7 +4631,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "smithingtable": "2024-12-20 02:40:14 +0000"
+      "smithingtable": "2024-12-20 02:40:14 +0000",
+      "blastfurnace": "2024-12-20 04:38:53 +0000"
     },
     "done": false
   },
@@ -5060,6 +5062,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-20 04:14:37 +0000"
@@ -5072,15 +5086,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/assassin_necklace": {
     "criteria": {
       "has_bone": "2024-12-20 04:11:05 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_platform": {
     "criteria": {
       "has_slab": "2024-12-20 04:00:21 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2024-12-20 04:36:08 +0000"
     },
     "done": true
   },
@@ -5099,6 +5137,18 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-20 04:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2024-12-20 04:36:08 +0000"
     },
     "done": true
   },
@@ -5132,6 +5182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
   "jcraft:obtain_stand_arrow": {
     "criteria": {
       "has_arrow": "2024-12-20 03:42:54 +0000"
@@ -5150,9 +5206,27 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
   "bonetorch:recipes/decorations/bonetorch": {
     "criteria": {
       "has_bone": "2024-12-20 04:11:05 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "farlanders:recipes/combat/nightfall_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
     },
     "done": true
   },
@@ -5174,6 +5248,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/combat/anubis_sheathed": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2024-12-20 04:09:14 +0000"
@@ -5183,6 +5263,12 @@
   "jcraft:recipes/misc/stand_disc": {
     "criteria": {
       "has_arrow": "2024-12-20 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
     },
     "done": true
   },
@@ -5210,6 +5296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/sitting_skeleton": {
     "criteria": {
       "has_planks": "2024-12-20 04:11:05 +0000"
@@ -5222,9 +5314,27 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/diamond_quiver": {
+    "criteria": {
+      "has_gems_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-20 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-20 04:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
     },
     "done": true
   },
@@ -5240,9 +5350,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/stripped_mangrove_wood_slab": {
     "criteria": {
       "has_stripped_mangrove_wood": "2024-12-20 04:09:14 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-20 04:36:08 +0000"
     },
     "done": true
   },
@@ -5275,6 +5415,12 @@
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 04:36:08 +0000"
+    },
+    "done": true
   },
   "apotheosis:spawner/capturing": {
     "criteria": {
