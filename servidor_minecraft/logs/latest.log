@@ -5488,3 +5488,24 @@ java.lang.NullPointerException: Element not found: amount
 [20Dec2024 04:02:06.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
 [20Dec2024 04:02:08.211] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheHandEntity['The Hand'/6394, l='ServerLevel[world]', x=195.76, y=20.00, z=81.83]
 [20Dec2024 04:02:09.894] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[20Dec2024 04:02:43.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Here They Come]
+[20Dec2024 04:02:43.020] [Server thread/WARN] [tombstone/]: The death event of the player Arkanenn was canceled by another mod
+[20Dec2024 04:02:43.022] [Server thread/INFO] [tombstone/]: The player Arkanenn has successfully been saved
+[20Dec2024 04:02:55.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Captured!]
+[20Dec2024 04:03:06.109] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[20Dec2024 04:03:06.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: The difficulty has been set to Peaceful]
+[20Dec2024 04:03:06.470] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/6539, l='ServerLevel[world]', x=202.57, y=75.00, z=60.12]
+[20Dec2024 04:03:12.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 was retired
+[20Dec2024 04:04:01.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Not a Diamond]
+[20Dec2024 04:04:09.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Crops of the Wild]
+[20Dec2024 04:05:23.612] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/6539, l='ServerLevel[world]', x=202.57, y=75.00, z=60.12]
+[20Dec2024 04:05:23.613] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheHandEntity['The Hand'/6394, l='ServerLevel[world]', x=195.76, y=20.00, z=81.83]
+[20Dec2024 04:06:40.050] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[20Dec2024 04:06:40.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[20Dec2024 04:07:43.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Worthy Equipment]
+[20Dec2024 04:07:45.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Barrel Booty]
+[20Dec2024 04:07:48.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has reached the goal [Worthy Equipment]
+[20Dec2024 04:10:53.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: The difficulty has been set to Normal]
+[20Dec2024 04:11:18.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Isn't It Iron Pick]
+[20Dec2024 04:11:30.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Apothic Spawners]
+[20Dec2024 04:11:48.743] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type

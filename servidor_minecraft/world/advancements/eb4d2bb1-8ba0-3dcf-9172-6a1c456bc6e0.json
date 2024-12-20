@@ -3007,6 +3007,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2024-12-20 04:09:14 +0000",
       "bread": "2024-12-20 02:39:22 +0000"
     },
     "done": false
@@ -5063,9 +5064,33 @@
     },
     "done": true
   },
+  "adorn:recipes/stone_platform": {
+    "criteria": {
+      "has_slab": "2024-12-20 04:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-20 03:59:08 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_step": {
+    "criteria": {
+      "has_slab": "2024-12-20 04:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-20 04:00:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2024-12-20 04:04:12 +0000"
     },
     "done": true
   },
@@ -5078,6 +5103,24 @@
   "jcraft:obtain_stand_arrow": {
     "criteria": {
       "has_arrow": "2024-12-20 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-20 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2024-12-20 04:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 04:09:14 +0000"
     },
     "done": true
   },
@@ -5105,9 +5148,45 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 04:02:43 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/gardening_table": {
     "criteria": {
       "has_flower": "2024-12-20 03:54:46 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-20 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2024-12-20 04:04:12 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_mangrove_wood_slab": {
+    "criteria": {
+      "has_stripped_mangrove_wood": "2024-12-20 04:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-20 04:04:12 +0000"
+    },
+    "done": true
+  },
+  "justaraftmod:recipes/transportation/mangrove_raft": {
+    "criteria": {
+      "has_log": "2024-12-20 04:09:14 +0000"
     },
     "done": true
   },
@@ -5116,6 +5195,12 @@
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
     },
     "done": false
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2024-12-20 04:02:55 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
