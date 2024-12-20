@@ -5120,6 +5120,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 04:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-20 04:11:05 +0000"
@@ -5249,6 +5255,12 @@
   "justaraftmod:recipes/transportation/mangrove_raft": {
     "criteria": {
       "has_log": "2024-12-20 04:09:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 04:22:19 +0000"
     },
     "done": true
   },

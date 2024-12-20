@@ -5521,3 +5521,23 @@ java.lang.NullPointerException: Element not found: amount
 [20Dec2024 04:21:09.161] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/7697, l='ServerLevel[world]', x=207.35, y=26.00, z=177.72]
 [20Dec2024 04:22:19.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Die Classy]
 [20Dec2024 04:22:32.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1303, l='ServerLevel[world]', x=94.88, y=82.00, z=32.30] died, message: 'Weaponsmith was slain by Zombie'
+[20Dec2024 04:23:02.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkanenn[/127.250.83.27:37939] logged in with entity id 8581 at (114.63895570166682, 99.0625, 143.60262109384678)
+[20Dec2024 04:23:02.383] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Arkanenn
+[20Dec2024 04:23:02.384] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Arkanenn
+[20Dec2024 04:23:02.384] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Arkanenn
+[20Dec2024 04:23:02.384] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Arkanenn
+[20Dec2024 04:23:02.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Arkanenn
+[20Dec2024 04:23:02.390] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Arkanenn
+[20Dec2024 04:23:02.390] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Arkanenn
+[20Dec2024 04:23:02.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn joined the game
+[20Dec2024 04:23:02.557] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[20Dec2024 04:23:02.558] [Server thread/INFO] [Jade/]: Syncing config to Arkanenn (9cec9663-a88f-3331-a121-6c630f3d8724)
+[20Dec2024 04:23:10.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1302, l='ServerLevel[world]', x=98.30, y=83.00, z=29.37] died, message: 'Nitwit was slain by Zombie Villager'
+[20Dec2024 04:23:15.253] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[20Dec2024 04:23:15.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Knowledge raises the soul]
+[20Dec2024 04:24:46.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/1323, l='ServerLevel[world]', x=58.21, y=83.00, z=100.84] died, message: 'Butcher was retired'
+[20Dec2024 04:25:09.912] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1325, l='ServerLevel[world]', x=81.86, y=86.00, z=113.68] died, message: 'Weaponsmith was slain by Zombie Villager'
+[20Dec2024 04:25:28.861] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1417, l='ServerLevel[world]', x=103.50, y=81.00, z=151.30] died, message: 'Leatherworker was retired'
+[20Dec2024 04:26:08.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1346, l='ServerLevel[world]', x=112.13, y=82.00, z=39.37] died, message: 'Weaponsmith was retired'
+[20Dec2024 04:26:44.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Set the weather to clear]
+[20Dec2024 04:30:39.913] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/9151, l='ServerLevel[world]', x=0.63, y=37.00, z=170.01]
