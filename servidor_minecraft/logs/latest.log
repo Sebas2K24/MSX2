@@ -49382,3 +49382,20 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 03:20:19.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ya te llamo
 [21Dec2024 03:21:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Arkanenn> no habras la puerta amor
 [21Dec2024 03:23:40.217] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[21Dec2024 03:24:09.169] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[21Dec2024 03:24:09.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[21Dec2024 03:24:09.184] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[21Dec2024 03:24:13.607] [Server thread/WARN] [tombstone/]: The death event of the player Arkanenn was canceled by another mod
+[21Dec2024 03:24:28.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Strong or Careful]
+[21Dec2024 03:24:28.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 was slain by Zombie
+[21Dec2024 03:24:28.997] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[21Dec2024 03:24:54.812] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[21Dec2024 03:29:30.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [How'd You Get This?]
+[21Dec2024 03:30:38.515] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created SilverChariotEntity['Silver Chariot'/3936, l='ServerLevel[world]', x=238.77, y=52.00, z=191.52]
+[21Dec2024 03:30:38.516] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created SilverChariotEntity['Silver Chariot'/3936, l='ServerLevel[world]', x=238.77, y=52.00, z=191.52]
+[21Dec2024 03:31:02.050] [Worker-Main-38/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[21Dec2024 03:31:02.051] [Worker-Main-38/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[21Dec2024 03:31:02.052] [Worker-Main-38/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[21Dec2024 03:33:32.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[21Dec2024 03:33:44.744] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[21Dec2024 03:33:44.745] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
