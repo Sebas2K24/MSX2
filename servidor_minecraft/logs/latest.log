@@ -49326,3 +49326,45 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 03:02:23.618] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
 [21Dec2024 03:02:39.575] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [21Dec2024 03:03:08.665] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[21Dec2024 03:03:54.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Gamerule doWeatherCycle is now set to: false]
+[21Dec2024 03:04:24.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[21Dec2024 03:04:46.326] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/world/entity/eventlistener/ComboCounterHandleEvent$Causal
+[21Dec2024 03:04:51.839] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[21Dec2024 03:06:28.963] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/StatisticFormatter
+[21Dec2024 03:06:28.968] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/FormatUtil
+[21Dec2024 03:06:36.106] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stevekung/fishofthieves/utils/PeakTypes
+[21Dec2024 03:06:38.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[21Dec2024 03:07:00.453] [Worker-Main-38/INFO] [com.teampotato.redirector.Redirector/]: Redirecting party/lemons/biomemakeover/level/feature/mansion/RoomType
+[21Dec2024 03:07:00.456] [Worker-Main-38/INFO] [com.teampotato.redirector.Redirector/]: Redirecting party/lemons/biomemakeover/level/feature/mansion/MansionTemplateType
+[21Dec2024 03:07:00.463] [Worker-Main-38/INFO] [com.teampotato.redirector.Redirector/]: Redirecting party/lemons/biomemakeover/level/feature/mansion/LayoutType
+[21Dec2024 03:07:00.785] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[21Dec2024 03:07:00.931] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[21Dec2024 03:07:20.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[21Dec2024 03:07:41.954] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[21Dec2024 03:10:12.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[21Dec2024 03:10:15.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Pic-A-Nic Basket?]
+[21Dec2024 03:11:21.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[21Dec2024 03:12:59.800] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'adorn:recipes/trading_station' in progress file ./world/advancements/9cec9663-a88f-3331-a121-6c630f3d8724.json - it doesn't exist anymore?
+[21Dec2024 03:12:59.801] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'adorn:recipes/iron_shelf' in progress file ./world/advancements/9cec9663-a88f-3331-a121-6c630f3d8724.json - it doesn't exist anymore?
+[21Dec2024 03:12:59.801] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'adorn:recipes/chain_link_fence' in progress file ./world/advancements/9cec9663-a88f-3331-a121-6c630f3d8724.json - it doesn't exist anymore?
+[21Dec2024 03:12:59.802] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'adorn:recipes/stone_platform' in progress file ./world/advancements/9cec9663-a88f-3331-a121-6c630f3d8724.json - it doesn't exist anymore?
+[21Dec2024 03:12:59.802] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'adorn:recipes/stone_step' in progress file ./world/advancements/9cec9663-a88f-3331-a121-6c630f3d8724.json - it doesn't exist anymore?
+[21Dec2024 03:12:59.802] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'new_slab_variants:recipes/building_blocks/stripped_mangrove_wood_slab' in progress file ./world/advancements/9cec9663-a88f-3331-a121-6c630f3d8724.json - it doesn't exist anymore?
+[21Dec2024 03:12:59.803] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwholidays:recipes/standing_rake' in progress file ./world/advancements/9cec9663-a88f-3331-a121-6c630f3d8724.json - it doesn't exist anymore?
+[21Dec2024 03:12:59.803] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwholidays:recipes/standing_broomstick' in progress file ./world/advancements/9cec9663-a88f-3331-a121-6c630f3d8724.json - it doesn't exist anymore?
+[21Dec2024 03:12:59.803] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'adorn:recipes/cyan_table_lamp' in progress file ./world/advancements/9cec9663-a88f-3331-a121-6c630f3d8724.json - it doesn't exist anymore?
+[21Dec2024 03:12:59.803] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'adorn:recipes/cyan_candlelit_lantern' in progress file ./world/advancements/9cec9663-a88f-3331-a121-6c630f3d8724.json - it doesn't exist anymore?
+[21Dec2024 03:12:59.803] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwholidays:recipes/sitting_skeleton' in progress file ./world/advancements/9cec9663-a88f-3331-a121-6c630f3d8724.json - it doesn't exist anymore?
+[21Dec2024 03:12:59.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkanenn[/127.250.83.27:57675] logged in with entity id 4254 at (153.24492790690886, 82.0, 88.69755147144971)
+[21Dec2024 03:12:59.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Arkanenn
+[21Dec2024 03:12:59.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Arkanenn
+[21Dec2024 03:12:59.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Arkanenn
+[21Dec2024 03:12:59.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Arkanenn
+[21Dec2024 03:12:59.849] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Arkanenn
+[21Dec2024 03:12:59.855] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Arkanenn
+[21Dec2024 03:12:59.856] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Arkanenn
+[21Dec2024 03:12:59.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn joined the game
+[21Dec2024 03:13:00.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Mysterious Gift]
+[21Dec2024 03:13:00.037] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[21Dec2024 03:13:00.038] [Server thread/INFO] [Jade/]: Syncing config to Arkanenn (9cec9663-a88f-3331-a121-6c630f3d8724)
+[21Dec2024 03:13:00.140] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
