@@ -5246,6 +5246,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:11:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 04:11:32 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:31:31 +0000"
@@ -5312,6 +5324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:11:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_redstone": "2024-12-21 04:05:29 +0000"
@@ -5363,6 +5381,12 @@
   "colourfulearth:recipes/decorations/dirt_dyed_blue": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:11:32 +0000"
     },
     "done": true
   },
@@ -5651,6 +5675,12 @@
   "minecraft:recipes/decorations/dirt_washed_purple.json": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:11:32 +0000"
     },
     "done": true
   },

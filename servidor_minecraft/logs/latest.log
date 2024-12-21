@@ -49456,3 +49456,11 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 04:11:35.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/9853, l='ServerLevel[world]', x=46.14, y=76.06, z=-117.46] died: Honeyed Archer was slain by Wolf
 [21Dec2024 04:11:52.502] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/13867, l='ServerLevel[world]', x=-550.10, y=72.56, z=-286.30] died, message: 'Mason was pricked to death'
 [21Dec2024 04:12:11.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/13866, l='ServerLevel[world]', x=-547.51, y=75.56, z=-306.51] died, message: 'Mason was pricked to death'
+[21Dec2024 04:14:37.668] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/17539, l='ServerLevel[world]', x=-400.78, y=7.00, z=-274.46]
+[21Dec2024 04:14:37.721] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/17539, l='ServerLevel[world]', x=-400.78, y=7.00, z=-274.46]
+[21Dec2024 04:17:57.348] [Worker-Main-37/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[21Dec2024 04:17:57.349] [Worker-Main-37/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[21Dec2024 04:19:51.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Arkanenn]
+[21Dec2024 04:23:03.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [A Little Hot Rod Red]
+[21Dec2024 04:23:44.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has completed the challenge [Centennial]
+[21Dec2024 04:24:03.391] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
