@@ -49483,3 +49483,18 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 04:31:06.587] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/fast_drowned -> hopo:mobs/fast_drowned
 [21Dec2024 04:31:06.588] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
 [21Dec2024 04:33:25.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22705, l='ServerLevel[world]', x=-745.01, y=85.00, z=-528.04] died, message: 'Unemployed was slain by Guard'
+[21Dec2024 04:35:47.673] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/24005, l='ServerLevel[world]', x=-440.63, y=10.00, z=-394.07]
+[21Dec2024 04:35:47.674] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/24005, l='ServerLevel[world]', x=-440.63, y=10.00, z=-394.07]
+[21Dec2024 04:38:35.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[21Dec2024 04:38:35.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[21Dec2024 04:42:27.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebas2K24[/127.220.101.58:53231] logged in with entity id 26198 at (152.854062002286, 81.0, 80.80696699207233)
+[21Dec2024 04:42:27.896] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebas2K24
+[21Dec2024 04:42:27.897] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebas2K24
+[21Dec2024 04:42:27.897] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebas2K24
+[21Dec2024 04:42:27.897] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebas2K24
+[21Dec2024 04:42:27.902] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebas2K24
+[21Dec2024 04:42:27.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebas2K24
+[21Dec2024 04:42:27.909] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebas2K24
+[21Dec2024 04:42:28.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
+[21Dec2024 04:42:28.207] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[21Dec2024 04:42:28.219] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
