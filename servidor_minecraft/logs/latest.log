@@ -49527,3 +49527,11 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 04:53:32.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn joined the game
 [21Dec2024 04:53:32.994] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [21Dec2024 04:53:32.994] [Server thread/INFO] [Jade/]: Syncing config to Arkanenn (9cec9663-a88f-3331-a121-6c630f3d8724)
+[21Dec2024 04:57:11.904] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28772, l='ServerLevel[world]', x=323.50, y=74.00, z=172.50]
+[21Dec2024 04:59:15.350] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29195, l='ServerLevel[world]', x=305.50, y=80.00, z=152.50]
+[21Dec2024 05:00:22.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Arkanenn]
+[21Dec2024 05:00:38.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [First Trade]
+[21Dec2024 05:00:38.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [What a Deal!]
+[21Dec2024 05:00:40.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has reached the goal [I Got Deals]
+[21Dec2024 05:00:40.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Epic!]
+[21Dec2024 05:02:07.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Arkanenn to Sebas2K24]
