@@ -1002,6 +1002,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "coniferous_forest": "2024-12-20 03:33:47 +0000",
+      "pasture": "2024-12-21 03:56:58 +0000",
       "fir_clearing": "2024-12-20 03:38:02 +0000"
     },
     "done": false
@@ -5359,7 +5360,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2024-12-21 03:31:28 +0000"
+      "minecraft:beach": "2024-12-21 03:31:28 +0000",
+      "minecraft:cold_ocean": "2024-12-21 03:52:14 +0000"
     },
     "done": false
   },

@@ -49433,3 +49433,19 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 03:48:09.151] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11069, l='ServerLevel[world]', x=24.50, y=77.00, z=-231.50]
 [21Dec2024 03:50:22.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Arkanenn]
 [21Dec2024 03:51:34.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Arkanenn]
+[21Dec2024 03:55:47.314] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[21Dec2024 03:56:23.599] [Worker-Main-38/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[21Dec2024 03:56:23.599] [Worker-Main-38/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[21Dec2024 03:57:47.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Arkanenn]
+[21Dec2024 03:57:59.418] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[21Dec2024 03:57:59.419] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[21Dec2024 03:57:59.423] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[21Dec2024 03:58:29.498] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[21Dec2024 03:58:29.499] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[21Dec2024 03:59:21.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=78, z=-222} BlockPos{x=-299, y=78, z=-221}
+[21Dec2024 03:59:21.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=78, z=-222} BlockPos{x=-299, y=78, z=-221}
+[21Dec2024 04:00:29.155] [Worker-Main-37/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[21Dec2024 04:00:52.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[21Dec2024 04:01:20.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Penteconter]
+[21Dec2024 04:01:57.033] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/13170, l='ServerLevel[world]', x=-455.46, y=70.00, z=-302.21] died, message: 'Mason was pricked to death'
+[21Dec2024 04:03:49.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode

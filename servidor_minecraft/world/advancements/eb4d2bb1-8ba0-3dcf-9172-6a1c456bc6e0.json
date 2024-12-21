@@ -1002,6 +1002,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "coniferous_forest": "2024-12-20 02:10:21 +0000",
+      "pasture": "2024-12-21 03:56:24 +0000",
       "fir_clearing": "2024-12-20 02:39:31 +0000"
     },
     "done": false
@@ -8413,6 +8414,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-21 03:51:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-21 03:42:20 +0000"
@@ -8482,6 +8489,12 @@
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-21 03:51:47 +0000"
     },
     "done": true
   },
