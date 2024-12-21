@@ -49535,3 +49535,7 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 05:00:40.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has reached the goal [I Got Deals]
 [21Dec2024 05:00:40.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Epic!]
 [21Dec2024 05:02:07.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Arkanenn to Sebas2K24]
+[21Dec2024 05:08:36.951] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31616, l='ServerLevel[world]', x=325.50, y=74.00, z=172.50]
+[21Dec2024 05:10:42.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Neighborhood Brawl]
+[21Dec2024 05:14:58.114] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/34031, l='ServerLevel[world]', x=98.19, y=38.00, z=152.70]
+[21Dec2024 05:14:58.120] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/34031, l='ServerLevel[world]', x=98.19, y=38.00, z=152.70]
