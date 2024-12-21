@@ -1001,6 +1001,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-21 04:28:52 +0000",
       "coniferous_forest": "2024-12-20 03:33:47 +0000",
       "dune_beach": "2024-12-21 04:09:41 +0000",
       "pasture": "2024-12-21 03:56:58 +0000",
@@ -4970,6 +4971,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2024-12-21 04:23:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "has_redstone": "2024-12-21 04:05:29 +0000"
@@ -4997,6 +5004,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2024-12-21 04:23:03 +0000"
     },
     "done": true
   },
@@ -5294,6 +5307,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-21 04:23:44 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/misc/energy_trash_can": {
     "criteria": {
       "recipe_condition": "2024-12-21 04:05:29 +0000"
@@ -5309,6 +5328,12 @@
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-21 04:23:03 +0000"
     },
     "done": true
   },
@@ -5534,6 +5559,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2024-12-21 04:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-21 03:39:19 +0000"
@@ -5612,6 +5643,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2024-12-21 04:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-21 04:08:46 +0000"
@@ -5657,6 +5694,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
       "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2024-12-21 04:23:03 +0000"
     },
     "done": true
   },
@@ -5724,13 +5767,20 @@
     "criteria": {
       "minecraft:beach": "2024-12-21 03:31:28 +0000",
       "minecraft:river": "2024-12-21 04:01:04 +0000",
-      "minecraft:cold_ocean": "2024-12-21 03:52:14 +0000"
+      "minecraft:cold_ocean": "2024-12-21 03:52:14 +0000",
+      "minecraft:plains": "2024-12-21 04:28:56 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/dirt_washed_red.json": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2024-12-21 04:23:03 +0000"
     },
     "done": true
   },

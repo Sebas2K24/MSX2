@@ -1001,6 +1001,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-21 04:25:29 +0000",
       "coniferous_forest": "2024-12-20 02:10:21 +0000",
       "dune_beach": "2024-12-21 04:04:50 +0000",
       "pasture": "2024-12-21 03:56:24 +0000",
@@ -8509,6 +8510,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2024-12-21 04:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-21 04:07:54 +0000"
@@ -8584,6 +8591,12 @@
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-21 04:25:00 +0000"
     },
     "done": true
   },

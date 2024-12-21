@@ -49464,3 +49464,22 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 04:23:03.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [A Little Hot Rod Red]
 [21Dec2024 04:23:44.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has completed the challenge [Centennial]
 [21Dec2024 04:24:03.391] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[21Dec2024 04:25:00.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [First Trade]
+[21Dec2024 04:25:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [What a Deal!]
+[21Dec2024 04:25:40.538] [pool-11-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp_fortified]] from pos BlockPos{x=-571, y=80, z=-565}
+[21Dec2024 04:25:45.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4112ms or 82 ticks behind
+[21Dec2024 04:25:45.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved too quickly! -1.0231398294680503,2.1661092609382138,9.747201100882762
+[21Dec2024 04:25:51.726] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[21Dec2024 04:25:51.745] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[21Dec2024 04:25:51.746] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[21Dec2024 04:26:09.601] [Worker-Main-37/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[21Dec2024 04:26:09.616] [Worker-Main-37/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[21Dec2024 04:26:09.624] [Worker-Main-37/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[21Dec2024 04:26:22.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22033ms or 440 ticks behind
+[21Dec2024 04:28:59.210] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[21Dec2024 04:28:59.211] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[21Dec2024 04:28:59.211] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[21Dec2024 04:31:06.587] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[21Dec2024 04:31:06.587] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/fast_drowned -> hopo:mobs/fast_drowned
+[21Dec2024 04:31:06.588] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[21Dec2024 04:33:25.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22705, l='ServerLevel[world]', x=-745.01, y=85.00, z=-528.04] died, message: 'Unemployed was slain by Guard'
