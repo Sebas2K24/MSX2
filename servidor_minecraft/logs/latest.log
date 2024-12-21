@@ -49539,3 +49539,5 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 05:10:42.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Neighborhood Brawl]
 [21Dec2024 05:14:58.114] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/34031, l='ServerLevel[world]', x=98.19, y=38.00, z=152.70]
 [21Dec2024 05:14:58.120] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/34031, l='ServerLevel[world]', x=98.19, y=38.00, z=152.70]
+[21Dec2024 05:16:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Arkanenn]
+[21Dec2024 05:17:40.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Arkanenn]

@@ -1504,6 +1504,7 @@
       "minecraft:spider": "2024-12-21 03:41:37 +0000",
       "minecraft:creeper": "2024-12-20 05:00:48 +0000",
       "minecraft:husk": "2024-12-20 04:13:43 +0000",
+      "minecraft:stray": "2024-12-21 05:19:07 +0000",
       "minecraft:zombie": "2024-12-20 02:32:50 +0000"
     },
     "done": false
@@ -8726,9 +8727,57 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-21 05:15:21 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2024-12-21 05:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 05:15:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-21 05:15:21 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-21 05:15:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2024-12-21 05:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-21 05:15:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-21 05:15:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-21 05:15:21 +0000"
     },
     "done": true
   },
