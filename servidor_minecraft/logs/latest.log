@@ -49449,3 +49449,10 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 04:01:20.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Penteconter]
 [21Dec2024 04:01:57.033] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/13170, l='ServerLevel[world]', x=-455.46, y=70.00, z=-302.21] died, message: 'Mason was pricked to death'
 [21Dec2024 04:03:49.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[21Dec2024 04:04:59.926] [Worker-Main-37/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[21Dec2024 04:04:59.927] [Worker-Main-37/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[21Dec2024 04:06:13.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Let's Get To Work]
+[21Dec2024 04:10:15.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has completed the challenge [Centennial]
+[21Dec2024 04:11:35.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/9853, l='ServerLevel[world]', x=46.14, y=76.06, z=-117.46] died: Honeyed Archer was slain by Wolf
+[21Dec2024 04:11:52.502] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/13867, l='ServerLevel[world]', x=-550.10, y=72.56, z=-286.30] died, message: 'Mason was pricked to death'
+[21Dec2024 04:12:11.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/13866, l='ServerLevel[world]', x=-547.51, y=75.56, z=-306.51] died, message: 'Mason was pricked to death'

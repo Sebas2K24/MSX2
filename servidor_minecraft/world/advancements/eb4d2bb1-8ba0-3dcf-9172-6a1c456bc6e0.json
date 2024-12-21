@@ -1002,8 +1002,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "coniferous_forest": "2024-12-20 02:10:21 +0000",
+      "dune_beach": "2024-12-21 04:04:50 +0000",
       "pasture": "2024-12-21 03:56:24 +0000",
-      "fir_clearing": "2024-12-20 02:39:31 +0000"
+      "fir_clearing": "2024-12-20 02:39:31 +0000",
+      "prairie": "2024-12-21 04:01:58 +0000"
     },
     "done": false
   },
@@ -4562,6 +4564,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "smithingtable": "2024-12-20 02:40:14 +0000",
+      "smoker": "2024-12-21 04:04:52 +0000",
       "blastfurnace": "2024-12-20 04:38:53 +0000"
     },
     "done": false
@@ -4935,6 +4938,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-21 03:31:26 +0000",
+      "minecraft:river": "2024-12-21 04:01:01 +0000",
       "minecraft:cold_ocean": "2024-12-21 03:31:33 +0000",
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
     },
@@ -8192,6 +8196,24 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-21 04:05:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-21 04:04:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2024-12-21 04:07:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-21 03:24:28 +0000"
@@ -8207,6 +8229,12 @@
   "handcrafted:recipes/misc/spruce_desk": {
     "criteria": {
       "has_spruce_desk": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2024-12-21 04:05:04 +0000"
     },
     "done": true
   },
@@ -8264,6 +8292,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-21 04:04:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/dispenser_minecart": {
     "criteria": {
       "has_dispenser": "2024-12-21 03:08:35 +0000"
@@ -8288,6 +8322,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 04:04:32 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2024-12-21 03:28:09 +0000"
@@ -8300,9 +8346,21 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-21 04:10:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:04:32 +0000"
     },
     "done": true
   },
@@ -8339,6 +8397,12 @@
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:04:32 +0000"
     },
     "done": true
   },
@@ -8420,9 +8484,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-21 04:07:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-21 03:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2024-12-21 04:07:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-21 04:04:45 +0000"
     },
     "done": true
   },
@@ -8474,6 +8556,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-12-21 04:07:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_nightstand": {
     "criteria": {
       "has_spruce_nightstand": "2024-12-21 03:28:09 +0000"
@@ -8486,9 +8574,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2024-12-21 04:07:54 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:04:32 +0000"
     },
     "done": true
   },

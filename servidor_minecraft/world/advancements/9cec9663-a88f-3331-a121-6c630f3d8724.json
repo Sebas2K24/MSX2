@@ -1002,8 +1002,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "coniferous_forest": "2024-12-20 03:33:47 +0000",
+      "dune_beach": "2024-12-21 04:09:41 +0000",
       "pasture": "2024-12-21 03:56:58 +0000",
-      "fir_clearing": "2024-12-20 03:38:02 +0000"
+      "fir_clearing": "2024-12-20 03:38:02 +0000",
+      "prairie": "2024-12-21 04:02:20 +0000"
     },
     "done": false
   },
@@ -4860,6 +4862,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:31:31 +0000"
@@ -4944,6 +4952,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-21 04:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 04:08:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-21 04:01:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_orange.json": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
@@ -4962,6 +4994,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 04:08:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-21 03:13:00 +0000"
@@ -4971,6 +5015,12 @@
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2024-12-21 03:39:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2024-12-21 04:09:46 +0000"
     },
     "done": true
   },
@@ -4998,6 +5048,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "brewingstand": "2024-12-21 04:06:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/dirt_washed_cyan.json": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
@@ -5007,6 +5075,12 @@
   "colourfulearth:recipes/decorations/dirt_dyed_light_blue": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
     },
     "done": true
   },
@@ -5022,9 +5096,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-21 04:02:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_pink.json": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2024-12-21 04:05:29 +0000"
     },
     "done": true
   },
@@ -5046,6 +5132,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:31:31 +0000"
@@ -5064,6 +5162,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_black": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
@@ -5073,6 +5183,18 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
     },
     "done": true
   },
@@ -5112,15 +5234,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:31:31 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 04:02:38 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_white": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-21 04:08:20 +0000"
     },
     "done": true
   },
@@ -5136,9 +5282,21 @@
     },
     "done": true
   },
+  "trashcans:recipes/misc/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-12-21 04:05:29 +0000"
     },
     "done": true
   },
@@ -5148,9 +5306,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-21 04:08:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 04:08:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_lime": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
     },
     "done": true
   },
@@ -5166,6 +5372,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-12-21 03:31:31 +0000"
@@ -5178,9 +5390,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-21 04:09:46 +0000"
     },
     "done": true
   },
@@ -5196,9 +5426,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 04:02:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-21 03:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 04:08:46 +0000"
     },
     "done": true
   },
@@ -5208,9 +5462,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_purple": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 04:08:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "brewingstand": "2024-12-21 04:06:13 +0000"
     },
     "done": true
   },
@@ -5238,9 +5516,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 04:02:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_lime.json": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-21 04:08:20 +0000"
     },
     "done": true
   },
@@ -5268,6 +5558,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 04:08:46 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_fence": {
     "criteria": {
       "has_item": "2024-12-21 03:24:01 +0000"
@@ -5283,6 +5585,18 @@
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 04:08:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 04:08:46 +0000"
     },
     "done": true
   },
@@ -5316,6 +5630,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_white.json": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
@@ -5346,6 +5666,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_black.json": {
     "criteria": {
       "has_dirt": "2024-12-21 03:24:11 +0000"
@@ -5358,9 +5684,16 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-21 03:31:28 +0000",
+      "minecraft:river": "2024-12-21 04:01:04 +0000",
       "minecraft:cold_ocean": "2024-12-21 03:52:14 +0000"
     },
     "done": false
@@ -5371,9 +5704,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-21 04:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-21 03:38:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-21 04:02:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-21 04:05:29 +0000"
     },
     "done": true
   },
