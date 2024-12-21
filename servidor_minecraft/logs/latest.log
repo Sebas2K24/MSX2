@@ -49226,3 +49226,103 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 02:45:34.477] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/api/statistic/StatisticWindow$TicksPerSecond
 [21Dec2024 02:45:34.478] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/api/statistic/StatisticWindow$CpuUsage
 [21Dec2024 02:45:34.539] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting sereneseasons/api/season/Season$TropicalSeason
+[21Dec2024 02:53:37.530] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/network/VarintByteDecoder$DecodeResult
+[21Dec2024 02:53:37.547] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ConnectionProtocol
+[21Dec2024 02:53:37.567] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundCustomChatCompletionsPacket$Action
+[21Dec2024 02:53:37.590] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundRecipePacket$State
+[21Dec2024 02:53:37.599] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/ServerScoreboard$Method
+[21Dec2024 02:53:37.607] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[21Dec2024 02:53:37.608] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[21Dec2024 02:53:37.610] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[21Dec2024 02:53:37.611] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundClientCommandPacket$Action
+[21Dec2024 02:53:37.613] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickType
+[21Dec2024 02:53:37.616] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundInteractPacket$ActionType
+[21Dec2024 02:53:37.621] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerActionPacket$Action
+[21Dec2024 02:53:37.622] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action
+[21Dec2024 02:53:37.624] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundResourcePackPacket$Action
+[21Dec2024 02:53:37.625] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
+[21Dec2024 02:53:37.627] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+[21Dec2024 02:53:37.629] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[21Dec2024 02:56:28.301] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[21Dec2024 02:56:28.400] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[21Dec2024 02:56:31.804] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/misc/KryptonPipelineEvent
+[21Dec2024 02:56:31.805] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/BufferPreference
+[21Dec2024 02:56:32.081] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting stepsword/mahoutsukai/capability/settingsmahou/MahouSettings$Spell
+[21Dec2024 02:56:32.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tschipp/carryon/common/carry/CarryOnData$CarryType
+[21Dec2024 02:56:32.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebas2K24[/127.220.101.58:53501] logged in with entity id 1431 at (150.8696618719105, 82.0, 89.83609901197829)
+[21Dec2024 02:56:32.103] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[21Dec2024 02:56:32.115] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[21Dec2024 02:56:32.156] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/snowyspirit/common/entity/GroundStatus
+[21Dec2024 02:56:32.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/network/server/SPChangeGamerule$SynchronizedGameRules
+[21Dec2024 02:56:32.179] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebas2K24
+[21Dec2024 02:56:32.180] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebas2K24
+[21Dec2024 02:56:32.181] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebas2K24
+[21Dec2024 02:56:32.181] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebas2K24
+[21Dec2024 02:56:32.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebas2K24
+[21Dec2024 02:56:32.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebas2K24
+[21Dec2024 02:56:32.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebas2K24
+[21Dec2024 02:56:32.202] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamresourceful/yabn/elements/YabnType
+[21Dec2024 02:56:33.589] [Server thread/INFO] [Modonomicon/]: Building books ...
+[21Dec2024 02:56:33.589] [Server thread/INFO] [Modonomicon/]: Books built.
+[21Dec2024 02:56:33.597] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Face
+[21Dec2024 02:56:33.597] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$TerrainType
+[21Dec2024 02:56:33.598] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Biome
+[21Dec2024 02:56:33.598] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Feature
+[21Dec2024 02:56:33.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/utils/MiscUtils$Festivity
+[21Dec2024 02:56:33.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
+[21Dec2024 02:56:33.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/RelativeMovement
+[21Dec2024 02:56:33.779] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilitySection$AbilitySectionType
+[21Dec2024 02:56:33.783] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/network/server/SPChangeSkill$State
+[21Dec2024 02:56:34.093] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/CMessageTBCapability$SyncType
+[21Dec2024 02:56:34.106] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[21Dec2024 02:56:34.116] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[21Dec2024 02:56:34.349] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/signal/EdgeGroupColor
+[21Dec2024 02:56:34.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
+[21Dec2024 02:56:34.706] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[21Dec2024 02:56:34.795] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[21Dec2024 02:56:34.887] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting be/florens/expandability/EventResult
+[21Dec2024 02:56:34.915] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/network/data/Side
+[21Dec2024 02:56:35.690] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/capability/ServantEntityImpl$CasterType
+[21Dec2024 02:56:35.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/event/bus/ZResult
+[21Dec2024 02:56:38.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[21Dec2024 02:56:53.537] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[21Dec2024 02:58:52.305] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[21Dec2024 02:59:15.103] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[21Dec2024 02:59:18.102] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/arna/jcraft/common/util/MovementInputType
+[21Dec2024 02:59:33.582] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/adventure/text/event/ClickEvent$Action
+[21Dec2024 02:59:33.588] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Stopping the profiler & uploading results, please wait...
+[21Dec2024 02:59:33.608] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkProtos$CommandSenderMetadata$Type
+[21Dec2024 02:59:33.610] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkSamplerProtos$SamplerMetadata$ThreadDumper$Type
+[21Dec2024 02:59:33.613] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkSamplerProtos$SamplerMetadata$DataAggregator$Type
+[21Dec2024 02:59:33.614] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkSamplerProtos$SamplerMetadata$DataAggregator$ThreadGrouper
+[21Dec2024 02:59:33.645] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/WireFormat$FieldType
+[21Dec2024 02:59:33.646] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/WireFormat$JavaType
+[21Dec2024 02:59:33.653] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/WindowsWmic
+[21Dec2024 02:59:33.659] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/cpu/CpuInfo
+[21Dec2024 02:59:33.661] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/memory/MemoryInfo
+[21Dec2024 02:59:33.664] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/disk/DiskUsage
+[21Dec2024 02:59:33.672] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/platform/serverconfig/PropertiesConfigParser
+[21Dec2024 02:59:33.684] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentTypeEvaluator$InstallationAction
+[21Dec2024 02:59:33.686] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForModularizedVm
+[21Dec2024 02:59:33.686] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForJ9Vm
+[21Dec2024 02:59:33.687] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForStandardToolsJarVm
+[21Dec2024 02:59:33.688] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForUserDefinedToolsJar
+[21Dec2024 02:59:33.688] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForEmulatedAttachment
+[21Dec2024 02:59:33.689] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$ProcessProvider$ForCurrentVm
+[21Dec2024 02:59:33.690] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AgentProvider$ForByteBuddyAgent
+[21Dec2024 02:59:34.351] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/FieldType
+[21Dec2024 02:59:34.354] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/FieldType$Collection
+[21Dec2024 02:59:34.356] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/JavaType
+[21Dec2024 02:59:34.480] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/Writer$FieldOrder
+[21Dec2024 02:59:35.632] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Profiler stopped & upload complete!
+[21Dec2024 02:59:35.634] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: https://spark.lucko.me/Vgqz8LiZaS
+[21Dec2024 02:59:35.640] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)
+[21Dec2024 03:00:26.952] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[21Dec2024 03:00:26.955] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/communi/suggestu/scena/core/event/ProcessingResult
+[21Dec2024 03:00:26.956] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/chiselsandbits/api/item/click/ClickProcessingState$ProcessingResult
+[21Dec2024 03:00:57.166] [pool-4-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[21Dec2024 03:00:59.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[21Dec2024 03:01:02.555] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[21Dec2024 03:02:23.618] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[21Dec2024 03:02:39.575] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[21Dec2024 03:03:08.665] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
