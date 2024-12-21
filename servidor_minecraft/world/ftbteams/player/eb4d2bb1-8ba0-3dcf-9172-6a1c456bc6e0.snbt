@@ -1,0 +1,17 @@
+{
+	id: "eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0"
+	type: "player"
+	player_name: "Sebas2K24"
+	ranks: {
+		eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sebas2K24"
+		"ftbteams:description": ""
+		"ftbteams:color": "#82FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
