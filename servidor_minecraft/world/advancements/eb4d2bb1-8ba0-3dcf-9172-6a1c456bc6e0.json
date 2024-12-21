@@ -2955,6 +2955,7 @@
       "potato": "2024-12-20 04:09:14 +0000",
       "pumpkin_pie": "2024-12-20 05:15:22 +0000",
       "bread": "2024-12-20 02:39:22 +0000",
+      "rotten_flesh": "2024-12-21 03:32:03 +0000",
       "cooked_chicken": "2024-12-20 04:15:37 +0000"
     },
     "done": false
@@ -4930,6 +4931,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-12-21 03:31:26 +0000",
+      "minecraft:cold_ocean": "2024-12-21 03:31:33 +0000",
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
     },
     "done": false
@@ -8126,6 +8129,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-12-21 03:37:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
     "criteria": {
       "has_spruce_planks": "2024-12-21 03:28:09 +0000"
@@ -8171,6 +8180,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-21 03:40:17 +0000"
     },
     "done": true
   },
@@ -8255,6 +8270,12 @@
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-21 03:36:30 +0000"
     },
     "done": true
   },
@@ -8381,6 +8402,12 @@
   "netherexp:recipes/bone_blocks/bone_fence": {
     "criteria": {
       "has_item": "2024-12-21 03:02:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-21 03:36:02 +0000"
     },
     "done": true
   },

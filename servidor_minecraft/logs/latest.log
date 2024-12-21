@@ -49399,3 +49399,32 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 03:33:32.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [21Dec2024 03:33:44.744] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
 [21Dec2024 03:33:44.745] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[21Dec2024 03:34:11.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Amateur Archaeologist]
+[21Dec2024 03:34:22.883] [Worker-Main-37/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[21Dec2024 03:34:54.773] [pool-11-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_christmas], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest]] from pos BlockPos{x=-171, y=81, z=-245}
+[21Dec2024 03:34:58.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[21Dec2024 03:34:58.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved too quickly! 7.983113547994563,0.0,-6.273888076048621
+[21Dec2024 03:34:58.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkanenn moved too quickly! 3.123911181469847,-1.6054645340544909,-9.65152600284145
+[21Dec2024 03:35:28.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15411ms or 308 ticks behind
+[21Dec2024 03:36:02.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Mine? Mine? Mine?]
+[21Dec2024 03:36:04.980] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[21Dec2024 03:36:04.982] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[21Dec2024 03:36:04.982] [Worker-Main-36/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[21Dec2024 03:36:30.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Amateur Archaeologist]
+[21Dec2024 03:36:47.346] [Worker-Main-38/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[21Dec2024 03:36:47.346] [Worker-Main-38/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[21Dec2024 03:37:01.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8611, l='ServerLevel[world]', x=24.50, y=77.00, z=-229.50]
+[21Dec2024 03:37:13.221] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/arna/jcraft/common/gravity/util/NetworkUtil$PacketMode
+[21Dec2024 03:37:37.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Flawless Crystals]
+[21Dec2024 03:38:21.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [Ice Bucket Challenge]
+[21Dec2024 03:40:06.651] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9409, l='ServerLevel[world]', x=26.50, y=77.00, z=-230.50]
+[21Dec2024 03:40:17.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Penteconter]
+[21Dec2024 03:41:40.672] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[21Dec2024 03:41:40.677] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[21Dec2024 03:41:52.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Arkanenn to Sebas2K24]
+[21Dec2024 03:42:04.716] [Server thread/WARN] [tombstone/]: The death event of the player Arkanenn was canceled by another mod
+[21Dec2024 03:42:04.724] [Server thread/INFO] [tombstone/]: The player Arkanenn has successfully been saved
+[21Dec2024 03:42:13.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 was shot by Skeleton
+[21Dec2024 03:42:20.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [A Fast Comeback]
+[21Dec2024 03:42:40.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Saul the Dragonborn'/9574, l='ServerLevel[world]', x=0.32, y=78.00, z=-131.86] died: Saul the Dragonborn was slain by Sebas2K24
+[21Dec2024 03:43:03.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
