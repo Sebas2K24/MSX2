@@ -1495,6 +1495,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-20 04:36:35 +0000",
+      "minecraft:vindicator": "2024-12-21 03:42:40 +0000",
+      "minecraft:spider": "2024-12-21 03:41:37 +0000",
       "minecraft:creeper": "2024-12-20 05:00:48 +0000",
       "minecraft:husk": "2024-12-20 04:13:43 +0000",
       "minecraft:zombie": "2024-12-20 02:32:50 +0000"
@@ -8219,9 +8221,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2024-12-21 03:48:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-21 03:41:32 +0000"
     },
     "done": true
   },
@@ -8234,6 +8248,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-21 03:48:12 +0000"
     },
     "done": true
   },
@@ -8309,6 +8329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-21 03:41:32 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2024-12-21 03:28:09 +0000"
@@ -8318,6 +8344,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
     "criteria": {
       "has_spruce_planks": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "farlanders:kill_classic_enderman": {
+    "criteria": {
+      "kill_enderman": "2024-12-21 03:47:31 +0000"
     },
     "done": true
   },
@@ -8378,6 +8410,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 03:42:20 +0000"
     },
     "done": true
   },

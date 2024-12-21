@@ -2789,6 +2789,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-20 04:11:04 +0000",
+      "minecraft:spider": "2024-12-21 03:43:07 +0000",
       "minecraft:husk": "2024-12-20 04:12:15 +0000",
       "minecraft:zombie": "2024-12-20 03:57:16 +0000"
     },

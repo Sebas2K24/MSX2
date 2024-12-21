@@ -49428,3 +49428,8 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 03:42:20.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [A Fast Comeback]
 [21Dec2024 03:42:40.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Saul the Dragonborn'/9574, l='ServerLevel[world]', x=0.32, y=78.00, z=-131.86] died: Saul the Dragonborn was slain by Sebas2K24
 [21Dec2024 03:43:03.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[21Dec2024 03:47:31.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [This is the End]
+[21Dec2024 03:47:37.755] [Worker-Main-36/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[21Dec2024 03:48:09.151] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11069, l='ServerLevel[world]', x=24.50, y=77.00, z=-231.50]
+[21Dec2024 03:50:22.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Arkanenn]
+[21Dec2024 03:51:34.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Arkanenn]
