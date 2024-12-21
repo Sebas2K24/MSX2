@@ -8125,6 +8125,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-21 03:11:46 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:temples": {
     "criteria": {
       "in_temple_taiga": "2024-12-21 03:06:50 +0000"

@@ -1123,12 +1123,6 @@
     },
     "done": true
   },
-  "adorn:recipes/trading_station": {
-    "criteria": {
-      "has_emerald": "2024-12-20 03:56:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-20 03:56:08 +0000"
@@ -1459,12 +1453,6 @@
     },
     "done": true
   },
-  "adorn:recipes/iron_shelf": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-20 03:56:45 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 03:56:45 +0000"
@@ -1654,12 +1642,6 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 03:56:45 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/chain_link_fence": {
-    "criteria": {
-      "has_key_item_0": "2024-12-20 03:56:45 +0000"
     },
     "done": true
   },
@@ -2817,18 +2799,6 @@
     },
     "done": true
   },
-  "adorn:recipes/stone_platform": {
-    "criteria": {
-      "has_slab": "2024-12-20 03:57:48 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/stone_step": {
-    "criteria": {
-      "has_slab": "2024-12-20 03:57:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-20 03:57:48 +0000"
@@ -2880,12 +2850,6 @@
   "chiselsandbits:recipes/tools/chiseled_printer": {
     "criteria": {
       "has_l": "2024-12-20 03:58:21 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/stripped_mangrove_wood_slab": {
-    "criteria": {
-      "has_stripped_mangrove_wood": "2024-12-20 03:58:21 +0000"
     },
     "done": true
   },
@@ -4005,12 +3969,6 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/standing_rake": {
-    "criteria": {
-      "has_planks": "2024-12-20 04:06:46 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2024-12-20 04:06:46 +0000"
@@ -4092,12 +4050,6 @@
   "bc:recipes/decorations/crimson_campfire": {
     "criteria": {
       "has_stick": "2024-12-20 04:06:46 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/standing_broomstick": {
-    "criteria": {
-      "has_planks": "2024-12-20 04:06:46 +0000"
     },
     "done": true
   },
@@ -4221,12 +4173,6 @@
     },
     "done": true
   },
-  "adorn:recipes/cyan_table_lamp": {
-    "criteria": {
-      "has_carpet": "2024-12-20 04:15:14 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2024-12-20 04:18:59 +0000"
@@ -4239,39 +4185,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "travelersbackpack:recipes/misc/coal": {
     "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
+      "has_coal": "2024-12-20 04:35:42 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+  "mcwlights:recipes/torches": {
     "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
+      "has_wood": "2024-12-20 04:35:42 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "mcwbridges:recipes/bridge_lantern": {
     "criteria": {
-      "coded_trigger": "2024-12-20 04:54:22 +0000"
+      "has_planks": "2024-12-20 04:35:42 +0000"
     },
     "done": true
   },
-  "fishofthieves:recipes/decorations/crimson_fish_plaque": {
+  "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_item_frame": "2024-12-20 04:44:16 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/quiver": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
+      "has_coal": "2024-12-20 04:35:42 +0000"
     },
     "done": true
   },
@@ -4281,141 +4215,33 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
-    "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "fishofthieves:recipes/decorations/dark_oak_fish_plaque": {
-    "criteria": {
-      "has_item_frame": "2024-12-20 04:44:16 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
-    "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-20 04:43:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-12-20 05:29:39 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
-    "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2024-12-20 05:29:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/assassin_necklace": {
-    "criteria": {
-      "has_bone": "2024-12-20 05:09:24 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/horse": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
-    "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-20 05:09:31 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
-    "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/backpack_small": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/cyan_candlelit_lantern": {
-    "criteria": {
-      "has_candle": "2024-12-20 04:39:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
-    "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "fishofthieves:recipes/decorations/jungle_fish_plaque": {
-    "criteria": {
-      "has_item_frame": "2024-12-20 04:44:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
-    "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/fancy_painting": {
     "criteria": {
       "has_fancy_painting": "2024-12-20 04:36:39 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/hay": {
+  "lootr:10loot": {
     "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
+      "loot_stat": "2024-12-20 04:38:24 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/coal": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_coal": "2024-12-20 04:35:42 +0000"
+      "has_mushroom_stew": "2024-12-20 04:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-20 04:38:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-20 04:38:35 +0000"
     },
     "done": true
   },
@@ -4425,15 +4251,27 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
+      "slept_in_bed": "2024-12-20 04:43:03 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+  "fishofthieves:recipes/decorations/crimson_fish_plaque": {
     "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
+      "has_item_frame": "2024-12-20 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/dark_oak_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/jungle_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:44:16 +0000"
     },
     "done": true
   },
@@ -4443,27 +4281,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2024-12-20 05:29:39 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
-    "criteria": {
-      "has_bone": "2024-12-20 05:09:24 +0000"
-    },
-    "done": true
-  },
   "fishofthieves:recipes/decorations/spruce_fish_plaque": {
     "criteria": {
       "has_item_frame": "2024-12-20 04:44:16 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
-    "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
     },
     "done": true
   },
@@ -4479,15 +4299,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2024-12-20 05:09:24 +0000"
-    },
-    "done": true
-  },
   "fishofthieves:recipes/decorations/bamboo_fish_plaque": {
     "criteria": {
       "has_item_frame": "2024-12-20 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/cherry_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/birch_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/mangrove_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/warped_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-20 04:49:52 +0000"
     },
     "done": true
   },
@@ -4503,51 +4419,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_small_blimp": {
-    "criteria": {
-      "location0": "2024-12-20 05:10:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2024-12-20 05:09:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
-    },
-    "done": true
-  },
-  "fishofthieves:recipes/decorations/cherry_fish_plaque": {
-    "criteria": {
-      "has_item_frame": "2024-12-20 04:44:16 +0000"
-    },
-    "done": true
-  },
-  "bonetorch:recipes/decorations/bonetorch": {
-    "criteria": {
-      "has_bone": "2024-12-20 05:09:24 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/filter_configurator": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_mushroom_stew": "2024-12-20 04:38:35 +0000"
     },
     "done": true
   },
@@ -4563,36 +4437,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 05:14:00 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:spawner/root": {
-    "criteria": {
-      "spawner": "2024-12-20 05:13:56 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/torches": {
-    "criteria": {
-      "has_wood": "2024-12-20 04:35:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-12-20 05:20:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2024-12-20 04:58:50 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/pink_stool": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
@@ -4605,27 +4449,9 @@
     },
     "done": true
   },
-  "morevillagers:kill_villager": {
-    "criteria": {
-      "killedvillager": "2024-12-20 04:54:22 +0000"
-    },
-    "done": true
-  },
-  "fishofthieves:recipes/decorations/birch_fish_plaque": {
-    "criteria": {
-      "has_item_frame": "2024-12-20 04:44:16 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "fishofthieves:recipes/decorations/mangrove_fish_plaque": {
-    "criteria": {
-      "has_item_frame": "2024-12-20 04:44:16 +0000"
     },
     "done": true
   },
@@ -4641,63 +4467,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 04:54:22 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/sitting_skeleton": {
-    "criteria": {
-      "has_planks": "2024-12-20 05:09:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
-    },
-    "done": true
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2024-12-20 05:29:21 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/bone_quiver": {
-    "criteria": {
-      "has_bone": "2024-12-20 05:09:24 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/bridge_lantern": {
-    "criteria": {
-      "has_planks": "2024-12-20 04:35:42 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/green_sofa": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sack": {
-    "criteria": {
-      "has_string": "2024-12-20 05:29:39 +0000"
     },
     "done": true
   },
@@ -4713,27 +4491,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/orange_stool": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_mushroom_stew": "2024-12-20 04:38:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2024-12-20 05:29:39 +0000"
     },
     "done": true
   },
@@ -4746,18 +4506,6 @@
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/spider": {
-    "criteria": {
-      "has_string": "2024-12-20 05:29:39 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bellows": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
     },
     "done": true
   },
@@ -4779,27 +4527,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2024-12-20 04:35:42 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/red_stool": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/combat/boxing_gloves": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:50:58 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
-    "criteria": {
-      "has_mushroom_stew": "2024-12-20 04:38:35 +0000"
     },
     "done": true
   },
@@ -4815,21 +4545,9 @@
     },
     "done": true
   },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2024-12-20 04:38:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/wolf": {
-    "criteria": {
-      "has_bone": "2024-12-20 05:09:24 +0000"
     },
     "done": true
   },
@@ -4842,18 +4560,6 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
     "criteria": {
       "has_wheat": "2024-12-20 04:49:52 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2024-12-20 04:58:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2024-12-20 05:29:39 +0000"
     },
     "done": true
   },
@@ -4875,9 +4581,195 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
     "criteria": {
-      "has_string": "2024-12-20 05:29:39 +0000"
+      "has_wheat": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "adchimneys:recipes/tools/wooden_paintbrush": {
+    "criteria": {
+      "has_item": "2024-12-20 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/boxing_gloves": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 04:54:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-20 04:58:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-20 04:58:50 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
+  "bonetorch:recipes/decorations/bonetorch": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-20 05:09:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-20 05:10:09 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2024-12-20 05:13:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 05:14:00 +0000"
     },
     "done": true
   },
@@ -4887,21 +4779,69 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_wheat": "2024-12-20 04:49:52 +0000"
+      "has_enchanted_golden_apple": "2024-12-20 05:20:25 +0000"
     },
     "done": true
   },
-  "fishofthieves:recipes/decorations/warped_fish_plaque": {
+  "lootr:25loot": {
     "criteria": {
-      "has_item_frame": "2024-12-20 04:44:16 +0000"
+      "loot_stat": "2024-12-20 05:29:21 +0000"
     },
     "done": true
   },
-  "adchimneys:recipes/tools/wooden_paintbrush": {
+  "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
-      "has_item": "2024-12-20 04:49:52 +0000"
+      "has_string": "2024-12-20 05:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-20 05:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-20 05:29:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-20 05:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-20 05:29:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-12-20 05:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-20 05:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-20 05:29:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 03:13:00 +0000"
     },
     "done": true
   },
