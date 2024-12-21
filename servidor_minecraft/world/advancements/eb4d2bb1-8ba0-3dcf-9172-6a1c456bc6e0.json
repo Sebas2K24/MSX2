@@ -8120,6 +8120,48 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2024-12-21 03:02:39 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2024-12-21 03:02:39 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2024-12-21 03:06:50 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2024-12-21 03:08:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-21 03:10:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-21 03:11:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 03:24:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_counter": {
     "criteria": {
       "has_spruce_counter": "2024-12-21 03:28:09 +0000"
@@ -8138,12 +8180,6 @@
     },
     "done": true
   },
-  "apotheosis:affix/mythic_gem": {
-    "criteria": {
-      "gem": "2024-12-21 03:37:37 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
     "criteria": {
       "has_spruce_planks": "2024-12-21 03:28:09 +0000"
@@ -8153,18 +8189,6 @@
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2024-12-21 03:28:09 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
-    "criteria": {
-      "has_item": "2024-12-21 04:17:35 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
-    "criteria": {
-      "has_item": "2024-12-21 04:17:35 +0000"
     },
     "done": true
   },
@@ -8204,36 +8228,6 @@
     },
     "done": true
   },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2024-12-21 03:40:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "ham": "2024-12-21 04:05:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2024-12-21 04:04:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/sea_salt": {
-    "criteria": {
-      "has_ingredient": "2024-12-21 04:07:54 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2024-12-21 03:24:28 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_corner_trim": {
     "criteria": {
       "has_spruce_corner_trim": "2024-12-21 03:28:09 +0000"
@@ -8246,39 +8240,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/smoked_ham": {
-    "criteria": {
-      "has_ham": "2024-12-21 04:05:04 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/bone_rod": {
-    "criteria": {
-      "has_item": "2024-12-21 03:02:39 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_spruce_planks": "2024-12-21 03:28:09 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/food_prep_table": {
-    "criteria": {
-      "has_item": "2024-12-21 03:48:12 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2024-12-21 03:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_leggings": "2024-12-21 03:41:32 +0000"
     },
     "done": true
   },
@@ -8294,33 +8264,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2024-12-21 03:48:12 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2024-12-21 03:28:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2024-12-21 04:04:45 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/dispenser_minecart": {
-    "criteria": {
-      "has_dispenser": "2024-12-21 03:08:35 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2024-12-21 03:10:15 +0000"
     },
     "done": true
   },
@@ -8336,45 +8282,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2024-12-21 04:04:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-21 04:04:32 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2024-12-21 03:28:09 +0000"
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-12-21 03:36:30 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2024-12-21 04:10:15 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2024-12-21 03:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2024-12-21 04:04:32 +0000"
     },
     "done": true
   },
@@ -8402,21 +8318,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_leggings": "2024-12-21 03:41:32 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2024-12-21 03:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
-    "criteria": {
-      "has_mutton": "2024-12-21 04:04:32 +0000"
     },
     "done": true
   },
@@ -8426,21 +8330,9 @@
     },
     "done": true
   },
-  "farlanders:kill_classic_enderman": {
-    "criteria": {
-      "kill_enderman": "2024-12-21 03:47:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_spruce_planks": "2024-12-21 03:28:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2024-12-21 03:11:46 +0000"
     },
     "done": true
   },
@@ -8456,21 +8348,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
-    "criteria": {
-      "has_item": "2024-12-21 04:17:35 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
     "criteria": {
       "has_spruce_planks": "2024-12-21 03:28:09 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
-    "criteria": {
-      "has_item": "2024-12-21 04:17:35 +0000"
     },
     "done": true
   },
@@ -8504,71 +8384,11 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/scholar_necklace": {
-    "criteria": {
-      "has_ender_pearl": "2024-12-21 03:51:47 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:first_trade": {
-    "criteria": {
-      "villagertrade": "2024-12-21 04:25:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-12-21 04:07:54 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
-    "criteria": {
-      "has_item": "2024-12-21 04:17:35 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-21 03:42:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ice_from_freezing": {
-    "criteria": {
-      "has_water": "2024-12-21 04:07:54 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2024-12-21 04:19:17 +0000"
-    },
-    "done": false
-  },
-  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
-    "criteria": {
-      "has_item": "2024-12-21 04:17:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2024-12-21 04:04:45 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2024-12-21 03:28:09 +0000"
     },
     "done": true
-  },
-  "repurposed_structures:temples": {
-    "criteria": {
-      "in_temple_taiga": "2024-12-21 03:06:50 +0000"
-    },
-    "done": false
   },
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
@@ -8576,27 +8396,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/bone_fence": {
-    "criteria": {
-      "has_item": "2024-12-21 03:02:39 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-21 03:36:02 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2024-12-21 03:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-21 04:25:00 +0000"
     },
     "done": true
   },
@@ -8612,12 +8414,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/food/dough": {
-    "criteria": {
-      "has_water": "2024-12-21 04:07:54 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_nightstand": {
     "criteria": {
       "has_spruce_nightstand": "2024-12-21 03:28:09 +0000"
@@ -8630,33 +8426,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/freezing/ice": {
-    "criteria": {
-      "has_ingredient": "2024-12-21 04:07:54 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2024-12-21 03:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2024-12-21 04:04:32 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2024-12-21 03:51:47 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
-    "criteria": {
-      "has_item": "2024-12-21 04:17:35 +0000"
     },
     "done": true
   },
@@ -8669,12 +8441,6 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-21 03:28:09 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
-    "criteria": {
-      "has_item": "2024-12-21 04:17:35 +0000"
     },
     "done": true
   },
@@ -8723,6 +8489,240 @@
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2024-12-21 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-21 03:36:02 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-21 03:36:30 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-12-21 03:37:37 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-21 03:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-21 03:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-21 03:41:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 03:42:20 +0000"
+    },
+    "done": true
+  },
+  "farlanders:kill_classic_enderman": {
+    "criteria": {
+      "kill_enderman": "2024-12-21 03:47:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2024-12-21 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-21 03:48:12 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-21 03:51:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-21 03:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-21 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-21 04:04:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-21 04:04:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-21 04:04:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-21 04:05:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2024-12-21 04:05:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2024-12-21 04:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-21 04:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2024-12-21 04:07:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-12-21 04:07:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2024-12-21 04:07:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-21 04:10:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-21 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2024-12-21 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-21 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-21 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-21 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-21 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2024-12-21 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2024-12-21 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-12-21 04:19:17 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2024-12-21 04:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-21 04:25:00 +0000"
     },
     "done": true
   },

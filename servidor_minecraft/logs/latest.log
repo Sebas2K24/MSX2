@@ -49498,3 +49498,32 @@ java.lang.NullPointerException: Element not found: amount
 [21Dec2024 04:42:28.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
 [21Dec2024 04:42:28.207] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [21Dec2024 04:42:28.219] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[21Dec2024 04:47:06.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkanenn lost connection: Disconnected
+[21Dec2024 04:47:06.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn left the game
+[21Dec2024 04:49:11.202] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27621, l='ServerLevel[world]', x=302.50, y=80.00, z=160.50]
+[21Dec2024 04:49:31.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkanenn[/127.250.83.27:58469] logged in with entity id 27692 at (222.2114515270406, 79.0, 193.60100716404423)
+[21Dec2024 04:49:31.290] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Arkanenn
+[21Dec2024 04:49:31.291] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Arkanenn
+[21Dec2024 04:49:31.291] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Arkanenn
+[21Dec2024 04:49:31.292] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Arkanenn
+[21Dec2024 04:49:31.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Arkanenn
+[21Dec2024 04:49:31.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Arkanenn
+[21Dec2024 04:49:31.300] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Arkanenn
+[21Dec2024 04:49:31.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn joined the game
+[21Dec2024 04:49:31.408] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[21Dec2024 04:49:31.409] [Server thread/INFO] [Jade/]: Syncing config to Arkanenn (9cec9663-a88f-3331-a121-6c630f3d8724)
+[21Dec2024 04:51:06.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkanenn lost connection: Disconnected
+[21Dec2024 04:51:06.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn left the game
+[21Dec2024 04:52:12.951] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28120, l='ServerLevel[world]', x=323.50, y=77.00, z=136.50]
+[21Dec2024 04:53:12.103] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28258, l='ServerLevel[world]', x=303.50, y=80.00, z=162.50]
+[21Dec2024 04:53:32.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkanenn[/127.250.83.27:36603] logged in with entity id 28301 at (222.2114515270406, 79.0, 193.60100716404423)
+[21Dec2024 04:53:32.887] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Arkanenn
+[21Dec2024 04:53:32.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Arkanenn
+[21Dec2024 04:53:32.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Arkanenn
+[21Dec2024 04:53:32.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Arkanenn
+[21Dec2024 04:53:32.890] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Arkanenn
+[21Dec2024 04:53:32.893] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Arkanenn
+[21Dec2024 04:53:32.895] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Arkanenn
+[21Dec2024 04:53:32.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn joined the game
+[21Dec2024 04:53:32.994] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[21Dec2024 04:53:32.994] [Server thread/INFO] [Jade/]: Syncing config to Arkanenn (9cec9663-a88f-3331-a121-6c630f3d8724)
