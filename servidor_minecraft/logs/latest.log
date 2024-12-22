@@ -5777,3 +5777,5 @@ java.lang.NullPointerException: Element not found: amount
 [22Dec2024 22:40:48.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: The difficulty has been set to Peaceful]
 [22Dec2024 22:40:54.209] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
 [22Dec2024 22:41:12.752] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stevekung/fishofthieves/utils/PeakTypes
+[22Dec2024 22:45:40.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[22Dec2024 22:45:40.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
