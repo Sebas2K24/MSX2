@@ -5755,3 +5755,25 @@ java.lang.NullPointerException: Element not found: amount
 [22Dec2024 22:32:00.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29140ms or 582 ticks behind
 [22Dec2024 22:32:21.369] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [22Dec2024 22:32:26.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[22Dec2024 22:33:19.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[22Dec2024 22:33:19.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[22Dec2024 22:36:53.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebas2K24[/127.220.101.58:48133] logged in with entity id 1916 at (164.63008596809416, 80.0, 77.40620442152624)
+[22Dec2024 22:36:53.383] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebas2K24
+[22Dec2024 22:36:53.384] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebas2K24
+[22Dec2024 22:36:53.385] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebas2K24
+[22Dec2024 22:36:53.386] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebas2K24
+[22Dec2024 22:36:53.389] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebas2K24
+[22Dec2024 22:36:53.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebas2K24
+[22Dec2024 22:36:53.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebas2K24
+[22Dec2024 22:36:53.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
+[22Dec2024 22:36:53.669] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[22Dec2024 22:36:53.670] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[22Dec2024 22:38:20.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[22Dec2024 22:38:45.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[22Dec2024 22:38:45.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/communi/suggestu/scena/core/event/ProcessingResult
+[22Dec2024 22:38:45.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/chiselsandbits/api/item/click/ClickProcessingState$ProcessingResult
+[22Dec2024 22:40:44.431] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/2473, l='ServerLevel[world]', x=268.74, y=10.00, z=157.47]
+[22Dec2024 22:40:44.432] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/2473, l='ServerLevel[world]', x=268.74, y=10.00, z=157.47]
+[22Dec2024 22:40:48.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: The difficulty has been set to Peaceful]
+[22Dec2024 22:40:54.209] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[22Dec2024 22:41:12.752] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stevekung/fishofthieves/utils/PeakTypes
