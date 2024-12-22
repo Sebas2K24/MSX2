@@ -1001,12 +1001,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-21 05:28:56 +0000",
       "shrubland": "2024-12-21 04:25:29 +0000",
       "coniferous_forest": "2024-12-20 02:10:21 +0000",
       "dune_beach": "2024-12-21 04:04:50 +0000",
       "pasture": "2024-12-21 03:56:24 +0000",
       "fir_clearing": "2024-12-20 02:39:31 +0000",
-      "prairie": "2024-12-21 04:01:58 +0000"
+      "prairie": "2024-12-21 04:01:58 +0000",
+      "tundra": "2024-12-21 05:29:31 +0000"
     },
     "done": false
   },
@@ -4940,6 +4942,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2024-12-21 05:29:32 +0000",
       "minecraft:beach": "2024-12-21 03:31:26 +0000",
       "minecraft:river": "2024-12-21 04:01:01 +0000",
       "minecraft:cold_ocean": "2024-12-21 03:31:33 +0000",
@@ -8727,15 +8730,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
-    "criteria": {
-      "has_log": "2024-12-21 05:15:21 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2024-12-21 05:10:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-21 05:15:21 +0000"
     },
     "done": true
   },
