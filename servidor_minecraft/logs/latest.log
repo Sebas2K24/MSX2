@@ -5800,3 +5800,51 @@ java.lang.NullPointerException: Element not found: amount
 [27Dec2024 02:05:07.933] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2782, l='ServerLevel[world]', x=330.50, y=70.00, z=92.50]
 [27Dec2024 02:05:12.931] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2843, l='ServerLevel[world]', x=330.50, y=70.00, z=90.50]
 [27Dec2024 02:05:27.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2890, l='ServerLevel[world]', x=330.50, y=78.00, z=123.50]
+[27Dec2024 02:06:56.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Arkanenn to Sebas2K24]
+[27Dec2024 02:07:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> holaaaaa amor
+[27Dec2024 02:08:18.362] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/adventure/text/event/ClickEvent$Action
+[27Dec2024 02:08:18.367] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Stopping the profiler & uploading results, please wait...
+[27Dec2024 02:08:18.384] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkProtos$CommandSenderMetadata$Type
+[27Dec2024 02:08:18.387] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkSamplerProtos$SamplerMetadata$ThreadDumper$Type
+[27Dec2024 02:08:18.389] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkSamplerProtos$SamplerMetadata$DataAggregator$Type
+[27Dec2024 02:08:18.390] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkSamplerProtos$SamplerMetadata$DataAggregator$ThreadGrouper
+[27Dec2024 02:08:18.418] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/WireFormat$FieldType
+[27Dec2024 02:08:18.419] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/WireFormat$JavaType
+[27Dec2024 02:08:18.426] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/WindowsWmic
+[27Dec2024 02:08:18.432] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/cpu/CpuInfo
+[27Dec2024 02:08:18.434] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/memory/MemoryInfo
+[27Dec2024 02:08:18.437] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/disk/DiskUsage
+[27Dec2024 02:08:18.447] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/platform/serverconfig/PropertiesConfigParser
+[27Dec2024 02:08:18.487] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentTypeEvaluator$InstallationAction
+[27Dec2024 02:08:18.489] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForModularizedVm
+[27Dec2024 02:08:18.489] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForJ9Vm
+[27Dec2024 02:08:18.490] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForStandardToolsJarVm
+[27Dec2024 02:08:18.490] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForUserDefinedToolsJar
+[27Dec2024 02:08:18.491] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForEmulatedAttachment
+[27Dec2024 02:08:18.491] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$ProcessProvider$ForCurrentVm
+[27Dec2024 02:08:18.493] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AgentProvider$ForByteBuddyAgent
+[27Dec2024 02:08:19.343] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/FieldType
+[27Dec2024 02:08:19.345] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/FieldType$Collection
+[27Dec2024 02:08:19.346] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/JavaType
+[27Dec2024 02:08:19.502] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/Writer$FieldOrder
+[27Dec2024 02:08:20.813] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Profiler stopped & upload complete!
+[27Dec2024 02:08:20.816] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: https://spark.lucko.me/SaCAqoQAfy
+[27Dec2024 02:08:20.820] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)
+[27Dec2024 02:08:21.333] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3220, l='ServerLevel[world]', x=324.50, y=74.00, z=173.50]
+[27Dec2024 02:08:50.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Discreet Search]
+[27Dec2024 02:08:59.379] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[27Dec2024 02:11:01.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkanenn lost connection: Disconnected
+[27Dec2024 02:11:01.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn left the game
+[27Dec2024 02:14:07.882] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3665, l='ServerLevel[world]', x=325.50, y=77.00, z=137.50]
+[27Dec2024 02:14:17.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkanenn[/127.250.83.27:37535] logged in with entity id 3677 at (222.75983220533675, 78.0, 179.8411859368274)
+[27Dec2024 02:14:17.684] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Arkanenn
+[27Dec2024 02:14:17.685] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Arkanenn
+[27Dec2024 02:14:17.686] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Arkanenn
+[27Dec2024 02:14:17.686] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Arkanenn
+[27Dec2024 02:14:17.690] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Arkanenn
+[27Dec2024 02:14:17.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Arkanenn
+[27Dec2024 02:14:17.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Arkanenn
+[27Dec2024 02:14:17.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn joined the game
+[27Dec2024 02:14:17.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [The Most Useful Key]
+[27Dec2024 02:14:17.888] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[27Dec2024 02:14:17.907] [Server thread/INFO] [Jade/]: Syncing config to Arkanenn (9cec9663-a88f-3331-a121-6c630f3d8724)
