@@ -5848,3 +5848,7 @@ java.lang.NullPointerException: Element not found: amount
 [27Dec2024 02:14:17.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn has made the advancement [The Most Useful Key]
 [27Dec2024 02:14:17.888] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [27Dec2024 02:14:17.907] [Server thread/INFO] [Jade/]: Syncing config to Arkanenn (9cec9663-a88f-3331-a121-6c630f3d8724)
+[27Dec2024 02:21:11.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkanenn lost connection: Disconnected
+[27Dec2024 02:21:11.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkanenn left the game
+[27Dec2024 02:22:07.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[27Dec2024 02:22:07.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
