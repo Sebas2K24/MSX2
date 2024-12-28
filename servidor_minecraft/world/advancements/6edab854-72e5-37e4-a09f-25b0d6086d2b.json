@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-12-28 03:55:41 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/gilded_quiver": {
     "criteria": {
       "has_ingots_gold": "2024-12-28 03:39:26 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2024-12-28 03:40:08 +0000"
@@ -212,6 +224,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -269,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/priority_key": {
     "criteria": {
       "has_template": "2024-12-28 03:24:00 +0000"
@@ -320,6 +344,12 @@
   "blue_skies:recipes/tools/ventium_bucket": {
     "criteria": {
       "has_item": "2024-12-28 03:38:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -503,6 +533,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-12-28 03:40:08 +0000"
@@ -560,6 +596,12 @@
   "mcwfencesbop:recipes/hellbark_hedge": {
     "criteria": {
       "has_birch": "2024-12-28 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -635,9 +677,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/void_upgrade": {
     "criteria": {
       "has_template": "2024-12-28 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -668,6 +722,12 @@
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2024-12-28 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/knife": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -707,6 +767,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/wrench": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2024-12-28 03:24:00 +0000"
@@ -716,6 +782,12 @@
   "mcwfencesbop:recipes/fir": {
     "criteria": {
       "has_acacia": "2024-12-28 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -818,6 +890,12 @@
   "barteringstation:recipes/decorations/bartering_station": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-28 03:55:41 +0000"
     },
     "done": true
   },
@@ -941,6 +1019,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/spatula": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 03:39:26 +0000"
@@ -983,6 +1067,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2024-12-28 03:24:00 +0000"
@@ -992,6 +1082,12 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2024-12-28 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -1057,6 +1153,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-28 03:55:41 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2024-12-28 03:24:00 +0000"
@@ -1078,6 +1186,18 @@
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-28 03:40:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -1117,9 +1237,27 @@
     },
     "done": true
   },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/chisel_diamond": {
     "criteria": {
       "has_rod": "2024-12-28 03:40:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -1218,6 +1356,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2024-12-28 03:40:08 +0000"
@@ -1266,6 +1410,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-28 03:55:41 +0000"
+    },
+    "done": true
+  },
   "bc:recipes/decorations/spruce_campfire": {
     "criteria": {
       "has_stick": "2024-12-28 03:40:08 +0000"
@@ -1287,6 +1437,12 @@
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2024-12-28 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -1324,6 +1480,18 @@
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
       "has_items": "2024-12-28 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -1369,6 +1537,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-28 03:43:32 +0000"
@@ -1411,6 +1585,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/measuring_tape": {
+    "criteria": {
+      "has_s": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/umbran_hedge": {
     "criteria": {
       "has_birch": "2024-12-28 03:24:00 +0000"
@@ -1444,6 +1624,12 @@
   "mcwlights:recipes/gold_stuff": {
     "criteria": {
       "has_wood": "2024-12-28 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -1496,6 +1682,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mud_brick": {
     "criteria": {
       "has_qq": "2024-12-28 03:24:00 +0000"
@@ -1514,6 +1706,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-28 03:24:00 +0000"
@@ -1529,6 +1727,12 @@
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "has_emerald": "2024-12-28 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -1559,6 +1763,12 @@
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2024-12-28 03:39:36 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2024-12-28 03:55:45 +0000"
     },
     "done": true
   },
@@ -1815,6 +2025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2024-12-28 03:39:26 +0000"
@@ -1830,6 +2046,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2024-12-28 03:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-28 04:01:13 +0000"
     },
     "done": true
   },
@@ -1891,6 +2113,24 @@
   "corail_woodcutter:recipes/from_spruce_planks": {
     "criteria": {
       "has_ingredient": "2024-12-28 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-28 04:01:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2024-12-28 03:55:42 +0000"
     },
     "done": true
   },
