@@ -845,6 +845,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/requiem_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-28 04:41:28 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/hellbark_hedge": {
     "criteria": {
       "has_birch": "2024-12-28 03:24:00 +0000"
@@ -1127,6 +1133,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-28 04:36:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2024-12-28 04:10:37 +0000"
@@ -1145,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-28 04:36:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2024-12-28 04:10:37 +0000"
@@ -1160,6 +1178,12 @@
   "corail_woodcutter:recipes/biomesoplenty/from_jacaranda_planks": {
     "criteria": {
       "has_ingredient": "2024-12-28 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-28 04:41:28 +0000"
     },
     "done": true
   },
@@ -1357,7 +1381,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-28 03:43:11 +0000"
+      "bread": "2024-12-28 03:43:11 +0000",
+      "enchanted_golden_apple": "2024-12-28 04:40:16 +0000"
     },
     "done": false
   },
@@ -1583,6 +1608,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/stand_disc": {
+    "criteria": {
+      "has_arrow": "2024-12-28 04:41:28 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_orange": {
     "criteria": {
       "has_stick": "2024-12-28 03:40:08 +0000"
@@ -1727,6 +1758,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
       "has_spruce_planks": "2024-12-28 04:10:37 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/living_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-28 04:41:28 +0000"
     },
     "done": true
   },
