@@ -3,6 +3,7 @@
 	type: "party"
 	owner: "eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0"
 	ranks: {
+		6edab854-72e5-37e4-a09f-25b0d6086d2b: "officer"
 		eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0: "owner"
 		9cec9663-a88f-3331-a121-6c630f3d8724: "officer"
 	}
@@ -18,6 +19,9 @@
 		{ from: "eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0", date: 1734751798883L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Arkanenn\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1734751806861L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Arkanenn\"}]}" }
 		{ from: "eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0", date: 1734751855872L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Arkanenn\"}]}" }
+		{ from: "eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0", date: 1735356967739L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Aarkanen\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735356972863L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Aarkanen\"}]}" }
+		{ from: "eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0", date: 1735356982355L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Aarkanen\"}]}" }
 	]
 	extra: { }
 }

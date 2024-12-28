@@ -2,9 +2,7 @@
 	id: "6edab854-72e5-37e4-a09f-25b0d6086d2b"
 	type: "player"
 	player_name: "Aarkanen"
-	ranks: {
-		6edab854-72e5-37e4-a09f-25b0d6086d2b: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Aarkanen"
 		"ftbteams:description": ""
