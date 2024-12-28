@@ -1381,6 +1381,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-28 04:50:27 +0000",
       "bread": "2024-12-28 03:43:11 +0000",
       "enchanted_golden_apple": "2024-12-28 04:40:16 +0000"
     },
