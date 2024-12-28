@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 03:25:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "coniferous_forest": "2024-12-28 03:24:01 +0000"
@@ -765,7 +771,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "coniferous_forest": "2024-12-28 03:24:01 +0000"
+      "coniferous_forest": "2024-12-28 03:24:01 +0000",
+      "fir_clearing": "2024-12-28 03:27:35 +0000"
     },
     "done": false
   },
