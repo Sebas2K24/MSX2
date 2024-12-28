@@ -6285,3 +6285,36 @@ java.lang.NullPointerException: Element not found: amount
 [28Dec2024 04:57:04.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> :(
 [28Dec2024 04:57:45.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> un zombie tiene a star platinium amor
 [28Dec2024 04:57:52.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor :(
+[28Dec2024 04:59:27.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> lo siento amor, no fue mi intencion dañar la casa
+[28Dec2024 04:59:33.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no sabia que podia hacer eso
+[28Dec2024 04:59:38.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien mi amor, tranquilo
+[28Dec2024 04:59:45.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ya está como nueva
+[28Dec2024 04:59:54.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> probemos los stands afuera amor
+[28Dec2024 05:00:07.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> bueno amor
+[28Dec2024 05:03:05.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> estas molesta conmigo amor?
+[28Dec2024 05:03:12.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> no amor
+[28Dec2024 05:03:19.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> bueno amor
+[28Dec2024 05:03:45.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> no hay mas madera oscura amor
+[28Dec2024 05:03:50.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> tienes?
+[28Dec2024 05:03:53.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> voy amor
+[28Dec2024 05:04:01.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias amor
+[28Dec2024 05:04:25.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ten amor
+[28Dec2024 05:04:29.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ya te busco mas
+[28Dec2024 05:04:35.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias amor
+[28Dec2024 05:04:40.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> de nada amor
+[28Dec2024 05:04:57.522] [pool-11-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow]] from pos BlockPos{x=101, y=81, z=405}
+[28Dec2024 05:04:57.526] [pool-11-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[28Dec2024 05:05:02.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3654ms or 73 ticks behind
+[28Dec2024 05:05:02.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved too quickly! 2.3875488606259694,2.176759275064242,9.493314282323297
+[28Dec2024 05:05:06.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved too quickly! -8.283119483827477,-0.2522033402537289,5.813948862339203
+[28Dec2024 05:05:09.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved too quickly! -10.091536474295083,-0.3739040364667261,-0.32922949675429436
+[28Dec2024 05:05:21.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4134ms or 82 ticks behind
+[28Dec2024 05:06:26.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[28Dec2024 05:06:35.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> toma amor
+[28Dec2024 05:06:43.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias mi amor
+[28Dec2024 05:06:51.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no hay de que amor
+[28Dec2024 05:06:54.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> necesitas arena amor?
+[28Dec2024 05:07:05.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> si amor, porfis
+[28Dec2024 05:07:14.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> vale amor, ya te busco
+[28Dec2024 05:07:40.894] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32166, l='ServerLevel[world]', x=339.50, y=72.00, z=144.50]
+[28Dec2024 05:07:48.295] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32219, l='ServerLevel[world]', x=335.50, y=72.00, z=115.50]
