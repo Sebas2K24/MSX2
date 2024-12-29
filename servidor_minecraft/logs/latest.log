@@ -8366,3 +8366,61 @@ java.lang.NullPointerException: Element not found: amount
 [29Dec2024 04:49:15.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que hora es amor?
 [29Dec2024 04:50:04.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja vamonos
 [29Dec2024 04:50:31.692] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/16881, l='ServerLevel[world]', x=341.78, y=3.00, z=243.81]
+[29Dec2024 04:50:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> toma amor
+[29Dec2024 04:51:17.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias amor
+[29Dec2024 04:51:25.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> no me dijiste la hora jajajaja
+[29Dec2024 04:51:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amor?
+[29Dec2024 04:52:05.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ?
+[29Dec2024 04:52:12.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> la hora amor
+[29Dec2024 04:52:20.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> oh, bueno amor
+[29Dec2024 04:52:24.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> volvamos a casa
+[29Dec2024 04:52:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ya vengo
+[29Dec2024 04:52:37.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> vere la hora
+[29Dec2024 04:53:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> yap, no sabia donde estaba mi telefono amor
+[29Dec2024 04:53:59.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> entiendo amor
+[29Dec2024 04:54:09.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> a donde vas amor?
+[29Dec2024 04:54:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> a casa
+[29Dec2024 04:54:19.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> para?
+[29Dec2024 04:54:27.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> me dijiste la hora amor
+[29Dec2024 04:54:37.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> si amor, y no me la dijiste
+[29Dec2024 04:55:01.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> oh, lo siento mucho amor
+[29Dec2024 04:55:04.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no vi el mensaje
+[29Dec2024 04:55:19.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> y lo vi luego que me dijiste, y pense que te referias a irnos
+[29Dec2024 04:55:21.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> te escribi tres veces
+[29Dec2024 04:55:33.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> pense que te referias a irnos amor
+[29Dec2024 04:55:36.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> lo siento
+[29Dec2024 04:56:04.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> entre tantos mensajes se me paso
+[29Dec2024 04:56:06.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> disculpa amor
+[29Dec2024 04:56:06.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> bueno
+[29Dec2024 04:56:13.253] [Server thread/WARN] [tombstone/]: The death event of the player Aarkanen was canceled by another mod
+[29Dec2024 04:56:13.255] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
+[29Dec2024 04:56:54.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor
+[29Dec2024 04:57:06.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=26, z=202} BlockPos{x=291, y=26, z=202}
+[29Dec2024 04:57:06.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=26, z=202} BlockPos{x=291, y=26, z=202}
+[29Dec2024 04:57:06.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=26, z=202} BlockPos{x=291, y=26, z=202}
+[29Dec2024 04:57:06.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=26, z=202} BlockPos{x=291, y=26, z=202}
+[29Dec2024 04:57:06.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=26, z=202} BlockPos{x=291, y=26, z=202}
+[29Dec2024 04:57:06.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=26, z=202} BlockPos{x=291, y=26, z=202}
+[29Dec2024 04:57:06.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=26, z=202} BlockPos{x=291, y=26, z=202}
+[29Dec2024 04:57:21.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> amor?
+[29Dec2024 04:57:30.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> volvamos amor, no tengo comida
+[29Dec2024 04:57:37.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> yo tengo amor
+[29Dec2024 04:58:08.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> toma amor
+[29Dec2024 04:58:32.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias amoe
+[29Dec2024 04:58:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> de nada amor
+[29Dec2024 04:58:49.456] [Server thread/WARN] [tombstone/]: The death event of the player Aarkanen was canceled by another mod
+[29Dec2024 04:58:49.458] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
+[29Dec2024 04:59:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> perdon amor
+[29Dec2024 04:59:14.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor
+[29Dec2024 04:59:30.493] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/18103, l='ServerLevel[world]', x=169.07, y=62.00, z=216.68]
+[29Dec2024 04:59:55.300] [Server thread/WARN] [tombstone/]: The death event of the player Aarkanen was canceled by another mod
+[29Dec2024 04:59:55.304] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
+[29Dec2024 05:00:03.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [Strong or Careful]
+[29Dec2024 05:00:03.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen was slain by Sebas2K24
+[29Dec2024 05:00:03.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[29Dec2024 05:00:03.021] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
+[29Dec2024 05:00:11.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [The Most Useful Key]
+[29Dec2024 05:00:11.265] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/18103, l='ServerLevel[world]', x=169.07, y=62.00, z=216.68]
+[29Dec2024 05:00:27.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [Here They Come]
+[29Dec2024 05:00:34.205] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[29Dec2024 05:00:34.211] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
