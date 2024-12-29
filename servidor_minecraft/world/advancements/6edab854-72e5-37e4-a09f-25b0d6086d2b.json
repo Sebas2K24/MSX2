@@ -3679,6 +3679,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-29 03:16:51 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/biomesoplenty/fir_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-29 03:01:32 +0000"

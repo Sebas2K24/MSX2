@@ -9632,6 +9632,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-29 03:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-29 03:16:30 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/picket_fence": {
     "criteria": {
       "has_key_item_0": "2024-12-29 03:04:09 +0000"
@@ -9677,6 +9689,12 @@
   "adorn:recipes/cobblestone_post": {
     "criteria": {
       "has_cobblestone": "2024-12-29 03:04:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2024-12-29 03:16:34 +0000"
     },
     "done": true
   },
