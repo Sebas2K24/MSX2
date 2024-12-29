@@ -8424,3 +8424,33 @@ java.lang.NullPointerException: Element not found: amount
 [29Dec2024 05:00:27.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [Here They Come]
 [29Dec2024 05:00:34.205] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
 [29Dec2024 05:00:34.211] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[29Dec2024 05:01:19.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[29Dec2024 05:01:23.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/arna/jcraft/common/gravity/util/NetworkUtil$PacketMode
+[29Dec2024 05:01:26.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: The difficulty has been set to Peaceful]
+[29Dec2024 05:01:26.447] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/18220, l='ServerLevel[world]', x=426.50, y=47.00, z=20.50]
+[29Dec2024 05:01:37.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> lo siento amor
+[29Dec2024 05:02:00.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que era eso?
+[29Dec2024 05:02:04.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no se amor
+[29Dec2024 05:02:06.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> tranquilo amor
+[29Dec2024 05:02:36.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ven amor
+[29Dec2024 05:02:40.471] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[29Dec2024 05:05:01.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ya amor?
+[29Dec2024 05:05:13.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ya que amor=
+[29Dec2024 05:05:14.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ?
+[29Dec2024 05:05:20.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> revisaste los cofres?
+[29Dec2024 05:05:32.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> voy a eso amor
+[29Dec2024 05:05:36.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> vale amor
+[29Dec2024 05:07:03.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> volvamos a casa amor
+[29Dec2024 05:07:06.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Acquire Hardware]
+[29Dec2024 05:07:16.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor
+[29Dec2024 05:07:19.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> mañana seguimos con esto porque aun queda mas por explorar
+[29Dec2024 05:07:23.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> no hay mas cofres?
+[29Dec2024 05:07:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> entiendo
+[29Dec2024 05:07:29.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor, hay mas
+[29Dec2024 05:08:16.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> los revisare y nos vamos
+[29Dec2024 05:08:19.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ven amor
+[29Dec2024 05:08:22.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> voy amor
+[29Dec2024 05:08:25.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Diamonds!]
+[29Dec2024 05:08:45.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ve ese amor
+[29Dec2024 05:08:55.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> gracias amor, esta mejor
+[29Dec2024 05:09:16.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que genial amor

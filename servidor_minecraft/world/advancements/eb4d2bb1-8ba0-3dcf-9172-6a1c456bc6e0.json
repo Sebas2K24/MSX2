@@ -1499,6 +1499,7 @@
       "minecraft:vindicator": "2024-12-21 03:42:40 +0000",
       "minecraft:spider": "2024-12-21 03:41:37 +0000",
       "minecraft:creeper": "2024-12-20 05:00:48 +0000",
+      "minecraft:wither_skeleton": "2024-12-29 04:59:58 +0000",
       "minecraft:husk": "2024-12-20 04:13:43 +0000",
       "minecraft:cave_spider": "2024-12-29 04:38:23 +0000",
       "minecraft:stray": "2024-12-21 05:19:07 +0000",
@@ -9586,6 +9587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-29 05:03:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-29 04:01:37 +0000"
@@ -9628,6 +9635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 05:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-29 04:08:26 +0000"
@@ -9664,6 +9677,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:03:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
     "criteria": {
       "has_oak_planks": "2024-12-29 04:01:37 +0000"
@@ -9682,6 +9701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 05:03:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2024-12-29 04:01:37 +0000"
@@ -9694,6 +9719,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-29 04:01:37 +0000"
@@ -9703,6 +9734,12 @@
   "adorn:recipes/oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-29 04:01:37 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2024-12-29 05:03:53 +0000"
     },
     "done": true
   },
@@ -9940,15 +9977,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-29 05:03:40 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2024-12-29 04:01:37 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:03:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_chair": {
     "criteria": {
       "has_oak_chair": "2024-12-29 04:01:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:03:53 +0000"
     },
     "done": true
   },
@@ -9982,6 +10037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 05:03:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_park_bench": {
     "criteria": {
       "has_planks": "2024-12-29 04:01:37 +0000"
@@ -10000,6 +10061,12 @@
     },
     "done": true
   },
+  "adorn:recipes/mossy_cobblestone_post": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 05:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-29 04:41:03 +0000"
@@ -10015,6 +10082,12 @@
   "adorn:recipes/mug": {
     "criteria": {
       "has_glass_bottle": "2024-12-29 04:36:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:03:53 +0000"
     },
     "done": true
   },
@@ -10063,6 +10136,12 @@
   "adorn:recipes/dark_oak_post": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-29 03:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 05:03:53 +0000"
     },
     "done": true
   },
@@ -10216,6 +10295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 05:03:53 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/bomb": {
     "criteria": {
       "has_item": "2024-12-29 04:24:00 +0000"
@@ -10282,6 +10367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 05:03:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2024-12-29 04:08:26 +0000"
@@ -10312,6 +10403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-29 05:03:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-29 04:41:03 +0000"
@@ -10321,6 +10418,12 @@
   "adorn:recipes/white_table_lamp": {
     "criteria": {
       "has_carpet": "2024-12-29 03:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-29 05:03:40 +0000"
     },
     "done": true
   },
@@ -10483,6 +10586,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-29 04:03:04 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:03:53 +0000"
     },
     "done": true
   },
