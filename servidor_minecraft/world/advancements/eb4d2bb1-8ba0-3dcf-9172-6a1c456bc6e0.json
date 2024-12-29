@@ -10433,6 +10433,12 @@
     },
     "done": true
   },
+  "celestisynth:obtain_poltergeist": {
+    "criteria": {
+      "criteria": "2024-12-29 05:18:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
     "criteria": {
       "has_oak_planks": "2024-12-29 04:01:37 +0000"
@@ -10496,6 +10502,12 @@
   "mcwtrpdoors:recipes/print_whispering": {
     "criteria": {
       "has_logs": "2024-12-29 03:16:34 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_keres": {
+    "criteria": {
+      "criteria": "2024-12-29 05:19:11 +0000"
     },
     "done": true
   },
