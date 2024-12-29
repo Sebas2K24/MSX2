@@ -1937,6 +1937,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-29 04:14:12 +0000",
       "minecraft:spider": "2024-12-28 03:55:41 +0000",
+      "minecraft:cave_spider": "2024-12-29 04:44:05 +0000",
       "minecraft:stray": "2024-12-29 04:03:06 +0000",
       "minecraft:zombie": "2024-12-28 04:07:59 +0000"
     },
@@ -4888,6 +4889,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-29 04:46:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_cooler": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
@@ -4897,6 +4904,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2024-12-29 03:50:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-29 04:44:54 +0000"
     },
     "done": true
   },
@@ -5248,6 +5261,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-29 04:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-29 04:01:30 +0000"
@@ -5281,6 +5300,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-12-29 04:18:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-29 04:46:08 +0000"
     },
     "done": true
   },

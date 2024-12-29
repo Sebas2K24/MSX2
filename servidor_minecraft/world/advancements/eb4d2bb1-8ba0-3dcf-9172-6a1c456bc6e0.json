@@ -1500,6 +1500,7 @@
       "minecraft:spider": "2024-12-21 03:41:37 +0000",
       "minecraft:creeper": "2024-12-20 05:00:48 +0000",
       "minecraft:husk": "2024-12-20 04:13:43 +0000",
+      "minecraft:cave_spider": "2024-12-29 04:38:23 +0000",
       "minecraft:stray": "2024-12-21 05:19:07 +0000",
       "minecraft:enderman": "2024-12-28 04:07:52 +0000",
       "minecraft:zombie": "2024-12-20 02:32:50 +0000",
@@ -9633,6 +9634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:41:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-29 04:01:37 +0000"
@@ -9726,6 +9733,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-29 04:01:37 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/glass_bells": {
+    "criteria": {
+      "has_bottle": "2024-12-29 04:36:34 +0000"
     },
     "done": true
   },
@@ -9987,9 +10000,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:41:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-29 04:27:04 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mug": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-29 04:36:34 +0000"
     },
     "done": true
   },
@@ -10149,6 +10174,18 @@
     },
     "done": true
   },
+  "adorn:recipes/mossy_stone_brick_post": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:41:03 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2024-12-29 04:09:05 +0000"
@@ -10263,9 +10300,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:41:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-12-29 04:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:41:03 +0000"
     },
     "done": true
   },
@@ -10377,6 +10426,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:41:03 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2024-12-29 03:49:32 +0000"
@@ -10428,6 +10483,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-29 04:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:41:03 +0000"
     },
     "done": true
   },
