@@ -123,7 +123,7 @@
 
 		[cyclic.enchantment.excavate]
 			# Set false to stop enchantment from working
-			enabled = true
+			enabled = false
 
 		[cyclic.enchantment.growth]
 			# Set false to stop enchantment from working
