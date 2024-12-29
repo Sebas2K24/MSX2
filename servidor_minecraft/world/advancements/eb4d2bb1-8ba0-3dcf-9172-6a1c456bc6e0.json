@@ -9623,6 +9623,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_orange2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/oak_post": {
     "criteria": {
       "has_oak_planks": "2024-12-29 04:01:37 +0000"
@@ -9674,6 +9680,12 @@
   "handcrafted:recipes/misc/oak_drawer": {
     "criteria": {
       "has_oak_drawer": "2024-12-29 04:01:37 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
     },
     "done": true
   },
@@ -9743,6 +9755,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/dark_oak_kitchen_cupboard": {
     "criteria": {
       "has_planks": "2024-12-29 03:04:09 +0000"
@@ -9770,6 +9788,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-29 04:01:37 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
     },
     "done": true
   },
@@ -9929,6 +9953,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_oak_bench": "2024-12-29 04:01:37 +0000"
@@ -10004,6 +10034,12 @@
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
       "has_planks": "2024-12-29 05:03:53 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
     },
     "done": true
   },
@@ -10181,6 +10217,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2024-12-29 04:01:37 +0000"
@@ -10214,6 +10256,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-12-29 04:02:19 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
     },
     "done": true
   },
@@ -10457,6 +10505,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2024-12-29 03:29:46 +0000"
@@ -10511,6 +10565,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-29 04:01:37 +0000"
@@ -10547,15 +10607,39 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2024-12-29 03:49:32 +0000"
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2024-12-29 05:27:49 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/oak_kitchen_sink": {
     "criteria": {
       "has_planks": "2024-12-29 04:01:37 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
     },
     "done": true
   },
@@ -10580,6 +10664,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-29 04:01:37 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-29 05:27:49 +0000"
     },
     "done": true
   },
@@ -10610,6 +10700,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-29 04:41:03 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass1": {
+    "criteria": {
+      "recipe_condition": "2024-12-29 05:27:49 +0000"
     },
     "done": true
   },

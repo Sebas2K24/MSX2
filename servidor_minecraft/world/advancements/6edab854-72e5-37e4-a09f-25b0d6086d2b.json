@@ -5713,6 +5713,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-29 05:26:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
