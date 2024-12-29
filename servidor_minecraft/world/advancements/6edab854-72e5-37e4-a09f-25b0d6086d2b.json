@@ -1793,7 +1793,8 @@
       "apple": "2024-12-29 04:55:52 +0000",
       "bread": "2024-12-28 03:43:11 +0000",
       "golden_apple": "2024-12-29 04:15:00 +0000",
-      "enchanted_golden_apple": "2024-12-28 04:40:16 +0000"
+      "enchanted_golden_apple": "2024-12-28 04:40:16 +0000",
+      "carrot": "2024-12-29 05:40:39 +0000"
     },
     "done": false
   },
@@ -4063,6 +4064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 05:37:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-29 04:08:38 +0000"
@@ -4312,6 +4319,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-29 05:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 05:37:43 +0000"
     },
     "done": true
   },
@@ -5515,6 +5528,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 05:37:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 05:07:07 +0000"
@@ -6037,6 +6056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 05:37:43 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-29 05:07:06 +0000"
@@ -6160,6 +6185,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-29 05:08:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 05:37:43 +0000"
     },
     "done": true
   },
@@ -6391,6 +6422,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 05:37:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2024-12-29 04:08:38 +0000"
@@ -6466,6 +6503,18 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-29 04:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 05:37:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 05:37:43 +0000"
     },
     "done": true
   },
@@ -6640,6 +6689,12 @@
   "travelersbackpack:recipes/misc/hose_nozzle": {
     "criteria": {
       "has_iron": "2024-12-29 05:07:06 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-29 05:37:20 +0000"
     },
     "done": true
   },
