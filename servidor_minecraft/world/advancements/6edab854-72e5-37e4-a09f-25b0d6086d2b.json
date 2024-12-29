@@ -1935,6 +1935,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2024-12-28 03:55:41 +0000",
+      "minecraft:stray": "2024-12-29 04:03:06 +0000",
       "minecraft:zombie": "2024-12-28 04:07:59 +0000"
     },
     "done": false
@@ -3679,6 +3680,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-12-29 04:00:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
@@ -3697,6 +3704,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 04:05:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-29 03:16:51 +0000"
@@ -3706,6 +3719,12 @@
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:04:40 +0000"
     },
     "done": true
   },
@@ -3745,6 +3764,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2024-12-29 04:05:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
@@ -3754,6 +3779,12 @@
   "mining_dimension:recipes/decorations/teleporter": {
     "criteria": {
       "has_log": "2024-12-29 03:50:19 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2024-12-29 04:01:36 +0000"
     },
     "done": true
   },
@@ -3787,6 +3818,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/glass_bells": {
+    "criteria": {
+      "has_bottle": "2024-12-29 04:01:40 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2024-12-29 03:50:19 +0000"
@@ -3796,6 +3839,12 @@
   "cfm:recipes/decorations/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 04:01:30 +0000"
     },
     "done": true
   },
@@ -3811,6 +3860,24 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_cooler": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
@@ -3823,9 +3890,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-29 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:04:25 +0000"
     },
     "done": true
   },
@@ -3835,15 +3914,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/biomesoplenty/fir_kitchen_sink": {
     "criteria": {
       "has_planks": "2024-12-29 03:01:32 +0000"
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-29 04:05:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2024-12-29 04:01:36 +0000"
     },
     "done": true
   },
@@ -3859,6 +3956,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
@@ -3868,6 +3983,12 @@
   "woodenhopper:recipes/redstone/wooden_hopper": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-29 04:01:36 +0000"
     },
     "done": true
   },
@@ -3883,6 +4004,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_cooler": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
@@ -3895,9 +4022,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-29 04:01:36 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 04:01:30 +0000"
     },
     "done": true
   },
@@ -3925,15 +4064,51 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_wood": "2024-12-29 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-12-29 04:00:57 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/picket_fence": {
     "criteria": {
       "has_key_item_0": "2024-12-29 03:01:32 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/biomesoplenty/fir_post": {
     "criteria": {
       "has_fir_planks": "2024-12-29 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:04:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-29 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mug": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-29 04:01:40 +0000"
     },
     "done": true
   },
@@ -3979,6 +4154,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "bonetorch:recipes/decorations/bonetorch": {
+    "criteria": {
+      "has_bone": "2024-12-29 04:01:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
@@ -3997,9 +4184,33 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/cobblestone": {
+    "criteria": {
+      "has_wood": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 04:05:19 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2024-12-29 04:02:19 +0000"
     },
     "done": true
   },
@@ -4009,9 +4220,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-29 04:05:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 04:05:19 +0000"
     },
     "done": true
   },
@@ -4027,9 +4250,39 @@
     },
     "done": true
   },
+  "adchimneys:recipes/building_blocks/cobblestone_chimney": {
+    "criteria": {
+      "has_item": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-29 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 04:04:40 +0000"
     },
     "done": true
   },
@@ -4051,9 +4304,45 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2024-12-29 04:00:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "has_iron_bars": "2024-12-29 04:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_light": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mossy_stone_brick_post": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:04:40 +0000"
     },
     "done": true
   },
@@ -4087,9 +4376,21 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-29 04:01:28 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
     },
     "done": true
   },
@@ -4117,6 +4418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-29 04:04:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_cooler": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
@@ -4126,6 +4433,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2024-12-29 03:50:19 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2024-12-29 04:01:36 +0000"
     },
     "done": true
   },
@@ -4171,9 +4484,27 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_wood": "2024-12-29 04:05:29 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/chiseled_printer": {
     "criteria": {
       "has_l": "2024-12-29 03:50:19 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/sealant": {
+    "criteria": {
+      "has_tag_a": "2024-12-29 04:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:04:40 +0000"
     },
     "done": true
   },
@@ -4195,9 +4526,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:04:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_cooler": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-29 04:01:28 +0000"
     },
     "done": true
   },
@@ -4207,9 +4556,57 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-12-29 04:00:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2024-12-29 04:01:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cobblestone_post": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 04:05:19 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2024-12-29 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-29 04:04:40 +0000"
+    },
+    "done": true
+  },
+  "adchimneys:recipes/building_blocks/large_brick_chimney": {
+    "criteria": {
+      "has_item": "2024-12-29 04:04:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-12-29 04:05:29 +0000"
     },
     "done": true
   },
@@ -4222,6 +4619,12 @@
   "storagedrawers:recipes/storagedrawers/birch_drawers": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2024-12-29 04:01:36 +0000"
     },
     "done": true
   },
@@ -4255,6 +4658,30 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 04:01:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 04:05:19 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/misc/item_trash_can": {
     "criteria": {
       "recipe_condition": "2024-12-29 03:50:33 +0000"
@@ -4273,9 +4700,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-29 04:01:36 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/spruce_kitchen_sink": {
     "criteria": {
       "has_planks": "2024-12-29 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-29 04:05:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2024-12-29 04:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
     },
     "done": true
   },
@@ -4291,9 +4748,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-29 04:04:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-29 03:50:33 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_wood": "2024-12-29 04:05:29 +0000"
     },
     "done": true
   },
