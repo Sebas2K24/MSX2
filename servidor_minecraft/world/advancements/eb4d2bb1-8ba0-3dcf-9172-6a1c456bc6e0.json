@@ -9632,6 +9632,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2024-12-29 03:29:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-29 03:16:30 +0000"
@@ -9674,6 +9680,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-29 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2024-12-29 03:29:46 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_brick_chimney": {
     "criteria": {
       "has_key_item_0": "2024-12-29 03:04:09 +0000"
@@ -9683,6 +9701,12 @@
   "adorn:recipes/white_table_lamp": {
     "criteria": {
       "has_carpet": "2024-12-29 03:04:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2024-12-29 03:29:46 +0000"
     },
     "done": true
   },
@@ -9704,9 +9728,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2024-12-29 03:29:46 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/dark_oak_kitchen_sink": {
     "criteria": {
       "has_planks": "2024-12-29 03:04:09 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_gold_block_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-29 03:29:46 +0000"
     },
     "done": true
   },
