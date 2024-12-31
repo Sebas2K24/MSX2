@@ -6204,3 +6204,52 @@ When a ticking exception occurs on a normal Entity Neruina will kill it to preve
 [31Dec2024 04:34:37.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> sali como pude
 [31Dec2024 04:34:49.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ya veo amor
 [31Dec2024 04:34:58.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> regresemos
+[31Dec2024 04:35:21.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> va amor
+[31Dec2024 04:35:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> y el duende?
+[31Dec2024 04:35:38.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que se quede asi jajajaj
+[31Dec2024 04:35:41.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> luego busco uno
+[31Dec2024 04:35:47.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ajajajaja
+[31Dec2024 04:35:49.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> va amor
+[31Dec2024 04:35:59.357] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/8766, l='ServerLevel[world]', x=159.80, y=39.00, z=278.22]
+[31Dec2024 04:36:15.366] [Server thread/WARN] [tombstone/]: The death event of the player Aarkanen was canceled by another mod
+[31Dec2024 04:36:15.369] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
+[31Dec2024 04:36:54.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias mi amor
+[31Dec2024 04:36:57.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no hay de que amor
+[31Dec2024 04:37:40.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has completed the challenge [Overkill]
+[31Dec2024 04:38:08.820] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/11600, l='ServerLevel[world]', x=135.22, y=6.00, z=223.19]
+[31Dec2024 04:38:21.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> creo que ya lo completamos amor
+[31Dec2024 04:38:26.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> genial amor
+[31Dec2024 04:39:21.816] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/12089, l='ServerLevel[world]', x=260.51, y=41.00, z=63.64]
+[31Dec2024 04:40:11.610] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/9169, l='ServerLevel[world]', x=141.92, y=-20.00, z=290.41]
+[31Dec2024 04:40:11.611] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/11600, l='ServerLevel[world]', x=135.22, y=6.00, z=223.19]
+[31Dec2024 04:40:43.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> opa
+[31Dec2024 04:40:44.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> perdon amor
+[31Dec2024 04:40:50.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja tranquila amor
+[31Dec2024 04:41:25.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=220, y=52, z=192} BlockPos{x=206, y=52, z=192}
+[31Dec2024 04:41:31.967] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[31Dec2024 04:41:31.971] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[31Dec2024 04:41:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> kheeeeeeeeee
+[31Dec2024 04:41:40.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amooooooooooooooooor
+[31Dec2024 04:41:44.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> el delvacio
+[31Dec2024 04:41:45.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> nawebona de roto
+[31Dec2024 04:41:52.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[31Dec2024 04:41:54.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> sip
+[31Dec2024 04:42:00.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ayudita
+[31Dec2024 04:42:04.062] [Server thread/WARN] [tombstone/]: The death event of the player Aarkanen was canceled by another mod
+[31Dec2024 04:42:04.068] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
+[31Dec2024 04:42:10.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajajja
+[31Dec2024 04:42:16.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 was slain by Zombie
+[31Dec2024 04:42:27.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajajaja
+[31Dec2024 04:42:34.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[31Dec2024 04:42:50.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias amor
+[31Dec2024 04:42:55.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> de nada amor
+[31Dec2024 04:43:10.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[31Dec2024 04:43:14.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amor me quede oegada
+[31Dec2024 04:43:17.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que roto
+[31Dec2024 04:43:21.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> mi mira se enlazó en ti
+[31Dec2024 04:43:29.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siii
+[31Dec2024 04:43:30.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor, presionaste la g
+[31Dec2024 04:44:33.113] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/7477, l='ServerLevel[world]', x=110.50, y=-3.00, z=238.44]
+[31Dec2024 04:44:42.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> una cucaracha
+[31Dec2024 04:45:02.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> mira amor
+[31Dec2024 04:45:03.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> iuuuuuu
