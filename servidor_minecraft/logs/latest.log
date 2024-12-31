@@ -6032,3 +6032,30 @@ java.lang.NullPointerException: Element not found: amount
 [31Dec2024 03:53:44.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja
 [31Dec2024 03:54:36.939] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
 [31Dec2024 03:54:36.940] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[31Dec2024 03:55:07.909] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/5032, l='ServerLevel[world]', x=241.10, y=52.00, z=82.30]
+[31Dec2024 03:55:38.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> por aqui amor
+[31Dec2024 03:56:34.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> come amor
+[31Dec2024 03:56:55.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> disculpa amor
+[31Dec2024 03:56:59.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tranquila amor
+[31Dec2024 03:58:01.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> amoooor
+[31Dec2024 03:58:10.367] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[31Dec2024 03:58:24.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> donde estas amor?
+[31Dec2024 03:58:30.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> bajaaa
+[31Dec2024 03:59:07.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> amor?
+[31Dec2024 03:59:55.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aarkanen lost connection: Disconnected
+[31Dec2024 03:59:55.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen left the game
+[31Dec2024 03:59:55.611] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b
+[31Dec2024 04:02:56.096] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/StatisticFormatter
+[31Dec2024 04:02:56.101] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/FormatUtil
+[31Dec2024 04:04:19.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aarkanen[/127.12.244.94:55077] logged in with entity id 7462 at (221.04853188247702, 16.0, 190.846293447523)
+[31Dec2024 04:04:19.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Aarkanen
+[31Dec2024 04:04:19.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Aarkanen
+[31Dec2024 04:04:19.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Aarkanen
+[31Dec2024 04:04:19.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Aarkanen
+[31Dec2024 04:04:19.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Aarkanen
+[31Dec2024 04:04:19.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Aarkanen
+[31Dec2024 04:04:19.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Aarkanen
+[31Dec2024 04:04:19.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen joined the game
+[31Dec2024 04:04:19.345] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b
+[31Dec2024 04:04:19.370] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[31Dec2024 04:04:19.385] [Server thread/INFO] [Jade/]: Syncing config to Aarkanen (6edab854-72e5-37e4-a09f-25b0d6086d2b)

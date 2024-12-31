@@ -10790,9 +10790,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2024-12-31 03:57:42 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/spruce_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-31 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-12-31 03:57:42 +0000"
     },
     "done": true
   },
@@ -10814,9 +10826,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-31 03:57:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2024-12-31 03:57:42 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/spruce_kitchen_sink": {
     "criteria": {
       "has_planks": "2024-12-31 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-31 03:57:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2024-12-31 03:57:42 +0000"
     },
     "done": true
   },
