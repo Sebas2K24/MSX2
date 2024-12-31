@@ -6981,6 +6981,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 03:32:46 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed": "2024-12-31 03:17:14 +0000"
