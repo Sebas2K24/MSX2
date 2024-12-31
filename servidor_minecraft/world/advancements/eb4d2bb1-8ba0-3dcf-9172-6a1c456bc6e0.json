@@ -11072,6 +11072,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2024-12-31 04:46:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2024-12-31 04:33:00 +0000"
@@ -11267,6 +11273,12 @@
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2024-12-31 04:33:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-12-31 04:45:55 +0000"
     },
     "done": true
   },

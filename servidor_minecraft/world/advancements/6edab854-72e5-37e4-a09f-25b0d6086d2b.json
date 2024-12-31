@@ -989,6 +989,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "moor": "2024-12-31 04:50:11 +0000",
       "coniferous_forest": "2024-12-28 03:24:01 +0000",
       "fir_clearing": "2024-12-28 03:27:35 +0000"
     },
