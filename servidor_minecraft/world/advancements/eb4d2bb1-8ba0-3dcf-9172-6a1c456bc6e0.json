@@ -11073,6 +11073,12 @@
     },
     "done": true
   },
+  "adorn:recipes/stone_platform": {
+    "criteria": {
+      "has_slab": "2024-12-31 05:12:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2024-12-31 04:33:00 +0000"
@@ -11106,6 +11112,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-31 05:03:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_step": {
+    "criteria": {
+      "has_slab": "2024-12-31 05:12:54 +0000"
     },
     "done": true
   },
