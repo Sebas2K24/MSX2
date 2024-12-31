@@ -997,6 +997,7 @@
     "criteria": {
       "muskeg": "2024-12-21 05:28:56 +0000",
       "shrubland": "2024-12-21 04:25:29 +0000",
+      "highland": "2024-12-31 05:05:18 +0000",
       "moor": "2024-12-30 00:55:55 +0000",
       "coniferous_forest": "2024-12-20 02:10:21 +0000",
       "dune_beach": "2024-12-21 04:04:50 +0000",
@@ -11102,6 +11103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-31 05:03:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2024-12-31 04:33:00 +0000"
@@ -11147,6 +11154,12 @@
   "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-31 04:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-31 05:03:02 +0000"
     },
     "done": true
   },
@@ -11312,6 +11325,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/sealant": {
+    "criteria": {
+      "has_tag_a": "2024-12-31 05:03:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-31 04:33:17 +0000"
@@ -11342,6 +11361,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2024-12-31 05:03:02 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/maraca": {
     "criteria": {
       "maraca": "2024-12-31 04:45:55 +0000"
@@ -11357,6 +11382,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-31 04:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-31 05:03:02 +0000"
     },
     "done": true
   },
