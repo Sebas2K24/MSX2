@@ -1504,6 +1504,7 @@
       "minecraft:vindicator": "2024-12-21 03:42:40 +0000",
       "minecraft:spider": "2024-12-21 03:41:37 +0000",
       "minecraft:creeper": "2024-12-20 05:00:48 +0000",
+      "minecraft:zombified_piglin": "2025-01-02 03:47:44 +0000",
       "minecraft:wither_skeleton": "2024-12-29 04:59:58 +0000",
       "minecraft:husk": "2024-12-20 04:13:43 +0000",
       "minecraft:cave_spider": "2024-12-29 04:38:23 +0000",
@@ -11525,9 +11526,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-01-02 03:47:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2025-01-02 03:47:54 +0000"
     },
     "done": true
   },
@@ -11573,6 +11586,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/kq_coin": {
+    "criteria": {
+      "has_nugget": "2025-01-02 03:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 03:34:42 +0000"
@@ -11609,6 +11628,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-01-02 03:47:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:34:35 +0000"
@@ -11633,6 +11658,12 @@
     },
     "done": true
   },
+  "adorn:recipes/basalt_post": {
+    "criteria": {
+      "has_basalt": "2025-01-02 03:47:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:34:35 +0000"
@@ -11654,6 +11685,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-02 03:47:54 +0000"
     },
     "done": true
   },
@@ -11705,6 +11742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-02 03:47:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:34:35 +0000"
@@ -11729,15 +11772,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-02 03:47:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-01-02 03:16:33 +0000"
     },
     "done": true
   },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-01-02 03:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-02 03:46:01 +0000"
     },
     "done": true
   },
@@ -11756,6 +11817,12 @@
   "netherexp:recipes/blackstone/twisting": {
     "criteria": {
       "has_item": "2025-01-02 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-02 03:47:54 +0000"
     },
     "done": true
   },
@@ -11837,6 +11904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-02 03:47:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-01-02 03:34:43 +0000"
@@ -11846,6 +11919,12 @@
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-01-02 03:47:41 +0000"
     },
     "done": true
   },
