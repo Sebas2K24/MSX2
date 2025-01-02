@@ -990,6 +990,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2024-12-31 05:05:38 +0000",
+      "crystalline_chasm": "2025-01-02 04:30:39 +0000",
       "withered_abyss": "2025-01-02 03:29:36 +0000",
       "moor": "2024-12-31 04:50:11 +0000",
       "coniferous_forest": "2024-12-28 03:24:01 +0000",
@@ -8039,6 +8040,12 @@
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-01-02 04:30:40 +0000"
     },
     "done": true
   },
