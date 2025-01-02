@@ -1502,12 +1502,15 @@
       "minecraft:pillager": "2024-12-21 04:19:14 +0000",
       "minecraft:skeleton": "2024-12-20 04:36:35 +0000",
       "minecraft:vindicator": "2024-12-21 03:42:40 +0000",
+      "minecraft:magma_cube": "2025-01-02 03:55:14 +0000",
       "minecraft:spider": "2024-12-21 03:41:37 +0000",
+      "minecraft:piglin_brute": "2025-01-02 03:51:14 +0000",
       "minecraft:creeper": "2024-12-20 05:00:48 +0000",
       "minecraft:zombified_piglin": "2025-01-02 03:47:44 +0000",
       "minecraft:wither_skeleton": "2024-12-29 04:59:58 +0000",
       "minecraft:husk": "2024-12-20 04:13:43 +0000",
       "minecraft:cave_spider": "2024-12-29 04:38:23 +0000",
+      "minecraft:piglin": "2025-01-02 03:51:22 +0000",
       "minecraft:stray": "2024-12-21 05:19:07 +0000",
       "minecraft:enderman": "2024-12-28 04:07:52 +0000",
       "minecraft:zombie": "2024-12-20 02:32:50 +0000",
@@ -11556,6 +11559,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/solar_crystal_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-02 03:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:34:35 +0000"
@@ -11571,6 +11580,12 @@
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-01-02 03:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-02 03:57:56 +0000"
     },
     "done": true
   },
@@ -11604,6 +11619,18 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/solar_crystal_helmet": {
+    "criteria": {
+      "has_item": "2025-01-02 03:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-02 03:57:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-02 03:28:18 +0000"
@@ -11628,9 +11655,21 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/solar_crystal_leggings": {
+    "criteria": {
+      "has_item": "2025-01-02 03:57:54 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/basalt/stairs": {
     "criteria": {
       "has_item": "2025-01-02 03:47:41 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_boots": {
+    "criteria": {
+      "has_item": "2025-01-02 03:57:54 +0000"
     },
     "done": true
   },
@@ -11658,6 +11697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-02 03:57:56 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/basalt_post": {
     "criteria": {
       "has_basalt": "2025-01-02 03:47:41 +0000"
@@ -11670,6 +11715,12 @@
     },
     "done": true
   },
+  "super_ore_block:recipes/building_blocks/super_iron_block_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-02 03:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-01-02 03:16:53 +0000"
@@ -11679,6 +11730,12 @@
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-02 03:34:35 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-01-02 03:57:56 +0000"
     },
     "done": true
   },
@@ -11766,6 +11823,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-01-02 03:57:30 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-02 03:34:35 +0000"
@@ -11847,6 +11910,12 @@
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_wood": "2025-01-02 03:34:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-02 03:57:57 +0000"
     },
     "done": true
   },
