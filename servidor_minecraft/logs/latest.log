@@ -5910,3 +5910,111 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 03:21:20.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> oh lo siento amor, es que estaba viendo lo del librero jajajaja
 [02Jan2025 03:21:24.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiiiiiiii vooooooooooooooooooooooooooooooooooooy
 [02Jan2025 03:21:33.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajaja vale amor
+[02Jan2025 03:22:43.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> voy a quitarme unas cosas que tengo amor
+[02Jan2025 03:22:46.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> vale amor
+[02Jan2025 03:25:38.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ven a mimir amor
+[02Jan2025 03:25:54.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> voy amor
+[02Jan2025 03:26:02.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jejejeje
+[02Jan2025 03:27:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> listoooooooooooooooooooooooooooooooooooo
+[02Jan2025 03:27:49.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja vamos amor
+[02Jan2025 03:28:12.994] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Jan2025 03:28:16.012] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[02Jan2025 03:28:16.013] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[02Jan2025 03:28:16.019] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[02Jan2025 03:28:16.411] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/down -> hopo:patch_netherrack/down
+[02Jan2025 03:28:16.437] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.438] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/down -> hopo:patch_netherrack/down
+[02Jan2025 03:28:16.440] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.441] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.443] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.444] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.446] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.447] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.448] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.450] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.451] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.451] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/piglin_crossbow -> hopo:mobs/piglin_crossbow
+[02Jan2025 03:28:16.452] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/down -> hopo:patch_netherrack/down
+[02Jan2025 03:28:16.452] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/down -> hopo:patch_netherrack/down
+[02Jan2025 03:28:16.452] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/down -> hopo:patch_netherrack/down
+[02Jan2025 03:28:16.452] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/down -> hopo:patch_netherrack/down
+[02Jan2025 03:28:16.454] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.456] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.458] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.459] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.460] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.460] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/piglin_crossbow -> hopo:mobs/piglin_crossbow
+[02Jan2025 03:28:16.460] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/piglin_brutes -> hopo:mobs/piglin_brutes
+[02Jan2025 03:28:16.462] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.463] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.465] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.466] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/piglin_crossbow -> hopo:mobs/piglin_crossbow
+[02Jan2025 03:28:16.466] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/piglin_sword -> hopo:mobs/piglin_sword
+[02Jan2025 03:28:16.468] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.469] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.470] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/piglin_brutes -> hopo:mobs/piglin_brutes
+[02Jan2025 03:28:16.471] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.473] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.474] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.476] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.477] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.479] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.480] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.481] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.482] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.484] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.486] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.487] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.487] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/piglin_crossbow -> hopo:mobs/piglin_crossbow
+[02Jan2025 03:28:16.487] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/piglin_crossbow -> hopo:mobs/piglin_crossbow
+[02Jan2025 03:28:16.490] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.492] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.494] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.496] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.497] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.498] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.500] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:patch_netherrack/ruins_nether -> hopo:patch_netherrack/ruins_nether
+[02Jan2025 03:28:16.500] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/piglin_sword -> hopo:mobs/piglin_sword
+[02Jan2025 03:28:18.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [We Need to Go Deeper]
+[02Jan2025 03:28:18.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Nether Depths Upgrade]
+[02Jan2025 03:28:23.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10099ms or 201 ticks behind
+[02Jan2025 03:28:26.079] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Jan2025 03:28:26.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [We Need to Go Deeper]
+[02Jan2025 03:28:26.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Nether Depths Upgrade]
+[02Jan2025 03:28:31.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> uy
+[02Jan2025 03:28:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que paso aqui
+[02Jan2025 03:28:39.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> cooool
+[02Jan2025 03:28:51.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que es eso?
+[02Jan2025 03:28:52.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajaja suena bien biscoso el piso
+[02Jan2025 03:28:57.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> no son cerdos
+[02Jan2025 03:29:01.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiiiiii jajajaja
+[02Jan2025 03:29:04.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que amor?
+[02Jan2025 03:29:20.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> los de alla
+[02Jan2025 03:29:26.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> esqueletos negros amor
+[02Jan2025 03:29:31.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> oh
+[02Jan2025 03:29:35.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Epic!]
+[02Jan2025 03:29:44.301] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[02Jan2025 03:29:44.303] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[02Jan2025 03:29:44.309] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[02Jan2025 03:29:48.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> me caiiiiii
+[02Jan2025 03:30:03.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> te traigo amor
+[02Jan2025 03:30:04.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> dondeeeeeee
+[02Jan2025 03:30:04.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajjaja
+[02Jan2025 03:30:08.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[02Jan2025 03:30:20.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajaj
+[02Jan2025 03:30:23.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ajjajaja no vi
+[02Jan2025 03:30:30.329] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[02Jan2025 03:30:33.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> quejeso
+[02Jan2025 03:30:35.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Straddle My Ol' Saddle]
+[02Jan2025 03:30:48.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> mas raro
+[02Jan2025 03:31:08.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tomaaa
+[02Jan2025 03:31:17.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> esta bien bueno
+[02Jan2025 03:31:29.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> explotó jajajaja
+[02Jan2025 03:31:36.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias mi amor
+[02Jan2025 03:31:39.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajaja
+[02Jan2025 03:31:41.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> de nada amor
+[02Jan2025 03:32:26.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> me asustaste
+[02Jan2025 03:32:27.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> suena genial jajajaja
+[02Jan2025 03:32:28.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja
+[02Jan2025 03:32:31.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que amor?
+[02Jan2025 03:32:34.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajaja perdon amor

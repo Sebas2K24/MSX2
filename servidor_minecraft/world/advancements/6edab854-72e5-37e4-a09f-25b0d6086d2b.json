@@ -990,8 +990,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2024-12-31 05:05:38 +0000",
+      "withered_abyss": "2025-01-02 03:29:36 +0000",
       "moor": "2024-12-31 04:50:11 +0000",
       "coniferous_forest": "2024-12-28 03:24:01 +0000",
+      "visceral_heap": "2025-01-02 03:28:26 +0000",
       "fir_clearing": "2024-12-28 03:27:35 +0000"
     },
     "done": false
@@ -7808,6 +7810,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-01-02 03:28:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-01-02 03:18:50 +0000"
@@ -7817,6 +7825,18 @@
   "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
     "criteria": {
       "has_beetroot": "2025-01-02 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-02 03:28:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-01-02 03:25:07 +0000"
     },
     "done": true
   },
@@ -7832,9 +7852,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 03:25:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-01-02 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-02 03:28:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-01-02 03:25:07 +0000"
     },
     "done": true
   },
