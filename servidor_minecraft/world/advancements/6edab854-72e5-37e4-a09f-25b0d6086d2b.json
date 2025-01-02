@@ -7929,6 +7929,12 @@
     },
     "done": true
   },
+  "justaraftmod:recipes/transportation/jungle_raft": {
+    "criteria": {
+      "has_log": "2025-01-02 05:29:11 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/quartz": {
     "criteria": {
       "has_wood": "2025-01-02 03:32:12 +0000"
@@ -8478,6 +8484,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-02 05:29:11 +0000"
     },
     "done": true
   },
