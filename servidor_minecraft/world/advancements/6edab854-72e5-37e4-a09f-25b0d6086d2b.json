@@ -1946,6 +1946,7 @@
       "minecraft:magma_cube": "2025-01-02 03:57:12 +0000",
       "minecraft:spider": "2024-12-28 03:55:41 +0000",
       "minecraft:piglin_brute": "2025-01-02 03:37:15 +0000",
+      "minecraft:wither_skeleton": "2025-01-02 04:19:51 +0000",
       "minecraft:husk": "2024-12-31 05:21:38 +0000",
       "minecraft:cave_spider": "2024-12-29 04:44:05 +0000",
       "minecraft:piglin": "2025-01-02 03:37:33 +0000",
@@ -7861,6 +7862,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
@@ -7969,6 +7976,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-02 04:12:29 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_helmet": {
     "criteria": {
       "has_item": "2025-01-02 03:57:54 +0000"
@@ -8059,6 +8072,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_boots": {
     "criteria": {
       "has_item": "2025-01-02 03:57:54 +0000"
@@ -8092,6 +8117,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-02 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/basalt_post": {
+    "criteria": {
+      "has_basalt": "2025-01-02 04:10:53 +0000"
     },
     "done": true
   },
@@ -8209,6 +8240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
@@ -8278,6 +8315,18 @@
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-02 04:14:09 +0000"
     },
     "done": true
   },
@@ -8353,6 +8402,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2025-01-02 04:14:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
@@ -8425,9 +8480,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-01-02 04:14:09 +0000"
     },
     "done": true
   },
@@ -8452,6 +8519,12 @@
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-01-02 04:10:53 +0000"
     },
     "done": true
   },
