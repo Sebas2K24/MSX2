@@ -7959,6 +7959,12 @@
     },
     "done": true
   },
+  "adorn:recipes/cyan_candlelit_lantern": {
+    "criteria": {
+      "has_candle": "2025-01-02 04:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
@@ -8256,6 +8262,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-01-02 04:42:47 +0000"
     },
     "done": true
   },
