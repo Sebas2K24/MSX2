@@ -1944,8 +1944,10 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-29 04:14:12 +0000",
       "minecraft:spider": "2024-12-28 03:55:41 +0000",
+      "minecraft:piglin_brute": "2025-01-02 03:37:15 +0000",
       "minecraft:husk": "2024-12-31 05:21:38 +0000",
       "minecraft:cave_spider": "2024-12-29 04:44:05 +0000",
+      "minecraft:piglin": "2025-01-02 03:37:33 +0000",
       "minecraft:stray": "2024-12-29 04:03:06 +0000",
       "minecraft:enderman": "2024-12-31 05:21:51 +0000",
       "minecraft:zombie": "2024-12-28 04:07:59 +0000"
@@ -7804,6 +7806,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-01-02 03:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-01-02 03:18:50 +0000"
@@ -7816,9 +7824,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-01-02 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-02 03:34:13 +0000"
     },
     "done": true
   },
@@ -7840,6 +7866,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-01-02 03:18:50 +0000"
@@ -7849,6 +7887,24 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-01-02 03:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
     },
     "done": true
   },
@@ -7864,9 +7920,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-02 03:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-02 03:34:50 +0000"
     },
     "done": true
   },
