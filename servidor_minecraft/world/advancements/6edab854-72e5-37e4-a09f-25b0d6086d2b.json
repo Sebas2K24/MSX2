@@ -8766,6 +8766,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-01-03 04:09:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
@@ -9012,6 +9018,12 @@
     },
     "done": true
   },
+  "fishofthieves:recipes/food/cooked_wildsplash_from_campfire_cooking": {
+    "criteria": {
+      "has_wildsplash": "2025-01-03 04:04:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-01-03 03:30:20 +0000"
@@ -9036,6 +9048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-01-03 04:04:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-01-03 03:48:07 +0000"
@@ -9045,6 +9063,12 @@
   "adorn:root": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-01-03 04:01:59 +0000"
     },
     "done": true
   },
@@ -9090,6 +9114,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-03 04:09:03 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cow": {
     "criteria": {
       "has_milk_bucket": "2025-01-03 03:53:32 +0000"
@@ -9105,6 +9135,12 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
     "criteria": {
       "has_sweet_berries": "2025-01-03 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-03 04:04:17 +0000"
     },
     "done": true
   },
@@ -9177,6 +9213,12 @@
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-01-03 03:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-03 04:04:17 +0000"
     },
     "done": true
   },
@@ -9273,6 +9315,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_wildsplash": {
+    "criteria": {
+      "has_wildsplash": "2025-01-03 04:04:55 +0000"
     },
     "done": true
   },
@@ -9387,6 +9435,12 @@
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_wildsplash_from_smoking": {
+    "criteria": {
+      "has_wildsplash": "2025-01-03 04:04:55 +0000"
     },
     "done": true
   },
