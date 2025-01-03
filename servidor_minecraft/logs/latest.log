@@ -5964,3 +5964,29 @@ java.lang.NullPointerException: Element not found: amount
 [03Jan2025 03:13:28.497] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/6152, l='ServerLevel[world]', x=-296.30, y=-12.00, z=253.52]
 [03Jan2025 03:14:44.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5777, l='ServerLevel[world]', x=-379.84, y=77.00, z=391.84] died, message: 'Unemployed was retired'
 [03Jan2025 03:14:45.946] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/6152, l='ServerLevel[world]', x=-296.30, y=-12.00, z=253.52]
+[03Jan2025 03:15:02.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/5778, l='ServerLevel[world]', x=-356.19, y=74.00, z=406.73] died, message: 'Nitwit was slain by Guard'
+[03Jan2025 03:16:23.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/5774, l='ServerLevel[world]', x=-361.47, y=75.56, z=400.63] died, message: 'Mason was pricked to death'
+[03Jan2025 03:16:44.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> te tengo algo amor
+[03Jan2025 03:16:51.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amooooooooooooooooooooooooooooor
+[03Jan2025 03:17:01.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> consegui zapatos de conejito
+[03Jan2025 03:17:13.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja que bueno amor
+[03Jan2025 03:18:14.752] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/6750, l='ServerLevel[world]', x=-187.50, y=40.00, z=496.47]
+[03Jan2025 03:18:42.853] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/7093, l='ServerLevel[world]', x=-330.92, y=-10.00, z=251.68]
+[03Jan2025 03:19:38.099] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/7093, l='ServerLevel[world]', x=-330.92, y=-10.00, z=251.68]
+[03Jan2025 03:19:38.348] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/7241, l='ServerLevel[world]', x=-249.91, y=14.00, z=437.59]
+[03Jan2025 03:19:42.103] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/7241, l='ServerLevel[world]', x=-249.91, y=14.00, z=437.59]
+[03Jan2025 03:19:50.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amooooooor
+[03Jan2025 03:19:55.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajjaja
+[03Jan2025 03:20:03.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> parecen hechas especificamente para ti
+[03Jan2025 03:20:06.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> toma amor
+[03Jan2025 03:20:08.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiiiiiiiiiiiiiiiiiii
+[03Jan2025 03:20:14.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> a ver amor
+[03Jan2025 03:20:26.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ya lo agarraste
+[03Jan2025 03:20:42.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ooooooh que lindas amor, muchas gracias mi amor
+[03Jan2025 03:20:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> puedes caminar por el agua
+[03Jan2025 03:21:03.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiiiiiiiiiiiiiiii
+[03Jan2025 03:21:11.443] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/7290, l='ServerLevel[world]', x=-244.47, y=17.00, z=427.75]
+[03Jan2025 03:22:14.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> oooooh amor creo que salto mas alto
+[03Jan2025 03:22:37.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> por los cholones de conejo amor
+[03Jan2025 03:22:43.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajaja siiiiiiiiiii
+[03Jan2025 03:24:00.845] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/7290, l='ServerLevel[world]', x=-244.47, y=17.00, z=427.75]

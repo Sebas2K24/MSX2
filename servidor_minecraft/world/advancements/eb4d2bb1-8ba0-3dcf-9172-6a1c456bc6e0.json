@@ -1004,6 +1004,7 @@
       "coniferous_forest": "2024-12-20 02:10:21 +0000",
       "visceral_heap": "2025-01-02 03:28:23 +0000",
       "dune_beach": "2024-12-21 04:04:50 +0000",
+      "seasonal_forest": "2025-01-03 03:18:30 +0000",
       "pasture": "2024-12-21 03:56:24 +0000",
       "fir_clearing": "2024-12-20 02:39:31 +0000",
       "prairie": "2024-12-21 04:01:58 +0000",
@@ -12320,6 +12321,12 @@
   "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-01-03 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-03 03:15:51 +0000"
     },
     "done": true
   },
