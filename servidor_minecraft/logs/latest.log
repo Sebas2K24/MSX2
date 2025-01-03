@@ -6467,3 +6467,61 @@ java.lang.NullPointerException: Element not found: amount
 [03Jan2025 04:45:07.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> te tengo algo
 [03Jan2025 04:45:17.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Hidden Books]
 [03Jan2025 04:45:24.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [Hidden Books]
+[03Jan2025 04:46:54.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ten amor
+[03Jan2025 04:47:33.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> genial amor, te iba a dar una
+[03Jan2025 04:47:38.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> a mi me dieron dos amor
+[03Jan2025 04:47:44.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja que suerte amor
+[03Jan2025 04:47:50.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> si min amor
+[03Jan2025 04:47:56.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> me quedare con la que me diste amor
+[03Jan2025 04:48:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> me dieron otra
+[03Jan2025 04:48:18.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> mejor
+[03Jan2025 04:48:31.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> otra mas jajajaja
+[03Jan2025 04:48:59.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> genial amor, a mi tambien jajajajaja
+[03Jan2025 04:49:01.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> mira amor
+[03Jan2025 04:49:01.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> mira amor
+[03Jan2025 04:49:08.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> coooool
+[03Jan2025 04:49:15.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> waos
+[03Jan2025 04:49:30.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> esta chulo amor
+[03Jan2025 04:49:57.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiiiii amor
+[03Jan2025 04:50:14.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> miraaa
+[03Jan2025 04:50:19.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> perdon amor
+[03Jan2025 04:50:24.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que amor?
+[03Jan2025 04:50:30.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajaja olvidalo
+[03Jan2025 04:50:39.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> bueno mi amor
+[03Jan2025 04:50:58.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> perdon amor
+[03Jan2025 04:51:19.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> perdon amor
+[03Jan2025 04:52:02.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> miraaaaaa
+[03Jan2025 04:52:22.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja viste?
+[03Jan2025 04:53:01.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> disculpa mi amor
+[03Jan2025 04:53:23.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> salgo y entro amor
+[03Jan2025 04:53:25.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tengo lag
+[03Jan2025 04:53:29.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[03Jan2025 04:53:29.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[03Jan2025 04:53:29.898] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[03Jan2025 04:54:04.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebas2K24[/127.42.90.33:59875] logged in with entity id 34265 at (-1566.300000011921, 50.0, 881.2075174407196)
+[03Jan2025 04:54:04.810] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebas2K24
+[03Jan2025 04:54:04.810] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebas2K24
+[03Jan2025 04:54:04.811] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebas2K24
+[03Jan2025 04:54:04.811] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebas2K24
+[03Jan2025 04:54:04.814] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebas2K24
+[03Jan2025 04:54:04.817] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebas2K24
+[03Jan2025 04:54:04.817] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebas2K24
+[03Jan2025 04:54:04.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
+[03Jan2025 04:54:05.052] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[03Jan2025 04:54:05.065] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[03Jan2025 04:54:05.065] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[03Jan2025 04:54:30.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> volvi
+[03Jan2025 04:55:08.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> hi mi amor
+[03Jan2025 04:55:13.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> holaaa amor
+[03Jan2025 04:55:51.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no me deja poner bloques
+[03Jan2025 04:55:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> y a ti amor?
+[03Jan2025 04:56:03.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> a mi tampoco amor jajajaja
+[03Jan2025 04:56:24.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que raro
+[03Jan2025 04:56:27.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[03Jan2025 04:56:27.396] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/33298, l='ServerLevel[world]', x=-1620.89, y=4.00, z=782.30]
+[03Jan2025 04:56:27.397] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created SilverChariotEntity['Silver Chariot'/33495, l='ServerLevel[world]', x=-1449.58, y=37.00, z=835.11]
+[03Jan2025 04:56:27.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ven amor
+[03Jan2025 04:56:29.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> sip
+[03Jan2025 04:56:36.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> arma super util
+[03Jan2025 04:56:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja
+[03Jan2025 04:56:51.539] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/34306, l='ServerLevel[world]', x=-1671.50, y=73.00, z=949.50]

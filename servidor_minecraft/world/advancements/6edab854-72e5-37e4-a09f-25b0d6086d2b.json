@@ -9242,6 +9242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-01-03 04:48:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2025-01-03 04:36:55 +0000"
@@ -9767,6 +9773,12 @@
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-03 04:48:38 +0000"
     },
     "done": true
   },
