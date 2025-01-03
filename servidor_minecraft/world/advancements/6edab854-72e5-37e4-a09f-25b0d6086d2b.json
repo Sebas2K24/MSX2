@@ -8964,6 +8964,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 03:48:07 +0000"
+    },
+    "done": true
+  },
   "adorn:root": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
