@@ -7809,9 +7809,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "lootr:100loot": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
+      "loot_stat": "2025-01-02 03:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-02 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-02 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2025-01-02 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-02 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-01-02 03:25:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 03:25:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-01-02 03:25:07 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-01-02 03:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-02 03:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-02 03:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-02 03:32:12 +0000"
     },
     "done": true
   },
@@ -7821,27 +7941,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+      "has_netherrack": "2025-01-02 03:34:13 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-01-02 04:28:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-01-02 04:00:00 +0000"
+      "bastion": "2025-01-02 03:34:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "has_beetroot": "2025-01-02 03:18:50 +0000"
+      "killed_by": "2025-01-02 03:45:59 +0000"
     },
     "done": true
   },
@@ -7857,105 +7971,9 @@
     },
     "done": true
   },
-  "super_ore_block:recipes/building_blocks/super_ore_block": {
-    "criteria": {
-      "has_gold_block": "2025-01-02 03:59:40 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/weeping": {
-    "criteria": {
-      "has_item": "2025-01-02 04:06:25 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/basalt/slab": {
-    "criteria": {
-      "has_item": "2025-01-02 04:10:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/simple_necklace": {
-    "criteria": {
-      "has_nuggets_gold": "2025-01-02 04:07:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:main/root": {
-    "criteria": {
-      "entered_nether": "2025-01-02 03:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-01-02 03:32:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/netherite_knife_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-02 03:57:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:54:42 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "justaraftmod:recipes/transportation/jungle_raft": {
-    "criteria": {
-      "has_log": "2025-01-02 05:29:11 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/quartz": {
-    "criteria": {
-      "has_wood": "2025-01-02 03:32:12 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-01-02 04:21:54 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/diary_page": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-01-02 04:00:08 +0000"
     },
     "done": true
   },
@@ -7965,171 +7983,9 @@
     },
     "done": true
   },
-  "adorn:recipes/cyan_candlelit_lantern": {
-    "criteria": {
-      "has_candle": "2025-01-02 04:43:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/kq_coin": {
-    "criteria": {
-      "has_nugget": "2025-01-02 04:07:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-01-02 03:18:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-01-02 03:34:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-01-02 04:12:29 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_helmet": {
-    "criteria": {
-      "has_item": "2025-01-02 03:57:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-01-02 03:57:56 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
-    "criteria": {
-      "has_beetroot": "2025-01-02 03:18:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-02 03:28:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-01-02 03:58:01 +0000"
-    },
-    "done": true
-  },
-  "chiselsandbits:recipes/tools/chisel_netherite": {
-    "criteria": {
-      "has_ingredient": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thin_pot": {
-    "criteria": {
-      "has_golden_thin_pot": "2025-01-02 03:59:40 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
-    "criteria": {
-      "has_rose_quartz_chunk": "2025-01-02 04:30:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2025-01-02 03:25:07 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackboard": {
-    "criteria": {
-      "supplementaries:blackboard_white": "2025-01-02 03:32:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-01-02 03:32:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/netherite_block": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_leggings": {
-    "criteria": {
-      "has_item": "2025-01-02 03:57:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-01-02 04:12:29 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/basalt/stairs": {
-    "criteria": {
-      "has_item": "2025-01-02 04:10:53 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_boots": {
-    "criteria": {
-      "has_item": "2025-01-02 03:57:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:54:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-02 03:18:50 +0000"
     },
     "done": true
   },
@@ -8139,75 +7995,15 @@
     },
     "done": true
   },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-01-02 03:18:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-01-02 04:00:08 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/basalt_post": {
-    "criteria": {
-      "has_basalt": "2025-01-02 04:10:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:54:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_brush_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "super_ore_block:recipes/building_blocks/super_iron_block_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-01-02 04:00:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-01-02 03:59:40 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing": {
-    "criteria": {
-      "has_item": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-02 03:54:42 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
-    "criteria": {
-      "has_item": "2025-01-02 04:00:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-02 04:07:39 +0000"
     },
     "done": true
   },
@@ -8223,33 +8019,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-01-02 04:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-01-02 03:32:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:54:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-01-02 03:32:12 +0000"
     },
     "done": true
   },
@@ -8259,69 +8031,9 @@
     },
     "done": true
   },
-  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing_from_core": {
-    "criteria": {
-      "has_item": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-01-02 03:32:12 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2025-01-02 04:42:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-01-02 04:10:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:54:42 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_medium_pot": {
-    "criteria": {
-      "has_golden_medium_pot": "2025-01-02 03:59:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-02 03:25:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-01-02 03:18:50 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/quartz": {
-    "criteria": {
-      "has_quartz": "2025-01-02 03:32:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
     },
     "done": true
   },
@@ -8331,57 +8043,9 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_treasure": "2025-01-02 03:57:18 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-02 03:54:42 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/safe": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-01-02 04:10:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-01-02 04:14:09 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/golden_ring": {
-    "criteria": {
-      "has_nuggets_gold": "2025-01-02 04:07:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-01-02 03:45:59 +0000"
     },
     "done": true
   },
@@ -8394,30 +8058,6 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:54:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/twisting": {
-    "criteria": {
-      "has_item": "2025-01-02 04:06:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thick_pot": {
-    "criteria": {
-      "has_golden_thick_pot": "2025-01-02 03:59:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-02 04:07:39 +0000"
     },
     "done": true
   },
@@ -8439,30 +8079,6 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_magma_block": {
-    "criteria": {
-      "has_item": "2025-01-02 04:14:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-01-02 04:00:00 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-01-02 03:57:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:54:42 +0000"
@@ -8475,21 +8091,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-01-02 03:32:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:54:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-01-02 05:29:11 +0000"
     },
     "done": true
   },
@@ -8499,51 +8103,129 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-01-02 03:28:26 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/polished_blackstone_brick_post": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-01-02 03:54:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
+      "loot_bastion_treasure": "2025-01-02 03:57:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "has_basalt": "2025-01-02 04:10:53 +0000"
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_wide_pot": {
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
-      "has_golden_wide_pot": "2025-01-02 03:59:40 +0000"
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/magma_cube": {
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
-      "has_magma_cream": "2025-01-02 04:14:09 +0000"
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "travelersbackpack:recipes/misc/netherite": {
     "criteria": {
-      "bastion": "2025-01-02 03:34:50 +0000"
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/diary_page": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chisel_netherite": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_brush_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing": {
+    "criteria": {
+      "has_item": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing_from_core": {
+    "criteria": {
+      "has_item": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-02 03:57:22 +0000"
     },
     "done": true
   },
@@ -8553,9 +8235,195 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "has_onion": "2025-01-02 03:25:07 +0000"
+      "cave_tablet": "2025-01-02 03:57:50 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-02 03:57:54 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_helmet": {
+    "criteria": {
+      "has_item": "2025-01-02 03:57:54 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_leggings": {
+    "criteria": {
+      "has_item": "2025-01-02 03:57:54 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_boots": {
+    "criteria": {
+      "has_item": "2025-01-02 03:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-02 03:57:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-02 03:58:01 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_ore_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_gold_block_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-02 04:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-02 04:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-02 04:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-02 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-02 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_iron_block_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-02 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-01-02 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2025-01-02 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2025-01-02 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_blackstone_brick_post": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-02 04:06:25 +0000"
     },
     "done": true
   },
@@ -8565,15 +8433,297 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2025-01-02 04:07:39 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/kq_coin": {
+    "criteria": {
+      "has_nugget": "2025-01-02 04:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-02 04:07:39 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-01-02 04:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-02 04:07:39 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/basalt_post": {
+    "criteria": {
+      "has_basalt": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/basalt/wall": {
     "criteria": {
       "has_item": "2025-01-02 04:10:53 +0000"
     },
     "done": true
   },
-  "super_ore_block:recipes/building_blocks/super_gold_block_from_gold_block": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_gold_block": "2025-01-02 03:59:40 +0000"
+      "crying_obsidian": "2025-01-02 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-02 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2025-01-02 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-01-02 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-02 04:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-02 04:28:06 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-01-02 04:30:40 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-01-02 04:42:47 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cyan_candlelit_lantern": {
+    "criteria": {
+      "has_candle": "2025-01-02 04:43:10 +0000"
+    },
+    "done": true
+  },
+  "justaraftmod:recipes/transportation/jungle_raft": {
+    "criteria": {
+      "has_log": "2025-01-02 05:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-02 05:29:11 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2025-01-02 05:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-01-02 05:30:08 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2025-01-02 05:30:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-01-02 05:31:32 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_blackstone_platform": {
+    "criteria": {
+      "has_slab": "2025-01-02 05:33:33 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_blackstone_step": {
+    "criteria": {
+      "has_slab": "2025-01-02 05:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-01-02 05:33:33 +0000"
     },
     "done": true
   },
