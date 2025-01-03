@@ -1000,9 +1000,11 @@
       "highland": "2024-12-31 05:05:18 +0000",
       "crystalline_chasm": "2025-01-02 04:30:39 +0000",
       "withered_abyss": "2025-01-02 03:29:31 +0000",
+      "lavender_forest": "2025-01-03 03:36:13 +0000",
       "moor": "2024-12-30 00:55:55 +0000",
       "coniferous_forest": "2024-12-20 02:10:21 +0000",
       "visceral_heap": "2025-01-02 03:28:23 +0000",
+      "seasonal_orchard": "2025-01-03 03:36:24 +0000",
       "dune_beach": "2024-12-21 04:04:50 +0000",
       "seasonal_forest": "2025-01-03 03:18:30 +0000",
       "pasture": "2024-12-21 03:56:24 +0000",
@@ -1516,6 +1518,7 @@
       "minecraft:piglin": "2025-01-02 03:51:22 +0000",
       "minecraft:stray": "2024-12-21 05:19:07 +0000",
       "minecraft:enderman": "2024-12-28 04:07:52 +0000",
+      "minecraft:silverfish": "2025-01-03 03:31:53 +0000",
       "minecraft:zombie": "2024-12-20 02:32:50 +0000",
       "minecraft:drowned": "2025-01-02 05:34:09 +0000",
       "minecraft:zombie_villager": "2024-12-28 03:51:54 +0000"
@@ -2978,6 +2981,7 @@
       "pumpkin_pie": "2024-12-20 05:15:22 +0000",
       "bread": "2024-12-20 02:39:22 +0000",
       "rotten_flesh": "2024-12-21 03:32:03 +0000",
+      "cookie": "2025-01-03 03:32:02 +0000",
       "cooked_chicken": "2024-12-20 04:15:37 +0000"
     },
     "done": false
@@ -12325,6 +12329,18 @@
     },
     "done": true
   },
+  "adorn:recipes/spruce_chair": {
+    "criteria": {
+      "has_slab": "2025-01-03 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_shelf": {
+    "criteria": {
+      "has_slab": "2025-01-03 03:33:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-03 03:31:09 +0000"
@@ -12334,6 +12350,12 @@
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-03 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-01-03 03:33:08 +0000"
     },
     "done": true
   },
@@ -12373,9 +12395,21 @@
     },
     "done": true
   },
+  "adorn:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2025-01-03 03:33:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-03 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-03 03:33:17 +0000"
     },
     "done": true
   },
@@ -12394,6 +12428,12 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2025-01-03 03:29:53 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_platform": {
+    "criteria": {
+      "has_slab": "2025-01-03 03:33:08 +0000"
     },
     "done": true
   },
@@ -12457,9 +12497,27 @@
     },
     "done": true
   },
+  "adorn:recipes/spruce_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-01-03 03:33:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-01-03 03:29:43 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_step": {
+    "criteria": {
+      "has_slab": "2025-01-03 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_table": {
+    "criteria": {
+      "has_slab": "2025-01-03 03:33:08 +0000"
     },
     "done": true
   },
@@ -12604,6 +12662,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-03 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_drawer": {
+    "criteria": {
+      "has_slab": "2025-01-03 03:33:08 +0000"
     },
     "done": true
   },

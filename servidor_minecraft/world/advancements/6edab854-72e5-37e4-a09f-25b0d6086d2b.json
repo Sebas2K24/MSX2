@@ -993,9 +993,11 @@
       "highland": "2024-12-31 05:05:38 +0000",
       "crystalline_chasm": "2025-01-02 04:30:39 +0000",
       "withered_abyss": "2025-01-02 03:29:36 +0000",
+      "lavender_forest": "2025-01-03 03:36:11 +0000",
       "moor": "2024-12-31 04:50:11 +0000",
       "coniferous_forest": "2024-12-28 03:24:01 +0000",
       "visceral_heap": "2025-01-02 03:28:26 +0000",
+      "seasonal_orchard": "2025-01-03 03:36:16 +0000",
       "seasonal_forest": "2025-01-03 03:24:00 +0000",
       "pasture": "2025-01-03 03:02:47 +0000",
       "lavender_field": "2025-01-03 03:29:24 +0000",
@@ -1951,6 +1953,7 @@
       "minecraft:magma_cube": "2025-01-02 03:57:12 +0000",
       "minecraft:spider": "2024-12-28 03:55:41 +0000",
       "minecraft:piglin_brute": "2025-01-02 03:37:15 +0000",
+      "minecraft:creeper": "2025-01-03 03:41:08 +0000",
       "minecraft:wither_skeleton": "2025-01-02 04:19:51 +0000",
       "minecraft:husk": "2024-12-31 05:21:38 +0000",
       "minecraft:cave_spider": "2024-12-29 04:44:05 +0000",
@@ -5356,7 +5359,8 @@
     "criteria": {
       "minecraft:beach": "2024-12-29 04:59:37 +0000",
       "minecraft:river": "2025-01-03 03:02:08 +0000",
-      "minecraft:cold_ocean": "2024-12-29 04:10:38 +0000"
+      "minecraft:cold_ocean": "2024-12-29 04:10:38 +0000",
+      "minecraft:plains": "2025-01-03 03:37:08 +0000"
     },
     "done": false
   },
@@ -8732,6 +8736,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-01-03 03:39:00 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/bluebright_spear": {
     "criteria": {
       "has_item": "2025-01-03 03:08:31 +0000"
@@ -8756,6 +8766,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2025-01-03 03:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-03 03:39:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
@@ -8765,6 +8787,12 @@
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_white_sheet": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/traders_manual": {
+    "criteria": {
+      "has_key_item_0": "2025-01-03 03:39:00 +0000"
     },
     "done": true
   },
@@ -8828,6 +8856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 03:39:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-01-03 03:09:31 +0000"
@@ -8846,9 +8880,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2025-01-03 03:39:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-01-03 02:56:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2025-01-03 03:39:00 +0000"
     },
     "done": true
   },
@@ -8873,6 +8919,12 @@
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2025-01-03 02:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 03:39:00 +0000"
     },
     "done": true
   },
@@ -8924,6 +8976,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2025-01-03 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 03:39:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/frying/sweet_berry_jam": {
     "criteria": {
       "has_ingredient": "2025-01-03 03:09:31 +0000"
@@ -8948,6 +9012,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2025-01-03 03:08:45 +0000"
@@ -8957,6 +9027,12 @@
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/guide_book": {
+    "criteria": {
+      "has_key_item_0": "2025-01-03 03:39:00 +0000"
     },
     "done": true
   },
@@ -8978,9 +9054,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-01-03 03:39:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-01-03 03:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-03 03:39:00 +0000"
     },
     "done": true
   },
@@ -9026,6 +9114,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-01-03 03:39:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
@@ -9038,6 +9132,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/decorations/starlit_factory_update_fix": {
+    "criteria": {
+      "has_item": "2025-01-03 03:31:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
@@ -9047,6 +9147,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 03:31:46 +0000"
     },
     "done": true
   },
@@ -9128,6 +9234,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2025-01-03 03:39:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-01-03 03:08:45 +0000"
@@ -9155,6 +9267,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-01-03 03:39:00 +0000"
     },
     "done": true
   },
@@ -9209,6 +9327,12 @@
   "mcwfurnituresbop:recipes/jacaranda": {
     "criteria": {
       "has_wood": "2025-01-03 03:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 03:31:46 +0000"
     },
     "done": true
   },
