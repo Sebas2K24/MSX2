@@ -8736,6 +8736,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
     "criteria": {
       "has_item": "2025-01-03 03:39:00 +0000"
@@ -8760,6 +8766,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_orange": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2025-01-03 03:17:26 +0000"
@@ -8769,6 +8781,12 @@
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-01-03 04:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_yellow.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },
@@ -8796,6 +8814,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_grey": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-03 03:39:00 +0000"
@@ -8814,9 +8838,27 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_red": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_brown": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/traders_manual": {
     "criteria": {
       "has_key_item_0": "2025-01-03 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_magenta": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },
@@ -8838,6 +8880,12 @@
     },
     "done": true
   },
+  "fishofthieves:recipes/food/cooked_islehopper_from_smoking": {
+    "criteria": {
+      "has_islehopper": "2025-01-03 04:12:40 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/dusk_spear": {
     "criteria": {
       "has_item": "2025-01-03 03:08:31 +0000"
@@ -8850,9 +8898,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_orange.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_sapling": "2025-01-03 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_cyan": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },
@@ -8898,6 +8958,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_yellow": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-01-03 03:39:00 +0000"
@@ -8940,6 +9006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_cyan.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/decorations/spruce_fish_plaque": {
     "criteria": {
       "has_item_frame": "2025-01-03 03:58:26 +0000"
@@ -8961,6 +9033,12 @@
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_light_blue": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },
@@ -8994,9 +9072,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_pink.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2025-01-03 02:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_magenta.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },
@@ -9030,6 +9120,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_green": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "nova_structures:root": {
     "criteria": {
       "nova_structures:adventure/find_tavern": "2025-01-03 04:00:05 +0000"
@@ -9051,6 +9147,18 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-01-03 04:04:41 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_black": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_islehopper": {
+    "criteria": {
+      "has_islehopper": "2025-01-03 04:12:40 +0000"
     },
     "done": true
   },
@@ -9081,6 +9189,18 @@
   "fishofthieves:recipes/decorations/cherry_fish_plaque": {
     "criteria": {
       "has_item_frame": "2025-01-03 03:58:26 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_white": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_pink": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },
@@ -9156,6 +9276,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_lime": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-01-03 03:31:46 +0000"
@@ -9165,6 +9291,12 @@
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2025-01-03 03:08:45 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_blue": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },
@@ -9234,6 +9366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_blue.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-01-03 03:08:45 +0000"
@@ -9264,6 +9402,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-01-03 03:17:26 +0000"
@@ -9279,6 +9423,12 @@
   "blue_skies:recipes/misc/moonstone_from_shard": {
     "criteria": {
       "has_item": "2025-01-03 03:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_light_blue.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },
@@ -9318,6 +9468,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_purple": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/food/cooked_wildsplash": {
     "criteria": {
       "has_wildsplash": "2025-01-03 04:04:55 +0000"
@@ -9354,6 +9510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_lime.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/starlit_spear": {
     "criteria": {
       "has_item": "2025-01-03 03:08:31 +0000"
@@ -9378,9 +9540,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_grey.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_green.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_islehopper_from_campfire_cooking": {
+    "criteria": {
+      "has_islehopper": "2025-01-03 04:12:40 +0000"
     },
     "done": true
   },
@@ -9420,6 +9606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dirt_washed_light_grey.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-01-03 03:08:45 +0000"
@@ -9456,9 +9648,33 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/dirt_dyed_light_grey": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2025-01-03 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_white.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_purple.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },
@@ -9477,6 +9693,18 @@
   "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
       "has_milk": "2025-01-03 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_black.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_brown.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },
@@ -9507,6 +9735,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_red.json": {
+    "criteria": {
+      "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },

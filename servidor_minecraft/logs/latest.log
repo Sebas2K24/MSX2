@@ -6329,3 +6329,58 @@ java.lang.NullPointerException: Element not found: amount
 [03Jan2025 04:15:42.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Cowzomdon the Dark'/19181, l='ServerLevel[world]', x=-1232.45, y=74.00, z=152.44] died: Cowzomdon the Dark was slain by Aarkanen
 [03Jan2025 04:16:05.488] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19638, l='ServerLevel[world]', x=-1172.50, y=78.00, z=244.50]
 [03Jan2025 04:16:13.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> me dio unos pantalones chimbos amor
+[03Jan2025 04:16:20.137] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19709, l='ServerLevel[world]', x=-1104.50, y=75.00, z=195.50]
+[03Jan2025 04:16:20.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja
+[03Jan2025 04:16:23.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ven a dormir
+[03Jan2025 04:16:28.489] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19740, l='ServerLevel[world]', x=-1114.50, y=75.00, z=170.50]
+[03Jan2025 04:16:32.287] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19761, l='ServerLevel[world]', x=-1102.50, y=74.00, z=184.50]
+[03Jan2025 04:16:32.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que pantalones tienes amor?
+[03Jan2025 04:16:34.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> voy
+[03Jan2025 04:16:49.188] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19801, l='ServerLevel[world]', x=-1223.50, y=81.00, z=281.50]
+[03Jan2025 04:16:53.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> creo que los mismos que tienes tu amor
+[03Jan2025 04:17:03.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> de diamante amor?
+[03Jan2025 04:17:04.636] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19871, l='ServerLevel[world]', x=-1104.50, y=78.00, z=186.50]
+[03Jan2025 04:17:14.937] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19906, l='ServerLevel[world]', x=-1153.50, y=76.00, z=235.50]
+[03Jan2025 04:17:17.287] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19912, l='ServerLevel[world]', x=-1104.50, y=78.00, z=188.50]
+[03Jan2025 04:17:17.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ah no, unos de vida
+[03Jan2025 04:17:32.455] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/StatisticFormatter
+[03Jan2025 04:17:32.462] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/FormatUtil
+[03Jan2025 04:17:43.536] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20008, l='ServerLevel[world]', x=-1103.50, y=78.00, z=188.50]
+[03Jan2025 04:18:17.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amooooooooooooor
+[03Jan2025 04:18:21.888] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20158, l='ServerLevel[world]', x=-1225.50, y=82.00, z=251.50]
+[03Jan2025 04:18:32.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> amor?
+[03Jan2025 04:18:33.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20189, l='ServerLevel[world]', x=-1179.50, y=73.00, z=278.50]
+[03Jan2025 04:18:43.387] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20210, l='ServerLevel[world]', x=-1148.50, y=79.00, z=217.50]
+[03Jan2025 04:19:05.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amor cuidado
+[03Jan2025 04:19:45.036] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20554, l='ServerLevel[world]', x=-1178.50, y=73.00, z=278.50]
+[03Jan2025 04:20:08.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amor cuidado
+[03Jan2025 04:20:19.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> en esa casa esta el stand del hoyo negro
+[03Jan2025 04:20:37.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> y eso amor?
+[03Jan2025 04:20:44.135] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20857, l='ServerLevel[world]', x=-1198.50, y=81.00, z=249.50]
+[03Jan2025 04:20:44.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> su arma
+[03Jan2025 04:20:51.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> genial amor
+[03Jan2025 04:20:56.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> como murio?
+[03Jan2025 04:21:05.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no se amor, el sol supongo
+[03Jan2025 04:21:06.689] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20918, l='ServerLevel[world]', x=-1154.50, y=83.00, z=198.50]
+[03Jan2025 04:21:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que loco
+[03Jan2025 04:22:02.336] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21298, l='ServerLevel[world]', x=-1085.50, y=73.00, z=201.50]
+[03Jan2025 04:22:13.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esperame amor
+[03Jan2025 04:22:32.296] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:cockroach was not found when trying to access it! Returning 0
+[03Jan2025 04:22:37.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> mira amor
+[03Jan2025 04:22:41.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajjaja
+[03Jan2025 04:22:46.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> el demonio de tasmania
+[03Jan2025 04:22:52.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiii
+[03Jan2025 04:23:41.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amor estas enojado?
+[03Jan2025 04:23:46.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no amor
+[03Jan2025 04:23:49.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> por que?
+[03Jan2025 04:23:54.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> estas apurado amor?
+[03Jan2025 04:24:03.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja no amor
+[03Jan2025 04:24:05.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> por?
+[03Jan2025 04:24:15.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> es que no me esperas amor y vas rapido
+[03Jan2025 04:24:24.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja entiendo amor
+[03Jan2025 04:24:27.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> disculpa
+[03Jan2025 04:24:33.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> tranquilo amor
+[03Jan2025 04:24:41.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ven amor
+[03Jan2025 04:26:14.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has completed the challenge [Find: Ruin pillager]
+[03Jan2025 04:26:14.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has completed the challenge [Find: Ruin pillager]
+[03Jan2025 04:26:24.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> me dieron cohetes amor
