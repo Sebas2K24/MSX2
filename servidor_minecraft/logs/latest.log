@@ -5926,3 +5926,41 @@ java.lang.NullPointerException: Element not found: amount
 [03Jan2025 03:04:39.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> usalo amor
 [03Jan2025 03:04:41.258] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/4331, l='ServerLevel[world]', x=-343.10, y=53.00, z=-87.42]
 [03Jan2025 03:04:44.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> creo que te dara un familiar
+[03Jan2025 03:04:50.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> perdon
+[03Jan2025 03:04:51.096] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[03Jan2025 03:05:08.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> genial amor, probemos jejejeje
+[03Jan2025 03:05:25.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> com se usa?
+[03Jan2025 03:05:29.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> a ver
+[03Jan2025 03:06:08.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> grave soul es arena de alma?
+[03Jan2025 03:06:09.995] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/4385, l='ServerLevel[world]', x=-454.21, y=53.00, z=165.21]
+[03Jan2025 03:06:10.795] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/4376, l='ServerLevel[world]', x=-468.53, y=54.00, z=167.76]
+[03Jan2025 03:06:17.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> sip
+[03Jan2025 03:06:25.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> hay que buscar en el nether
+[03Jan2025 03:06:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> luego vamoso
+[03Jan2025 03:06:32.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ooooh entiendo amor
+[03Jan2025 03:06:44.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> hay un pueblo. sigueme amor
+[03Jan2025 03:06:48.397] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/4376, l='ServerLevel[world]', x=-468.53, y=54.00, z=167.76]
+[03Jan2025 03:06:48.399] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/4385, l='ServerLevel[world]', x=-454.21, y=53.00, z=165.21]
+[03Jan2025 03:06:56.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ya hemos ido hacia allá no?
+[03Jan2025 03:07:03.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no amor
+[03Jan2025 03:07:08.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> oh genial amor
+[03Jan2025 03:07:18.942] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/4271, l='ServerLevel[world]', x=-570.40, y=28.00, z=228.06]
+[03Jan2025 03:07:23.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> vamos al bosque primero
+[03Jan2025 03:07:26.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> parece que hay una casa
+[03Jan2025 03:07:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor
+[03Jan2025 03:08:31.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Light Up The World!]
+[03Jan2025 03:09:16.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> arriba amor
+[03Jan2025 03:10:10.045] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/5621, l='ServerLevel[world]', x=-337.32, y=78.00, z=21.52]
+[03Jan2025 03:10:42.888] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[03Jan2025 03:11:01.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ven amor
+[03Jan2025 03:11:19.795] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[03Jan2025 03:11:21.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> genial amor
+[03Jan2025 03:11:25.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> sip
+[03Jan2025 03:11:31.596] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5635, l='ServerLevel[world]', x=-443.42, y=73.00, z=334.70] died, message: 'Unemployed was slain by Iron Golem'
+[03Jan2025 03:12:18.872] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[03Jan2025 03:12:32.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> me dieron un bomeran amor
+[03Jan2025 03:12:41.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que bien amor
+[03Jan2025 03:12:44.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ven a dormir amor
+[03Jan2025 03:13:28.497] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/6152, l='ServerLevel[world]', x=-296.30, y=-12.00, z=253.52]
+[03Jan2025 03:14:44.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5777, l='ServerLevel[world]', x=-379.84, y=77.00, z=391.84] died, message: 'Unemployed was retired'
+[03Jan2025 03:14:45.946] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/6152, l='ServerLevel[world]', x=-296.30, y=-12.00, z=253.52]
