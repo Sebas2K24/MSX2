@@ -989,13 +989,16 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-01-03 03:27:44 +0000",
       "highland": "2024-12-31 05:05:38 +0000",
       "crystalline_chasm": "2025-01-02 04:30:39 +0000",
       "withered_abyss": "2025-01-02 03:29:36 +0000",
       "moor": "2024-12-31 04:50:11 +0000",
       "coniferous_forest": "2024-12-28 03:24:01 +0000",
       "visceral_heap": "2025-01-02 03:28:26 +0000",
+      "seasonal_forest": "2025-01-03 03:24:00 +0000",
       "pasture": "2025-01-03 03:02:47 +0000",
+      "lavender_field": "2025-01-03 03:29:24 +0000",
       "fir_clearing": "2024-12-28 03:27:35 +0000"
     },
     "done": false
@@ -8783,9 +8786,21 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-01-03 03:30:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-01-03 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 03:30:25 +0000"
     },
     "done": true
   },
@@ -8849,6 +8864,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:30:25 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2025-01-03 02:56:57 +0000"
@@ -8870,6 +8891,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-01-03 03:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-03 03:30:20 +0000"
     },
     "done": true
   },
@@ -8939,9 +8966,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-01-03 03:30:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
       "has_berry_jam_jar": "2025-01-03 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-03 03:30:20 +0000"
     },
     "done": true
   },
@@ -9167,9 +9206,21 @@
     },
     "done": true
   },
+  "mcwfurnituresbop:recipes/jacaranda": {
+    "criteria": {
+      "has_wood": "2025-01-03 03:30:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-01-03 03:30:23 +0000"
     },
     "done": true
   },
