@@ -6176,3 +6176,59 @@ java.lang.NullPointerException: Element not found: amount
 [03Jan2025 03:55:32.189] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15577, l='ServerLevel[world]', x=-1053.50, y=71.00, z=256.50]
 [03Jan2025 03:55:36.936] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15620, l='ServerLevel[world]', x=-1079.50, y=72.00, z=266.50]
 [03Jan2025 03:55:45.688] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15640, l='ServerLevel[world]', x=-1048.50, y=82.00, z=288.50]
+[03Jan2025 03:55:54.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> waos mira amor
+[03Jan2025 03:55:59.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ?
+[03Jan2025 03:56:02.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> primera vez que me dan algo asi
+[03Jan2025 03:56:17.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> waos, tienes mucha suerte amor
+[03Jan2025 03:56:24.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> si?
+[03Jan2025 03:56:26.338] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15715, l='ServerLevel[world]', x=-969.50, y=79.00, z=274.50]
+[03Jan2025 03:56:27.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor
+[03Jan2025 03:56:37.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> nunca he conseguido un bloque de esmeralda en un cofer
+[03Jan2025 03:56:39.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> cofre
+[03Jan2025 03:56:48.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> yo menos amor
+[03Jan2025 03:56:52.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja
+[03Jan2025 03:57:33.388] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15897, l='ServerLevel[world]', x=-1080.50, y=72.00, z=267.50]
+[03Jan2025 03:57:51.190] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15915, l='ServerLevel[world]', x=-1013.50, y=77.00, z=319.50]
+[03Jan2025 03:58:06.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> esta calidad el pueblo, pero esperaba mejor loot
+[03Jan2025 03:58:34.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajaja amor estas robando
+[03Jan2025 03:58:38.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajajaja
+[03Jan2025 03:58:41.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ssshhhhhw
+[03Jan2025 03:58:43.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Safe Haven]
+[03Jan2025 03:59:00.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ven a lo que esta enfrente amor
+[03Jan2025 03:59:12.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ya voy amor
+[03Jan2025 03:59:21.937] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16139, l='ServerLevel[world]', x=-1053.50, y=71.00, z=257.50]
+[03Jan2025 03:59:25.835] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16156, l='ServerLevel[world]', x=-981.50, y=73.00, z=261.50]
+[03Jan2025 03:59:29.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> al faro amor?
+[03Jan2025 03:59:34.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no amor
+[03Jan2025 03:59:35.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Call For Adventure]
+[03Jan2025 03:59:35.687] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16173, l='ServerLevel[world]', x=-1017.50, y=78.00, z=294.50]
+[03Jan2025 03:59:37.388] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16178, l='ServerLevel[world]', x=-1048.50, y=82.00, z=287.50]
+[03Jan2025 03:59:48.542] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/15954, l='ServerLevel[world]', x=-947.17, y=52.00, z=363.25]
+[03Jan2025 03:59:48.788] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16221, l='ServerLevel[world]', x=-1051.50, y=71.00, z=256.50]
+[03Jan2025 03:59:49.549] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/arna/jcraft/common/splatter/SplatterSection$UvModification
+[03Jan2025 03:59:54.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Israel the Rejected'/16192, l='ServerLevel[world]', x=-1129.09, y=69.00, z=335.91] died: Israel the Rejected was slain by Sebas2K24
+[03Jan2025 04:00:05.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Safe Haven]
+[03Jan2025 04:00:07.236] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16364, l='ServerLevel[world]', x=-1046.50, y=82.00, z=287.50]
+[03Jan2025 04:00:28.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajja
+[03Jan2025 04:00:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jejejejeje
+[03Jan2025 04:00:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> duerme amor
+[03Jan2025 04:00:50.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amor cuando me pegan como que las pantuflas sueltan un chillido
+[03Jan2025 04:00:56.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/12145, l='ServerLevel[world]', x=-1062.16, y=73.00, z=371.49] died, message: 'Farmer was slain by Zombie'
+[03Jan2025 04:00:58.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> taran vivas
+[03Jan2025 04:01:00.244] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/12255, l='ServerLevel[world]', x=-1065.65, y=73.00, z=331.24] died, message: 'Cartographer was slain by Zombie'
+[03Jan2025 04:01:15.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> yo creo amor
+[03Jan2025 04:01:59.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/12258, l='ServerLevel[world]', x=-1043.95, y=73.00, z=287.99] died, message: 'Fletcher was slain by Zombie Villager'
+[03Jan2025 04:01:59.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Call For Adventure]
+[03Jan2025 04:02:23.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16615, l='ServerLevel[world]', x=-1052.50, y=71.00, z=256.50]
+[03Jan2025 04:02:41.688] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16680, l='ServerLevel[world]', x=-1177.50, y=73.00, z=277.50]
+[03Jan2025 04:02:52.941] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/16505, l='ServerLevel[world]', x=-1024.45, y=76.00, z=409.81]
+[03Jan2025 04:03:38.688] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17103, l='ServerLevel[world]', x=-1207.50, y=83.00, z=260.50]
+[03Jan2025 04:03:40.692] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17105, l='ServerLevel[world]', x=-1214.50, y=81.00, z=275.50]
+[03Jan2025 04:03:41.535] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17108, l='ServerLevel[world]', x=-1197.50, y=81.00, z=251.50]
+[03Jan2025 04:03:43.588] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17116, l='ServerLevel[world]', x=-1133.50, y=73.00, z=214.50]
+[03Jan2025 04:03:53.987] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17162, l='ServerLevel[world]', x=-1212.50, y=81.00, z=276.50]
+[03Jan2025 04:04:09.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17197, l='ServerLevel[world]', x=-1213.50, y=81.00, z=274.50]
+[03Jan2025 04:04:12.209] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[03Jan2025 04:05:14.437] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17368, l='ServerLevel[world]', x=-1222.50, y=81.00, z=279.50]
+[03Jan2025 04:05:16.988] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17370, l='ServerLevel[world]', x=-1105.50, y=78.00, z=187.50]
+[03Jan2025 04:05:22.837] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17381, l='ServerLevel[world]', x=-1212.50, y=81.00, z=275.50]

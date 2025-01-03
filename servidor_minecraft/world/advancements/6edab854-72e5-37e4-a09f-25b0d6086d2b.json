@@ -8742,6 +8742,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-03 03:55:45 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/crimson_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/bluebright_spear": {
     "criteria": {
       "has_item": "2025-01-03 03:08:31 +0000"
@@ -8757,6 +8769,12 @@
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/dark_oak_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
     },
     "done": true
   },
@@ -8796,9 +8814,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 03:53:32 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-01-03 04:00:05 +0000"
     },
     "done": true
   },
@@ -8817,6 +8847,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_sapling": "2025-01-03 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/jungle_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
     },
     "done": true
   },
@@ -8886,9 +8922,21 @@
     },
     "done": true
   },
+  "fishofthieves:recipes/decorations/acacia_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-01-03 02:56:57 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/spruce_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
     },
     "done": true
   },
@@ -8907,6 +8955,18 @@
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/oak_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
     },
     "done": true
   },
@@ -8940,6 +9000,12 @@
     },
     "done": true
   },
+  "fishofthieves:recipes/decorations/bamboo_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-01-03 03:03:54 +0000"
@@ -8949,6 +9015,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-01-03 03:30:20 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-03 04:00:05 +0000"
     },
     "done": true
   },
@@ -8973,6 +9045,18 @@
   "adorn:root": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-01-03 03:53:36 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/cherry_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
     },
     "done": true
   },
@@ -9006,6 +9090,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-01-03 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_emerald_block_from_emerald_block": {
+    "criteria": {
+      "has_emerald_block": "2025-01-03 03:55:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
     "criteria": {
       "has_sweet_berries": "2025-01-03 03:09:31 +0000"
@@ -9015,6 +9111,12 @@
   "skilltree:recipes/misc/arsonist_necklace": {
     "criteria": {
       "has_fire_charge": "2025-01-03 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/birch_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
     },
     "done": true
   },
@@ -9051,6 +9153,12 @@
   "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
     "criteria": {
       "has_flower": "2025-01-03 03:30:17 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/mangrove_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
     },
     "done": true
   },
@@ -9096,6 +9204,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 03:53:32 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/lunar_spear": {
     "criteria": {
       "has_item": "2025-01-03 03:08:31 +0000"
@@ -9111,6 +9225,12 @@
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-01-03 03:53:36 +0000"
     },
     "done": true
   },
@@ -9177,6 +9297,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-03 02:59:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-01-03 03:53:32 +0000"
     },
     "done": true
   },
@@ -9294,6 +9420,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-01-03 03:53:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_sofa": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
@@ -9351,6 +9483,12 @@
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_flower": "2025-01-03 03:30:23 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/decorations/warped_fish_plaque": {
+    "criteria": {
+      "has_item_frame": "2025-01-03 03:58:26 +0000"
     },
     "done": true
   },

@@ -12311,6 +12311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-03 03:56:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-03 03:31:09 +0000"
@@ -12467,6 +12473,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 03:52:56 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/misc/liquid_trash_can": {
     "criteria": {
       "recipe_condition": "2025-01-03 03:31:09 +0000"
@@ -12500,6 +12512,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-01-03 03:43:03 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-01-03 03:58:43 +0000"
     },
     "done": true
   },
@@ -12560,6 +12578,12 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2025-01-03 03:29:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-01-03 03:57:51 +0000"
     },
     "done": true
   },
@@ -12683,6 +12707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-03 03:53:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-03 03:43:03 +0000"
@@ -12692,6 +12722,12 @@
   "minecraft:recipes/building_blocks/dye_green_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-03 03:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-03 03:53:04 +0000"
     },
     "done": true
   },
@@ -12743,6 +12779,12 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-03 03:58:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_basin": {
     "criteria": {
       "has_magenta_dye": "2025-01-03 03:43:02 +0000"
@@ -12758,6 +12800,12 @@
   "minecraft:recipes/building_blocks/dye_magenta_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-01-03 03:59:35 +0000"
     },
     "done": true
   },
@@ -12803,6 +12851,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-01-03 03:52:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/magenta_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-03 03:43:02 +0000"
@@ -12812,6 +12866,12 @@
   "adorn:recipes/spruce_step": {
     "criteria": {
       "has_slab": "2025-01-03 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-03 03:53:04 +0000"
     },
     "done": true
   },
@@ -12830,6 +12890,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_toilet": {
     "criteria": {
       "has_red_dye": "2025-01-03 03:43:03 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_emerald_block_from_emerald_block": {
+    "criteria": {
+      "has_emerald_block": "2025-01-03 03:56:10 +0000"
     },
     "done": true
   },
@@ -12941,6 +13007,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 03:52:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2025-01-03 03:43:03 +0000"
@@ -12986,6 +13058,12 @@
   "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-03 03:43:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-03 03:53:04 +0000"
     },
     "done": true
   },
@@ -13079,6 +13157,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-01-03 03:52:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/green_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-03 03:43:03 +0000"
@@ -13118,6 +13202,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
     "criteria": {
       "has_magenta_dye": "2025-01-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-03 03:53:04 +0000"
     },
     "done": true
   },
@@ -13238,6 +13328,12 @@
   "minecraft:recipes/building_blocks/dye_magenta_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-01-03 03:52:56 +0000"
     },
     "done": true
   },
