@@ -6419,3 +6419,51 @@ java.lang.NullPointerException: Element not found: amount
 [03Jan2025 04:36:17.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ni idea amor
 [03Jan2025 04:36:32.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tienes diamante amor?
 [03Jan2025 04:36:32.614] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:capuchin_monkey was not found when trying to access it! Returning 0
+[03Jan2025 04:36:56.405] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27225, l='ServerLevel[world]', x=-1551.98, y=75.00, z=841.02] died, message: 'Unemployed was slain by Zombie'
+[03Jan2025 04:37:30.899] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/30032, l='ServerLevel[world]', x=-1843.49, y=23.00, z=753.62]
+[03Jan2025 04:37:30.899] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/30033, l='ServerLevel[world]', x=-1847.25, y=23.50, z=764.79]
+[03Jan2025 04:37:30.899] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/30034, l='ServerLevel[world]', x=-1845.42, y=23.00, z=760.62]
+[03Jan2025 04:38:35.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amor
+[03Jan2025 04:38:40.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amor
+[03Jan2025 04:38:46.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amoooooooooor mira
+[03Jan2025 04:38:56.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> nojombre ya va
+[03Jan2025 04:38:56.548] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27452, l='ServerLevel[world]', x=-1597.40, y=75.00, z=862.46] died, message: 'Unemployed was killed by Velma the Pathetic using magic'
+[03Jan2025 04:39:00.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ten
+[03Jan2025 04:39:05.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajaja
+[03Jan2025 04:39:06.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> el panda rojo
+[03Jan2025 04:39:15.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> graciaaaaaaaaaaaaaaaas mi amor precioso, me encantaaaaaaaaaaaaaaa
+[03Jan2025 04:39:22.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> el mono es lo menos importante
+[03Jan2025 04:39:24.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1662, y=73, z=829} BlockPos{x=-1663, y=72, z=829}
+[03Jan2025 04:39:24.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1662, y=73, z=829} BlockPos{x=-1663, y=72, z=829}
+[03Jan2025 04:39:33.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> bueno amor
+[03Jan2025 04:39:48.867] [pool-11-thread-6/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp_fortified]] from pos BlockPos{x=-1499, y=75, z=965}
+[03Jan2025 04:40:01.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Velma the Pathetic'/30041, l='ServerLevel[world]', x=-1596.19, y=74.00, z=866.69] died: Velma the Pathetic was slain by Sebas2K24
+[03Jan2025 04:40:21.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> hormigaaaaaaas
+[03Jan2025 04:40:41.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> dios
+[03Jan2025 04:40:46.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja
+[03Jan2025 04:40:48.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> star platinum amor jajajaja
+[03Jan2025 04:40:56.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor
+[03Jan2025 04:40:58.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gorilaaaaaaaaaaaaaaaaaaaaaas
+[03Jan2025 04:41:07.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> sube amor
+[03Jan2025 04:41:07.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> mira amor
+[03Jan2025 04:41:13.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> voy
+[03Jan2025 04:41:51.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> cuatro monturas
+[03Jan2025 04:41:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> genial amor
+[03Jan2025 04:42:15.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> una piramide pequeña
+[03Jan2025 04:42:15.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiiiiiii
+[03Jan2025 04:42:20.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> voy amor
+[03Jan2025 04:42:25.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> hormiguero
+[03Jan2025 04:42:42.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> unos tunga tunga
+[03Jan2025 04:42:54.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> bailan
+[03Jan2025 04:43:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> genial amor
+[03Jan2025 04:43:36.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ajjajaajajajaj
+[03Jan2025 04:43:44.512] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/31878, l='ServerLevel[world]', x=-1391.79, y=90.00, z=1043.80]
+[03Jan2025 04:44:42.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> debia ver que no hubiera tramoa
+[03Jan2025 04:44:44.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> trampa
+[03Jan2025 04:44:45.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> disculpa mi amor
+[03Jan2025 04:44:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> si amor
+[03Jan2025 04:44:49.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tranquila amor
+[03Jan2025 04:44:57.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amooooooooooor
+[03Jan2025 04:45:07.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> te tengo algo
+[03Jan2025 04:45:17.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Hidden Books]
+[03Jan2025 04:45:24.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [Hidden Books]

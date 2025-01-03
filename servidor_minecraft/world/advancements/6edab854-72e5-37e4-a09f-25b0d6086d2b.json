@@ -1962,6 +1962,7 @@
       "minecraft:piglin": "2025-01-02 03:37:33 +0000",
       "minecraft:stray": "2024-12-29 04:03:06 +0000",
       "minecraft:enderman": "2024-12-31 05:21:51 +0000",
+      "minecraft:silverfish": "2025-01-03 04:44:30 +0000",
       "minecraft:zombie": "2024-12-28 04:07:59 +0000",
       "minecraft:drowned": "2025-01-03 04:28:02 +0000"
     },
@@ -5361,6 +5362,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-29 04:59:37 +0000",
+      "minecraft:sparse_jungle": "2025-01-03 04:33:13 +0000",
       "minecraft:river": "2025-01-03 03:02:08 +0000",
       "minecraft:cold_ocean": "2024-12-29 04:10:38 +0000",
       "minecraft:forest": "2025-01-03 04:22:31 +0000",
@@ -8802,6 +8804,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/decorations/dark_oak_fish_plaque": {
     "criteria": {
       "has_item_frame": "2025-01-03 03:58:26 +0000"
@@ -8811,6 +8819,12 @@
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-01-03 02:59:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -8826,6 +8840,12 @@
     },
     "done": true
   },
+  "justaraftmod:recipes/transportation/birch_raft": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-03 03:39:00 +0000"
@@ -8835,6 +8855,12 @@
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-03 04:36:51 +0000"
     },
     "done": true
   },
@@ -8850,6 +8876,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
       "locate_underwater_small_ruins": "2025-01-03 04:25:10 +0000"
@@ -8859,6 +8891,12 @@
   "colourfulearth:recipes/decorations/dirt_dyed_brown": {
     "criteria": {
       "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -8880,15 +8918,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-01-03 03:17:26 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-03 04:36:51 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_tavern": {
     "criteria": {
       "nova_structures:tavern_oak": "2025-01-03 04:00:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -8946,6 +9002,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-01-03 03:08:45 +0000"
@@ -8973,6 +9035,12 @@
   "colourfulearth:recipes/decorations/dirt_dyed_yellow": {
     "criteria": {
       "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9054,9 +9122,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/hidden_books": {
+    "criteria": {
+      "book": "2025-01-03 04:45:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-01-03 03:58:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9075,6 +9155,12 @@
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2025-01-03 02:56:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9120,6 +9206,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/food/cooked_wildsplash_from_campfire_cooking": {
     "criteria": {
       "has_wildsplash": "2025-01-03 04:04:55 +0000"
@@ -9150,6 +9242,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
@@ -9168,11 +9266,23 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/food/cooked_islehopper": {
     "criteria": {
       "has_islehopper": "2025-01-03 04:12:40 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_jungle": "2025-01-03 04:43:40 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
@@ -9264,6 +9374,24 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "super_ore_block:recipes/building_blocks/super_emerald_block_from_emerald_block": {
     "criteria": {
       "has_emerald_block": "2025-01-03 03:55:45 +0000"
@@ -9291,6 +9419,12 @@
   "fishofthieves:recipes/decorations/birch_fish_plaque": {
     "criteria": {
       "has_item_frame": "2025-01-03 03:58:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9342,15 +9476,33 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/decorations/mangrove_fish_plaque": {
     "criteria": {
       "has_item_frame": "2025-01-03 03:58:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
       "has_berry_jam_jar": "2025-01-03 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9366,9 +9518,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-01-03 04:04:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9408,6 +9578,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/lunar_spear": {
     "criteria": {
       "has_item": "2025-01-03 03:08:31 +0000"
@@ -9426,9 +9602,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-01-03 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9447,6 +9647,18 @@
   "minecraft:recipes/decorations/dirt_washed_light_blue.json": {
     "criteria": {
       "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9546,6 +9758,12 @@
     },
     "done": false
   },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-01-03 03:17:26 +0000"
@@ -9600,9 +9818,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-01-03 03:08:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9636,6 +9866,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_white_cushion": "2025-01-03 03:17:26 +0000"
@@ -9651,6 +9893,12 @@
   "fishofthieves:recipes/food/cooked_wildsplash_from_smoking": {
     "criteria": {
       "has_wildsplash": "2025-01-03 04:04:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9690,9 +9938,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_white.json": {
     "criteria": {
       "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9708,6 +9974,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-01-03 03:17:26 +0000"
@@ -9720,15 +9998,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_black.json": {
     "criteria": {
       "has_dirt": "2025-01-03 04:20:43 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_brown.json": {
     "criteria": {
       "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
@@ -9768,9 +10064,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 04:36:55 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2025-01-03 03:08:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-03 04:36:55 +0000"
     },
     "done": true
   },
