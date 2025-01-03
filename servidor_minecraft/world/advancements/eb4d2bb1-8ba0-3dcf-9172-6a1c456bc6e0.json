@@ -997,6 +997,7 @@
     "criteria": {
       "muskeg": "2024-12-21 05:28:56 +0000",
       "shrubland": "2024-12-21 04:25:29 +0000",
+      "rocky_shrubland": "2025-01-03 04:22:08 +0000",
       "highland": "2024-12-31 05:05:18 +0000",
       "crystalline_chasm": "2025-01-02 04:30:39 +0000",
       "withered_abyss": "2025-01-02 03:29:31 +0000",
@@ -1012,7 +1013,8 @@
       "fir_clearing": "2024-12-20 02:39:31 +0000",
       "prairie": "2024-12-21 04:01:58 +0000",
       "tundra": "2024-12-21 05:29:31 +0000",
-      "glowing_grotto": "2024-12-30 00:55:37 +0000"
+      "glowing_grotto": "2024-12-30 00:55:37 +0000",
+      "ominous_woods": "2025-01-03 04:22:01 +0000"
     },
     "done": false
   },
@@ -4963,6 +4965,9 @@
       "minecraft:beach": "2024-12-21 03:31:26 +0000",
       "minecraft:river": "2024-12-21 04:01:01 +0000",
       "minecraft:cold_ocean": "2024-12-21 03:31:33 +0000",
+      "minecraft:forest": "2025-01-03 04:21:52 +0000",
+      "minecraft:ocean": "2025-01-03 04:24:52 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-03 04:31:26 +0000",
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
     },
     "done": false
@@ -12335,6 +12340,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-03 03:31:09 +0000"
@@ -12380,6 +12391,12 @@
   "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-03 03:43:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -12431,15 +12448,33 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2025-01-03 04:25:08 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/lime_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-03 03:31:09 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-03 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -12509,6 +12544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-01-03 03:43:03 +0000"
@@ -12530,6 +12571,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
     "criteria": {
       "has_magenta_dye": "2025-01-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -12575,6 +12622,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2025-01-03 03:29:53 +0000"
@@ -12593,6 +12646,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-03 03:43:03 +0000"
@@ -12602,6 +12661,12 @@
   "adorn:recipes/spruce_platform": {
     "criteria": {
       "has_slab": "2025-01-03 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -12659,6 +12724,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
     "criteria": {
       "has_red_dye": "2025-01-03 03:43:03 +0000"
@@ -12698,6 +12769,12 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
     "criteria": {
       "has_logs": "2025-01-03 03:29:53 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -12773,6 +12850,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/spruce_coffee_table": {
     "criteria": {
       "has_slab": "2025-01-03 03:33:08 +0000"
@@ -12788,6 +12871,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_basin": {
     "criteria": {
       "has_magenta_dye": "2025-01-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -12818,6 +12907,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-01-03 03:43:03 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
+    "criteria": {
+      "requirement": "2025-01-03 04:26:14 +0000"
     },
     "done": true
   },
@@ -12881,6 +12976,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/spruce_table": {
     "criteria": {
       "has_slab": "2025-01-03 03:33:08 +0000"
@@ -12911,15 +13012,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-03 03:31:09 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-03 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -12965,6 +13084,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
     "criteria": {
       "forge:dyes/red": "2025-01-03 03:43:03 +0000"
@@ -12974,6 +13111,12 @@
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2025-01-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -13019,9 +13162,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_basin": {
     "criteria": {
       "has_green_dye": "2025-01-03 03:43:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -13034,6 +13195,12 @@
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-03 03:43:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -13067,6 +13234,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_honey_bottle": "2025-01-03 03:53:04 +0000"
@@ -13082,6 +13255,12 @@
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-03 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -13106,6 +13285,12 @@
   "refurbished_furniture:recipes/decorations/magenta_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -13217,6 +13402,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-03 03:43:03 +0000"
@@ -13244,6 +13435,18 @@
   "travelersbackpack:recipes/building_blocks/dye_magenta_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-01-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -13307,6 +13510,18 @@
     },
     "done": true
   },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_ruin_pillager": "2025-01-03 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/magenta_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-03 03:43:02 +0000"
@@ -13328,6 +13543,12 @@
   "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-03 03:43:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },
@@ -13379,6 +13600,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-01-03 04:28:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/green_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-03 03:43:03 +0000"
@@ -13400,6 +13627,12 @@
   "refurbished_furniture:recipes/decorations/green_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-03 03:43:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 04:28:36 +0000"
     },
     "done": true
   },

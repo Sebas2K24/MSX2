@@ -990,6 +990,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-01-03 03:27:44 +0000",
+      "rocky_shrubland": "2025-01-03 04:23:16 +0000",
       "highland": "2024-12-31 05:05:38 +0000",
       "crystalline_chasm": "2025-01-02 04:30:39 +0000",
       "withered_abyss": "2025-01-02 03:29:36 +0000",
@@ -1001,7 +1002,8 @@
       "seasonal_forest": "2025-01-03 03:24:00 +0000",
       "pasture": "2025-01-03 03:02:47 +0000",
       "lavender_field": "2025-01-03 03:29:24 +0000",
-      "fir_clearing": "2024-12-28 03:27:35 +0000"
+      "fir_clearing": "2024-12-28 03:27:35 +0000",
+      "ominous_woods": "2025-01-03 04:23:03 +0000"
     },
     "done": false
   },
@@ -1960,7 +1962,8 @@
       "minecraft:piglin": "2025-01-02 03:37:33 +0000",
       "minecraft:stray": "2024-12-29 04:03:06 +0000",
       "minecraft:enderman": "2024-12-31 05:21:51 +0000",
-      "minecraft:zombie": "2024-12-28 04:07:59 +0000"
+      "minecraft:zombie": "2024-12-28 04:07:59 +0000",
+      "minecraft:drowned": "2025-01-03 04:28:02 +0000"
     },
     "done": false
   },
@@ -5360,6 +5363,9 @@
       "minecraft:beach": "2024-12-29 04:59:37 +0000",
       "minecraft:river": "2025-01-03 03:02:08 +0000",
       "minecraft:cold_ocean": "2024-12-29 04:10:38 +0000",
+      "minecraft:forest": "2025-01-03 04:22:31 +0000",
+      "minecraft:ocean": "2025-01-03 04:24:56 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-03 04:31:30 +0000",
       "minecraft:plains": "2025-01-03 03:37:08 +0000"
     },
     "done": false
@@ -8844,6 +8850,12 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2025-01-03 04:25:10 +0000"
+    },
+    "done": false
+  },
   "colourfulearth:recipes/decorations/dirt_dyed_brown": {
     "criteria": {
       "has_dirt": "2025-01-03 04:20:43 +0000"
@@ -9183,6 +9195,12 @@
   "supplementaries:recipes/sugar_cube": {
     "criteria": {
       "has_sugar": "2025-01-03 03:53:36 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
+    "criteria": {
+      "requirement": "2025-01-03 04:26:14 +0000"
     },
     "done": true
   },
@@ -9657,6 +9675,12 @@
   "decorative_blocks:recipes/building_blocks/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-01-03 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_ruin_pillager": "2025-01-03 04:26:14 +0000"
     },
     "done": true
   },
