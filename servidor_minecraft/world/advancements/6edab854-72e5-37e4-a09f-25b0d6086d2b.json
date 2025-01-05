@@ -10984,6 +10984,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_jungle": "2025-01-05 04:44:03 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-01-05 04:25:38 +0000"
@@ -11026,9 +11032,21 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-01-05 04:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-01-05 04:26:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/spike": {
+    "criteria": {
+      "has_bamboo_spikes_tipped": "2025-01-05 04:53:17 +0000"
     },
     "done": true
   },

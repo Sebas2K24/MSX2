@@ -14410,6 +14410,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_jungle": "2025-01-05 04:43:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-01-05 03:36:04 +0000"
@@ -14437,6 +14443,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
     },
     "done": true
   },
@@ -14572,6 +14584,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
   "justaraftmod:recipes/transportation/jungle_raft": {
     "criteria": {
       "has_log": "2025-01-05 03:36:04 +0000"
@@ -14581,6 +14599,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
     },
     "done": true
   },
@@ -14854,6 +14878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/grass_dyed_light_blue": {
     "criteria": {
       "has_grass_block": "2025-01-05 03:41:03 +0000"
@@ -14875,6 +14905,12 @@
   "biomesoplenty:recipes/decorations/mahogany_sign": {
     "criteria": {
       "has_mahogany_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "adhooks:recipes/tools/pudge_hook": {
+    "criteria": {
+      "has_item": "2025-01-05 04:49:23 +0000"
     },
     "done": true
   },
@@ -14998,6 +15034,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-05 04:47:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2025-01-05 03:36:13 +0000"
@@ -15052,6 +15094,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-01-05 04:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-01-05 03:35:05 +0000"
@@ -15088,6 +15136,18 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-05 04:42:49 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/oak_palisade": {
     "criteria": {
       "has_log": "2025-01-05 03:54:52 +0000"
@@ -15118,6 +15178,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/grass_dyed_yellow": {
     "criteria": {
       "has_grass_block": "2025-01-05 03:41:03 +0000"
@@ -15142,6 +15208,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/spike": {
+    "criteria": {
+      "has_bamboo_spikes_tipped": "2025-01-05 04:53:37 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-01-05 03:54:52 +0000"
@@ -15163,6 +15235,12 @@
   "sophisticatedstorage:recipes/misc/jungle_chest": {
     "criteria": {
       "has_jungle_plank": "2025-01-05 03:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-05 04:42:49 +0000"
     },
     "done": true
   },
@@ -15244,6 +15322,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:54:52 +0000"
@@ -15289,6 +15373,12 @@
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "adhooks:recipes/tools/spear_hook": {
+    "criteria": {
+      "has_item": "2025-01-05 04:49:23 +0000"
     },
     "done": true
   },
@@ -15394,6 +15484,12 @@
     },
     "done": true
   },
+  "adhooks:recipes/tools/prototype_launcher": {
+    "criteria": {
+      "has_item": "2025-01-05 04:58:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-05 03:54:52 +0000"
@@ -15403,6 +15499,12 @@
   "minecraft:recipes/decorations/grass_washed_light_grey.json": {
     "criteria": {
       "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-01-05 04:58:19 +0000"
     },
     "done": true
   },
@@ -15457,6 +15559,12 @@
   "handcrafted:recipes/misc/jungle_chair": {
     "criteria": {
       "has_jungle_chair": "2025-01-05 03:36:18 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
     },
     "done": true
   },
