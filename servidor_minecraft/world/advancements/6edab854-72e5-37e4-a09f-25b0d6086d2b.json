@@ -10159,15 +10159,459 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_yellow_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_yellow_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-01-05 03:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_devilfish_from_campfire_cooking": {
+    "criteria": {
+      "has_devilfish": "2025-01-05 03:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-05 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_battlegill_from_smoking": {
+    "criteria": {
+      "has_battlegill": "2025-01-05 03:07:51 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_battlegill": {
+    "criteria": {
+      "has_battlegill": "2025-01-05 03:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-05 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_splashtail_from_campfire_cooking": {
+    "criteria": {
+      "has_splashtail": "2025-01-05 03:08:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "forge:dyes/yellow": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_pondie_from_campfire_cooking": {
+    "criteria": {
+      "has_pondie": "2025-01-05 03:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-05 02:56:02 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-01-05 03:08:57 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_battlegill_from_campfire_cooking": {
+    "criteria": {
+      "has_battlegill": "2025-01-05 03:07:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_yellow_bowl": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-05 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_pondie_from_smoking": {
+    "criteria": {
+      "has_pondie": "2025-01-05 03:07:13 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_splashtail": {
+    "criteria": {
+      "has_splashtail": "2025-01-05 03:08:13 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_c": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_ancientscale_from_campfire_cooking": {
+    "criteria": {
+      "has_ancientscale": "2025-01-05 03:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-05 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_ancientscale_from_smoking": {
+    "criteria": {
+      "has_ancientscale": "2025-01-05 03:09:35 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_plentifin": {
+    "criteria": {
+      "has_plentifin": "2025-01-05 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_pondie": {
+    "criteria": {
+      "has_pondie": "2025-01-05 03:07:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-01-05 03:13:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_ancientscale": {
+    "criteria": {
+      "has_ancientscale": "2025-01-05 03:09:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-05 03:08:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-01-05 03:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-01-05 03:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-05 03:12:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-05 03:12:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-05 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_devilfish_from_smoking": {
+    "criteria": {
+      "has_devilfish": "2025-01-05 03:07:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-01-05 03:08:57 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_splashtail_from_smoking": {
+    "criteria": {
+      "has_splashtail": "2025-01-05 03:08:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-01-05 03:08:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-01-05 03:13:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_plentifin_from_smoking": {
+    "criteria": {
+      "has_plentifin": "2025-01-05 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_plentifin_from_campfire_cooking": {
+    "criteria": {
+      "has_plentifin": "2025-01-05 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_devilfish": {
+    "criteria": {
+      "has_devilfish": "2025-01-05 03:07:44 +0000"
     },
     "done": true
   },
