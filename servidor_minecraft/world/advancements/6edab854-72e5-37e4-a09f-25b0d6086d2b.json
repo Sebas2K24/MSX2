@@ -10984,6 +10984,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 05:07:32 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:villages": {
     "criteria": {
       "in_village_jungle": "2025-01-05 04:44:03 +0000"
@@ -10993,6 +10999,12 @@
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-01-05 04:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-05 05:03:50 +0000"
     },
     "done": true
   },
@@ -11041,6 +11053,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-01-05 04:26:27 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-01-05 05:07:32 +0000"
     },
     "done": true
   },

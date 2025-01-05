@@ -4592,6 +4592,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "brewingstand": "2024-12-29 03:57:06 +0000",
+      "grindstone": "2025-01-05 05:02:26 +0000",
       "smithingtable": "2024-12-20 02:40:14 +0000",
       "smoker": "2024-12-21 04:04:52 +0000",
       "blastfurnace": "2024-12-20 04:38:53 +0000"
@@ -15208,6 +15209,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/iron_golem_smithing": {
+    "criteria": {
+      "has_iron_golem": "2025-01-05 05:05:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/spike": {
     "criteria": {
       "has_bamboo_spikes_tipped": "2025-01-05 04:53:37 +0000"
@@ -15301,6 +15308,12 @@
   "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-05 05:00:27 +0000"
     },
     "done": true
   },

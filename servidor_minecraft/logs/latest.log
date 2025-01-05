@@ -6875,3 +6875,38 @@ Caused by: java.lang.NumberFormatException: empty String
 [05Jan2025 04:59:41.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> salgamos y veamos el pueblo
 [05Jan2025 04:59:46.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> entiendo amor
 [05Jan2025 04:59:47.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> vamos amor
+[05Jan2025 05:00:02.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que es esto?
+[05Jan2025 05:00:04.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jugamos un ratico mas y ya para que vayas a descansar
+[05Jan2025 05:00:16.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no se amor
+[05Jan2025 05:00:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> bueno amor
+[05Jan2025 05:00:37.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/27390, l='ServerLevel[world]', x=-2106.50, y=96.00, z=972.00] died, message: 'Butcher was slain by Zombie'
+[05Jan2025 05:00:51.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27083, l='ServerLevel[world]', x=-2111.63, y=95.00, z=977.81] died, message: 'Unemployed was slain by Zombie'
+[05Jan2025 05:01:37.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> estaban aqui pasando hambre jajajaja
+[05Jan2025 05:01:42.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja si amor
+[05Jan2025 05:01:58.530] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27542, l='ServerLevel[world]', x=-2110.33, y=92.72, z=975.63] died, message: 'Fisherman was retired'
+[05Jan2025 05:02:00.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27082, l='ServerLevel[world]', x=-2110.56, y=92.00, z=974.53] died, message: 'Unemployed was retired'
+[05Jan2025 05:02:05.629] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/27081, l='ServerLevel[world]', x=-2110.64, y=93.00, z=975.86] died, message: 'Fletcher was retired'
+[05Jan2025 05:02:09.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27424, l='ServerLevel[world]', x=-2110.63, y=93.00, z=975.62] died, message: 'Fisherman was slain by Zombie Villager'
+[05Jan2025 05:02:19.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27238, l='ServerLevel[world]', x=-2113.40, y=75.88, z=1068.07] died, message: 'Unemployed was slain by Zombie'
+[05Jan2025 05:02:56.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27239, l='ServerLevel[world]', x=-2128.86, y=79.50, z=1057.34] died, message: 'Unemployed was slain by Zombie'
+[05Jan2025 05:03:50.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Voluntary Exile]
+[05Jan2025 05:03:50.744] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/30910, l='ServerLevel[world]', x=-2002.83, y=35.00, z=1008.76]
+[05Jan2025 05:03:56.685] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/28974, l='ServerLevel[world]', x=-2009.76, y=84.00, z=995.47]
+[05Jan2025 05:03:57.783] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/30522, l='ServerLevel[world]', x=-2008.52, y=59.00, z=980.29]
+[05Jan2025 05:06:17.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ajjajajja veo que te han explotado unos cuantos creepers
+[05Jan2025 05:06:44.546] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/28875, l='ServerLevel[world]', x=-2247.38, y=78.00, z=997.49]
+[05Jan2025 05:07:19.385] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27360, l='ServerLevel[world]', x=-2093.28, y=76.94, z=1050.25] died, message: 'Unemployed was slain by Zombie'
+[05Jan2025 05:07:31.282] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/27363, l='ServerLevel[world]', x=-2097.76, y=79.00, z=1046.51] died, message: 'Armorer was slain by Zombie'
+[05Jan2025 05:07:32.945] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27240, l='ServerLevel[world]', x=-2110.70, y=92.88, z=975.15] died, message: 'Unemployed was slain by Aarkanen'
+[05Jan2025 05:07:32.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Neighborhood Brawl]
+[05Jan2025 05:07:32.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Bad Deal]
+[05Jan2025 05:07:38.684] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27389, l='ServerLevel[world]', x=-2091.14, y=77.00, z=1047.70] died, message: 'Unemployed was slain by Zombie'
+[05Jan2025 05:07:42.437] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/27227, l='ServerLevel[world]', x=-2091.44, y=76.00, z=1056.56] died, message: 'Nitwit was slain by Zombie Villager'
+[05Jan2025 05:07:48.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/27230, l='ServerLevel[world]', x=-2108.18, y=76.00, z=1059.16] died, message: 'Fletcher was slain by Zombie'
+[05Jan2025 05:08:10.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> dejemoslo aqui amor
+[05Jan2025 05:08:17.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> debes ir a descansar
+[05Jan2025 05:08:25.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27425, l='ServerLevel[world]', x=-2140.44, y=96.00, z=1003.75] died, message: 'Unemployed was slain by Vindicator'
+[05Jan2025 05:08:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> bueno mi amor, esta bien
+[05Jan2025 05:09:24.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias por jugar conmigo mi amor, me encantó
+[05Jan2025 05:09:33.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> gracias a ti amor, a mi tambien
+[05Jan2025 05:09:48.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> fue un placer mi amor
