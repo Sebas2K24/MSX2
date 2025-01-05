@@ -1009,11 +1009,13 @@
       "dune_beach": "2024-12-21 04:04:50 +0000",
       "seasonal_forest": "2025-01-03 03:18:30 +0000",
       "pasture": "2024-12-21 03:56:24 +0000",
+      "volcanic_plains": "2025-01-03 05:23:04 +0000",
       "lavender_field": "2025-01-03 03:28:32 +0000",
       "fir_clearing": "2024-12-20 02:39:31 +0000",
       "prairie": "2024-12-21 04:01:58 +0000",
       "tundra": "2024-12-21 05:29:31 +0000",
       "glowing_grotto": "2024-12-30 00:55:37 +0000",
+      "rainforest": "2025-01-05 02:38:14 +0000",
       "ominous_woods": "2025-01-03 04:22:01 +0000"
     },
     "done": false
@@ -14349,6 +14351,42 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-01-03 04:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-01-03 04:57:25 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-01-03 04:57:25 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/andesite_platform": {
+    "criteria": {
+      "has_slab": "2025-01-03 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/andesite_step": {
+    "criteria": {
+      "has_slab": "2025-01-03 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_living_arrow": {
+    "criteria": {
+      "has_arrow": "2025-01-03 05:12:06 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_requiem_arrow": {
+    "criteria": {
+      "has_arrow": "2025-01-03 05:12:11 +0000"
     },
     "done": true
   },
