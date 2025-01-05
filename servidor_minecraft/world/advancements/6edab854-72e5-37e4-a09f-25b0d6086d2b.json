@@ -10165,6 +10165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-05 03:15:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_yellow_picket_gate": {
     "criteria": {
       "has_dye": "2025-01-05 03:09:11 +0000"
@@ -10219,15 +10225,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-05 03:14:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-01-05 03:09:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-05 03:15:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-05 03:15:18 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/food/cooked_splashtail_from_campfire_cooking": {
     "criteria": {
       "has_splashtail": "2025-01-05 03:08:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 03:14:58 +0000"
     },
     "done": true
   },
@@ -10270,6 +10300,12 @@
   "fishofthieves:recipes/food/cooked_battlegill_from_campfire_cooking": {
     "criteria": {
       "has_battlegill": "2025-01-05 03:07:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-01-05 03:14:56 +0000"
     },
     "done": true
   },
@@ -10333,6 +10369,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-05 03:15:18 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/food/cooked_splashtail": {
     "criteria": {
       "has_splashtail": "2025-01-05 03:08:13 +0000"
@@ -10348,6 +10390,18 @@
   "handcrafted:recipes/misc/yellow_plate": {
     "criteria": {
       "has_yellow_plate": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-05 03:15:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 03:15:11 +0000"
     },
     "done": true
   },
@@ -10387,9 +10441,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-05 03:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-01-05 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-05 03:15:11 +0000"
     },
     "done": true
   },
@@ -10426,6 +10492,18 @@
   "fishofthieves:recipes/food/cooked_plentifin": {
     "criteria": {
       "has_plentifin": "2025-01-05 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-05 03:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-05 03:14:58 +0000"
     },
     "done": true
   },
@@ -10495,6 +10573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-05 03:14:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
     "criteria": {
       "has_yellow_dye": "2025-01-05 03:09:11 +0000"
@@ -10507,6 +10591,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-05 03:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-05 03:15:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-01-05 03:12:43 +0000"
@@ -10516,6 +10612,12 @@
   "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-05 03:15:18 +0000"
     },
     "done": true
   },
@@ -10573,6 +10675,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-05 03:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-05 03:14:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
     "criteria": {
       "has_yellow_dye": "2025-01-05 03:09:11 +0000"
@@ -10612,6 +10726,12 @@
   "fishofthieves:recipes/food/cooked_devilfish": {
     "criteria": {
       "has_devilfish": "2025-01-05 03:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-05 03:14:58 +0000"
     },
     "done": true
   },
