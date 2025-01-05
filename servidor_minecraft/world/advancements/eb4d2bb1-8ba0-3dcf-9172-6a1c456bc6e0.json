@@ -1510,11 +1510,13 @@
     "criteria": {
       "minecraft:pillager": "2024-12-21 04:19:14 +0000",
       "minecraft:skeleton": "2024-12-20 04:36:35 +0000",
+      "minecraft:hoglin": "2025-01-05 04:01:30 +0000",
       "minecraft:vindicator": "2024-12-21 03:42:40 +0000",
       "minecraft:magma_cube": "2025-01-02 03:55:14 +0000",
       "minecraft:spider": "2024-12-21 03:41:37 +0000",
       "minecraft:piglin_brute": "2025-01-02 03:51:14 +0000",
       "minecraft:creeper": "2024-12-20 05:00:48 +0000",
+      "minecraft:phantom": "2025-01-05 04:05:33 +0000",
       "minecraft:zombified_piglin": "2025-01-02 03:47:44 +0000",
       "minecraft:witch": "2025-01-03 04:40:01 +0000",
       "minecraft:wither_skeleton": "2024-12-29 04:59:58 +0000",
@@ -14672,6 +14674,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-01-05 04:01:30 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_shelf": {
     "criteria": {
       "has_jungle_shelf": "2025-01-05 03:36:18 +0000"
@@ -15001,6 +15009,12 @@
       "has_planks": "2025-01-05 03:36:04 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-01-05 04:05:33 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
