@@ -6451,3 +6451,200 @@ java.lang.NullPointerException: Element not found: amount
 [05Jan2025 04:08:59.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor
 [05Jan2025 04:09:05.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ya amor
 [05Jan2025 04:09:08.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> hay que llevarnos la carne de jabali amor
+[05Jan2025 04:09:14.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> revisemos la planta baja
+[05Jan2025 04:09:18.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> vale amor, ya la guarde
+[05Jan2025 04:09:55.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> nooooooo
+[05Jan2025 04:10:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no te acerques a los creepers o perdemos los cofres
+[05Jan2025 04:10:20.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien mi amor
+[05Jan2025 04:11:30.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> perdon mi amor
+[05Jan2025 04:11:39.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tranquila amor
+[05Jan2025 04:11:46.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajaja no hay nada
+[05Jan2025 04:11:58.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja no amor
+[05Jan2025 04:12:00.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> veamos arriba
+[05Jan2025 04:12:40.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> me asustaste mi amor, lo sineto
+[05Jan2025 04:12:42.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> waaaaaaaaaaaaooooss
+[05Jan2025 04:12:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siento
+[05Jan2025 04:12:46.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajaja
+[05Jan2025 04:12:46.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> miraaa
+[05Jan2025 04:12:49.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tranquila amor
+[05Jan2025 04:12:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> dios amor
+[05Jan2025 04:13:22.542] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: empty String
+	Index: 8
+	Listeners:
+		0: HIGHEST
+		1: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@4ff3472b
+		2: NORMAL
+		3: ASM: class tallestegg.guardvillagers.HandlerEvents onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		4: ASM: class com.aqutheseal.celestisynth.common.events.CSCommonMiscEvents onLivingTickEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		5: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@3b0deaa1
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@2acf545a onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		7: ASM: class reascer.wom.events.WOMLivingEntityEvents onUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		8: ASM: class yesman.epicfight.events.EntityEvents updateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		9: ASM: class com.progwml6.ironchest.common.ai.CatsSitOnChestsHandler changeSittingTaskForOcelots(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		10: ASM: class com.legacy.blue_skies.events.SkiesEvents onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		11: ASM: com.github.alexthe666.citadel.server.CitadelEvents@3e23af8e onEntityUpdateDebug(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		12: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@5e3b40bf
+		13: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@f7d4d62 onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		14: ASM: class it.hurts.sskirillss.relics.effects.BleedingEffect$Events onLivingUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		15: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@1ba884cb onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		16: ASM: de.melanx.MoreVanillaArmor.Events@1276074b playerTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		17: ASM: class twilightforest.events.HostileMountEvents livingUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		18: ASM: class twilightforest.events.EntityEvents onLivingTickEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		19: ASM: class twilightforest.events.CapabilityEvents updateCaps(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		20: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@2aa5c741
+		21: ASM: class baguchan.enchantwithmob.CommonEventHandler onUpdateEnchanted(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		22: ASM: class quek.undergarden.item.tool.UGToolEvents froststeelTickEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		23: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@7fba0721
+		24: ASM: com.mrcrayfish.framework.event.ForgeEvents@572386fa onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		25: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@2b36b295
+		26: ASM: class com.legacy.scuba_gear.ScubaEvents onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		27: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@406f485e livingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		28: ASM: stepsword.mahoutsukai.handlers.ServerHandler@38f1dff9 livingEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		29: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@2f0c21f4
+		30: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@2b17649b
+		31: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@43bedd7
+		32: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@1a8745df
+		33: ASM: class net.mehvahdjukaar.supplementaries.common.events.forge.ServerEventsForge onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		34: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@544ad4fa
+		35: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@44e95154
+		36: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@1fe7494b
+		37: ASM: class com.simibubi.create.foundation.events.CommonEvents onUpdateLivingEntity(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		38: ASM: class com.simibubi.create.content.equipment.extendoGrip.ExtendoGripItem holdingExtendoGripIncreasesRange(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		39: ASM: class com.simibubi.create.content.equipment.armor.DivingHelmetItem breatheUnderwater(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		40: ASM: class com.simibubi.create.content.equipment.armor.DivingBootsItem accellerateDescentUnderwater(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		41: ASM: com.lothrazar.cyclic.enchant.MultiJumpEnchant@14d27c15 onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		42: ASM: com.lothrazar.cyclic.enchant.GrowthEnchant@3143cd5f onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		43: ASM: com.lothrazar.cyclic.enchant.MagnetEnchant@39f2c76f onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		44: ASM: com.lothrazar.cyclic.enchant.QuickdrawEnchant@5cb12b41 onPlayerUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		45: ASM: com.lothrazar.cyclic.enchant.ReachEnchant@54f981a0 onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		46: ASM: com.lothrazar.cyclic.enchant.StepEnchant@51ebba73 onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		47: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@3fee4ed5
+		48: ASM: dev.shadowsoffire.apotheosis.adventure.AdventureEvents@373c296f update(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		49: ASM: top.theillusivec4.curios.common.event.CuriosEventHandler@7bdeacf3 tick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		50: ASM: com.lothrazar.cyclic.event.PotionEvents@1eed38f7 onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		51: ASM: com.lothrazar.cyclic.event.ItemEvents@320f110b onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		52: ASM: com.lothrazar.cyclic.event.PlayerAbilityEvents@1a209e4f onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		53: net.minecraftforge.eventbus.EventBus$$Lambda/0x000076dca48a46a8@3d01a0d6
+		54: LOWEST
+		55: ASM: class ovh.corail.tombstone.event.EventHandler onLivingUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+java.lang.NumberFormatException: empty String
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1842)
+	at java.base/jdk.internal.math.FloatingDecimal.parseFloat(FloatingDecimal.java:122)
+	at java.base/java.lang.Float.parseFloat(Float.java:556)
+	at java.base/java.lang.Float.valueOf(Float.java:520)
+	at TRANSFORMER/wom@20.1.8.5.6/reascer.wom.animation.attacks.BasicMultipleAttackAnimation.applyAntiStunLock(BasicMultipleAttackAnimation.java:396)
+	at TRANSFORMER/wom@20.1.8.5.6/reascer.wom.animation.attacks.BasicMultipleAttackAnimation.hurtCollidingEntities(BasicMultipleAttackAnimation.java:154)
+	at TRANSFORMER/epicfight@20.9.6/yesman.epicfight.api.animation.types.AttackAnimation.attackTick(AttackAnimation.java:216)
+	at TRANSFORMER/epicfight@20.9.6/yesman.epicfight.api.animation.types.AttackAnimation.tick(AttackAnimation.java:169)
+	at TRANSFORMER/epicfight@20.9.6/yesman.epicfight.api.animation.ServerAnimator.tick(ServerAnimator.java:85)
+	at TRANSFORMER/epicfight@20.9.6/yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch.tick(LivingEntityPatch.java:154)
+	at TRANSFORMER/epicfight@20.9.6/yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch.tick(PlayerPatch.java:248)
+	at TRANSFORMER/epicfight@20.9.6/yesman.epicfight.world.capabilities.entitypatch.player.ServerPlayerPatch.tick(ServerPlayerPatch.java:113)
+	at TRANSFORMER/epicfight@20.9.6/yesman.epicfight.events.EntityEvents.updateEvent(EntityEvents.java:103)
+	at TRANSFORMER/epicfight@20.9.6/yesman.epicfight.events.__EntityEvents_updateEvent_LivingTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.22/net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:241)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.mixinextras$bridge$m_9240_$144(ServerGamePacketListenerImpl.java)
+	at TRANSFORMER/neruina@2.1.2/com.bawnorton.neruina.handler.TickHandler.safelyTickPlayer(TickHandler.java:122)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.wrapOperation$bmp000$catchTickingPlayer$notTheCauseOfTickLag(ServerGamePacketListenerImpl.java:4294)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[05Jan2025 04:13:22.625] [Server thread/WARN] [neruina/]: Neruina caught an exception, see below for cause
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.mixinextras$bridge$m_9240_$144(ServerGamePacketListenerImpl.java) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at com.bawnorton.neruina.handler.TickHandler.safelyTickPlayer(TickHandler.java:122) ~[Neruina-2.1.2-forge+1.20.1.jar%23666!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.wrapOperation$bmp000$catchTickingPlayer$notTheCauseOfTickLag(ServerGamePacketListenerImpl.java:4294) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NumberFormatException: empty String
+	at jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1842) ~[?:?]
+	at jdk.internal.math.FloatingDecimal.parseFloat(FloatingDecimal.java:122) ~[?:?]
+	at java.lang.Float.parseFloat(Float.java:556) ~[?:?]
+	at java.lang.Float.valueOf(Float.java:520) ~[?:?]
+	at reascer.wom.animation.attacks.BasicMultipleAttackAnimation.applyAntiStunLock(BasicMultipleAttackAnimation.java:396) ~[WeaponsOfMiracles-20.1.8.5.6.jar%23765!/:20.1.8.5.6]
+	at reascer.wom.animation.attacks.BasicMultipleAttackAnimation.hurtCollidingEntities(BasicMultipleAttackAnimation.java:154) ~[WeaponsOfMiracles-20.1.8.5.6.jar%23765!/:20.1.8.5.6]
+	at yesman.epicfight.api.animation.types.AttackAnimation.attackTick(AttackAnimation.java:216) ~[epicfight-forge-20.9.6-1.20.1.jar%23552!/:20.9.6]
+	at yesman.epicfight.api.animation.types.AttackAnimation.tick(AttackAnimation.java:169) ~[epicfight-forge-20.9.6-1.20.1.jar%23552!/:20.9.6]
+	at yesman.epicfight.api.animation.ServerAnimator.tick(ServerAnimator.java:85) ~[epicfight-forge-20.9.6-1.20.1.jar%23552!/:20.9.6]
+	at yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch.tick(LivingEntityPatch.java:154) ~[epicfight-forge-20.9.6-1.20.1.jar%23552!/:20.9.6]
+	at yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch.tick(PlayerPatch.java:248) ~[epicfight-forge-20.9.6-1.20.1.jar%23552!/:20.9.6]
+	at yesman.epicfight.world.capabilities.entitypatch.player.ServerPlayerPatch.tick(ServerPlayerPatch.java:113) ~[epicfight-forge-20.9.6-1.20.1.jar%23552!/:20.9.6]
+	at yesman.epicfight.events.EntityEvents.updateEvent(EntityEvents.java:103) ~[epicfight-forge-20.9.6-1.20.1.jar%23552!/:20.9.6]
+	at yesman.epicfight.events.__EntityEvents_updateEvent_LivingTickEvent.invoke(.dynamic) ~[epicfight-forge-20.9.6-1.20.1.jar%23552!/:20.9.6]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264) ~[forge-1.20.1-47.3.22-universal.jar%23788!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	... 12 more
+[05Jan2025 04:13:22.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aarkanen lost connection: Disconnected
+[05Jan2025 04:13:22.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen left the game
+[05Jan2025 04:13:22.644] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b
+[05Jan2025 04:13:22.742] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jan2025 04:15:39.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aarkanen[/127.12.244.94:56875] logged in with entity id 25301 at (-1850.6485129677835, 217.28936000168324, 1055.6556800498283)
+[05Jan2025 04:15:39.178] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Aarkanen
+[05Jan2025 04:15:39.178] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Aarkanen
+[05Jan2025 04:15:39.179] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Aarkanen
+[05Jan2025 04:15:39.180] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Aarkanen
+[05Jan2025 04:15:39.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Aarkanen
+[05Jan2025 04:15:39.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Aarkanen
+[05Jan2025 04:15:39.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Aarkanen
+[05Jan2025 04:15:39.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen joined the game
+[05Jan2025 04:15:39.501] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b
+[05Jan2025 04:15:39.542] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[05Jan2025 04:15:39.543] [Server thread/INFO] [Jade/]: Syncing config to Aarkanen (6edab854-72e5-37e4-a09f-25b0d6086d2b)
+[05Jan2025 04:16:05.899] [Server thread/WARN] [tombstone/]: The death event of the player Aarkanen was canceled by another mod
+[05Jan2025 04:16:05.910] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
+[05Jan2025 04:16:16.044] [Server thread/WARN] [tombstone/]: The death event of the player Aarkanen was canceled by another mod
+[05Jan2025 04:16:16.056] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
+[05Jan2025 04:16:51.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajja continuemos
+[05Jan2025 04:16:55.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: The difficulty has been set to Peaceful]
+[05Jan2025 04:16:55.486] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/16817, l='ServerLevel[world]', x=-1734.14, y=30.00, z=938.52]
+[05Jan2025 04:16:55.491] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/16898, l='ServerLevel[world]', x=-1707.55, y=42.00, z=953.45]
+[05Jan2025 04:16:55.493] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/16953, l='ServerLevel[world]', x=-1687.69, y=19.00, z=1027.89]
+[05Jan2025 04:17:22.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> para tiiii amor
+[05Jan2025 04:17:25.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> consegui otro bolso amor
+[05Jan2025 04:17:39.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> muchas gracias amor
+[05Jan2025 04:17:40.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ten
+[05Jan2025 04:17:42.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> geniaaaaaal amor,yo mucho diamante
+[05Jan2025 04:17:47.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> son de netherita
+[05Jan2025 04:17:51.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tambien yoooo
+[05Jan2025 04:17:58.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> naaaa mucho mejor que el que te di amor, que triste
+[05Jan2025 04:18:10.580] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/25674, l='ServerLevel[world]', x=-1880.65, y=222.00, z=1041.77]
+[05Jan2025 04:18:10.580] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/25674, l='ServerLevel[world]', x=-1880.65, y=222.00, z=1041.77]
+[05Jan2025 04:18:15.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias mi amor hermoso, me encantan
+[05Jan2025 04:18:26.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no te preocupes amor, agradezco mucho tu regalo
+[05Jan2025 04:18:27.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> disculpa po no darte unos asi
+[05Jan2025 04:18:30.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> de nada amor
+[05Jan2025 04:18:35.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no te disculpes amor
+[05Jan2025 04:18:42.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> lo aprecio y valoro mucho
+[05Jan2025 04:18:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ademas estan nuevos
+[05Jan2025 04:19:01.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> 16 diamantes y bastantes zanahoria dorada
+[05Jan2025 04:19:02.780] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/25689, l='ServerLevel[world]', x=-1882.36, y=222.00, z=1063.17]
+[05Jan2025 04:19:02.781] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/25689, l='ServerLevel[world]', x=-1882.36, y=222.00, z=1063.17]
+[05Jan2025 04:19:05.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> genial amor
+[05Jan2025 04:19:11.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> bueno mi amor, es un placer
+[05Jan2025 04:19:14.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiiiiiiii

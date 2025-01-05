@@ -14662,6 +14662,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/combat/jotaro_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2025-01-05 04:12:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:36:04 +0000"
@@ -15463,6 +15469,12 @@
   "adorn:recipes/biomesoplenty/mahogany_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/dio_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2025-01-05 04:12:14 +0000"
     },
     "done": true
   },
