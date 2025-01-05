@@ -1957,10 +1957,12 @@
     "criteria": {
       "minecraft:pillager": "2025-01-05 02:38:35 +0000",
       "minecraft:skeleton": "2024-12-29 04:14:12 +0000",
+      "minecraft:vindicator": "2025-01-05 03:43:42 +0000",
       "minecraft:magma_cube": "2025-01-02 03:57:12 +0000",
       "minecraft:spider": "2024-12-28 03:55:41 +0000",
       "minecraft:piglin_brute": "2025-01-02 03:37:15 +0000",
       "minecraft:creeper": "2025-01-03 03:41:08 +0000",
+      "minecraft:phantom": "2025-01-05 03:47:59 +0000",
       "minecraft:wither_skeleton": "2025-01-02 04:19:51 +0000",
       "minecraft:husk": "2024-12-31 05:21:38 +0000",
       "minecraft:cave_spider": "2024-12-29 04:44:05 +0000",
@@ -10171,6 +10173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_brown.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_yellow_picket_gate": {
     "criteria": {
       "has_dye": "2025-01-05 03:09:11 +0000"
@@ -10180,6 +10188,12 @@
   "cfm:recipes/decorations/dye_yellow_picket_fence": {
     "criteria": {
       "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-01-05 03:36:25 +0000"
     },
     "done": true
   },
@@ -10237,6 +10251,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_cyan": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-01-05 03:09:11 +0000"
@@ -10273,6 +10293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_light_blue.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-05 03:09:11 +0000"
@@ -10297,6 +10323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_purple.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-01-05 03:08:57 +0000"
@@ -10312,6 +10344,30 @@
   "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
       "cooked_bacon": "2025-01-05 03:14:56 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_red": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_grey": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_green": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_black": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
     },
     "done": true
   },
@@ -10342,6 +10398,12 @@
   "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_light_blue": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
     },
     "done": true
   },
@@ -10381,6 +10443,18 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_white": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_purple": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/food/cooked_splashtail": {
     "criteria": {
       "has_splashtail": "2025-01-05 03:08:13 +0000"
@@ -10390,6 +10464,24 @@
   "chiselsandbits:recipes/tools/quill": {
     "criteria": {
       "has_tag_c": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_lime.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_pink": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-05 03:36:25 +0000"
     },
     "done": true
   },
@@ -10429,6 +10521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_green.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_yellow2": {
     "criteria": {
       "recipe_condition2": "2025-01-05 03:09:11 +0000"
@@ -10440,6 +10538,12 @@
       "has_needed_dye": "2025-01-05 03:09:11 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-01-05 03:47:59 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
     "criteria": {
@@ -10459,9 +10563,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_blue.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_yellow": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-01-05 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_brown": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
     },
     "done": true
   },
@@ -10486,6 +10608,18 @@
   "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
     "criteria": {
       "recipe_condition2": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_pink.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 03:44:06 +0000"
     },
     "done": true
   },
@@ -10537,9 +10671,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_grey.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_black.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
     },
     "done": true
   },
@@ -10561,6 +10707,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_blue": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/yellow_crockery_combo": {
     "criteria": {
       "has_yellow_crockery_combo": "2025-01-05 03:09:11 +0000"
@@ -10579,9 +10731,21 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_light_grey": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ice_from_freezing": {
     "criteria": {
       "has_water": "2025-01-05 03:08:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-01-05 03:48:00 +0000"
     },
     "done": true
   },
@@ -10600,6 +10764,18 @@
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-01-05 03:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_orange.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_magenta": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
     },
     "done": true
   },
@@ -10627,9 +10803,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_light_grey.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_mutton_chops": {
     "criteria": {
       "cooked_mutton_chops": "2025-01-05 03:15:18 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_orange": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_yellow.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_white.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_lime": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
     },
     "done": true
   },
@@ -10651,6 +10857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_red.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/food/cooked_devilfish_from_smoking": {
     "criteria": {
       "has_devilfish": "2025-01-05 03:07:44 +0000"
@@ -10660,6 +10872,12 @@
   "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_cyan.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
     },
     "done": true
   },
@@ -10702,6 +10920,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
     "criteria": {
       "has_yellow_dye": "2025-01-05 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_magenta.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:21 +0000"
     },
     "done": true
   },
