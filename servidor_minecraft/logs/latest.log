@@ -5831,3 +5831,6 @@ java.lang.NullPointerException: Element not found: amount
 [06Jan2025 04:01:24.360] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [06Jan2025 04:02:16.914] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/3240, l='ServerLevel[world]', x=201.50, y=27.00, z=86.40]
 [06Jan2025 04:02:17.161] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/3241, l='ServerLevel[world]', x=202.75, y=27.00, z=88.47]
+[06Jan2025 04:07:07.916] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[06Jan2025 04:08:55.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[06Jan2025 04:09:06.219] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
