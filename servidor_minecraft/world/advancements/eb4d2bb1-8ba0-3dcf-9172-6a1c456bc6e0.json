@@ -14393,87 +14393,27 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_jungle_bridge": {
+  "supplementaries:recipes/sugar_cube": {
     "criteria": {
-      "has_planks": "2025-01-05 03:36:18 +0000"
+      "has_sugar": "2025-01-05 02:52:01 +0000"
     },
     "done": true
   },
-  "adorn:recipes/dark_oak_step": {
+  "tombstone:adventure/create_magic_scroll": {
     "criteria": {
-      "has_slab": "2025-01-05 03:44:13 +0000"
+      "has_magic_scroll": "2025-01-05 02:54:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grass_washed_brown.json": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:villages": {
-    "criteria": {
-      "in_village_jungle": "2025-01-05 04:43:57 +0000"
+      "in_better_spider_dungeon": "2025-01-05 03:24:55 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "betterdungeons:spider_dungeon": {
     "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "snowyspirit:recipes/decorations/sled_jungle": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/dark_oak_platform": {
-    "criteria": {
-      "has_slab": "2025-01-05 03:44:13 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_trapdoor": {
-    "criteria": {
-      "has_netherite_scrap": "2025-01-05 04:21:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_cabinet": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_side_table": {
-    "criteria": {
-      "has_jungle_side_table": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-01-05 03:40:58 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
+      "in_better_spider_dungeon": "2025-01-05 03:24:55 +0000"
     },
     "done": true
   },
@@ -14483,15 +14423,33 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
     "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
+      "has_oxidized_cut_copper": "2025-01-05 03:35:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
     "criteria": {
-      "has_netherite_scrap": "2025-01-05 04:21:18 +0000"
+      "has_oxidized_cut_copper": "2025-01-05 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-01-05 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-01-05 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-01-05 03:35:05 +0000"
     },
     "done": true
   },
@@ -14501,15 +14459,45 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/jungle_palisade": {
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnituresbop:recipes/mahogany": {
+    "criteria": {
+      "has_wood": "2025-01-05 03:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-01-05 03:36:04 +0000"
     },
     "done": true
   },
-  "adorn:recipes/jungle_kitchen_counter": {
+  "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
     "criteria": {
-      "has_planks": "2025-01-05 03:36:18 +0000"
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_palisade": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
     },
     "done": true
   },
@@ -14525,69 +14513,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
-    "criteria": {
-      "has_jungle_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
-    "criteria": {
-      "has_jungle_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
-    "criteria": {
-      "has_jungle_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-01-05 03:36:04 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/jungle/jungle_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_cyan": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
     },
     "done": true
   },
@@ -14603,21 +14537,363 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+  "cfm:recipes/decorations/jungle_crate": {
     "criteria": {
-      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_blinds": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/jungle_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_beach": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_log": "2025-01-05 03:36:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_post": {
+    "criteria": {
+      "has_mahogany_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "snowyspirit:recipes/decorations/biomesoplenty/sled_mahogany": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:18 +0000"
+    },
+    "done": true
+  },
+  "snowyspirit:recipes/decorations/sled_jungle": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-01-05 03:36:18 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-01-05 03:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:36:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_jungle_planks": "2025-01-05 03:36:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2025-01-05 03:36:18 +0000"
     },
     "done": true
   },
   "adorn:recipes/jungle_post": {
     "criteria": {
       "has_jungle_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
     },
     "done": true
   },
@@ -14651,39 +14927,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_blinds": {
-    "criteria": {
-      "has_log": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_light_blue.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_crate": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/biomesoplenty/mahogany_post": {
-    "criteria": {
-      "has_mahogany_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_desk_cabinet": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
     },
     "done": true
   },
@@ -14693,33 +14939,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grass_washed_purple.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/combat/jotaro_pants": {
-    "criteria": {
-      "has_netherite_leggings": "2025-01-05 04:12:14 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_corner_trim": {
     "criteria": {
       "has_jungle_corner_trim": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/cooked_hogham": {
-    "criteria": {
-      "has_item": "2025-01-05 04:01:30 +0000"
     },
     "done": true
   },
@@ -14729,123 +14951,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_jungle_park_bench": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_table": {
     "criteria": {
       "has_jungle_planks": "2025-01-05 03:36:18 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/jungle": {
-    "criteria": {
-      "has_wood": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/jungle_window": {
     "criteria": {
       "has_ingredient": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_desk": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-01-05 04:20:58 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_cabinet": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_red": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_table": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_chair": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
-    "criteria": {
-      "has_item": "2025-01-05 03:44:13 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_grey": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "snowyspirit:recipes/decorations/biomesoplenty/sled_mahogany": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/oak": {
-    "criteria": {
-      "has_wood": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_green": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_black": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/jungle": {
-    "criteria": {
-      "has_wood": "2025-01-05 03:36:04 +0000"
     },
     "done": true
   },
@@ -14861,141 +14975,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/jungle_blinds": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_cabinet": {
-    "criteria": {
-      "has_log": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_light_blue": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_planks": "2025-01-05 03:36:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-01-05 03:35:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_mahogany_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "adhooks:recipes/tools/pudge_hook": {
-    "criteria": {
-      "has_item": "2025-01-05 04:49:23 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_white": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_purple": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/jungle_rail_bridge": {
     "criteria": {
       "has_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-01-05 03:35:05 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_lime.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_pink": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube": {
-    "criteria": {
-      "has_sugar": "2025-01-05 02:52:01 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2025-01-05 04:21:18 +0000"
     },
     "done": true
   },
@@ -15017,33 +15005,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/jungle_limited_barrel_4": {
     "criteria": {
       "has_jungle_plank": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-01-05 03:24:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-01-05 04:47:11 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
     },
     "done": true
   },
@@ -15053,57 +15017,9 @@
     },
     "done": true
   },
-  "adorn:recipes/biomesoplenty/mahogany_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_green.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
     "criteria": {
       "has_jungle_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/dark_oak_table": {
-    "criteria": {
-      "has_slab": "2025-01-05 03:44:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_crate": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "phantom": "2025-01-05 04:05:33 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-05 02:54:35 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_foliaath": {
-    "criteria": {
-      "foliaath": "2025-01-05 04:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-01-05 03:35:05 +0000"
     },
     "done": true
   },
@@ -15113,45 +15029,9 @@
     },
     "done": true
   },
-  "adorn:recipes/biomesoplenty/mahogany_kitchen_cupboard": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/dark_oak_coffee_table": {
-    "criteria": {
-      "has_slab": "2025-01-05 03:44:13 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/jungle_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/jungle_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-01-05 04:42:49 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/oak_palisade": {
-    "criteria": {
-      "has_log": "2025-01-05 03:54:52 +0000"
     },
     "done": true
   },
@@ -15161,33 +15041,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grass_washed_blue.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/building_blocks/jungle_seat": {
     "criteria": {
       "has_plank": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_yellow": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
     },
     "done": true
   },
@@ -15197,57 +15053,9 @@
     },
     "done": true
   },
-  "colourfulearth:recipes/decorations/grass_dyed_brown": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/iron_golem_smithing": {
-    "criteria": {
-      "has_iron_golem": "2025-01-05 05:05:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/spike": {
-    "criteria": {
-      "has_bamboo_spikes_tipped": "2025-01-05 04:53:37 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/components": {
-    "criteria": {
-      "has_wood": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_upgraded_gate": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/jungle_chest": {
     "criteria": {
       "has_jungle_plank": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-01-05 04:42:49 +0000"
     },
     "done": true
   },
@@ -15257,63 +15065,9 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/jungle": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_pink.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/jungle_kitchen_cupboard": {
     "criteria": {
       "has_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2025-01-05 04:19:37 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-01-05 04:29:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_fence": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-01-05 05:00:27 +0000"
     },
     "done": true
   },
@@ -15323,99 +15077,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grass_washed_grey.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_conqueror": {
-    "criteria": {
-      "location0": "2025-01-05 03:57:39 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_black.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_upgraded_gate": {
-    "criteria": {
-      "has_log": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_button": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_blue": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "adhooks:recipes/tools/spear_hook": {
-    "criteria": {
-      "has_item": "2025-01-05 04:49:23 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak": {
-    "criteria": {
-      "has_wood": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_chair": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_door": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
     },
     "done": true
   },
@@ -15425,183 +15089,15 @@
     },
     "done": true
   },
-  "colourfulearth:recipes/decorations/grass_dyed_light_grey": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
-    "criteria": {
-      "has_netherite_scrap": "2025-01-05 04:21:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-01-05 03:36:18 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/jungle": {
-    "criteria": {
-      "has_wood": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_crate": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_orange.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_magenta": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_coffee_table": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/dark_oak_chair": {
-    "criteria": {
-      "has_slab": "2025-01-05 03:44:13 +0000"
-    },
-    "done": true
-  },
-  "adhooks:recipes/tools/prototype_launcher": {
-    "criteria": {
-      "has_item": "2025-01-05 04:58:19 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_light_grey.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_link": {
-    "criteria": {
-      "has_repeater": "2025-01-05 04:58:19 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_orange": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_yellow.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_white.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "colourfulearth:recipes/decorations/grass_dyed_lime": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnituresbop:recipes/mahogany": {
-    "criteria": {
-      "has_wood": "2025-01-05 03:36:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-01-05 04:35:31 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_chair": {
     "criteria": {
       "has_jungle_chair": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_red.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/dark_oak_bench": {
-    "criteria": {
-      "has_slab": "2025-01-05 03:44:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-01-05 03:35:05 +0000"
     },
     "done": true
   },
@@ -15617,51 +15113,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_classic": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_park_bench": {
-    "criteria": {
-      "has_log": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/biomesoplenty/mahogany_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/combat/dio_pants": {
-    "criteria": {
-      "has_netherite_leggings": "2025-01-05 04:12:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_cyan.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_park_bench": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
     },
     "done": true
   },
@@ -15671,51 +15125,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/jungle_table": {
-    "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/jungle_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_beach": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/dark_oak_shelf": {
-    "criteria": {
-      "has_slab": "2025-01-05 03:44:13 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
     "criteria": {
       "has_jungle_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/dark_oak_drawer": {
-    "criteria": {
-      "has_slab": "2025-01-05 03:44:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_desk": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2025-01-05 04:31:43 +0000"
     },
     "done": true
   },
@@ -15731,57 +15143,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/oak_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_bench": {
     "criteria": {
       "has_jungle_bench": "2025-01-05 03:36:18 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/jungle_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-05 03:36:18 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/oak": {
-    "criteria": {
-      "has_planks": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grass_washed_magenta.json": {
-    "criteria": {
-      "has_grass_block": "2025-01-05 03:41:03 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
     },
     "done": true
   },
@@ -15797,15 +15167,465 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
+  "mcwtrpdoors:recipes/jungle/jungle_blossom_trapdoor": {
     "criteria": {
-      "has_logs": "2025-01-05 03:36:04 +0000"
+      "has_plankss": "2025-01-05 03:36:18 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_planks": "2025-01-05 03:36:13 +0000"
+      "voluntary_exile": "2025-01-05 03:40:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_brown.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_cyan": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_light_blue.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_purple.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_red": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_grey": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_green": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_black": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_light_blue": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_white": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_purple": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_lime.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_pink": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_green.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_blue.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_yellow": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_brown": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_pink.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_grey.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_black.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_blue": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_light_grey": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_orange.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_magenta": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_light_grey.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_orange": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_yellow.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_white.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_lime": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_red.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_cyan.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_magenta.json": {
+    "criteria": {
+      "has_grass_block": "2025-01-05 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_step": {
+    "criteria": {
+      "has_slab": "2025-01-05 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_platform": {
+    "criteria": {
+      "has_slab": "2025-01-05 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-01-05 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_table": {
+    "criteria": {
+      "has_slab": "2025-01-05 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-01-05 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_slab": "2025-01-05 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2025-01-05 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_slab": "2025-01-05 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_drawer": {
+    "criteria": {
+      "has_slab": "2025-01-05 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:54:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:54:52 +0000"
     },
     "done": true
   },
@@ -15815,39 +15635,219 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/nether": {
-    "criteria": {
-      "has_nether_wart": "2025-01-05 04:35:31 +0000"
-    },
-    "done": true
-  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-01-05 03:54:52 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/jungle_desk": {
+  "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
-      "has_log": "2025-01-05 03:36:04 +0000"
+      "location0": "2025-01-05 03:57:39 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_blossom_trapdoor": {
+  "netherexp:recipes/misc/cooked_hogham": {
     "criteria": {
-      "has_plankss": "2025-01-05 03:36:18 +0000"
+      "has_item": "2025-01-05 04:01:30 +0000"
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
+  "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-01-05 03:24:55 +0000"
+      "phantom": "2025-01-05 04:05:33 +0000"
+    },
+    "done": false
+  },
+  "jcraft:recipes/combat/jotaro_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2025-01-05 04:12:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+  "jcraft:recipes/combat/dio_pants": {
     "criteria": {
-      "has_oxidized_cut_copper": "2025-01-05 03:35:05 +0000"
+      "has_netherite_leggings": "2025-01-05 04:12:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 04:19:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-05 04:20:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-05 04:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-05 04:21:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-05 04:21:18 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-05 04:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-05 04:29:25 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-01-05 04:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 04:35:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-01-05 04:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-05 04:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-05 04:42:49 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-01-05 04:43:29 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_jungle": "2025-01-05 04:43:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-05 04:47:11 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "adhooks:recipes/tools/pudge_hook": {
+    "criteria": {
+      "has_item": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "adhooks:recipes/tools/spear_hook": {
+    "criteria": {
+      "has_item": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-05 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/spike": {
+    "criteria": {
+      "has_bamboo_spikes_tipped": "2025-01-05 04:53:37 +0000"
+    },
+    "done": true
+  },
+  "adhooks:recipes/tools/prototype_launcher": {
+    "criteria": {
+      "has_item": "2025-01-05 04:58:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-01-05 04:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-05 05:00:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_golem_smithing": {
+    "criteria": {
+      "has_iron_golem": "2025-01-05 05:05:03 +0000"
     },
     "done": true
   },
