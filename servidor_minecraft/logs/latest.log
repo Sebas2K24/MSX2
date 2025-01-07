@@ -5957,3 +5957,13 @@ java.lang.NullPointerException: Element not found: amount
 [07Jan2025 03:52:59.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13704, l='ServerLevel[world]', x=-1829.30, y=82.00, z=1841.50] died, message: 'Unemployed burned to death'
 [07Jan2025 03:52:59.953] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/13705, l='ServerLevel[world]', x=-1827.55, y=81.00, z=1840.02] died, message: 'Cleric burned to death'
 [07Jan2025 03:57:51.308] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/16911, l='ServerLevel[world]', x=-2004.42, y=67.00, z=1924.10]
+[07Jan2025 04:01:37.007] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/13686, l='ServerLevel[world]', x=-1827.70, y=81.00, z=1845.03] died, message: 'Librarian burned to death'
+[07Jan2025 04:02:17.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[07Jan2025 04:02:21.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Great minds think alike]
+[07Jan2025 04:03:20.953] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/16911, l='ServerLevel[world]', x=-2004.42, y=67.00, z=1924.10]
+[07Jan2025 04:04:05.529] [Server thread/WARN] [tombstone/]: The death event of the player Aarkanen was canceled by another mod
+[07Jan2025 04:04:05.533] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
+[07Jan2025 04:04:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen was slain by Sebas2K24
+[07Jan2025 04:04:06.631] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[07Jan2025 04:04:06.638] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
+[07Jan2025 04:04:21.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]

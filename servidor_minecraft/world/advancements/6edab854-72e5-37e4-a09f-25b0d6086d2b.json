@@ -11119,6 +11119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-07 04:04:26 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_golem_smithing": {
     "criteria": {
       "has_iron_golem": "2025-01-07 03:02:17 +0000"
@@ -11134,6 +11140,12 @@
   "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-01-07 03:34:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-01-07 04:04:26 +0000"
     },
     "done": true
   },
