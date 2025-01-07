@@ -5967,3 +5967,10 @@ java.lang.NullPointerException: Element not found: amount
 [07Jan2025 04:04:06.631] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
 [07Jan2025 04:04:06.638] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
 [07Jan2025 04:04:21.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[07Jan2025 04:17:06.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [A self-respecting Soul]
+[07Jan2025 04:17:35.908] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/19263, l='ServerLevel[world]', x=-1998.82, y=87.00, z=2057.77]
+[07Jan2025 04:17:37.513] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jank the Dark'/19203, l='ServerLevel[world]', x=-1905.58, y=94.50, z=1941.86] died: Jank the Dark was slain by Sebas2K24
+[07Jan2025 04:19:37.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Spectral Guardian]
+[07Jan2025 04:21:25.305] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/19263, l='ServerLevel[world]', x=-1998.82, y=87.00, z=2057.77]
+[07Jan2025 04:27:50.754] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/20217, l='ServerLevel[world]', x=-1818.02, y=29.00, z=2008.62]
+[07Jan2025 04:29:11.857] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/20217, l='ServerLevel[world]', x=-1818.02, y=29.00, z=2008.62]
