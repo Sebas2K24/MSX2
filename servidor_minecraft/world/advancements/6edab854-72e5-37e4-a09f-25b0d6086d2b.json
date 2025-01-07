@@ -11104,5 +11104,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/iron_golem_smithing": {
+    "criteria": {
+      "has_iron_golem": "2025-01-07 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "farlanders:kill_classic_enderman": {
+    "criteria": {
+      "kill_enderman": "2025-01-07 02:59:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

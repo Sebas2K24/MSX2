@@ -5870,3 +5870,13 @@ java.lang.NullPointerException: Element not found: amount
 [07Jan2025 02:59:10.708] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/2763, l='ServerLevel[world]', x=-1963.89, y=35.00, z=927.29]
 [07Jan2025 02:59:14.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [07Jan2025 02:59:14.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [This is the End]
+[07Jan2025 03:00:22.019] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[07Jan2025 03:00:25.200] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[07Jan2025 03:01:13.908] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[07Jan2025 03:02:08.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[07Jan2025 03:02:08.773] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/communi/suggestu/scena/core/event/ProcessingResult
+[07Jan2025 03:02:08.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/chiselsandbits/api/item/click/ClickProcessingState$ProcessingResult
+[07Jan2025 03:02:23.902] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[07Jan2025 03:03:00.537] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[07Jan2025 03:03:31.360] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[07Jan2025 03:07:39.804] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/3931, l='ServerLevel[world]', x=-2292.69, y=66.00, z=923.48]

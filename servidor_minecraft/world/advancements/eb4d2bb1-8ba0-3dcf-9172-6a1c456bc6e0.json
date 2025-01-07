@@ -999,6 +999,7 @@
       "shrubland": "2024-12-21 04:25:29 +0000",
       "rocky_shrubland": "2025-01-03 04:22:08 +0000",
       "highland": "2024-12-31 05:05:18 +0000",
+      "mystic_grove": "2025-01-07 03:05:48 +0000",
       "crystalline_chasm": "2025-01-02 04:30:39 +0000",
       "withered_abyss": "2025-01-02 03:29:31 +0000",
       "lavender_forest": "2025-01-03 03:36:13 +0000",
@@ -1510,6 +1511,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-21 04:19:14 +0000",
       "minecraft:skeleton": "2024-12-20 04:36:35 +0000",
+      "minecraft:ravager": "2025-01-07 03:05:23 +0000",
       "minecraft:hoglin": "2025-01-05 04:01:30 +0000",
       "minecraft:vindicator": "2024-12-21 03:42:40 +0000",
       "minecraft:magma_cube": "2025-01-02 03:55:14 +0000",
