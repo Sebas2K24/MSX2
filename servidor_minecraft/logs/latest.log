@@ -5920,3 +5920,36 @@ java.lang.NullPointerException: Element not found: amount
 [07Jan2025 03:36:36.606] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/13614, l='ServerLevel[world]', x=-2183.52, y=41.00, z=1617.32]
 [07Jan2025 03:37:42.419] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [07Jan2025 03:37:50.858] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[07Jan2025 03:40:21.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[07Jan2025 03:40:21.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[07Jan2025 03:40:21.671] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[07Jan2025 03:40:29.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebas2K24[/127.42.90.33:45707] logged in with entity id 14572 at (-1946.9436596398293, 87.0625, 1798.9234446515209)
+[07Jan2025 03:40:29.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebas2K24
+[07Jan2025 03:40:29.360] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebas2K24
+[07Jan2025 03:40:29.361] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebas2K24
+[07Jan2025 03:40:29.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebas2K24
+[07Jan2025 03:40:29.375] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebas2K24
+[07Jan2025 03:40:29.380] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebas2K24
+[07Jan2025 03:40:29.386] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebas2K24
+[07Jan2025 03:40:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
+[07Jan2025 03:40:29.655] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[07Jan2025 03:40:29.658] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[07Jan2025 03:40:29.658] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[07Jan2025 03:41:14.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[07Jan2025 03:41:14.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[07Jan2025 03:41:14.009] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[07Jan2025 03:41:21.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebas2K24[/127.42.90.33:51607] logged in with entity id 14642 at (-1947.546921574913, 87.0625, 1797.9924487088101)
+[07Jan2025 03:41:21.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebas2K24
+[07Jan2025 03:41:21.442] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebas2K24
+[07Jan2025 03:41:21.444] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebas2K24
+[07Jan2025 03:41:21.445] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebas2K24
+[07Jan2025 03:41:21.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebas2K24
+[07Jan2025 03:41:21.450] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebas2K24
+[07Jan2025 03:41:21.450] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebas2K24
+[07Jan2025 03:41:21.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
+[07Jan2025 03:41:21.618] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[07Jan2025 03:41:21.620] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[07Jan2025 03:41:21.621] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[07Jan2025 03:44:31.711] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/14841, l='ServerLevel[world]', x=-2073.27, y=44.00, z=1805.47]
+[07Jan2025 03:50:28.596] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/13702, l='ServerLevel[world]', x=-1835.31, y=82.00, z=1854.94] died, message: 'Mason was pricked to death'
+[07Jan2025 03:50:33.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Enter Sandman]
