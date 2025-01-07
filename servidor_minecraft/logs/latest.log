@@ -5974,3 +5974,11 @@ java.lang.NullPointerException: Element not found: amount
 [07Jan2025 04:21:25.305] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/19263, l='ServerLevel[world]', x=-1998.82, y=87.00, z=2057.77]
 [07Jan2025 04:27:50.754] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/20217, l='ServerLevel[world]', x=-1818.02, y=29.00, z=2008.62]
 [07Jan2025 04:29:11.857] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/20217, l='ServerLevel[world]', x=-1818.02, y=29.00, z=2008.62]
+[07Jan2025 04:32:40.804] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheHandEntity['The Hand'/21012, l='ServerLevel[world]', x=-1907.31, y=78.00, z=1895.48]
+[07Jan2025 04:33:59.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Greed may lead to loss]
+[07Jan2025 04:34:08.064] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21410, l='ServerLevel[world]', x=-1645.30, y=80.75, z=1903.85] died, message: 'Unemployed was retired'
+[07Jan2025 04:34:20.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[07Jan2025 04:34:20.819] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/21466, l='ServerLevel[world]', x=-1755.01, y=80.00, z=1964.64]
+[07Jan2025 04:36:57.710] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[07Jan2025 04:36:57.711] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[07Jan2025 04:37:07.055] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/22490, l='ServerLevel[world]', x=-1917.53, y=76.00, z=1903.27]
