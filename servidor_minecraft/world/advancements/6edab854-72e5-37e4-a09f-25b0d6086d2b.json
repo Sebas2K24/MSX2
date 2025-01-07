@@ -9810,6 +9810,7 @@
   },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
+      "locate_shipwreck": "2025-01-07 03:09:14 +0000",
       "locate_underwater_small_ruins": "2025-01-03 04:25:10 +0000"
     },
     "done": false

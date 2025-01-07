@@ -13455,6 +13455,7 @@
   },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
+      "locate_shipwreck": "2025-01-07 03:09:11 +0000",
       "locate_underwater_small_ruins": "2025-01-03 04:25:08 +0000"
     },
     "done": false
@@ -15850,6 +15851,60 @@
   "travelersbackpack:recipes/misc/iron_golem_smithing": {
     "criteria": {
       "has_iron_golem": "2025-01-05 05:05:03 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_shelf": {
+    "criteria": {
+      "has_slab": "2025-01-07 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_chair": {
+    "criteria": {
+      "has_slab": "2025-01-07 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_drawer": {
+    "criteria": {
+      "has_slab": "2025-01-07 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-01-07 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_platform": {
+    "criteria": {
+      "has_slab": "2025-01-07 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_step": {
+    "criteria": {
+      "has_slab": "2025-01-07 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-01-07 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_table": {
+    "criteria": {
+      "has_slab": "2025-01-07 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-01-07 03:10:56 +0000"
     },
     "done": true
   },
