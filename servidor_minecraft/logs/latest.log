@@ -5982,3 +5982,11 @@ java.lang.NullPointerException: Element not found: amount
 [07Jan2025 04:36:57.710] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
 [07Jan2025 04:36:57.711] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
 [07Jan2025 04:37:07.055] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/22490, l='ServerLevel[world]', x=-1917.53, y=76.00, z=1903.27]
+[07Jan2025 04:41:42.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[07Jan2025 04:42:41.424] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/StatisticFormatter
+[07Jan2025 04:42:45.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Spooky Scary Skeleton]
+[07Jan2025 04:43:03.908] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheHandEntity['The Hand'/21012, l='ServerLevel[world]', x=-1907.31, y=78.00, z=1895.48]
+[07Jan2025 04:43:03.909] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/22490, l='ServerLevel[world]', x=-1917.53, y=76.00, z=1903.27]
+[07Jan2025 04:43:48.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[07Jan2025 04:43:48.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[07Jan2025 04:43:48.318] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0

@@ -11161,6 +11161,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-07 04:42:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-01-07 04:24:56 +0000"
@@ -11170,6 +11176,12 @@
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-01-07 04:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-07 04:42:45 +0000"
     },
     "done": true
   },
@@ -11218,6 +11230,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-01-07 04:24:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-07 04:42:45 +0000"
     },
     "done": true
   },
