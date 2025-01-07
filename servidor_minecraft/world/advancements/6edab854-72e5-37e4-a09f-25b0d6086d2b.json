@@ -5375,6 +5375,7 @@
       "minecraft:river": "2025-01-03 03:02:08 +0000",
       "minecraft:cold_ocean": "2024-12-29 04:10:38 +0000",
       "minecraft:forest": "2025-01-03 04:22:31 +0000",
+      "minecraft:desert": "2025-01-07 03:47:48 +0000",
       "minecraft:ocean": "2025-01-03 04:24:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 04:31:30 +0000",
       "minecraft:plains": "2025-01-03 03:37:08 +0000"
@@ -11103,6 +11104,12 @@
   "morevillagers:kill_villager": {
     "criteria": {
       "killedvillager": "2025-01-05 05:07:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-01-07 03:50:33 +0000"
     },
     "done": true
   },

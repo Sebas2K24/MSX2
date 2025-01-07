@@ -4978,6 +4978,7 @@
       "minecraft:stony_shore": "2025-01-07 03:30:00 +0000",
       "minecraft:cold_ocean": "2024-12-21 03:31:33 +0000",
       "minecraft:forest": "2025-01-03 04:21:52 +0000",
+      "minecraft:desert": "2025-01-07 03:49:45 +0000",
       "minecraft:ocean": "2025-01-03 04:24:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 04:31:26 +0000",
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
@@ -15986,6 +15987,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-01-07 03:29:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-01-07 03:50:55 +0000"
     },
     "done": true
   },

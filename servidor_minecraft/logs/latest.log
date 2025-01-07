@@ -5953,3 +5953,7 @@ java.lang.NullPointerException: Element not found: amount
 [07Jan2025 03:44:31.711] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/14841, l='ServerLevel[world]', x=-2073.27, y=44.00, z=1805.47]
 [07Jan2025 03:50:28.596] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/13702, l='ServerLevel[world]', x=-1835.31, y=82.00, z=1854.94] died, message: 'Mason was pricked to death'
 [07Jan2025 03:50:33.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Enter Sandman]
+[07Jan2025 03:50:55.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Enter Sandman]
+[07Jan2025 03:52:59.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13704, l='ServerLevel[world]', x=-1829.30, y=82.00, z=1841.50] died, message: 'Unemployed burned to death'
+[07Jan2025 03:52:59.953] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/13705, l='ServerLevel[world]', x=-1827.55, y=81.00, z=1840.02] died, message: 'Cleric burned to death'
+[07Jan2025 03:57:51.308] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/16911, l='ServerLevel[world]', x=-2004.42, y=67.00, z=1924.10]
