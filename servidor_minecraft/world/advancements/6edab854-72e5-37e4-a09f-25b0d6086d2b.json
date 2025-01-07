@@ -994,6 +994,7 @@
       "highland": "2024-12-31 05:05:38 +0000",
       "clover_patch": "2025-01-03 05:23:52 +0000",
       "mystic_grove": "2025-01-03 05:24:28 +0000",
+      "old_growth_woodland": "2025-01-07 03:24:34 +0000",
       "crystalline_chasm": "2025-01-02 04:30:39 +0000",
       "withered_abyss": "2025-01-02 03:29:36 +0000",
       "lavender_forest": "2025-01-03 03:36:11 +0000",
@@ -11105,6 +11106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-07 03:34:26 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_golem_smithing": {
     "criteria": {
       "has_iron_golem": "2025-01-07 03:02:17 +0000"
@@ -11114,6 +11121,12 @@
   "farlanders:kill_classic_enderman": {
     "criteria": {
       "kill_enderman": "2025-01-07 02:59:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-07 03:34:26 +0000"
     },
     "done": true
   },
