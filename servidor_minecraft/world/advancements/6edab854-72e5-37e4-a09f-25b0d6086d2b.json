@@ -11728,6 +11728,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/stand_arrow": {
+    "criteria": {
+      "has_arrowhead": "2025-01-09 04:12:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2025-01-09 03:08:31 +0000"

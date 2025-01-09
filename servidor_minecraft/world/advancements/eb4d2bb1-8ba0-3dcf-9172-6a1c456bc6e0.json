@@ -16479,6 +16479,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/stand_arrow": {
+    "criteria": {
+      "has_arrowhead": "2025-01-09 04:12:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-01-09 02:51:45 +0000"
