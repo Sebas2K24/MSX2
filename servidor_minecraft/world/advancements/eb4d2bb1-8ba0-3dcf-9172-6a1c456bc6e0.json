@@ -16224,9 +16224,27 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-09 03:09:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-09 03:10:46 +0000"
+    },
+    "done": true
+  },
   "super_ore_block:recipes/building_blocks/super_diamond_block_from_diamond_block": {
     "criteria": {
       "has_diamond_block": "2025-01-09 03:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-09 03:10:46 +0000"
     },
     "done": true
   },
@@ -16242,9 +16260,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-09 03:10:46 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/combat/jotaro_boots": {
     "criteria": {
       "has_netherite_boots": "2025-01-09 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-09 03:10:46 +0000"
     },
     "done": true
   },
@@ -16272,6 +16302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-09 03:10:46 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/cyan_table_lamp": {
     "criteria": {
       "has_carpet": "2025-01-09 03:01:32 +0000"
@@ -16284,9 +16320,21 @@
     },
     "done": true
   },
+  "jcraft:recipes/combat/jotaro_cap": {
+    "criteria": {
+      "has_netherite_helmet": "2025-01-09 03:09:30 +0000"
+    },
+    "done": true
+  },
   "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
       "has_hay_block": "2025-01-09 02:51:45 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/dio_headband": {
+    "criteria": {
+      "has_netherite_helmet": "2025-01-09 03:09:30 +0000"
     },
     "done": true
   },
@@ -16299,6 +16347,12 @@
   "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
       "has_shroomlight": "2025-01-09 03:03:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-01-09 03:10:46 +0000"
     },
     "done": true
   },

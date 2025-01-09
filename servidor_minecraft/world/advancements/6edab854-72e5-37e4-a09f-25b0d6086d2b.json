@@ -11869,6 +11869,12 @@
     },
     "done": true
   },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-01-09 03:14:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-01-09 03:05:47 +0000"
