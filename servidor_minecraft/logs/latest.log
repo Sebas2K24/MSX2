@@ -5969,3 +5969,17 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [09Jan2025 04:17:11.412] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
 [09Jan2025 04:21:15.360] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[09Jan2025 04:27:40.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [I Got Deals]
+[09Jan2025 04:30:22.158] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/12070, l='ServerLevel[world]', x=112.81, y=27.00, z=183.23]
+[09Jan2025 04:30:32.307] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/12216, l='ServerLevel[world]', x=329.87, y=69.00, z=154.57]
+[09Jan2025 04:30:33.407] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/11923, l='ServerLevel[world]', x=255.47, y=52.00, z=293.26]
+[09Jan2025 04:30:54.410] [Worker-Main-197/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Jan2025 04:30:54.411] [Worker-Main-197/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Jan2025 04:30:54.420] [Worker-Main-197/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Jan2025 04:31:18.459] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/15079, l='ServerLevel[world]', x=95.54, y=71.00, z=-38.54]
+[09Jan2025 04:31:24.052] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[09Jan2025 04:32:02.854] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/15695, l='ServerLevel[world]', x=34.76, y=83.00, z=-14.09]
+[09Jan2025 04:32:07.556] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/15812, l='ServerLevel[world]', x=74.39, y=95.00, z=64.29]
+[09Jan2025 04:32:37.718] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/16127, l='ServerLevel[world]', x=1.74, y=96.00, z=98.53]
+[09Jan2025 04:32:38.580] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/16144, l='ServerLevel[world]', x=-83.92, y=71.00, z=111.68]
+[09Jan2025 04:32:55.313] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/16280, l='ServerLevel[world]', x=-121.92, y=63.00, z=208.31]

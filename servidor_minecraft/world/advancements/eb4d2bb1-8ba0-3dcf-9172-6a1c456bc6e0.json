@@ -16383,6 +16383,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/merchant": {
+    "criteria": {
+      "sword": "2025-01-09 04:27:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
     "criteria": {
       "has_melon": "2025-01-09 03:06:08 +0000"
