@@ -11313,6 +11313,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_blasting": {
+    "criteria": {
+      "has_item": "2025-01-09 05:30:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
       "has_item": "2025-01-09 02:54:33 +0000"
@@ -11685,6 +11691,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/decorations/starlit_factory": {
+    "criteria": {
+      "has_item": "2025-01-09 05:32:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
     "criteria": {
       "has_acacia_planks": "2025-01-09 03:07:26 +0000"
@@ -11721,9 +11733,21 @@
     },
     "done": true
   },
+  "celestisynth:obtain_celestial_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-01-09 05:32:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
     "criteria": {
       "has_melon": "2025-01-09 03:05:59 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/celestial_spellbook": {
+    "criteria": {
+      "has_item": "2025-01-09 05:32:14 +0000"
     },
     "done": true
   },
@@ -11856,6 +11880,12 @@
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2025-01-09 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-01-09 05:26:43 +0000"
     },
     "done": true
   },
@@ -12042,6 +12072,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-01-09 05:30:39 +0000"
     },
     "done": true
   },
@@ -12270,6 +12306,12 @@
   "netherexp:nether/overkill": {
     "criteria": {
       "overkill": "2025-01-09 03:14:09 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_supernal_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-01-09 05:30:39 +0000"
     },
     "done": true
   },

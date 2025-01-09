@@ -1516,6 +1516,7 @@
       "minecraft:blaze": "2025-01-09 04:46:49 +0000",
       "minecraft:skeleton": "2024-12-20 04:36:35 +0000",
       "minecraft:ravager": "2025-01-07 03:05:23 +0000",
+      "minecraft:ghast": "2025-01-09 05:24:42 +0000",
       "minecraft:hoglin": "2025-01-05 04:01:30 +0000",
       "minecraft:vindicator": "2024-12-21 03:42:40 +0000",
       "minecraft:magma_cube": "2025-01-02 03:55:14 +0000",
@@ -16254,9 +16255,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-09 05:27:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-01-09 03:46:42 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_blasting": {
+    "criteria": {
+      "has_item": "2025-01-09 05:30:29 +0000"
     },
     "done": true
   },
@@ -16452,6 +16465,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/decorations/starlit_factory": {
+    "criteria": {
+      "has_item": "2025-01-09 05:32:01 +0000"
+    },
+    "done": true
+  },
   "bc:recipes/decorations/warped_soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-01-09 04:34:52 +0000"
@@ -16494,6 +16513,12 @@
     },
     "done": true
   },
+  "celestisynth:obtain_celestial_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-01-09 05:32:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
     "criteria": {
       "has_melon": "2025-01-09 03:06:08 +0000"
@@ -16503,6 +16528,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-01-09 03:10:46 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/celestial_spellbook": {
+    "criteria": {
+      "has_item": "2025-01-09 05:32:01 +0000"
     },
     "done": true
   },
@@ -16557,6 +16588,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 04:46:50 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-01-09 05:27:43 +0000"
     },
     "done": true
   },
@@ -16662,6 +16699,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-09 05:27:43 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/misc/stand_arrow": {
     "criteria": {
       "has_arrowhead": "2025-01-09 04:12:50 +0000"
@@ -16695,6 +16738,12 @@
   "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-09 05:27:43 +0000"
     },
     "done": true
   },
@@ -16743,6 +16792,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 04:46:50 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-01-09 05:30:29 +0000"
     },
     "done": true
   },
@@ -16929,6 +16984,12 @@
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-01-09 03:10:46 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_supernal_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-01-09 05:30:29 +0000"
     },
     "done": true
   },
