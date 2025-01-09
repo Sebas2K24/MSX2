@@ -11332,6 +11332,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-01-09 03:40:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_desk": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
@@ -11506,9 +11512,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-09 03:40:02 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-01-09 03:40:44 +0000"
     },
     "done": true
   },
@@ -11587,6 +11605,12 @@
   "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
     "criteria": {
       "has_melon": "2025-01-09 03:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-09 03:40:02 +0000"
     },
     "done": true
   },
@@ -11671,6 +11695,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
     "criteria": {
       "has_acacia_planks": "2025-01-09 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/badlands_disc": {
+    "criteria": {
+      "get_disc": "2025-01-09 03:46:29 +0000"
     },
     "done": true
   },
@@ -11857,6 +11887,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-01-09 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-09 03:40:22 +0000"
     },
     "done": true
   },

@@ -5920,3 +5920,5 @@ java.lang.NullPointerException: Element not found: amount
 [09Jan2025 03:36:33.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
 [09Jan2025 03:37:25.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [You've Got a Friend in Me]
 [09Jan2025 03:38:00.612] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/12070, l='ServerLevel[world]', x=112.81, y=27.00, z=183.23]
+[09Jan2025 03:46:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [Ragtime Gal]
+[09Jan2025 03:48:22.757] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/12392, l='ServerLevel[world]', x=152.66, y=49.00, z=289.96]

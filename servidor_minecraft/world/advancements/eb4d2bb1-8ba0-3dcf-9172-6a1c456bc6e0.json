@@ -16233,6 +16233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-09 03:46:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
       "has_item": "2025-01-09 03:09:30 +0000"
@@ -16431,6 +16437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-09 03:46:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-01-09 02:51:45 +0000"
@@ -16467,6 +16479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-09 03:46:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-01-09 03:30:45 +0000"
@@ -16476,6 +16494,12 @@
   "mcwlights:recipes/shroomlight_slab": {
     "criteria": {
       "has_wood": "2025-01-09 03:03:42 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-09 03:46:42 +0000"
     },
     "done": true
   },
