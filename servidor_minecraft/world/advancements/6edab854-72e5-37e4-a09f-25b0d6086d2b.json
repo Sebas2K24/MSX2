@@ -1958,6 +1958,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-05 02:38:35 +0000",
+      "minecraft:blaze": "2025-01-09 04:47:04 +0000",
       "minecraft:skeleton": "2024-12-29 04:14:12 +0000",
       "minecraft:hoglin": "2025-01-05 04:01:38 +0000",
       "minecraft:vindicator": "2025-01-05 03:43:42 +0000",
@@ -1966,6 +1967,7 @@
       "minecraft:piglin_brute": "2025-01-02 03:37:15 +0000",
       "minecraft:creeper": "2025-01-03 03:41:08 +0000",
       "minecraft:phantom": "2025-01-05 03:47:59 +0000",
+      "minecraft:zombified_piglin": "2025-01-09 04:42:07 +0000",
       "minecraft:wither_skeleton": "2025-01-02 04:19:51 +0000",
       "minecraft:husk": "2024-12-31 05:21:38 +0000",
       "minecraft:cave_spider": "2024-12-29 04:44:05 +0000",
@@ -1974,6 +1976,7 @@
       "minecraft:enderman": "2024-12-31 05:21:51 +0000",
       "minecraft:silverfish": "2025-01-03 04:44:30 +0000",
       "minecraft:zombie": "2024-12-28 04:07:59 +0000",
+      "quark:foxhound": "2025-01-09 04:42:11 +0000",
       "minecraft:drowned": "2025-01-03 04:28:02 +0000"
     },
     "done": false
@@ -11340,6 +11343,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-09 04:47:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_desk": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
@@ -11682,6 +11691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-09 04:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
@@ -11733,6 +11748,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-01-09 03:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-09 04:47:00 +0000"
     },
     "done": true
   },
@@ -12012,6 +12033,12 @@
     },
     "done": true
   },
+  "adorn:recipes/nether_brick_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-01-09 04:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-09 03:05:47 +0000"
@@ -12105,6 +12132,18 @@
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-09 04:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-09 04:47:00 +0000"
     },
     "done": true
   },

@@ -6000,3 +6000,12 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [09Jan2025 04:40:32.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
 [09Jan2025 04:41:35.114] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/16280, l='ServerLevel[world]', x=-121.92, y=63.00, z=208.31]
 [09Jan2025 04:41:51.768] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/16335, l='ServerLevel[world]', x=-35.06, y=45.00, z=151.60]
+[09Jan2025 04:43:29.523] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/16144, l='ServerLevel[world]', x=-83.92, y=71.00, z=111.68]
+[09Jan2025 04:43:29.523] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/16127, l='ServerLevel[world]', x=1.74, y=96.00, z=98.53]
+[09Jan2025 04:43:39.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[09Jan2025 04:44:13.701] [Worker-Main-126/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[09Jan2025 04:47:00.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Into Fire]
+[09Jan2025 04:47:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Into Fire]
+[09Jan2025 04:49:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[09Jan2025 04:49:56.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[09Jan2025 04:49:59.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
