@@ -4971,7 +4971,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-01-09 03:27:11 +0000",
       "minecraft:frozen_river": "2024-12-21 05:29:32 +0000",
+      "minecraft:badlands": "2025-01-09 03:27:04 +0000",
       "minecraft:beach": "2024-12-21 03:31:26 +0000",
       "minecraft:sparse_jungle": "2025-01-03 04:33:10 +0000",
       "minecraft:river": "2024-12-21 04:01:01 +0000",
@@ -16230,6 +16232,12 @@
     },
     "done": true
   },
+  "adorn:recipes/cut_sandstone_post": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-09 03:25:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-01-09 03:10:46 +0000"
@@ -16242,6 +16250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-09 03:25:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-01-09 03:10:46 +0000"
@@ -16251,6 +16265,24 @@
   "jcraft:recipes/combat/dio_boots": {
     "criteria": {
       "has_netherite_boots": "2025-01-09 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stellar_iron_ingot_from_blasting": {
+    "criteria": {
+      "has_ore": "2025-01-09 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_chiseled_red_sandstone": "2025-01-09 03:26:30 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_badlands": "2025-01-09 03:27:04 +0000"
     },
     "done": true
   },
@@ -16284,6 +16316,18 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/stellar_iron_ingot_from_smelting": {
+    "criteria": {
+      "has_ore": "2025-01-09 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_chiseled_red_sandstone": "2025-01-09 03:26:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
       "has_shroomlight": "2025-01-09 03:03:42 +0000"
@@ -16314,6 +16358,12 @@
     },
     "done": true
   },
+  "biomemakeover:biomemakeover/enter_badlands": {
+    "criteria": {
+      "enter_badlands1": "2025-01-09 03:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-01-09 03:01:24 +0000"
@@ -16329,6 +16379,24 @@
   "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
       "has_hay_block": "2025-01-09 02:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-09 03:25:44 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_meteorite_iron_ore": {
+    "criteria": {
+      "has_ore": "2025-01-09 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_red_sandstone": "2025-01-09 03:26:30 +0000"
     },
     "done": true
   },

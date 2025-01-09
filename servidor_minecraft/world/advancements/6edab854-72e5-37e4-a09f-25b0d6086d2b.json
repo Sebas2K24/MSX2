@@ -5370,6 +5370,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-01-09 03:27:16 +0000",
+      "minecraft:badlands": "2025-01-09 03:27:08 +0000",
       "minecraft:beach": "2024-12-29 04:59:37 +0000",
       "minecraft:sparse_jungle": "2025-01-03 04:33:13 +0000",
       "minecraft:river": "2025-01-03 03:02:08 +0000",
@@ -11305,6 +11307,12 @@
     },
     "done": true
   },
+  "adorn:recipes/cut_sandstone_post": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-09 03:26:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
     "criteria": {
       "has_acacia_planks": "2025-01-09 03:07:26 +0000"
@@ -11374,6 +11382,12 @@
   "cfm:recipes/decorations/acacia_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-09 03:26:22 +0000"
     },
     "done": true
   },
@@ -11473,6 +11487,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/stand_arrowhead": {
+    "criteria": {
+      "has_ingot": "2025-01-09 03:22:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
@@ -11545,9 +11565,21 @@
     },
     "done": true
   },
+  "jcraft:recipes/building_blocks/stellar_iron_block": {
+    "criteria": {
+      "has_ingot": "2025-01-09 03:22:25 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-01-09 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_badlands": "2025-01-09 03:27:08 +0000"
     },
     "done": true
   },
@@ -11578,6 +11610,12 @@
   "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-01-09 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-01-09 03:23:51 +0000"
     },
     "done": true
   },
@@ -11737,6 +11775,12 @@
     },
     "done": true
   },
+  "biomemakeover:biomemakeover/enter_badlands": {
+    "criteria": {
+      "enter_badlands1": "2025-01-09 03:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-01-09 03:01:45 +0000"
@@ -11800,6 +11844,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-09 03:26:22 +0000"
     },
     "done": true
   },

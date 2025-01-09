@@ -5900,3 +5900,10 @@ java.lang.NullPointerException: Element not found: amount
 [09Jan2025 03:18:11.483] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [09Jan2025 03:20:06.114] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheHandEntity['The Hand'/7189, l='ServerLevel[world]', x=-1850.67, y=64.00, z=2098.94]
 [09Jan2025 03:20:48.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[09Jan2025 03:24:15.757] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheHandEntity['The Hand'/7189, l='ServerLevel[world]', x=-1850.67, y=64.00, z=2098.94]
+[09Jan2025 03:24:17.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[09Jan2025 03:24:38.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Allan the Godly'/7709, l='ServerLevel[world]', x=-1700.57, y=78.00, z=2023.35] died: Allan the Godly was slain by Aarkanen
+[09Jan2025 03:27:05.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[09Jan2025 03:30:08.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Yee hawnted]
+[09Jan2025 03:30:15.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Yee hawnted]
+[09Jan2025 03:30:28.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
