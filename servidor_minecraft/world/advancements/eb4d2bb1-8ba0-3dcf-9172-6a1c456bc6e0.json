@@ -16284,6 +16284,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-01-09 05:21:15 +0000"
+    },
+    "done": false
+  },
   "netherexp:recipes/misc/soul_skeleton_skull_candle": {
     "criteria": {
       "has_item": "2025-01-09 04:34:52 +0000"
