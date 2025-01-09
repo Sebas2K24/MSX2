@@ -5922,3 +5922,9 @@ java.lang.NullPointerException: Element not found: amount
 [09Jan2025 03:38:00.612] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/12070, l='ServerLevel[world]', x=112.81, y=27.00, z=183.23]
 [09Jan2025 03:46:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [Ragtime Gal]
 [09Jan2025 03:48:22.757] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/12392, l='ServerLevel[world]', x=152.66, y=49.00, z=289.96]
+[09Jan2025 03:53:11.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to -1950.500000, 179.500000, 2272.500000]
+[09Jan2025 03:54:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[09Jan2025 03:55:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to -1950.500000, 179.500000, 2272.500000]
+[09Jan2025 03:55:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[09Jan2025 03:57:38.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [The Parrots and the Bats]
+[09Jan2025 03:59:51.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tame them by feeding pteranodon meal at low health

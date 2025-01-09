@@ -11404,6 +11404,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-09 03:57:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_dining_bench": {
     "criteria": {
       "has_acacia_dining_bench": "2025-01-09 03:07:26 +0000"
