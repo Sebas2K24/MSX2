@@ -1018,6 +1018,7 @@
       "prairie": "2024-12-21 04:01:58 +0000",
       "tundra": "2024-12-21 05:29:31 +0000",
       "glowing_grotto": "2024-12-30 00:55:37 +0000",
+      "undergrowth": "2025-01-09 04:32:53 +0000",
       "rainforest": "2025-01-05 02:38:14 +0000",
       "ominous_woods": "2025-01-03 04:22:01 +0000"
     },
@@ -12196,6 +12197,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-01-09 04:33:38 +0000",
       "minecraft:nether_wastes": "2025-01-02 04:29:06 +0000"
     },
     "done": false
@@ -16239,6 +16241,18 @@
     },
     "done": true
   },
+  "bonetorch:recipes/decorations/soul_bonetorch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/spruce_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-01-09 03:46:42 +0000"
@@ -16260,6 +16274,18 @@
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-01-09 03:10:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-01-09 04:34:52 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-01-09 04:34:52 +0000"
     },
     "done": true
   },
@@ -16290,6 +16316,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-01-09 03:25:44 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/mangrove_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
     },
     "done": true
   },
@@ -16341,9 +16373,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-09 04:35:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-01-09 04:34:52 +0000"
     },
     "done": true
   },
@@ -16356,6 +16400,12 @@
   "jcraft:recipes/misc/stellar_iron_ingot_from_blasting": {
     "criteria": {
       "has_ore": "2025-01-09 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/warped_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
     },
     "done": true
   },
@@ -16413,9 +16463,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-09 04:35:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
     },
     "done": true
   },
@@ -16434,6 +16496,12 @@
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-01-09 03:10:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_jack_o_lantern": {
+    "criteria": {
+      "has_item": "2025-01-09 04:34:52 +0000"
     },
     "done": true
   },
@@ -16473,6 +16541,12 @@
     },
     "done": true
   },
+  "bc:recipes/decorations/bamboo_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
       "has_shroomlight": "2025-01-09 03:03:42 +0000"
@@ -16482,6 +16556,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-01-09 03:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
     },
     "done": true
   },
@@ -16500,6 +16580,12 @@
   "minecraft:recipes/decorations/gray_glazed_terracotta": {
     "criteria": {
       "has_gray_terracotta": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/crimson_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
     },
     "done": true
   },
@@ -16539,6 +16625,12 @@
     },
     "done": true
   },
+  "bc:recipes/decorations/cherry_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/shroomlight_slab": {
     "criteria": {
       "has_wood": "2025-01-09 03:03:42 +0000"
@@ -16569,6 +16661,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-09 04:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-09 03:30:45 +0000"
@@ -16581,6 +16679,24 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-01-09 04:34:52 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/sinners_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/acacia_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-01-09 03:57:04 +0000"
@@ -16590,6 +16706,12 @@
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-01-09 03:30:45 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/jungle_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
     },
     "done": true
   },
@@ -16659,6 +16781,12 @@
     },
     "done": true
   },
+  "bc:recipes/decorations/birch_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-01-09 02:50:17 +0000"
@@ -16671,9 +16799,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2025-01-09 04:34:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-01-09 03:10:46 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/dark_oak_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:34:52 +0000"
     },
     "done": true
   },

@@ -1007,6 +1007,7 @@
       "volcanic_plains": "2025-01-03 05:23:03 +0000",
       "lavender_field": "2025-01-03 03:29:24 +0000",
       "fir_clearing": "2024-12-28 03:27:35 +0000",
+      "undergrowth": "2025-01-09 04:32:55 +0000",
       "rainforest": "2025-01-03 05:23:47 +0000",
       "ominous_woods": "2025-01-03 04:23:03 +0000"
     },
@@ -8573,6 +8574,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-01-09 04:33:31 +0000",
       "minecraft:nether_wastes": "2025-01-02 04:28:06 +0000"
     },
     "done": false
@@ -11344,6 +11346,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_table": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
@@ -11359,6 +11379,12 @@
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
     },
     "done": true
   },
@@ -11398,6 +11424,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/blackstone/pillar": {
+    "criteria": {
+      "has_item": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-01-09 03:07:26 +0000"
@@ -11419,6 +11451,12 @@
   "mcwroofs:recipes/acacia_planks": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-09 04:29:10 +0000"
     },
     "done": true
   },
@@ -11530,6 +11568,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-01-09 04:33:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/onion": {
     "criteria": {
       "has_onion_crate": "2025-01-09 03:40:44 +0000"
@@ -11602,6 +11646,12 @@
     },
     "done": true
   },
+  "adorn:recipes/polished_blackstone_post": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
   "biomemakeover:biomemakeover/root": {
     "criteria": {
       "enter_badlands": "2025-01-09 03:27:08 +0000"
@@ -11620,15 +11670,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/combat/jotaro_boots": {
     "criteria": {
       "has_netherite_boots": "2025-01-09 02:51:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
     },
     "done": true
   },
@@ -11644,6 +11724,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-09 04:29:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-01-09 03:23:51 +0000"
@@ -11653,6 +11739,12 @@
   "mcwpaths:recipes/sandstone": {
     "criteria": {
       "has_wood": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
     },
     "done": true
   },
@@ -11746,6 +11838,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-01-09 04:29:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_corner_trim": {
     "criteria": {
       "has_acacia_corner_trim": "2025-01-09 03:07:26 +0000"
@@ -11794,6 +11892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
@@ -11803,6 +11907,18 @@
   "handcrafted:recipes/misc/acacia_couch": {
     "criteria": {
       "has_acacia_couch": "2025-01-09 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-09 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
     },
     "done": true
   },
@@ -11839,6 +11955,12 @@
   "handcrafted:recipes/misc/sandstone_pillar_trim": {
     "criteria": {
       "has_sandstone_pillar_trim": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/fence": {
+    "criteria": {
+      "has_item": "2025-01-09 04:34:17 +0000"
     },
     "done": true
   },
@@ -11980,6 +12102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-01-09 03:05:47 +0000"
@@ -11989,6 +12117,12 @@
   "mcwbridges:recipes/rope_acacia_bridge": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
     },
     "done": true
   },
