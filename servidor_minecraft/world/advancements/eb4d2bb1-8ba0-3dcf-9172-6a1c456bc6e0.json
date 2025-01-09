@@ -15990,6 +15990,78 @@
     },
     "done": true
   },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-01-07 03:50:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-07 04:07:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-07 04:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-07 04:07:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-01-07 04:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-07 04:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-07 04:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-01-07 04:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-07 04:15:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-07 04:17:06 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/sandstone_post": {
     "criteria": {
       "has_sandstone": "2025-01-07 04:19:14 +0000"
@@ -16008,21 +16080,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_shiraz_palace": {
-    "criteria": {
-      "location0": "2025-01-07 03:50:55 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2025-01-07 04:19:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-07 04:07:18 +0000"
     },
     "done": true
   },
@@ -16038,33 +16098,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-07 04:07:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-07 04:19:14 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-01-07 04:02:21 +0000"
-    },
-    "done": true
-  },
   "yungscavebiomes:recipes/building_blocks/layered_sandstone_from_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-07 04:19:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-01-07 04:07:18 +0000"
     },
     "done": true
   },
@@ -16092,27 +16134,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-01-07 04:15:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-01-07 04:22:59 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/sandstone": {
     "criteria": {
       "has_wood": "2025-01-07 04:19:14 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_mercy": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-07 04:17:06 +0000"
     },
     "done": true
   },
@@ -16146,30 +16170,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-01-07 04:22:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-01-07 04:07:19 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_cupidity": {
-    "criteria": {
-      "coded_trigger": "2025-01-07 04:33:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-07 04:15:28 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/sandstone_pillar_trim": {
     "criteria": {
       "has_sandstone_pillar_trim": "2025-01-07 04:19:14 +0000"
@@ -16194,15 +16194,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+  "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
-      "has_peony": "2025-01-07 04:07:19 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
-    "criteria": {
-      "has_red_tulip": "2025-01-07 04:07:18 +0000"
+      "has_sandstone": "2025-01-07 04:19:14 +0000"
     },
     "done": true
   },
@@ -16212,15 +16206,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_sunflower": {
     "criteria": {
-      "has_sandstone": "2025-01-07 04:19:14 +0000"
+      "has_sunflower": "2025-01-07 04:22:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
-      "has_oxeye_daisy": "2025-01-07 04:07:18 +0000"
+      "has_sunflower": "2025-01-07 04:22:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 04:33:59 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/dio_boots": {
+    "criteria": {
+      "has_netherite_boots": "2025-01-09 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_boots": {
+    "criteria": {
+      "has_netherite_boots": "2025-01-09 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-09 02:57:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-01-09 02:51:45 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-01-09 02:51:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-09 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-09 02:51:45 +0000"
     },
     "done": true
   },
