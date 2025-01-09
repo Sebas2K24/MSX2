@@ -4978,6 +4978,7 @@
       "minecraft:sparse_jungle": "2025-01-03 04:33:10 +0000",
       "minecraft:river": "2024-12-21 04:01:01 +0000",
       "minecraft:stony_shore": "2025-01-07 03:30:00 +0000",
+      "minecraft:dripstone_caves": "2025-01-09 03:32:27 +0000",
       "minecraft:cold_ocean": "2024-12-21 03:31:33 +0000",
       "minecraft:forest": "2025-01-03 04:21:52 +0000",
       "minecraft:desert": "2025-01-07 03:49:45 +0000",
@@ -16226,6 +16227,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-01-09 03:37:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
       "has_item": "2025-01-09 03:09:30 +0000"
@@ -16244,6 +16251,24 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
   "super_ore_block:recipes/building_blocks/super_diamond_block_from_diamond_block": {
     "criteria": {
       "has_diamond_block": "2025-01-09 03:01:24 +0000"
@@ -16253,6 +16278,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-01-09 03:25:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
     },
     "done": true
   },
@@ -16268,9 +16299,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-01-09 03:30:45 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/misc/stellar_iron_ingot_from_blasting": {
     "criteria": {
       "has_ore": "2025-01-09 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-01-09 03:32:57 +0000"
     },
     "done": true
   },
@@ -16304,15 +16365,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-01-09 03:10:46 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_unstable_intangibility": {
     "criteria": {
       "has_magic_scroll": "2025-01-09 02:57:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/ghost_town": {
+    "criteria": {
+      "ghost_town": "2025-01-09 03:30:15 +0000"
     },
     "done": true
   },
@@ -16340,6 +16437,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-01-09 03:30:45 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/shroomlight_slab": {
     "criteria": {
       "has_wood": "2025-01-09 03:03:42 +0000"
@@ -16364,9 +16497,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-09 03:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-01-09 03:01:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-09 03:30:45 +0000"
     },
     "done": true
   },
@@ -16388,9 +16533,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
   "jcraft:obtain_meteorite_iron_ore": {
     "criteria": {
       "has_ore": "2025-01-09 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-09 03:30:45 +0000"
     },
     "done": true
   },
@@ -16403,6 +16566,18 @@
   "jcraft:recipes/combat/dio_headband": {
     "criteria": {
       "has_netherite_helmet": "2025-01-09 03:09:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-09 03:30:45 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-01-09 03:30:45 +0000"
     },
     "done": true
   },
@@ -16424,9 +16599,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-09 03:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-01-09 02:51:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-09 03:32:57 +0000"
     },
     "done": true
   },

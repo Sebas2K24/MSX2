@@ -5907,3 +5907,16 @@ java.lang.NullPointerException: Element not found: amount
 [09Jan2025 03:30:08.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Yee hawnted]
 [09Jan2025 03:30:15.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Yee hawnted]
 [09Jan2025 03:30:28.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[09Jan2025 03:33:50.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aarkanen moved wrongly!
+[09Jan2025 03:33:52.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aarkanen moved wrongly!
+[09Jan2025 03:34:17.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[09Jan2025 03:34:18.849] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stevekung/fishofthieves/utils/PeakTypes
+[09Jan2025 03:34:30.927] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga]] from pos BlockPos{x=-2069, y=82, z=1941}
+[09Jan2025 03:34:30.935] [pool-10-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[09Jan2025 03:36:23.765] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/storagenetwork/api/EnumStorageDirection
+[09Jan2025 03:36:23.767] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/storagenetwork/api/EnumSortType
+[09Jan2025 03:36:23.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/storagenetwork/api/OpCompareType
+[09Jan2025 03:36:23.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 224.500000, 91.500000, 195.500000]
+[09Jan2025 03:36:33.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[09Jan2025 03:37:25.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [You've Got a Friend in Me]
+[09Jan2025 03:38:00.612] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/12070, l='ServerLevel[world]', x=112.81, y=27.00, z=183.23]
