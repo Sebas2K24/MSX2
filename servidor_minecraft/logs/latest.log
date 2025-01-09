@@ -5875,3 +5875,7 @@ java.lang.NullPointerException: Element not found: amount
 [09Jan2025 02:57:01.319] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [09Jan2025 02:57:08.219] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [09Jan2025 02:57:08.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [To be or not to be]
+[09Jan2025 03:04:15.359] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[09Jan2025 03:05:25.518] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[09Jan2025 03:08:31.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Mutual Aid]
+[09Jan2025 03:08:31.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [Like a bird]

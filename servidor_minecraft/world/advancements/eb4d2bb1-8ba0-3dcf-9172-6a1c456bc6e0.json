@@ -16224,9 +16224,21 @@
     },
     "done": true
   },
+  "super_ore_block:recipes/building_blocks/super_diamond_block_from_diamond_block": {
+    "criteria": {
+      "has_diamond_block": "2025-01-09 03:01:24 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/combat/dio_boots": {
     "criteria": {
       "has_netherite_boots": "2025-01-09 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
+    "criteria": {
+      "has_melon": "2025-01-09 03:06:08 +0000"
     },
     "done": true
   },
@@ -16242,9 +16254,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-01-09 03:03:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-01-09 02:51:45 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/shroomlight_slab": {
+    "criteria": {
+      "has_wood": "2025-01-09 03:03:42 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cyan_table_lamp": {
+    "criteria": {
+      "has_carpet": "2025-01-09 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-09 03:01:24 +0000"
     },
     "done": true
   },
@@ -16257,6 +16293,12 @@
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-01-09 02:50:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-01-09 03:03:42 +0000"
     },
     "done": true
   },
