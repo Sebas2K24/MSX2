@@ -6011,3 +6011,24 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [09Jan2025 04:49:59.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
 [09Jan2025 04:55:13.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
 [09Jan2025 04:59:51.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[09Jan2025 05:04:44.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[09Jan2025 05:04:44.710] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/20006, l='ServerLevel[world]', x=-41.97, y=62.00, z=357.38]
+[09Jan2025 05:05:00.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[09Jan2025 05:05:30.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[09Jan2025 05:05:48.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[09Jan2025 05:06:03.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 80.500000, 69.500000, 337.500000]
+[09Jan2025 05:06:07.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[09Jan2025 05:06:07.212] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/20440, l='ServerLevel[world]', x=143.03, y=44.00, z=220.38]
+[09Jan2025 05:06:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[09Jan2025 05:06:21.917] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/20769, l='ServerLevel[world]', x=113.44, y=77.00, z=207.85]
+[09Jan2025 05:06:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[09Jan2025 05:06:50.556] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[09Jan2025 05:06:50.569] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[09Jan2025 05:06:51.159] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/20768, l='ServerLevel[world]', x=103.07, y=77.00, z=206.68]
+[09Jan2025 05:08:44.755] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/20841, l='ServerLevel[world]', x=196.12, y=70.00, z=274.43]
+[09Jan2025 05:08:50.610] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/20006, l='ServerLevel[world]', x=-41.97, y=62.00, z=357.38]
+[09Jan2025 05:08:50.821] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/21294, l='ServerLevel[world]', x=182.51, y=99.00, z=382.37]
+[09Jan2025 05:09:46.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[09Jan2025 05:12:38.963] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[09Jan2025 05:12:38.966] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[09Jan2025 05:12:44.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
