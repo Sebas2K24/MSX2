@@ -16317,6 +16317,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/stand_arrowhead": {
+    "criteria": {
+      "has_ingot": "2025-01-09 04:07:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
     "criteria": {
       "has_salmon": "2025-01-09 03:57:04 +0000"
@@ -16362,6 +16368,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_chiseled_red_sandstone": "2025-01-09 03:26:30 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/building_blocks/stellar_iron_block": {
+    "criteria": {
+      "has_ingot": "2025-01-09 04:07:51 +0000"
     },
     "done": true
   },
