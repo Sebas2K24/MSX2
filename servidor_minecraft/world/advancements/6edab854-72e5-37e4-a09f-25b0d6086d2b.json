@@ -11259,6 +11259,216 @@
     },
     "done": true
   },
+  "jcraft:recipes/combat/dio_boots": {
+    "criteria": {
+      "has_netherite_boots": "2025-01-09 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_boots": {
+    "criteria": {
+      "has_netherite_boots": "2025-01-09 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-09 02:51:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-09 02:54:33 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/jotaro_cap": {
+    "criteria": {
+      "has_netherite_helmet": "2025-01-09 02:54:33 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/dio_headband": {
+    "criteria": {
+      "has_netherite_helmet": "2025-01-09 02:54:33 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_diamond_block_from_diamond_block": {
+    "criteria": {
+      "has_diamond_block": "2025-01-09 03:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-09 03:01:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-01-09 03:05:46 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/shroomlight_slab": {
+    "criteria": {
+      "has_wood": "2025-01-09 03:05:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-01-09 03:05:46 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/sandstone_post": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/sandstone": {
+    "criteria": {
+      "has_wood": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_wood": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-09 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
+    "criteria": {
+      "has_melon": "2025-01-09 03:05:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
@@ -11277,12 +11487,6 @@
     },
     "done": true
   },
-  "bonetorch:recipes/decorations/soul_bonetorch": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
@@ -11295,33 +11499,9 @@
     },
     "done": true
   },
-  "bc:recipes/decorations/spruce_soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/acacia_barrel": {
     "criteria": {
       "has_acacia_plank": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/sandstone_post": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/misc/celestial_netherite_ingot_blasting": {
-    "criteria": {
-      "has_item": "2025-01-09 05:30:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
-    "criteria": {
-      "has_item": "2025-01-09 02:54:33 +0000"
     },
     "done": true
   },
@@ -11331,75 +11511,15 @@
     },
     "done": true
   },
-  "adorn:recipes/cut_sandstone_post": {
-    "criteria": {
-      "has_cut_sandstone": "2025-01-09 03:26:22 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
     "criteria": {
       "has_acacia_planks": "2025-01-09 03:07:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
-    "criteria": {
-      "has_item": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cactus": {
-    "criteria": {
-      "has_cactus": "2025-01-09 03:40:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-01-09 04:47:00 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/acacia_desk": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
     },
     "done": true
   },
@@ -11415,18 +11535,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/sandstone_corner_trim": {
-    "criteria": {
-      "has_sandstone_corner_trim": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_desk": {
     "criteria": {
       "has_acacia_desk": "2025-01-09 03:07:26 +0000"
@@ -11436,12 +11544,6 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "super_ore_block:recipes/building_blocks/super_diamond_block_from_diamond_block": {
-    "criteria": {
-      "has_diamond_block": "2025-01-09 03:01:45 +0000"
     },
     "done": true
   },
@@ -11457,27 +11559,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-01-09 03:26:22 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/pillar": {
-    "criteria": {
-      "has_item": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-01-09 03:57:38 +0000"
     },
     "done": true
   },
@@ -11493,24 +11577,6 @@
     },
     "done": true
   },
-  "adorn:recipes/polished_blackstone_brick_platform": {
-    "criteria": {
-      "has_slab": "2025-01-09 04:49:20 +0000"
-    },
-    "done": true
-  },
-  "bc:recipes/decorations/mangrove_soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-01-09 04:29:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/acacia_window": {
     "criteria": {
       "has_ingredient": "2025-01-09 03:07:26 +0000"
@@ -11520,24 +11586,6 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-01-09 05:00:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
     },
     "done": true
   },
@@ -11565,12 +11613,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/acacia_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
@@ -11589,69 +11631,15 @@
     },
     "done": true
   },
-  "jcraft:recipes/combat/dio_boots": {
-    "criteria": {
-      "has_netherite_boots": "2025-01-09 02:51:04 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/stand_arrowhead": {
-    "criteria": {
-      "has_ingot": "2025-01-09 03:22:25 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/acacia_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
     },
     "done": true
   },
-  "yungscavebiomes:recipes/building_blocks/layered_sandstone_from_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-01-09 03:40:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/sandstone_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/cooked_hogham": {
-    "criteria": {
-      "has_item": "2025-01-09 04:33:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/onion": {
-    "criteria": {
-      "has_onion_crate": "2025-01-09 03:40:44 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_pillar_trim": {
     "criteria": {
       "has_acacia_pillar_trim": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_feather_fall": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-09 03:08:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
     },
     "done": true
   },
@@ -11673,45 +11661,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/decorations/starlit_factory": {
-    "criteria": {
-      "has_item": "2025-01-09 05:32:14 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
     "criteria": {
       "has_acacia_planks": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "bc:recipes/decorations/warped_soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/building_blocks/stellar_iron_block": {
-    "criteria": {
-      "has_ingot": "2025-01-09 03:22:25 +0000"
     },
     "done": true
   },
@@ -11721,99 +11673,9 @@
     },
     "done": true
   },
-  "adorn:recipes/polished_blackstone_post": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/root": {
-    "criteria": {
-      "enter_badlands": "2025-01-09 03:27:08 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:obtain_celestial_netherite_ingot": {
-    "criteria": {
-      "criteria": "2025-01-09 05:32:14 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
-    "criteria": {
-      "has_melon": "2025-01-09 03:05:59 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/celestial_spellbook": {
-    "criteria": {
-      "has_item": "2025-01-09 05:32:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-01-09 03:40:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/combat/jotaro_boots": {
-    "criteria": {
-      "has_netherite_boots": "2025-01-09 02:51:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-01-09 04:43:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-09 05:00:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
     },
     "done": true
   },
@@ -11829,36 +11691,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-01-09 04:29:10 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-01-09 03:23:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-09 04:47:00 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/sandstone": {
-    "criteria": {
-      "has_wood": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
@@ -11871,27 +11703,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_jack_o_lantern": {
-    "criteria": {
-      "has_item": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana_slug": {
-    "criteria": {
-      "killed": "2025-01-09 05:26:43 +0000"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/ghost_town": {
-    "criteria": {
-      "ghost_town": "2025-01-09 03:30:08 +0000"
     },
     "done": true
   },
@@ -11901,39 +11715,15 @@
     },
     "done": true
   },
-  "bc:recipes/decorations/bamboo_soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/acacia_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-01-09 03:05:46 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
     "criteria": {
       "has_acacia_planks": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/badlands_disc": {
-    "criteria": {
-      "get_disc": "2025-01-09 03:46:29 +0000"
     },
     "done": true
   },
@@ -11955,27 +11745,9 @@
     },
     "done": true
   },
-  "jcraft:recipes/misc/stand_arrow": {
-    "criteria": {
-      "has_arrowhead": "2025-01-09 04:12:59 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2025-01-09 03:08:31 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/acacia_park_bench": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/hamburger": {
-    "criteria": {
-      "has_beef_patty": "2025-01-09 04:29:35 +0000"
     },
     "done": true
   },
@@ -11985,45 +11757,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "bc:recipes/decorations/crimson_soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/sandstone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/sandstone": {
-    "criteria": {
-      "has_planks": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:recipes/building_blocks/layered_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/acacia_post": {
     "criteria": {
       "has_acacia_planks": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
     },
     "done": true
   },
@@ -12033,57 +11769,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/acacia_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
     },
     "done": true
   },
-  "adorn:recipes/polished_blackstone_brick_step": {
-    "criteria": {
-      "has_slab": "2025-01-09 04:49:20 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_couch": {
     "criteria": {
       "has_acacia_couch": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-01-09 04:29:10 +0000"
-    },
-    "done": true
-  },
-  "bc:recipes/decorations/cherry_soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/misc/celestial_netherite_ingot_smelting": {
-    "criteria": {
-      "has_item": "2025-01-09 05:30:39 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/shroomlight_slab": {
-    "criteria": {
-      "has_wood": "2025-01-09 03:05:46 +0000"
     },
     "done": true
   },
@@ -12099,75 +11793,15 @@
     },
     "done": true
   },
-  "biomemakeover:biomemakeover/enter_badlands": {
-    "criteria": {
-      "enter_badlands1": "2025-01-09 03:27:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-01-09 03:01:45 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/sinners_soul": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "bc:recipes/decorations/acacia_soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/sandstone_pillar_trim": {
-    "criteria": {
-      "has_sandstone_pillar_trim": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/fence": {
-    "criteria": {
-      "has_item": "2025-01-09 04:34:17 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_drawer": {
     "criteria": {
       "has_acacia_drawer": "2025-01-09 03:07:26 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_sandstone_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "bc:recipes/decorations/jungle_soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
     },
     "done": true
   },
@@ -12186,42 +11820,6 @@
   "decorative_blocks:recipes/building_blocks/acacia_support": {
     "criteria": {
       "has_plank": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/sandstone": {
-    "criteria": {
-      "has_wood": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/combat/jotaro_cap": {
-    "criteria": {
-      "has_netherite_helmet": "2025-01-09 02:54:33 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/nether_brick_chimney": {
-    "criteria": {
-      "has_key_item_0": "2025-01-09 04:43:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-01-09 03:26:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-01-09 03:40:22 +0000"
     },
     "done": true
   },
@@ -12255,27 +11853,9 @@
     },
     "done": true
   },
-  "jcraft:recipes/combat/dio_headband": {
-    "criteria": {
-      "has_netherite_helmet": "2025-01-09 02:54:33 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/acacia_coffee_table": {
     "criteria": {
       "has_planks": "2025-01-09 03:07:26 +0000"
-    },
-    "done": true
-  },
-  "bc:recipes/decorations/birch_soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
-    "criteria": {
-      "has_item": "2025-01-09 02:51:04 +0000"
     },
     "done": true
   },
@@ -12285,21 +11865,27 @@
     },
     "done": true
   },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-01-09 03:05:46 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_candle": {
-    "criteria": {
-      "has_planks": "2025-01-09 04:55:05 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
     "criteria": {
       "has_acacia_planks": "2025-01-09 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-09 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-09 03:08:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-09 03:08:31 +0000"
     },
     "done": true
   },
@@ -12309,21 +11895,261 @@
     },
     "done": true
   },
-  "celestisynth:obtain_supernal_netherite_ingot": {
+  "jcraft:recipes/misc/stand_arrowhead": {
     "criteria": {
-      "criteria": "2025-01-09 05:30:39 +0000"
+      "has_ingot": "2025-01-09 03:22:25 +0000"
     },
     "done": true
   },
-  "bc:recipes/decorations/dark_oak_soul_campfire": {
+  "jcraft:recipes/building_blocks/stellar_iron_block": {
     "criteria": {
-      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+      "has_ingot": "2025-01-09 03:22:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-01-09 03:23:51 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cut_sandstone_post": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-09 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-09 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-09 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_badlands": "2025-01-09 03:27:08 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/enter_badlands": {
+    "criteria": {
+      "enter_badlands1": "2025-01-09 03:27:08 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/ghost_town": {
+    "criteria": {
+      "ghost_town": "2025-01-09 03:30:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-09 03:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-09 03:40:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-01-09 03:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-09 03:40:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-01-09 03:40:44 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/badlands_disc": {
+    "criteria": {
+      "get_disc": "2025-01-09 03:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-09 03:57:38 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stand_arrow": {
+    "criteria": {
+      "has_arrowhead": "2025-01-09 04:12:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-09 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-09 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-09 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-01-09 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-01-09 04:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/pillar": {
+    "criteria": {
+      "has_item": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_blackstone_post": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/fence": {
+    "criteria": {
+      "has_item": "2025-01-09 04:34:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-09 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/nether_brick_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-01-09 04:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-09 04:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-09 04:47:00 +0000"
     },
     "done": true
   },
@@ -12339,21 +12165,195 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "adorn:recipes/polished_blackstone_brick_platform": {
     "criteria": {
-      "has_sandstone": "2025-01-09 03:05:47 +0000"
+      "has_slab": "2025-01-09 04:49:20 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_acacia_bridge": {
+  "adorn:recipes/polished_blackstone_brick_step": {
     "criteria": {
-      "has_planks": "2025-01-09 03:07:26 +0000"
+      "has_slab": "2025-01-09 04:49:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "bonetorch:recipes/decorations/soul_bonetorch": {
     "criteria": {
-      "has_polished_blackstone": "2025-01-09 04:34:17 +0000"
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/spruce_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/mangrove_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/warped_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_jack_o_lantern": {
+    "criteria": {
+      "has_item": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/bamboo_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/crimson_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/cherry_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/sinners_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/acacia_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/jungle_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/birch_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "bc:recipes/decorations/dark_oak_soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 04:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-01-09 05:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-09 05:00:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-01-09 05:26:43 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_blasting": {
+    "criteria": {
+      "has_item": "2025-01-09 05:30:39 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-01-09 05:30:39 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_supernal_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-01-09 05:30:39 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/decorations/starlit_factory": {
+    "criteria": {
+      "has_item": "2025-01-09 05:32:14 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_celestial_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-01-09 05:32:14 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/celestial_spellbook": {
+    "criteria": {
+      "has_item": "2025-01-09 05:32:14 +0000"
     },
     "done": true
   },
