@@ -17215,6 +17215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-12 05:22:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_strange_scroll": {
     "criteria": {
       "has_strange_scroll": "2025-01-12 04:04:59 +0000"
@@ -17269,6 +17275,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-01-12 05:22:25 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/food/cooked_splashtail": {
     "criteria": {
       "has_splashtail": "2025-01-12 03:45:29 +0000"
@@ -17285,6 +17297,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-01-12 05:25:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-12 04:04:25 +0000"
@@ -17297,15 +17315,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-12 05:22:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/frying/sweet_berry_jam": {
     "criteria": {
       "has_ingredient": "2025-01-12 05:12:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-12 05:22:25 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/misc/celestial_core_dupe": {
     "criteria": {
       "has_item": "2025-01-12 03:33:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-12 05:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-12 05:22:25 +0000"
     },
     "done": true
   },
@@ -17330,6 +17372,18 @@
   "celestisynth:recipes/misc/celestial_core_smelting": {
     "criteria": {
       "has_item": "2025-01-12 03:32:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-12 05:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-12 05:25:16 +0000"
     },
     "done": true
   },

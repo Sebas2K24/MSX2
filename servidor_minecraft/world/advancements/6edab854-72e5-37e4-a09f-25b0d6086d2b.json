@@ -12390,6 +12390,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-01-12 05:22:48 +0000"
+    },
+    "done": true
+  },
   "celestisynth:root": {
     "criteria": {
       "obtained_core": "2025-01-12 03:32:15 +0000"
@@ -12414,6 +12420,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-12 05:25:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-01-12 03:07:22 +0000"
@@ -12435,6 +12447,18 @@
   "celestisynth:recipes/misc/celestial_core_smelting": {
     "criteria": {
       "has_item": "2025-01-12 03:32:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-12 05:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-12 05:22:48 +0000"
     },
     "done": true
   },
