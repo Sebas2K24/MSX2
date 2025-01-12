@@ -5803,3 +5803,24 @@ java.lang.NullPointerException: Element not found: amount
 [12Jan2025 02:57:45.142] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
 [12Jan2025 02:57:48.839] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [12Jan2025 02:58:18.797] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[12Jan2025 03:01:13.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[12Jan2025 03:08:34.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebas2K24[/127.118.44.18:41487] logged in with entity id 2478 at (231.69999998807907, 91.0, 195.56839783089106)
+[12Jan2025 03:08:34.432] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebas2K24
+[12Jan2025 03:08:34.432] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebas2K24
+[12Jan2025 03:08:34.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebas2K24
+[12Jan2025 03:08:34.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebas2K24
+[12Jan2025 03:08:34.435] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebas2K24
+[12Jan2025 03:08:34.436] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebas2K24
+[12Jan2025 03:08:34.437] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebas2K24
+[12Jan2025 03:08:34.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
+[12Jan2025 03:08:34.619] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[12Jan2025 03:08:34.622] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[12Jan2025 03:08:34.624] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[12Jan2025 03:09:04.122] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[12Jan2025 03:09:04.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> hiiiiii mi amor lindo
+[12Jan2025 03:09:21.432] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[12Jan2025 03:09:50.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> holaaaa amor
+[12Jan2025 03:10:04.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> soy negra
+[12Jan2025 03:10:26.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajaja
+[12Jan2025 03:10:31.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> te veo normal amor
+[12Jan2025 03:10:34.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si?

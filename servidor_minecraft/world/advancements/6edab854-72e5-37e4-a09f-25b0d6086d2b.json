@@ -12357,5 +12357,59 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-12 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-12 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
