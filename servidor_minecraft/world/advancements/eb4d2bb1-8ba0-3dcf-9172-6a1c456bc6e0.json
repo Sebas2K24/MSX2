@@ -17209,5 +17209,11 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2025-01-12 03:14:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
