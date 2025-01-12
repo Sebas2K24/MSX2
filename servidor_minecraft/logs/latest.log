@@ -6419,3 +6419,106 @@ java.lang.NullPointerException: Element not found: amount
 [12Jan2025 05:00:47.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> no amor, si me di cuenta pero ahora es que pregunto jajajaja
 [12Jan2025 05:00:55.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> comprendo amor, ya lo hare
 [12Jan2025 05:00:59.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ahhh bueno amor
+[12Jan2025 05:02:28.140] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/12616, l='ServerLevel[world]', x=103.69, y=28.00, z=227.09]
+[12Jan2025 05:02:35.608] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[12Jan2025 05:02:35.608] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@44a157a8, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.22.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.modderg.tameablebeasts.server.entity.TBRideable.messageRiding(TBRideable.java:55) ~[tameablebeasts-6.2.jar%23735!/:6.0]
+	at com.modderg.tameablebeasts.server.entity.FlyingRideableTBAnimal.m_6071_(FlyingRideableTBAnimal.java:82) ~[tameablebeasts-6.2.jar%23735!/:6.0]
+	at com.modderg.tameablebeasts.server.entity.custom.GrapteranodonEntity.m_6071_(GrapteranodonEntity.java:104) ~[tameablebeasts-6.2.jar%23735!/:6.0]
+	at net.minecraft.world.entity.Mob.m_6096_(Mob.java:1122) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:979) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23783!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[12Jan2025 05:02:46.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajaja pegale mas
+[12Jan2025 05:02:57.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> es por el mod amor, no se guardaba
+[12Jan2025 05:03:00.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> el pandaaa
+[12Jan2025 05:03:04.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> sip
+[12Jan2025 05:03:07.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ahorita te digo como domesticarlo
+[12Jan2025 05:03:15.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> va amor
+[12Jan2025 05:04:04.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ten amor
+[12Jan2025 05:04:15.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que amor?
+[12Jan2025 05:04:55.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> killer queen pero la version mejorada
+[12Jan2025 05:04:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no se que hace
+[12Jan2025 05:05:01.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> oooh genial amor
+[12Jan2025 05:05:04.120] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[12Jan2025 05:05:08.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> AJJAJAJAJAJAJAJAJAJAJA
+[12Jan2025 05:05:35.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> geniaaaaaal amor
+[12Jan2025 05:05:41.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amor hay un panda aquiiiiiiiiiiiiiiiii
+[12Jan2025 05:05:47.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> es el mio?
+[12Jan2025 05:05:47.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que risa vale
+[12Jan2025 05:05:56.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> uy amor
+[12Jan2025 05:05:59.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amoooooooooooooooor
+[12Jan2025 05:06:02.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> creo que saque todo de la csa
+[12Jan2025 05:06:05.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> sacaste a todos
+[12Jan2025 05:06:13.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> sip
+[12Jan2025 05:06:28.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VeinGoblinTrader['Pepe lucas'/1480, l='ServerLevel[world]', x=224.71, y=77.00, z=308.36] died: Pepe lucas was slain by Aarkanen
+[12Jan2025 05:07:26.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> pepe lucas amor?
+[12Jan2025 05:07:29.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> estaba a tu lado
+[12Jan2025 05:07:31.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ni idea
+[12Jan2025 05:07:51.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> oh, lo mataron
+[12Jan2025 05:07:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> naaaaaaaaaaaaaaaaa amor
+[12Jan2025 05:08:02.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> pobrecito
+[12Jan2025 05:08:03.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> :(
+[12Jan2025 05:08:07.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> no lo vi si no lo salvo
+[12Jan2025 05:08:18.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> mira amor
+[12Jan2025 05:08:42.168] [Server thread/WARN] [spawnermod/]: Key=minecraft:armor_stand was not found when trying to access it! Returning 0
+[12Jan2025 05:08:46.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que miro amor?
+[12Jan2025 05:08:53.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> los estantes estaban ahi
+[12Jan2025 05:09:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajaja sip
+[12Jan2025 05:09:09.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> voy a ver que mas saque
+[12Jan2025 05:09:21.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor
+[12Jan2025 05:09:37.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> amooor
+[12Jan2025 05:09:50.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> si?
+[12Jan2025 05:09:55.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> voltee las cosas
+[12Jan2025 05:10:02.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajaja genial
+[12Jan2025 05:10:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> me dio mucha risa porque te tiraste en el suelo y te fuiste lejos volando
+[12Jan2025 05:10:28.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajaja como lo hiciste amor?
+[12Jan2025 05:10:29.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> viste como quedaron los marcos amor?
+[12Jan2025 05:10:32.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> con el stand
+[12Jan2025 05:10:35.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> si amor
+[12Jan2025 05:10:39.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> con el de pucci?
+[12Jan2025 05:10:43.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> y el otro alay amor?
+[12Jan2025 05:10:48.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> lo agarraste?
+[12Jan2025 05:10:56.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> vi que le estabas pegando
+[12Jan2025 05:10:56.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> quien?
+[12Jan2025 05:11:01.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> el hada amor
+[12Jan2025 05:11:03.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> aaaah si amor
+[12Jan2025 05:11:08.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> voy por el otro
+[12Jan2025 05:11:14.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> esta aqui amor
+[12Jan2025 05:11:17.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> me siguen solos
+[12Jan2025 05:11:26.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> son dos no?
+[12Jan2025 05:11:29.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor
+[12Jan2025 05:11:33.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> aqui esta el otro
+[12Jan2025 05:11:42.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> yap
+[12Jan2025 05:11:47.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> estaba aqui afuera amor
+[12Jan2025 05:12:15.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> amor
