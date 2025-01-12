@@ -12369,6 +12369,12 @@
     },
     "done": true
   },
+  "celestisynth:obtain_solaris": {
+    "criteria": {
+      "criteria": "2025-01-12 03:40:16 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
     "criteria": {
       "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
@@ -12402,6 +12408,12 @@
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-01-12 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-01-12 03:47:24 +0000"
     },
     "done": true
   },

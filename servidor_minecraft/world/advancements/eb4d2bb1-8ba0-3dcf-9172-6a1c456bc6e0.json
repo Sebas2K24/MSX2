@@ -17215,15 +17215,33 @@
     },
     "done": true
   },
+  "fishofthieves:recipes/food/cooked_splashtail_from_campfire_cooking": {
+    "criteria": {
+      "has_splashtail": "2025-01-12 03:45:29 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/misc/eyebomination": {
     "criteria": {
       "has_item": "2025-01-12 03:31:31 +0000"
     },
     "done": true
   },
+  "celestisynth:obtain_solaris": {
+    "criteria": {
+      "criteria": "2025-01-12 03:43:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2025-01-12 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_splashtail": {
+    "criteria": {
+      "has_splashtail": "2025-01-12 03:45:29 +0000"
     },
     "done": true
   },
@@ -17260,6 +17278,12 @@
   "celestisynth:recipes/misc/celestial_core_blasting": {
     "criteria": {
       "has_item": "2025-01-12 03:32:02 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_splashtail_from_smoking": {
+    "criteria": {
+      "has_splashtail": "2025-01-12 03:45:29 +0000"
     },
     "done": true
   },
