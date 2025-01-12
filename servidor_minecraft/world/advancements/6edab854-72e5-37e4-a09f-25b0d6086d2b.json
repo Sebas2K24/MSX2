@@ -12387,6 +12387,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta0": {
+    "criteria": {
+      "enchanted_item": "2025-01-12 04:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
@@ -12432,6 +12438,12 @@
   "celestisynth:recipes/misc/celestial_core_blasting": {
     "criteria": {
       "has_item": "2025-01-12 03:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-12 04:22:52 +0000"
     },
     "done": true
   },
