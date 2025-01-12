@@ -12375,9 +12375,21 @@
     },
     "done": true
   },
+  "celestisynth:root": {
+    "criteria": {
+      "obtained_core": "2025-01-12 03:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_dupe": {
+    "criteria": {
+      "has_item": "2025-01-12 03:32:58 +0000"
     },
     "done": true
   },
@@ -12393,9 +12405,21 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/celestial_core_smelting": {
+    "criteria": {
+      "has_item": "2025-01-12 03:32:15 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
     "criteria": {
       "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_blasting": {
+    "criteria": {
+      "has_item": "2025-01-12 03:32:15 +0000"
     },
     "done": true
   },

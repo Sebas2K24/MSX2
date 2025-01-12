@@ -17209,9 +17209,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-12 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2025-01-12 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-01-12 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:root": {
+    "criteria": {
+      "obtained_core": "2025-01-12 03:32:02 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_dupe": {
+    "criteria": {
+      "has_item": "2025-01-12 03:33:13 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/arsonist_necklace": {
     "criteria": {
       "has_fire_charge": "2025-01-12 03:14:56 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_smelting": {
+    "criteria": {
+      "has_item": "2025-01-12 03:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-12 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_blasting": {
+    "criteria": {
+      "has_item": "2025-01-12 03:32:02 +0000"
     },
     "done": true
   },
