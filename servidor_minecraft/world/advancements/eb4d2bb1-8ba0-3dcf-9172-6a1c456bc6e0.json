@@ -17215,9 +17215,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2025-01-12 04:04:59 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/food/cooked_splashtail_from_campfire_cooking": {
     "criteria": {
       "has_splashtail": "2025-01-12 03:45:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-01-12 04:06:20 +0000"
     },
     "done": true
   },
@@ -17239,9 +17251,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-12 04:04:25 +0000"
+    },
+    "done": true
+  },
   "fishofthieves:recipes/food/cooked_splashtail": {
     "criteria": {
       "has_splashtail": "2025-01-12 03:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-12 04:04:25 +0000"
     },
     "done": true
   },
@@ -17284,6 +17308,12 @@
   "fishofthieves:recipes/food/cooked_splashtail_from_smoking": {
     "criteria": {
       "has_splashtail": "2025-01-12 03:45:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-01-12 04:05:15 +0000"
     },
     "done": true
   },
