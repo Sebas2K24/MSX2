@@ -1,0 +1,15 @@
+{
+	id: "9cec9663-a88f-3331-a121-6c630f3d8724"
+	type: "player"
+	player_name: "Arkanenn"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Arkanenn"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59CB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
