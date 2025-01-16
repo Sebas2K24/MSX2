@@ -25501,3 +25501,100 @@ java.lang.NullPointerException: Element not found: amount
 [16Jan2025 04:57:35.966] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:mars
 [16Jan2025 04:57:43.965] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in blue_skies:everbright
 [16Jan2025 04:57:53.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That position is not loaded
+[16Jan2025 04:58:14.965] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in deeperdarker:otherside
+[16Jan2025 04:58:15.965] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[16Jan2025 04:58:33.965] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:earth_orbit
+[16Jan2025 04:58:44.965] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:moon_orbit
+[16Jan2025 04:59:25.964] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[16Jan2025 04:59:52.814] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[16Jan2025 04:59:52.814] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[16Jan2025 05:00:02.814] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[16Jan2025 05:00:02.815] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[16Jan2025 05:00:02.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[16Jan2025 05:00:02.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[16Jan2025 05:00:02.831] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[16Jan2025 05:00:02.832] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[16Jan2025 05:00:02.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[16Jan2025 05:00:02.836] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[16Jan2025 05:00:02.839] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[16Jan2025 05:00:02.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 05:00:02.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 05:00:05.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 05:00:05.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...-17 25 239<--[HERE]
+[16Jan2025 05:00:56.964] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in undergarden:undergarden
+[16Jan2025 05:01:14.965] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[16Jan2025 05:02:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That position is not loaded
+[16Jan2025 05:03:13.014] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[16Jan2025 05:03:18.966] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:moon_orbit
+[16Jan2025 05:03:42.965] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:venus_orbit
+[16Jan2025 05:04:08.966] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:glacio
+[16Jan2025 05:04:19.966] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in blue_skies:everdawn
+[16Jan2025 05:04:28.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
+[16Jan2025 05:04:28.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...4 -17 239 air<--[HERE]
+[16Jan2025 05:04:42.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incomplete (expected 3 coordinates)
+[16Jan2025 05:04:42.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...2 224 -17 239<--[HERE]
+[16Jan2025 05:04:51.964] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[16Jan2025 05:04:54.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 05:04:54.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... -17 0 239<--[HERE]
+[16Jan2025 05:05:02.815] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[16Jan2025 05:05:02.816] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[16Jan2025 05:05:02.816] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[16Jan2025 05:05:02.830] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[16Jan2025 05:05:02.830] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[16Jan2025 05:05:02.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[16Jan2025 05:05:02.834] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[16Jan2025 05:05:02.836] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[16Jan2025 05:05:02.840] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[16Jan2025 05:05:02.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 05:05:02.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 05:05:09.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 05:05:09.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...-17 15 239<--[HERE]
+[16Jan2025 05:05:13.966] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in deeperdarker:otherside
+[16Jan2025 05:05:19.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 05:05:19.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...-15 15 239<--[HERE]
+[16Jan2025 05:05:53.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That position is not loaded
+[16Jan2025 05:06:11.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
+[16Jan2025 05:06:11.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...l -23 225 air<--[HERE]
+[16Jan2025 05:06:16.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
+[16Jan2025 05:06:16.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...-23 0 225 air<--[HERE]
+[16Jan2025 05:06:24.966] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in blue_skies:everbright
+[16Jan2025 05:06:32.964] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[16Jan2025 05:06:53.837] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing shared.network.pipeline.LegacyQueryHandlerMixin from krypton.mixins.json into net.minecraft.server.network.LegacyQueryHandler
+[16Jan2025 05:06:53.837] [Netty Epoll Server IO #1/DEBUG] [mixin/]: krypton.mixins.json:shared.network.pipeline.LegacyQueryHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16Jan2025 05:06:53.840] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing shared.network.pipeline.SplitterHandlerMixin from krypton.mixins.json into net.minecraft.network.Varint21FrameDecoder
+[16Jan2025 05:06:53.840] [Netty Epoll Server IO #1/DEBUG] [mixin/]: krypton.mixins.json:shared.network.pipeline.SplitterHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16Jan2025 05:06:53.844] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/network/VarintByteDecoder$DecodeResult
+[16Jan2025 05:06:53.845] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing PacketDecoderMixin from connectivity.mixins.json into net.minecraft.network.PacketDecoder
+[16Jan2025 05:06:53.851] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing PacketEncoderMixin from connectivity.mixins.json into net.minecraft.network.PacketEncoder
+[16Jan2025 05:06:53.851] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing networkstats.NettyPacketEncoderMixin from connectivity.mixins.json into net.minecraft.network.PacketEncoder
+[16Jan2025 05:06:53.856] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ConnectionProtocol
+[16Jan2025 05:06:53.861] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing ConnectionProtocolMixin from connectivity.mixins.json into net.minecraft.network.ConnectionProtocol$PacketSet
+[16Jan2025 05:06:53.861] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$onAdd$1(Ljava/lang/Class;Lnet/minecraft/network/FriendlyByteBuf;)Lnet/minecraft/network/protocol/Packet; to md50655b$lambda$onAdd$1$0 in connectivity.mixins.json:ConnectionProtocolMixin
+[16Jan2025 05:06:53.861] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$onAdd$0(Ljava/lang/Class;Lnet/minecraft/network/FriendlyByteBuf;)Lnet/minecraft/network/protocol/Packet; to md50655b$lambda$onAdd$0$1 in connectivity.mixins.json:ConnectionProtocolMixin
+[16Jan2025 05:06:53.882] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundCustomChatCompletionsPacket$Action
+[16Jan2025 05:06:53.893] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing ClientboundMapItemDataPacketMixin from create.mixins.json into net.minecraft.network.protocol.game.ClientboundMapItemDataPacket
+[16Jan2025 05:06:53.894] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing MapItemDataPacketMixin from moonlight-common.mixins.json into net.minecraft.network.protocol.game.ClientboundMapItemDataPacket
+[16Jan2025 05:06:53.894] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$moonlight$sendCustomDecorations$1(I)[Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration; to md50655b$lambda$moonlight$sendCustomDecorations$1$0 in moonlight-common.mixins.json:MapItemDataPacketMixin
+[16Jan2025 05:06:53.894] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$moonlight$sendCustomDecorations$0(Lnet/minecraft/network/FriendlyByteBuf;Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration;)Lnet/mehvahdjukaar/moonlight/api/map/CustomMapDecoration; to md50655b$lambda$moonlight$sendCustomDecorations$0$1 in moonlight-common.mixins.json:MapItemDataPacketMixin
+[16Jan2025 05:06:53.911] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundRecipePacket$State
+[16Jan2025 05:06:53.925] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/ServerScoreboard$Method
+[16Jan2025 05:06:53.937] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[16Jan2025 05:06:53.939] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[16Jan2025 05:06:53.940] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[16Jan2025 05:06:53.942] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundClientCommandPacket$Action
+[16Jan2025 05:06:53.944] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickType
+[16Jan2025 05:06:53.947] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundInteractPacket$ActionType
+[16Jan2025 05:06:53.954] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerActionPacket$Action
+[16Jan2025 05:06:53.955] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action
+[16Jan2025 05:06:53.958] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundResourcePackPacket$Action
+[16Jan2025 05:06:53.959] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
+[16Jan2025 05:06:53.962] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+[16Jan2025 05:06:53.965] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[16Jan2025 05:06:53.967] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:moon
+[16Jan2025 05:06:54.849] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[16Jan2025 05:06:54.849] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[16Jan2025 05:06:54.850] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[16Jan2025 05:06:54.850] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
+[16Jan2025 05:07:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
+[16Jan2025 05:07:04.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...23 50 225 air<--[HERE]
+[16Jan2025 05:07:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That position is not loaded

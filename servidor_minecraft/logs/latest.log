@@ -5733,3 +5733,41 @@ java.lang.NullPointerException: Element not found: amount
 [16Jan2025 04:55:39.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [16Jan2025 04:55:39.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...-17 25 239<--[HERE]
 [16Jan2025 04:57:53.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That position is not loaded
+[16Jan2025 05:00:05.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 05:00:05.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...-17 25 239<--[HERE]
+[16Jan2025 05:02:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That position is not loaded
+[16Jan2025 05:04:28.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
+[16Jan2025 05:04:28.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...4 -17 239 air<--[HERE]
+[16Jan2025 05:04:42.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incomplete (expected 3 coordinates)
+[16Jan2025 05:04:42.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...2 224 -17 239<--[HERE]
+[16Jan2025 05:04:54.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 05:04:54.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... -17 0 239<--[HERE]
+[16Jan2025 05:05:09.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 05:05:09.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...-17 15 239<--[HERE]
+[16Jan2025 05:05:19.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 05:05:19.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...-15 15 239<--[HERE]
+[16Jan2025 05:05:53.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That position is not loaded
+[16Jan2025 05:06:11.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
+[16Jan2025 05:06:11.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...l -23 225 air<--[HERE]
+[16Jan2025 05:06:16.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
+[16Jan2025 05:06:16.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...-23 0 225 air<--[HERE]
+[16Jan2025 05:06:53.844] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/network/VarintByteDecoder$DecodeResult
+[16Jan2025 05:06:53.856] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ConnectionProtocol
+[16Jan2025 05:06:53.882] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundCustomChatCompletionsPacket$Action
+[16Jan2025 05:06:53.911] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundRecipePacket$State
+[16Jan2025 05:06:53.925] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/ServerScoreboard$Method
+[16Jan2025 05:06:53.937] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[16Jan2025 05:06:53.939] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[16Jan2025 05:06:53.940] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[16Jan2025 05:06:53.942] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundClientCommandPacket$Action
+[16Jan2025 05:06:53.944] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickType
+[16Jan2025 05:06:53.947] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundInteractPacket$ActionType
+[16Jan2025 05:06:53.954] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerActionPacket$Action
+[16Jan2025 05:06:53.955] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action
+[16Jan2025 05:06:53.958] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundResourcePackPacket$Action
+[16Jan2025 05:06:53.959] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
+[16Jan2025 05:06:53.962] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+[16Jan2025 05:06:53.965] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[16Jan2025 05:07:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
+[16Jan2025 05:07:04.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...23 50 225 air<--[HERE]
+[16Jan2025 05:07:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That position is not loaded
