@@ -1007,6 +1007,7 @@
       "lavender_forest": "2025-01-03 03:36:13 +0000",
       "moor": "2024-12-30 00:55:55 +0000",
       "coniferous_forest": "2024-12-20 02:10:21 +0000",
+      "spider_nest": "2025-01-16 04:19:32 +0000",
       "visceral_heap": "2025-01-02 03:28:23 +0000",
       "seasonal_orchard": "2025-01-03 03:36:24 +0000",
       "dune_beach": "2024-12-21 04:04:50 +0000",
@@ -4985,10 +4986,12 @@
       "minecraft:river": "2024-12-21 04:01:01 +0000",
       "minecraft:stony_shore": "2025-01-07 03:30:00 +0000",
       "minecraft:dripstone_caves": "2025-01-09 03:32:27 +0000",
+      "minecraft:swamp": "2025-01-16 04:30:56 +0000",
       "minecraft:cold_ocean": "2024-12-21 03:31:33 +0000",
       "minecraft:forest": "2025-01-03 04:21:52 +0000",
       "minecraft:desert": "2025-01-07 03:49:45 +0000",
       "minecraft:ocean": "2025-01-03 04:24:52 +0000",
+      "minecraft:windswept_savanna": "2025-01-16 04:29:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 04:31:26 +0000",
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
     },
@@ -17433,15 +17436,93 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/enter_swamp": {
+    "criteria": {
+      "enter_swamp2": "2025-01-16 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/building_blocks/bamboo_torch": {
+    "criteria": {
+      "has_bamboo": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2025-01-16 04:29:42 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:loot_vase_broken": {
     "criteria": {
       "criteria": "2025-01-16 04:13:08 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/building_blocks/cinderella_green_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2025-01-16 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-01-16 04:24:18 +0000"
     },
     "done": true
   },
@@ -17456,6 +17537,36 @@
       "has_artifact_shards": "2025-01-16 04:12:47 +0000"
     },
     "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/misc/dry_bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-01-16 04:29:42 +0000"
+    },
+    "done": false
   },
   "betterarcheology:recipes/misc/archeology_table": {
     "criteria": {
@@ -17481,15 +17592,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/bricks": {
     "criteria": {
       "has_wood": "2025-01-16 04:12:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-01-16 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-01-16 04:19:34 +0000"
     },
     "done": true
   },
@@ -17505,9 +17640,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-01-16 03:30:38 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "green": "2025-01-16 04:28:00 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "justaraftmod:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "has_log": "2025-01-16 04:24:18 +0000"
     },
     "done": true
   },
@@ -17517,9 +17682,45 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/building_blocks/bamboo_ladder": {
+    "criteria": {
+      "has_bamboo": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
     },
     "done": true
   },
@@ -17529,9 +17730,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-16 04:24:18 +0000"
     },
     "done": true
   },
