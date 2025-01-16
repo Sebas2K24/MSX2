@@ -12357,18 +12357,15 @@
     },
     "done": true
   },
-  "jcraft:obtain_jotaro_outfit": {
+  "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
-      "has_jotaro_pants": "2025-01-12 04:54:47 +0000",
-      "has_jotaro_cap": "2025-01-12 04:54:45 +0000",
-      "has_jotaro_boots": "2025-01-12 04:54:54 +0000",
-      "has_jotaro_jacket": "2025-01-12 04:54:46 +0000"
+      "has_cooked_chicken": "2025-01-12 02:57:48 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/bacon_sandwich": {
+  "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
-      "has_bacon": "2025-01-12 03:09:15 +0000"
+      "has_cooked_chicken": "2025-01-12 02:57:48 +0000"
     },
     "done": true
   },
@@ -12378,33 +12375,9 @@
     },
     "done": true
   },
-  "celestisynth:obtain_solaris": {
-    "criteria": {
-      "criteria": "2025-01-12 03:40:16 +0000"
-    },
-    "done": true
-  },
   "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
     "criteria": {
       "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/squid": {
-    "criteria": {
-      "has_ink_sac": "2025-01-12 05:22:48 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:root": {
-    "criteria": {
-      "obtained_core": "2025-01-12 03:32:15 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/quanta0": {
-    "criteria": {
-      "enchanted_item": "2025-01-12 04:22:52 +0000"
     },
     "done": true
   },
@@ -12414,27 +12387,69 @@
     },
     "done": true
   },
-  "celestisynth:recipes/misc/celestial_core_dupe": {
-    "criteria": {
-      "has_item": "2025-01-12 03:32:58 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-01-12 05:25:04 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-01-12 03:07:22 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roast_chicken_block": {
+  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
     "criteria": {
-      "has_cooked_chicken": "2025-01-12 02:57:48 +0000"
+      "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-01-12 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-01-12 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:root": {
+    "criteria": {
+      "obtained_core": "2025-01-12 03:32:15 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_smelting": {
+    "criteria": {
+      "has_item": "2025-01-12 03:32:15 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_blasting": {
+    "criteria": {
+      "has_item": "2025-01-12 03:32:15 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_dupe": {
+    "criteria": {
+      "has_item": "2025-01-12 03:32:58 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_solaris": {
+    "criteria": {
+      "criteria": "2025-01-12 03:40:16 +0000"
     },
     "done": true
   },
@@ -12444,9 +12459,30 @@
     },
     "done": true
   },
-  "celestisynth:recipes/misc/celestial_core_smelting": {
+  "apotheosis:enchanting/quanta0": {
     "criteria": {
-      "has_item": "2025-01-12 03:32:15 +0000"
+      "enchanted_item": "2025-01-12 04:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-12 04:22:52 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_jotaro_outfit": {
+    "criteria": {
+      "has_jotaro_pants": "2025-01-12 04:54:47 +0000",
+      "has_jotaro_cap": "2025-01-12 04:54:45 +0000",
+      "has_jotaro_boots": "2025-01-12 04:54:54 +0000",
+      "has_jotaro_jacket": "2025-01-12 04:54:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-01-12 05:22:48 +0000"
     },
     "done": true
   },
@@ -12462,45 +12498,15 @@
     },
     "done": true
   },
-  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
+  "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
-      "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
+      "all_effects": "2025-01-12 05:25:04 +0000"
     },
     "done": true
   },
-  "celestisynth:recipes/misc/celestial_core_blasting": {
+  "jcraft:find_stone_mask": {
     "criteria": {
-      "has_item": "2025-01-12 03:32:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-01-12 04:22:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-01-12 03:07:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/chicken_sandwich": {
-    "criteria": {
-      "has_cooked_chicken": "2025-01-12 02:57:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bacon_and_eggs": {
-    "criteria": {
-      "has_bacon": "2025-01-12 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-01-12 03:07:22 +0000"
+      "has_mask": "2025-01-12 05:33:22 +0000"
     },
     "done": true
   },
