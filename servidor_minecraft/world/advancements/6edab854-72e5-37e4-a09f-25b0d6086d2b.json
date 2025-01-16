@@ -1007,6 +1007,7 @@
       "volcanic_plains": "2025-01-03 05:23:03 +0000",
       "lavender_field": "2025-01-03 03:29:24 +0000",
       "fir_clearing": "2024-12-28 03:27:35 +0000",
+      "grassland": "2025-01-16 03:37:37 +0000",
       "undergrowth": "2025-01-09 04:32:55 +0000",
       "rainforest": "2025-01-03 05:23:47 +0000",
       "ominous_woods": "2025-01-03 04:23:03 +0000"
@@ -12507,6 +12508,12 @@
   "jcraft:find_stone_mask": {
     "criteria": {
       "has_mask": "2025-01-12 05:33:22 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/bomb": {
+    "criteria": {
+      "has_item": "2025-01-16 03:35:25 +0000"
     },
     "done": true
   },
