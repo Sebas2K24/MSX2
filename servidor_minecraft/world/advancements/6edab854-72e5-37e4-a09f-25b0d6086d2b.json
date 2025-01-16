@@ -12519,6 +12519,12 @@
     },
     "done": true
   },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-01-16 04:12:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-01-16 03:51:45 +0000"

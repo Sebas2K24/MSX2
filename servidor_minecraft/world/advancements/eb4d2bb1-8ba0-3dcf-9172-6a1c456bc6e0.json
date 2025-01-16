@@ -17433,6 +17433,12 @@
     },
     "done": true
   },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-01-16 04:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2025-01-16 03:33:41 +0000"
@@ -17445,9 +17451,39 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/misc/unidentified_artifact": {
+    "criteria": {
+      "has_artifact_shards": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/archeology_table": {
+    "criteria": {
+      "has_artifact_shards": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2025-01-16 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_wood": "2025-01-16 04:12:47 +0000"
     },
     "done": true
   },
@@ -17457,9 +17493,45 @@
     },
     "done": true
   },
+  "adorn:recipes/brick_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_brick": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-01-16 03:30:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:artifact_shards": {
+    "criteria": {
+      "has_shards": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-16 04:12:47 +0000"
     },
     "done": true
   },
