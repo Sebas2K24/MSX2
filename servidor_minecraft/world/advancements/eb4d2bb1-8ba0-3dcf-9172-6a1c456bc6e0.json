@@ -4980,6 +4980,7 @@
     "criteria": {
       "minecraft:eroded_badlands": "2025-01-09 03:27:11 +0000",
       "minecraft:frozen_river": "2024-12-21 05:29:32 +0000",
+      "minecraft:windswept_hills": "2025-01-16 04:38:49 +0000",
       "minecraft:badlands": "2025-01-09 03:27:04 +0000",
       "minecraft:beach": "2024-12-21 03:31:26 +0000",
       "minecraft:sparse_jungle": "2025-01-03 04:33:10 +0000",
@@ -17430,21 +17431,123 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 03:30:38 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/polished_granite_post": {
     "criteria": {
       "has_polished_granite": "2025-01-16 03:33:41 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
-      "has_logs": "2025-01-16 04:24:18 +0000"
+      "has_polished_granite": "2025-01-16 03:33:41 +0000"
     },
     "done": true
   },
-  "biomemakeover:biomemakeover/enter_swamp": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
-      "enter_swamp2": "2025-01-16 04:30:56 +0000"
+      "has_polished_granite": "2025-01-16 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-01-16 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-01-16 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/unidentified_artifact": {
+    "criteria": {
+      "has_artifact_shards": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/archeology_table": {
+    "criteria": {
+      "has_artifact_shards": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_wood": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/brick_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_brick": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:artifact_shards": {
+    "criteria": {
+      "has_shards": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-16 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-01-16 04:13:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-01-16 04:19:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-16 04:24:18 +0000"
     },
     "done": true
   },
@@ -17463,18 +17566,6 @@
   "bambooeverything:recipes/building_blocks/bamboo_torch": {
     "criteria": {
       "has_bamboo": "2025-01-16 04:24:18 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:first_village": {
-    "criteria": {
-      "plains": "2025-01-16 04:29:42 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:loot_vase_broken": {
-    "criteria": {
-      "criteria": "2025-01-16 04:13:08 +0000"
     },
     "done": true
   },
@@ -17502,12 +17593,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab": {
-    "criteria": {
-      "has_polished_granite": "2025-01-16 03:33:41 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-16 04:24:18 +0000"
@@ -17523,18 +17608,6 @@
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2025-01-16 04:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-01-16 03:33:41 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/misc/unidentified_artifact": {
-    "criteria": {
-      "has_artifact_shards": "2025-01-16 04:12:47 +0000"
     },
     "done": true
   },
@@ -17562,45 +17635,9 @@
     },
     "done": true
   },
-  "morevillagers:all_villages": {
-    "criteria": {
-      "plains": "2025-01-16 04:29:42 +0000"
-    },
-    "done": false
-  },
-  "betterarcheology:recipes/misc/archeology_table": {
-    "criteria": {
-      "has_artifact_shards": "2025-01-16 04:12:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/skillet": {
-    "criteria": {
-      "has_brick": "2025-01-16 04:12:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-01-16 04:12:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs": {
-    "criteria": {
-      "has_polished_granite": "2025-01-16 03:33:41 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-16 04:24:18 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/bricks": {
-    "criteria": {
-      "has_wood": "2025-01-16 04:12:47 +0000"
     },
     "done": true
   },
@@ -17616,30 +17653,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2025-01-16 03:33:41 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_toxic_caves": {
-    "criteria": {
-      "discover": "2025-01-16 04:19:34 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/brick_chimney": {
-    "criteria": {
-      "has_key_item_0": "2025-01-16 04:12:47 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/planter_rich": {
-    "criteria": {
-      "has_brick": "2025-01-16 04:12:47 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-16 04:24:18 +0000"
@@ -17652,18 +17665,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/village_defender": {
-    "criteria": {
-      "coded_trigger": "2025-01-16 03:30:38 +0000"
-    },
-    "done": true
-  },
-  "quark:get_all_corundum": {
-    "criteria": {
-      "green": "2025-01-16 04:28:00 +0000"
-    },
-    "done": false
-  },
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-01-16 04:24:18 +0000"
@@ -17673,12 +17674,6 @@
   "justaraftmod:recipes/transportation/bamboo_raft": {
     "criteria": {
       "has_log": "2025-01-16 04:24:18 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oven": {
-    "criteria": {
-      "has_oven": "2025-01-16 04:12:47 +0000"
     },
     "done": true
   },
@@ -17706,12 +17701,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-01-16 04:12:47 +0000"
-    },
-    "done": true
-  },
   "chimes:recipes/decorations/bamboo_chimes": {
     "criteria": {
       "has_planks": "2025-01-16 04:24:18 +0000"
@@ -17724,21 +17713,9 @@
     },
     "done": true
   },
-  "betterarcheology:artifact_shards": {
-    "criteria": {
-      "has_shards": "2025-01-16 04:12:47 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-16 04:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-01-16 04:12:47 +0000"
     },
     "done": true
   },
@@ -17757,6 +17734,30 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-01-16 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "green": "2025-01-16 04:28:00 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2025-01-16 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-01-16 04:29:42 +0000"
+    },
+    "done": false
+  },
+  "biomemakeover:biomemakeover/enter_swamp": {
+    "criteria": {
+      "enter_swamp2": "2025-01-16 04:30:56 +0000"
     },
     "done": true
   },
