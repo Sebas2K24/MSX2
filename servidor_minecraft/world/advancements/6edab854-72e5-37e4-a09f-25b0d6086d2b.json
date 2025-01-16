@@ -1003,7 +1003,9 @@
       "visceral_heap": "2025-01-02 03:28:26 +0000",
       "seasonal_orchard": "2025-01-03 03:36:16 +0000",
       "seasonal_forest": "2025-01-03 03:24:00 +0000",
+      "volcano": "2025-01-16 04:06:18 +0000",
       "pasture": "2025-01-03 03:02:47 +0000",
+      "rocky_rainforest": "2025-01-16 04:06:02 +0000",
       "volcanic_plains": "2025-01-03 05:23:03 +0000",
       "lavender_field": "2025-01-03 03:29:24 +0000",
       "fir_clearing": "2024-12-28 03:27:35 +0000",
@@ -12784,6 +12786,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-01-16 03:51:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-16 04:04:33 +0000"
     },
     "done": true
   },
