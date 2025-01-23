@@ -18013,33 +18013,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+      "ferrous_wroughtnaut": "2025-01-23 04:06:36 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+  "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
     "criteria": {
-      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/freezing/packed_ice": {
-    "criteria": {
-      "has_result": "2025-01-23 05:09:48 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/cobbled_deepslate": {
-    "criteria": {
-      "has_wood": "2025-01-23 04:35:15 +0000"
+      "has_smooth_basalt": "2025-01-23 04:09:06 +0000"
     },
     "done": true
   },
@@ -18055,45 +18037,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-01-23 04:22:08 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-01-23 04:23:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
     },
     "done": true
   },
@@ -18103,111 +18049,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-01-23 04:22:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-01-23 04:26:03 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
-    "criteria": {
-      "has_netherrack": "2025-01-23 04:54:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-01-23 04:47:22 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-01-23 04:45:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/packed_ice_slab": {
-    "criteria": {
-      "has_packed_ice": "2025-01-23 05:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/cobbled_deepslate_post": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-01-23 05:09:48 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-01-23 04:23:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-01-23 04:47:22 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-01-23 04:23:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
     },
     "done": true
   },
@@ -18223,18 +18067,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/glass_slab": {
-    "criteria": {
-      "has_glass": "2025-01-23 05:09:50 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
@@ -18247,57 +18079,9 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
-    "criteria": {
-      "has_smooth_basalt": "2025-01-23 04:09:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-01-23 04:23:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-01-23 04:23:26 +0000"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/create_peat_farmland": {
-    "criteria": {
-      "create_peat": "2025-01-23 05:17:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
     },
     "done": true
   },
@@ -18307,9 +18091,69 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
-      "ferrous_wroughtnaut": "2025-01-23 04:06:36 +0000"
+      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/calcite_slab": {
+    "criteria": {
+      "has_calcite": "2025-01-23 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-01-23 04:09:10 +0000"
     },
     "done": true
   },
@@ -18319,27 +18163,147 @@
     },
     "done": true
   },
-  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "has_glow_goop": "2025-01-23 05:02:05 +0000"
+      "has_clay_ball": "2025-01-23 04:22:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+      "has_clay_ball": "2025-01-23 04:22:08 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-23 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-23 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-23 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-23 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-23 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2025-01-23 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-23 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-23 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/moss_block_slab": {
+    "criteria": {
+      "has_moss_block": "2025-01-23 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-23 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-01-23 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
     },
     "done": true
   },
@@ -18355,69 +18319,9 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/blue_ice_slab": {
-    "criteria": {
-      "has_blue_ice": "2025-01-23 05:16:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-01-23 04:47:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_ice_from_freezing": {
-    "criteria": {
-      "has_packed_ice": "2025-01-23 05:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
     },
     "done": true
   },
@@ -18427,33 +18331,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/deepslate": {
-    "criteria": {
-      "has_wood": "2025-01-23 04:35:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-01-23 04:32:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/controller_rail": {
-    "criteria": {
-      "has_item": "2025-01-23 04:47:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
     },
     "done": true
   },
@@ -18475,15 +18355,111 @@
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/surface_moss": {
+  "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
-      "has_moss_block": "2025-01-23 04:23:26 +0000"
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+  "mcwpaths:recipes/cobbled_deepslate": {
     "criteria": {
-      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
+      "has_wood": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cobbled_deepslate_post": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/deepslate": {
+    "criteria": {
+      "has_wood": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
     },
     "done": true
   },
@@ -18499,18 +18475,6 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/calcite_slab": {
-    "criteria": {
-      "has_calcite": "2025-01-23 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
@@ -18523,27 +18487,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-01-23 04:23:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-01-23 04:23:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-23 04:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-23 04:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-23 04:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-23 04:47:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-01-23 04:47:24 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2025-01-23 04:54:55 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2025-01-23 05:02:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-01-23 05:09:48 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/packed_ice_slab": {
+    "criteria": {
+      "has_packed_ice": "2025-01-23 05:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-01-23 05:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2025-01-23 05:09:48 +0000"
     },
     "done": true
   },
@@ -18553,39 +18571,21 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+  "new_slab_variants:recipes/building_blocks/glass_slab": {
     "criteria": {
-      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
+      "has_glass": "2025-01-23 05:09:50 +0000"
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/moss_block_slab": {
+  "new_slab_variants:recipes/building_blocks/blue_ice_slab": {
     "criteria": {
-      "has_moss_block": "2025-01-23 04:23:26 +0000"
+      "has_blue_ice": "2025-01-23 05:16:51 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+  "biomemakeover:biomemakeover/create_peat_farmland": {
     "criteria": {
-      "has_stone_types_calcite": "2025-01-23 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/calcite_corner_trim": {
-    "criteria": {
-      "has_calcite_corner_trim": "2025-01-23 04:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-01-23 04:23:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+      "create_peat": "2025-01-23 05:17:03 +0000"
     },
     "done": true
   },

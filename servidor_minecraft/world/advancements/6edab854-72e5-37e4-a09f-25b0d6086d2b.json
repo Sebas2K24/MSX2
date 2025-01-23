@@ -13045,6 +13045,12 @@
     },
     "done": true
   },
+  "celestisynth:obtain_frostbound": {
+    "criteria": {
+      "criteria": "2025-01-23 05:19:57 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
     "criteria": {
       "has_glow_goop": "2025-01-23 04:37:38 +0000"
