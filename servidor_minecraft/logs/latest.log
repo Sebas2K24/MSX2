@@ -5423,3 +5423,32 @@ java.lang.NullPointerException: Element not found: amount
 [23Jan2025 04:52:20.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
 [23Jan2025 04:52:20.915] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/29860, l='ServerLevel[world]', x=688.92, y=-23.00, z=173.69]
 [23Jan2025 04:52:20.916] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/30053, l='ServerLevel[world]', x=679.27, y=-51.00, z=-47.13]
+[23Jan2025 05:01:32.568] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[23Jan2025 05:05:10.717] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:snowy_beach took 2061 ms
+[23Jan2025 05:05:10.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[23Jan2025 05:05:32.666] [Worker-Main-62/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 05:05:32.666] [Worker-Main-62/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[23Jan2025 05:05:37.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 1538.500000, 63.000000, 244.500000]
+[23Jan2025 05:05:37.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10313ms or 206 ticks behind
+[23Jan2025 05:06:06.967] [Worker-Main-64/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 05:06:21.062] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1429, y=23, z=81}
+[23Jan2025 05:06:22.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[23Jan2025 05:06:23.378] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1385, y=-41, z=288}
+[23Jan2025 05:06:23.378] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1385, y=-41, z=287}
+[23Jan2025 05:06:23.758] [Worker-Main-62/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 05:06:23.758] [Worker-Main-62/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[23Jan2025 05:06:26.312] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1489, y=7, z=395}
+[23Jan2025 05:06:26.312] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1491, y=7, z=395}
+[23Jan2025 05:06:28.132] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[23Jan2025 05:06:33.054] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1390, y=-29, z=407}
+[23Jan2025 05:06:44.963] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 05:06:44.963] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[23Jan2025 05:06:44.963] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[23Jan2025 05:06:51.378] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[23Jan2025 05:06:51.381] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 05:06:51.381] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[23Jan2025 05:08:17.148] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1810, y=-3, z=287}
+[23Jan2025 05:08:31.240] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1824, y=-26, z=215}
+[23Jan2025 05:08:58.644] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34186, l='ServerLevel[world]', x=1466.50, y=79.00, z=194.50]
+[23Jan2025 05:09:14.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 224.500000, 100.500000, 191.500000]
+[23Jan2025 05:09:20.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]

@@ -4993,8 +4993,10 @@
       "minecraft:cold_ocean": "2024-12-21 03:31:33 +0000",
       "minecraft:forest": "2025-01-03 04:21:52 +0000",
       "minecraft:lush_caves": "2025-01-23 04:19:11 +0000",
+      "minecraft:frozen_ocean": "2025-01-23 05:06:38 +0000",
       "minecraft:desert": "2025-01-07 03:49:45 +0000",
       "minecraft:ocean": "2025-01-03 04:24:52 +0000",
+      "minecraft:snowy_beach": "2025-01-23 05:05:37 +0000",
       "minecraft:windswept_savanna": "2025-01-16 04:29:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 04:31:26 +0000",
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
@@ -18284,6 +18286,12 @@
   "new_slab_variants:recipes/building_blocks/amethyst_block_slab": {
     "criteria": {
       "has_amethyst_block": "2025-01-23 04:09:14 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2025-01-23 05:02:05 +0000"
     },
     "done": true
   },

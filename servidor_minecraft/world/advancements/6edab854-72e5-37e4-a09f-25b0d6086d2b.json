@@ -5382,6 +5382,7 @@
     "criteria": {
       "minecraft:taiga": "2025-01-23 03:33:21 +0000",
       "minecraft:eroded_badlands": "2025-01-09 03:27:16 +0000",
+      "minecraft:frozen_river": "2025-01-23 05:06:22 +0000",
       "minecraft:cherry_grove": "2025-01-23 03:20:16 +0000",
       "minecraft:badlands": "2025-01-09 03:27:08 +0000",
       "minecraft:beach": "2024-12-29 04:59:37 +0000",
@@ -5391,6 +5392,7 @@
       "minecraft:cold_ocean": "2024-12-29 04:10:38 +0000",
       "minecraft:forest": "2025-01-03 04:22:31 +0000",
       "minecraft:lush_caves": "2025-01-23 04:19:18 +0000",
+      "minecraft:frozen_ocean": "2025-01-23 05:06:45 +0000",
       "minecraft:desert": "2025-01-07 03:47:48 +0000",
       "minecraft:ocean": "2025-01-03 04:24:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 04:31:30 +0000",
@@ -12915,6 +12917,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-01-23 05:07:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-23 04:38:09 +0000"
@@ -12963,6 +12971,24 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/packed_ice_slab": {
+    "criteria": {
+      "has_packed_ice": "2025-01-23 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-23 05:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-01-23 05:07:09 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/deepslate_post": {
     "criteria": {
       "has_deepslate": "2025-01-23 04:38:09 +0000"
@@ -12978,6 +13004,12 @@
   "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-23 04:38:09 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/green_baby": {
+    "criteria": {
+      "has_totem": "2025-01-23 05:01:24 +0000"
     },
     "done": true
   },
@@ -13023,9 +13055,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2025-01-23 05:07:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-23 04:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-23 05:02:18 +0000"
     },
     "done": true
   },
@@ -13083,9 +13127,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_ingredient": "2025-01-23 05:07:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-23 04:38:09 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2025-01-23 05:02:16 +0000"
     },
     "done": true
   },
