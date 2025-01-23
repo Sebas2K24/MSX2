@@ -12908,6 +12908,12 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "violet": "2025-01-23 03:48:23 +0000"
+    },
+    "done": false
+  },
   "new_slab_variants:recipes/building_blocks/emerald_block_slab": {
     "criteria": {
       "has_emerald_block": "2025-01-23 03:04:16 +0000"

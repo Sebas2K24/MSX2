@@ -5234,3 +5234,24 @@ java.lang.NullPointerException: Element not found: amount
 [23Jan2025 03:49:00.937] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=475, y=6, z=-573}
 [23Jan2025 03:49:01.512] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/12838, l='ServerLevel[world]', x=819.73, y=77.00, z=-458.47]
 [23Jan2025 03:49:01.559] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/12896, l='ServerLevel[world]', x=822.21, y=82.00, z=-465.20]
+[23Jan2025 03:52:31.096] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14678, l='ServerLevel[world]', x=693.50, y=75.00, z=-393.50]
+[23Jan2025 03:54:13.297] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15962, l='ServerLevel[world]', x=681.50, y=77.00, z=-416.50]
+[23Jan2025 03:54:15.644] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15969, l='ServerLevel[world]', x=689.50, y=71.00, z=-400.50]
+[23Jan2025 03:55:16.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 503.500000, 33.500000, -185.500000]
+[23Jan2025 03:55:16.876] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/13574, l='ServerLevel[world]', x=577.55, y=32.00, z=-181.18]
+[23Jan2025 03:55:48.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[23Jan2025 03:55:48.319] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/16375, l='ServerLevel[world]', x=386.53, y=17.00, z=-147.24]
+[23Jan2025 03:55:54.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 503.500000, 33.500000, -185.500000]
+[23Jan2025 03:56:00.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[23Jan2025 03:56:00.160] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/16713, l='ServerLevel[world]', x=499.60, y=-28.00, z=-307.93]
+[23Jan2025 03:56:35.595] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16849, l='ServerLevel[world]', x=435.50, y=75.00, z=-257.50]
+[23Jan2025 03:57:06.197] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16910, l='ServerLevel[world]', x=482.50, y=78.00, z=-203.50]
+[23Jan2025 03:57:12.297] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16924, l='ServerLevel[world]', x=468.50, y=77.00, z=-195.50]
+[23Jan2025 03:58:30.728] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[23Jan2025 03:58:30.732] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[23Jan2025 03:58:45.596] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17317, l='ServerLevel[world]', x=428.50, y=74.00, z=-264.50]
+[23Jan2025 03:58:49.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[23Jan2025 03:58:49.396] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17325, l='ServerLevel[world]', x=471.50, y=72.00, z=-182.50]
+[23Jan2025 03:58:54.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 was damaged by Aarkanen repeatedly until death.
+[23Jan2025 03:58:54.591] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[23Jan2025 03:59:09.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
