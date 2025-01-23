@@ -12951,6 +12951,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-01-23 04:49:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-23 04:38:09 +0000"
