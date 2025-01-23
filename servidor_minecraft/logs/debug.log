@@ -25179,3 +25179,40 @@ java.lang.NullPointerException: Element not found: amount
 [23Jan2025 17:00:08.989] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
 [23Jan2025 17:00:08.989] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
 [23Jan2025 17:00:16.783] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:mars
+[23Jan2025 17:01:27.645] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@619c4c43 for service interface com.blamejared.clumps.platform.IEventHelper
+[23Jan2025 17:01:27.645] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@5ed1240f for service interface com.blamejared.clumps.platform.IPlatformHelper
+[23Jan2025 17:01:43.335] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.useful_backpacks.integration.curios.impl.CuriosBackpackSlotModUtil@5275ad91 for class class info.u_team.useful_backpacks.integration.slot_mod.util.BackpackSlotModUtil
+[23Jan2025 17:02:17.786] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in mining_dimension:mining
+[23Jan2025 17:02:48.517] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Jan2025 17:02:48.617] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Jan2025 17:02:52.744] [Worker-Main-9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-9 shutdown
+[23Jan2025 17:02:57.285] [Worker-Main-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-37
+[23Jan2025 17:03:06.344] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[23Jan2025 17:03:06.344] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[23Jan2025 17:03:06.628] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/3331, l='ServerLevel[world]', x=70.68, y=53.00, z=90.86]
+[23Jan2025 17:03:06.630] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/3331, l='ServerLevel[world]', x=70.68, y=53.00, z=90.86]
+[23Jan2025 17:03:08.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[23Jan2025 17:03:08.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[23Jan2025 17:03:08.232] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[23Jan2025 17:03:24.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 17:03:24.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 17:04:08.325] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[23Jan2025 17:05:08.325] [Worker-Main-28/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-28 shutdown
+[23Jan2025 17:05:08.325] [Worker-Main-37/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-37 shutdown
+[23Jan2025 17:05:10.768] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:glacio_orbit
+[23Jan2025 17:05:25.769] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in undergarden:undergarden
+[23Jan2025 17:06:07.770] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:venus_orbit
+[23Jan2025 17:06:23.866] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Jan2025 17:06:50.770] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:mars
+[23Jan2025 17:07:03.769] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in ad_astra:mercury_orbit
+[23Jan2025 17:07:10.770] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in mahoutsukai:reality_marble
+[23Jan2025 17:07:29.770] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:glacio
+[23Jan2025 17:07:45.769] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:glacio_orbit
+[23Jan2025 17:08:08.768] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:moon_orbit
+[23Jan2025 17:08:24.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 17:08:24.919] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[23Jan2025 17:08:24.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 17:09:24.769] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[23Jan2025 17:09:28.718] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Jan2025 17:09:46.768] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mining_dimension:mining
+[23Jan2025 17:10:28.769] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:mercury_orbit

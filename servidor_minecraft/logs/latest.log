@@ -4917,3 +4917,8 @@ java.lang.NullPointerException: Element not found: amount
 [23Jan2025 16:48:25.018] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
 [23Jan2025 16:53:52.327] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/1819, l='ServerLevel[world]', x=247.99, y=71.00, z=83.36]
 [23Jan2025 16:55:33.442] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/1819, l='ServerLevel[world]', x=247.99, y=71.00, z=83.36]
+[23Jan2025 17:03:06.628] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/3331, l='ServerLevel[world]', x=70.68, y=53.00, z=90.86]
+[23Jan2025 17:03:06.630] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/3331, l='ServerLevel[world]', x=70.68, y=53.00, z=90.86]
+[23Jan2025 17:03:08.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[23Jan2025 17:03:08.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[23Jan2025 17:03:08.232] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
