@@ -18031,6 +18031,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-01-23 05:09:48 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/cobbled_deepslate": {
     "criteria": {
       "has_wood": "2025-01-23 04:35:15 +0000"
@@ -18145,6 +18151,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/packed_ice_slab": {
+    "criteria": {
+      "has_packed_ice": "2025-01-23 05:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
@@ -18160,6 +18172,12 @@
   "adorn:recipes/cobbled_deepslate_post": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-01-23 05:09:48 +0000"
     },
     "done": true
   },
@@ -18208,6 +18226,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/glass_slab": {
+    "criteria": {
+      "has_glass": "2025-01-23 05:09:50 +0000"
     },
     "done": true
   },
@@ -18262,6 +18286,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-23 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/create_peat_farmland": {
+    "criteria": {
+      "create_peat": "2025-01-23 05:17:03 +0000"
     },
     "done": true
   },
@@ -18325,6 +18355,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/blue_ice_slab": {
+    "criteria": {
+      "has_blue_ice": "2025-01-23 05:16:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-01-23 04:47:22 +0000"
@@ -18334,6 +18370,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2025-01-23 05:09:48 +0000"
     },
     "done": true
   },
@@ -18502,6 +18544,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-23 04:35:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_ingredient": "2025-01-23 05:09:48 +0000"
     },
     "done": true
   },
