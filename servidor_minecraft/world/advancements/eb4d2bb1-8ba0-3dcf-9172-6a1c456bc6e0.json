@@ -17817,12 +17817,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-01-23 03:36:20 +0000"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/walnut_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-23 03:29:17 +0000"
@@ -17883,12 +17877,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-01-23 03:36:20 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-23 03:29:17 +0000"
@@ -17940,12 +17928,6 @@
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-23 03:29:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-01-23 03:36:20 +0000"
     },
     "done": true
   },
@@ -18006,6 +17988,24 @@
   "undergarden:recipes/transportation/wigglewood_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-23 03:29:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-23 03:36:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-23 03:36:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-23 03:36:20 +0000"
     },
     "done": true
   },

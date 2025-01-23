@@ -5181,3 +5181,56 @@ java.lang.NullPointerException: Element not found: amount
 [23Jan2025 03:38:49.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> oooh genial amor
 [23Jan2025 03:38:53.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor
 [23Jan2025 03:39:06.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> puedes picar aqui amor?
+[23Jan2025 03:39:53.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> creo que no hay nada amor
+[23Jan2025 03:39:59.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tambien lo creo amor
+[23Jan2025 03:40:03.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> sigamos buscando una mina
+[23Jan2025 03:40:11.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si ves una me dices
+[23Jan2025 03:40:14.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor
+[23Jan2025 03:40:20.564] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=655, y=-9, z=-511}
+[23Jan2025 03:40:20.565] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=657, y=-9, z=-511}
+[23Jan2025 03:40:24.704] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 03:40:24.705] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[23Jan2025 03:40:29.316] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/11311, l='ServerLevel[world]', x=727.99, y=16.00, z=-378.64]
+[23Jan2025 03:40:42.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> te puedo llamar amor?
+[23Jan2025 03:40:48.273] [Worker-Main-62/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 03:40:48.274] [Worker-Main-62/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[23Jan2025 03:40:49.176] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=386, y=-49, z=-369}
+[23Jan2025 03:40:53.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> si amor
+[23Jan2025 03:40:58.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> vale amor
+[23Jan2025 03:41:03.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> buscare los audifinos
+[23Jan2025 03:41:03.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> se esta quemando el arbol
+[23Jan2025 03:41:08.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaa si amor
+[23Jan2025 03:41:10.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> cubreme
+[23Jan2025 03:41:10.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> habia un stand del sol
+[23Jan2025 03:41:15.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> entiendo amor
+[23Jan2025 03:41:20.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor
+[23Jan2025 03:42:17.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajaajaja
+[23Jan2025 03:42:21.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajaa
+[23Jan2025 03:42:55.007] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/11311, l='ServerLevel[world]', x=727.99, y=16.00, z=-378.64]
+[23Jan2025 03:43:29.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Doctor Arun'/11707, l='ServerLevel[world]', x=617.40, y=76.00, z=-240.53] died: Doctor Arun was slain by Aarkanen
+[23Jan2025 03:44:06.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[23Jan2025 03:44:06.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[23Jan2025 03:44:06.965] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[23Jan2025 03:44:07.065] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Jan2025 03:44:28.197] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12663, l='ServerLevel[world]', x=473.50, y=78.00, z=-313.50]
+[23Jan2025 03:44:39.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebas2K24[/127.118.44.18:54951] logged in with entity id 12729 at (644.4262445014422, 76.0, -278.69999998807907)
+[23Jan2025 03:44:39.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebas2K24
+[23Jan2025 03:44:39.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebas2K24
+[23Jan2025 03:44:39.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebas2K24
+[23Jan2025 03:44:39.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebas2K24
+[23Jan2025 03:44:39.999] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebas2K24
+[23Jan2025 03:44:40.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebas2K24
+[23Jan2025 03:44:40.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebas2K24
+[23Jan2025 03:44:40.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
+[23Jan2025 03:44:40.188] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[23Jan2025 03:44:40.191] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[23Jan2025 03:44:40.192] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[23Jan2025 03:44:47.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12927, l='ServerLevel[world]', x=469.50, y=77.00, z=-194.50]
+[23Jan2025 03:45:03.297] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12995, l='ServerLevel[world]', x=458.50, y=78.00, z=-268.50]
+[23Jan2025 03:46:59.297] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13588, l='ServerLevel[world]', x=450.50, y=79.00, z=-316.50]
+[23Jan2025 03:48:42.549] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/13574, l='ServerLevel[world]', x=577.55, y=32.00, z=-181.18]
+[23Jan2025 03:48:59.888] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=601, y=-27, z=-569}
+[23Jan2025 03:49:00.936] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=475, y=6, z=-574}
+[23Jan2025 03:49:00.937] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=475, y=6, z=-573}
+[23Jan2025 03:49:01.512] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/12838, l='ServerLevel[world]', x=819.73, y=77.00, z=-458.47]
+[23Jan2025 03:49:01.559] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/12896, l='ServerLevel[world]', x=822.21, y=82.00, z=-465.20]
