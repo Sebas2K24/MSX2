@@ -5390,6 +5390,7 @@
       "minecraft:dripstone_caves": "2025-01-09 03:33:09 +0000",
       "minecraft:cold_ocean": "2024-12-29 04:10:38 +0000",
       "minecraft:forest": "2025-01-03 04:22:31 +0000",
+      "minecraft:lush_caves": "2025-01-23 04:19:18 +0000",
       "minecraft:desert": "2025-01-07 03:47:48 +0000",
       "minecraft:ocean": "2025-01-03 04:24:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 04:31:30 +0000",
@@ -12905,6 +12906,18 @@
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-01-16 04:18:15 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-01-23 04:07:33 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/amethyst_block_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-01-23 04:11:36 +0000"
     },
     "done": true
   },
