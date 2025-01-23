@@ -4962,3 +4962,120 @@ java.lang.NullPointerException: Element not found: amount
 [23Jan2025 03:07:52.968] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Profiler stopped & upload complete!
 [23Jan2025 03:07:52.971] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: https://spark.lucko.me/Vuk13gDu11
 [23Jan2025 03:07:52.974] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)
+[23Jan2025 03:08:29.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> amor?
+[23Jan2025 03:08:49.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> hiiiiiiiiiiiii mi amor lindo
+[23Jan2025 03:09:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> eeeeh no se amor, en un mar con arboles lndos
+[23Jan2025 03:09:13.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja voy amor
+[23Jan2025 03:09:18.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[23Jan2025 03:09:51.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Honeyed Archer'/2512, l='ServerLevel[world]', x=66.48, y=83.04, z=116.95] died: Honeyed Archer suffocated in a wall
+[23Jan2025 03:10:08.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> holaaa
+[23Jan2025 03:10:13.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> hiiii mi amor
+[23Jan2025 03:10:35.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> vamos a casa
+[23Jan2025 03:11:10.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> vamos amor pero no estamos lejos?
+[23Jan2025 03:11:14.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajjaaja sip
+[23Jan2025 03:11:20.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> pero yo te teletransporto
+[23Jan2025 03:11:22.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> me veo como steve amor
+[23Jan2025 03:11:25.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor
+[23Jan2025 03:11:48.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajajjaja se me olvido el mod para que se te viera la skin amor
+[23Jan2025 03:11:50.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> disculpa
+[23Jan2025 03:11:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> mañana te lo pongo
+[23Jan2025 03:12:07.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajaj esta bien mi amor, no pasa nada
+[23Jan2025 03:12:08.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> y se me olvido guardar el mapa al actualizar jajajaja
+[23Jan2025 03:12:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> viste que los arboles son lindos amor?
+[23Jan2025 03:12:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> pero dame un segundo para recuperar el mapa amor
+[23Jan2025 03:12:22.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> salgo y entro
+[23Jan2025 03:12:23.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> puedes guardar este punto?
+[23Jan2025 03:12:28.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> claro amor
+[23Jan2025 03:12:39.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor, tranquilo
+[23Jan2025 03:12:45.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> quedate aqui, salgo y entro
+[23Jan2025 03:12:47.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias amor
+[23Jan2025 03:12:49.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[23Jan2025 03:12:49.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[23Jan2025 03:12:49.553] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[23Jan2025 03:12:50.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> va amor
+[23Jan2025 03:14:20.028] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [1, 173], discarding
+[23Jan2025 03:16:38.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebas2K24[/127.118.44.18:59543] logged in with entity id 4321 at (44.651472278066386, 70.0, 2368.4891354522415)
+[23Jan2025 03:16:38.345] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebas2K24
+[23Jan2025 03:16:38.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebas2K24
+[23Jan2025 03:16:38.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebas2K24
+[23Jan2025 03:16:38.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebas2K24
+[23Jan2025 03:16:38.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebas2K24
+[23Jan2025 03:16:38.351] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebas2K24
+[23Jan2025 03:16:38.351] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebas2K24
+[23Jan2025 03:16:38.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
+[23Jan2025 03:16:38.533] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[23Jan2025 03:16:38.536] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[23Jan2025 03:16:38.537] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[23Jan2025 03:17:42.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> hiiiii mi amor
+[23Jan2025 03:18:18.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> holaaa amor
+[23Jan2025 03:18:34.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajaja da risa porque te ves como steve
+[23Jan2025 03:18:40.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tu me ves con skin amor?
+[23Jan2025 03:18:47.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajaja
+[23Jan2025 03:19:03.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> nope, te ves como la skin de la chica oscura amor
+[23Jan2025 03:19:12.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajajja noooooo, soy negra
+[23Jan2025 03:19:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja
+[23Jan2025 03:19:19.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> mañana hare que me veas bien
+[23Jan2025 03:19:35.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajaja bueno amor
+[23Jan2025 03:19:46.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ooooh y ese quien es amor?
+[23Jan2025 03:19:56.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> quien amor?
+[23Jan2025 03:19:59.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> el stand
+[23Jan2025 03:20:04.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ahhh
+[23Jan2025 03:20:08.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> est
+[23Jan2025 03:20:16.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> dice c moon
+[23Jan2025 03:20:18.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ajajajajaj
+[23Jan2025 03:20:21.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[23Jan2025 03:20:23.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajaja amor
+[23Jan2025 03:20:52.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> vamos a la casa amor?
+[23Jan2025 03:20:55.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> sip
+[23Jan2025 03:20:58.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> waos
+[23Jan2025 03:21:03.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ya marcaste amor?
+[23Jan2025 03:21:06.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> el punto
+[23Jan2025 03:21:10.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> pasa que como perdi los marcadores es mas dificil ajajjaja
+[23Jan2025 03:21:12.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor
+[23Jan2025 03:21:37.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 224.500000, 100.500000, 191.500000]
+[23Jan2025 03:21:44.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[23Jan2025 03:21:47.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> aaah entiendo amor, muchas gracias por hacerlo amor
+[23Jan2025 03:21:47.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> listo
+[23Jan2025 03:21:53.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja de nada amor
+[23Jan2025 03:21:56.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> amoooooooooooor
+[23Jan2025 03:21:59.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajajaja
+[23Jan2025 03:22:03.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[23Jan2025 03:22:03.722] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/5253, l='ServerLevel[world]', x=-53.50, y=47.00, z=2376.59]
+[23Jan2025 03:22:04.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> me la debias amor
+[23Jan2025 03:22:06.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> boba
+[23Jan2025 03:22:13.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajajaja
+[23Jan2025 03:22:34.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> y ese stand c moon en que volumen sale amor?
+[23Jan2025 03:22:57.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> en stone ocean amor
+[23Jan2025 03:22:59.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no recuerdas?
+[23Jan2025 03:23:26.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> quien era el prota de esa temporada amor? giorno?
+[23Jan2025 03:23:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> la hija de jotaro?
+[23Jan2025 03:24:02.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jolyne?
+[23Jan2025 03:24:04.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajja si amor
+[23Jan2025 03:24:11.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> de jolyne?
+[23Jan2025 03:24:14.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor
+[23Jan2025 03:24:43.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> si? no recuerdo quien era el dueño amor, aaaaah esperate,no es el pucci?
+[23Jan2025 03:24:56.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajaja si amor
+[23Jan2025 03:25:05.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> pero no es requiem no
+[23Jan2025 03:25:27.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ?
+[23Jan2025 03:25:53.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no amor
+[23Jan2025 03:25:55.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> es normal
+[23Jan2025 03:26:02.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> comprendo amor
+[23Jan2025 03:26:28.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> buscamos una mina amor?
+[23Jan2025 03:26:32.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiiiiiiiiii
+[23Jan2025 03:26:37.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja vale amor, durmamos
+[23Jan2025 03:26:38.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> la del desierto amor?
+[23Jan2025 03:26:57.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> cual desierto?
+[23Jan2025 03:27:11.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> la dela torre del desierto que encontramos amor
+[23Jan2025 03:27:16.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que es como esta
+[23Jan2025 03:27:20.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ahhh no amor, esas son muy largas
+[23Jan2025 03:27:23.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> luego la hacemois
+[23Jan2025 03:27:27.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajaja bueno amor
+[23Jan2025 03:27:30.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> busquemos una "natural"
+[23Jan2025 03:28:10.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> sera que vamos a la isla de enfrente?
+[23Jan2025 03:28:27.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> oh vende cascaras de bananas amor
+[23Jan2025 03:28:33.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> vamos entonces amor
+[23Jan2025 03:28:37.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja que raro
+[23Jan2025 03:28:39.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> vale amor
+[23Jan2025 03:28:40.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> sip
+[23Jan2025 03:28:44.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> hare un barquito
+[23Jan2025 03:28:49.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajaja esta bien amor
