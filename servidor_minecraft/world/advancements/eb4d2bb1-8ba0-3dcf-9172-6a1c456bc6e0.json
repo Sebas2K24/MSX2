@@ -18010,5 +18010,11 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-01-23 04:06:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
