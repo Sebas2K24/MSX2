@@ -997,6 +997,7 @@
       "old_growth_woodland": "2025-01-07 03:24:34 +0000",
       "crystalline_chasm": "2025-01-02 04:30:39 +0000",
       "withered_abyss": "2025-01-02 03:29:36 +0000",
+      "field": "2025-01-23 03:34:07 +0000",
       "lavender_forest": "2025-01-03 03:36:11 +0000",
       "moor": "2024-12-31 04:50:11 +0000",
       "mediterranean_forest": "2025-01-23 03:13:54 +0000",
@@ -5379,6 +5380,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-23 03:33:21 +0000",
       "minecraft:eroded_badlands": "2025-01-09 03:27:16 +0000",
       "minecraft:cherry_grove": "2025-01-23 03:20:16 +0000",
       "minecraft:badlands": "2025-01-09 03:27:08 +0000",

@@ -5079,3 +5079,105 @@ java.lang.NullPointerException: Element not found: amount
 [23Jan2025 03:28:40.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> sip
 [23Jan2025 03:28:44.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> hare un barquito
 [23Jan2025 03:28:49.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajaja esta bien amor
+[23Jan2025 03:29:16.758] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/5945, l='ServerLevel[world]', x=103.55, y=18.00, z=196.18]
+[23Jan2025 03:29:19.501] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/5918, l='ServerLevel[world]', x=165.06, y=54.00, z=65.67]
+[23Jan2025 03:29:24.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ven amor
+[23Jan2025 03:29:29.820] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 03:29:29.821] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[23Jan2025 03:29:29.821] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[23Jan2025 03:29:36.963] [Worker-Main-62/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 03:29:42.650] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 03:29:42.651] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[23Jan2025 03:29:42.651] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[23Jan2025 03:29:42.651] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[23Jan2025 03:29:46.983] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:minecraft_empty
+[23Jan2025 03:29:47.010] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:minecraft_empty
+[23Jan2025 03:30:06.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> vamooooooooooooooooos
+[23Jan2025 03:30:10.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajjaja
+[23Jan2025 03:30:18.826] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=621, y=-30, z=30}
+[23Jan2025 03:30:18.827] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=621, y=-30, z=31}
+[23Jan2025 03:30:25.067] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=621, y=3, z=-175}
+[23Jan2025 03:30:26.538] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=643, y=20, z=33}
+[23Jan2025 03:30:29.093] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 03:30:29.093] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[23Jan2025 03:30:29.094] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[23Jan2025 03:30:31.362] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=494, y=-25, z=-193}
+[23Jan2025 03:30:31.788] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=608, y=32, z=-185}
+[23Jan2025 03:30:33.867] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=696, y=21, z=167}
+[23Jan2025 03:30:34.882] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=713, y=31, z=-73}
+[23Jan2025 03:30:38.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> literalmente es una isla jajaja
+[23Jan2025 03:30:38.131] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=728, y=36, z=-170}
+[23Jan2025 03:30:43.637] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/7124, l='ServerLevel[world]', x=456.49, y=-27.00, z=11.62]
+[23Jan2025 03:30:46.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajaja
+[23Jan2025 03:30:50.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> alla hay tierra
+[23Jan2025 03:30:56.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> voy a ver este barco
+[23Jan2025 03:31:01.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> genial amor
+[23Jan2025 03:31:16.565] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=791, y=-3, z=-40}
+[23Jan2025 03:31:24.694] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7306, l='ServerLevel[world]', x=487.50, y=74.00, z=-36.50]
+[23Jan2025 03:31:44.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7353, l='ServerLevel[world]', x=483.50, y=77.00, z=-66.50]
+[23Jan2025 03:31:46.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> vamos a enfrente amor
+[23Jan2025 03:31:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> mira amor
+[23Jan2025 03:31:52.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajaja
+[23Jan2025 03:31:54.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> voy pero ven
+[23Jan2025 03:31:56.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> voy amor
+[23Jan2025 03:32:11.294] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7567, l='ServerLevel[world]', x=524.50, y=78.00, z=-37.50]
+[23Jan2025 03:32:17.193] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7578, l='ServerLevel[world]', x=503.50, y=70.00, z=2.50]
+[23Jan2025 03:32:27.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no hay na
+[23Jan2025 03:32:37.193] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7613, l='ServerLevel[world]', x=578.50, y=70.00, z=4.50]
+[23Jan2025 03:32:47.324] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=804, y=-4, z=-17}
+[23Jan2025 03:32:48.991] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=821, y=0, z=5}
+[23Jan2025 03:32:48.991] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=822, y=0, z=5}
+[23Jan2025 03:32:52.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajaja si amor
+[23Jan2025 03:32:55.419] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[23Jan2025 03:32:55.420] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[23Jan2025 03:32:55.420] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[23Jan2025 03:32:58.334] [Worker-Main-62/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 03:32:58.334] [Worker-Main-62/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[23Jan2025 03:32:59.725] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=882, y=-15, z=108}
+[23Jan2025 03:33:13.208] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 03:33:13.208] [Worker-Main-57/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[23Jan2025 03:33:18.356] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/8425, l='ServerLevel[world]', x=708.54, y=1.00, z=125.20]
+[23Jan2025 03:33:21.760] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/8536, l='ServerLevel[world]', x=620.78, y=18.00, z=36.54]
+[23Jan2025 03:33:21.930] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=748, y=-39, z=-215}
+[23Jan2025 03:33:42.660] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains]] from pos BlockPos{x=693, y=69, z=-197}
+[23Jan2025 03:33:44.970] [Worker-Main-64/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23Jan2025 03:33:45.019] [Worker-Main-64/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[23Jan2025 03:33:45.020] [Worker-Main-64/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[23Jan2025 03:33:49.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7014ms or 140 ticks behind
+[23Jan2025 03:33:57.994] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[23Jan2025 03:33:58.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiiiiiiiiiiii lo logreeeeeeeeeeeeeeeeeee
+[23Jan2025 03:33:59.062] [Worker-Main-64/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[23Jan2025 03:33:59.069] [Worker-Main-64/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23Jan2025 03:33:59.069] [Worker-Main-64/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[23Jan2025 03:34:07.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que amor?
+[23Jan2025 03:34:18.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> cazadores amor
+[23Jan2025 03:34:22.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> el salto pos amor
+[23Jan2025 03:34:24.411] [Worker-Main-57/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/plains
+[23Jan2025 03:34:25.380] [Worker-Main-57/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/plains
+[23Jan2025 03:34:39.438] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23Jan2025 03:34:39.438] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[23Jan2025 03:34:39.451] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[23Jan2025 03:34:47.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> teletransportacioooon
+[23Jan2025 03:34:56.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 51278ms or 1025 ticks behind
+[23Jan2025 03:35:00.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajaj quedaste pegado en el aire amor
+[23Jan2025 03:35:09.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> estoy lagueado amor
+[23Jan2025 03:35:13.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no se porque
+[23Jan2025 03:35:16.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> por que amor_
+[23Jan2025 03:35:19.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ?
+[23Jan2025 03:35:40.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja tal vez el tunnel que estoy usando para el servidor ya no me funciona muy bien
+[23Jan2025 03:35:44.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> mañana reviso
+[23Jan2025 03:35:52.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> oh entiendo mi amor, que mal amor
+[23Jan2025 03:35:58.330] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[23Jan2025 03:35:58.331] [Worker-Main-12/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[23Jan2025 03:36:20.468] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=831, y=-24, z=-398}
+[23Jan2025 03:37:06.928] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1006, y=4, z=-76}
+[23Jan2025 03:37:20.735] [Worker-Main-62/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1353682252,-1439086332,-1319302581,-624197741],type:"minecraft:entity",y_offset:0.36f}}]
+[23Jan2025 03:37:44.012] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/10324, l='ServerLevel[world]', x=801.93, y=42.00, z=-319.40]
+[23Jan2025 03:38:04.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> vamos amor
+[23Jan2025 03:38:43.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> tienes pico amor_
+[23Jan2025 03:38:43.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> son ruinas amor
+[23Jan2025 03:38:46.120] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=531, y=-37, z=-470}
+[23Jan2025 03:38:46.121] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=531, y=-37, z=-469}
+[23Jan2025 03:38:49.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> oooh genial amor
+[23Jan2025 03:38:53.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor
+[23Jan2025 03:39:06.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> puedes picar aqui amor?
