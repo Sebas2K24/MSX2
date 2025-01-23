@@ -21,7 +21,7 @@
   },
   "howtolink": {
     "desc:": "Set the link used to guide players to a website with instructions to change memory allocation",
-    "howtolink": "https://lupinprojects.com/increase-minecraft-ram/"
+    "howtolink": "https://mundominecraft.net/allocate-more-ram/"
   },
   "warningTolerance": {
     "desc:": "Set how many percent the memory is allowed to deviate from the recommended for the system before warning about it, default: 30, max 100",

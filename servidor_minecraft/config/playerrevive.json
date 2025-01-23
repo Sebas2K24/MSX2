@@ -25,6 +25,7 @@
     "changePermissionLevel": false,
     "permissionLevel": 0,
     "canBePushed": true,
+    "disableAllGUIAccess": false,
     "disableInventoryAccess": false,
     "disableChatAccess": false,
     "disableServerCommands": false
