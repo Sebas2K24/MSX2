@@ -5517,3 +5517,48 @@ java.lang.NullPointerException: Element not found: amount
 [25Jan2025 03:09:32.732] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Profiler stopped & upload complete!
 [25Jan2025 03:09:32.735] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: https://spark.lucko.me/2UY2QETo6k
 [25Jan2025 03:09:32.739] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)
+[25Jan2025 03:14:26.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aarkanen[/100.106.28.96:62790] logged in with entity id 2492 at (224.5506708692682, 91.0, 196.76782242245045)
+[25Jan2025 03:14:26.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Aarkanen
+[25Jan2025 03:14:26.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Aarkanen
+[25Jan2025 03:14:26.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Aarkanen
+[25Jan2025 03:14:26.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Aarkanen
+[25Jan2025 03:14:26.675] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Aarkanen
+[25Jan2025 03:14:26.678] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Aarkanen
+[25Jan2025 03:14:26.678] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Aarkanen
+[25Jan2025 03:14:26.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen joined the game
+[25Jan2025 03:14:26.956] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b
+[25Jan2025 03:14:26.962] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[25Jan2025 03:14:26.963] [Server thread/INFO] [Jade/]: Syncing config to Aarkanen (6edab854-72e5-37e4-a09f-25b0d6086d2b)
+[25Jan2025 03:16:03.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> hiiiii mi amor lindo
+[25Jan2025 03:16:09.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> holaaaaa amor
+[25Jan2025 03:16:15.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> quitate la mascara amor
+[25Jan2025 03:16:17.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amor eres albino
+[25Jan2025 03:16:20.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> para ver si tienes skin
+[25Jan2025 03:16:28.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> mascara?
+[25Jan2025 03:16:31.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajajaj no amor
+[25Jan2025 03:16:35.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> el casco amor
+[25Jan2025 03:16:39.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> aaaah
+[25Jan2025 03:16:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> y soy gojo satoru
+[25Jan2025 03:16:46.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> eres albino
+[25Jan2025 03:16:49.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> por eso amor jajaja
+[25Jan2025 03:16:54.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja
+[25Jan2025 03:17:04.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja ahora si amor
+[25Jan2025 03:17:10.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> geniaaaaaaaaaal amor
+[25Jan2025 03:17:18.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> tu skin es muy linda amor
+[25Jan2025 03:17:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaaj deje esta para probar
+[25Jan2025 03:17:44.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> comprendo amor
+[25Jan2025 03:17:46.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja te ves comica con gorra
+[25Jan2025 03:18:17.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> y ya mejore los cofres
+[25Jan2025 03:18:17.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajaja es de jojo amor
+[25Jan2025 03:18:22.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ajjjajaja si amor
+[25Jan2025 03:18:29.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> genial amor, muchas gracias mi amor lindo
+[25Jan2025 03:18:36.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> de nada amor
+[25Jan2025 03:18:44.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> quieres jugar en llamada?
+[25Jan2025 03:18:56.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+[25Jan2025 03:19:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja agarraste exageradamente demasiado cristal de ese jajajaja
+[25Jan2025 03:19:13.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que bueno amor
+[25Jan2025 03:19:15.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ya te llamo
+[25Jan2025 03:19:29.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajajajajaja para que nunca falte amor, despues me lo agradeceras
+[25Jan2025 03:19:37.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor
+[25Jan2025 03:20:06.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja bueno amor, si en un futuro actualizan el mod y le dan mas utilidad al cristal pos si
+[25Jan2025 03:20:32.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> :)
