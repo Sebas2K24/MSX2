@@ -5673,3 +5673,10 @@ java.lang.NullPointerException: Element not found: amount
 [25Jan2025 04:08:40.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
 [25Jan2025 04:09:20.459] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/18496, l='ServerLevel[world]', x=1742.54, y=147.00, z=378.50]
 [25Jan2025 04:11:01.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[25Jan2025 04:14:07.446] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/11141, l='ServerLevel[world]', x=1741.84, y=-5.00, z=301.56]
+[25Jan2025 04:14:07.447] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/18496, l='ServerLevel[world]', x=1742.54, y=147.00, z=378.50]
+[25Jan2025 04:14:09.852] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1858, y=-24, z=148}
+[25Jan2025 04:14:24.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Wingin' It]
+[25Jan2025 04:18:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[25Jan2025 04:18:56.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Spooky Scary Skeleton]
+[25Jan2025 04:22:02.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]

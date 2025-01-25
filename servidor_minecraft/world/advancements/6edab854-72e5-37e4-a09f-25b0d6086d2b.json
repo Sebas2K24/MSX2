@@ -13306,6 +13306,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-01-25 04:14:24 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"

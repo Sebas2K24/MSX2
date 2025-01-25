@@ -18627,9 +18627,21 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/coal_block_slab": {
+    "criteria": {
+      "has_coal_block": "2025-01-25 04:17:00 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/polished_andesite_post": {
     "criteria": {
       "has_polished_andesite": "2025-01-25 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-25 04:18:56 +0000"
     },
     "done": true
   },
@@ -18639,9 +18651,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-25 04:18:56 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:frosted_caves": {
     "criteria": {
       "frosted_caves": "2025-01-25 03:46:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-25 04:18:56 +0000"
     },
     "done": true
   },
