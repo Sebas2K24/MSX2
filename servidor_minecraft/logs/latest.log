@@ -5562,3 +5562,91 @@ java.lang.NullPointerException: Element not found: amount
 [25Jan2025 03:19:37.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> esta bien amor
 [25Jan2025 03:20:06.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja bueno amor, si en un futuro actualizan el mod y le dan mas utilidad al cristal pos si
 [25Jan2025 03:20:32.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> :)
+[25Jan2025 03:33:04.818] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[25Jan2025 03:34:16.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[25Jan2025 03:34:16.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[25Jan2025 03:34:16.215] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[25Jan2025 03:35:21.720] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/3594, l='ServerLevel[world]', x=308.24, y=7.00, z=256.53]
+[25Jan2025 03:35:28.013] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/3636, l='ServerLevel[world]', x=285.32, y=43.00, z=266.48]
+[25Jan2025 03:35:53.606] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4129, l='ServerLevel[world]', x=535.50, y=73.00, z=9.50]
+[25Jan2025 03:36:12.648] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4550, l='ServerLevel[world]', x=538.50, y=79.00, z=-19.50]
+[25Jan2025 03:36:13.403] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4565, l='ServerLevel[world]', x=524.50, y=74.00, z=-6.50]
+[25Jan2025 03:36:44.569] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/5157, l='ServerLevel[world]', x=646.61, y=10.00, z=95.05]
+[25Jan2025 03:36:45.591] [Worker-Main-2/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[25Jan2025 03:36:52.629] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:36:52.638] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:36:52.648] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:36:52.662] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:36:52.662] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[25Jan2025 03:36:52.662] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[25Jan2025 03:36:54.436] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1016, y=39, z=183}
+[25Jan2025 03:36:56.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5446, l='ServerLevel[world]', x=802.50, y=79.00, z=-30.50]
+[25Jan2025 03:36:59.773] [Worker-Main-38/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:36:59.773] [Worker-Main-38/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[25Jan2025 03:37:06.859] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1039, y=23, z=-179}
+[25Jan2025 03:37:15.227] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1034, y=7, z=-231}
+[25Jan2025 03:37:15.231] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1034, y=7, z=-230}
+[25Jan2025 03:37:21.933] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:37:21.934] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[25Jan2025 03:37:22.274] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/6219, l='ServerLevel[world]', x=894.89, y=17.00, z=-46.42]
+[25Jan2025 03:37:29.090] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1218, y=25, z=-39}
+[25Jan2025 03:37:33.545] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1235, y=-45, z=72}
+[25Jan2025 03:37:33.545] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1237, y=-45, z=72}
+[25Jan2025 03:37:33.696] [Worker-Main-51/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[25Jan2025 03:38:01.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> xaero-waypoint:Shared Location:S:1072:94:101:5:false:0:Internal-overworld-waypoints
+[25Jan2025 03:38:27.709] [Worker-Main-49/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:38:27.709] [Worker-Main-49/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[25Jan2025 03:38:27.713] [Worker-Main-49/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:38:27.714] [Worker-Main-49/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/drowned -> hopo:mobs/drowned
+[25Jan2025 03:38:27.714] [Worker-Main-49/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[25Jan2025 03:38:34.222] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:38:35.121] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[25Jan2025 03:38:35.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebas2K24[/100.122.20.125:62128] logged in with entity id 7301 at (221.87787525231823, 91.0, 195.81952793270477)
+[25Jan2025 03:38:35.177] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebas2K24
+[25Jan2025 03:38:35.177] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebas2K24
+[25Jan2025 03:38:35.177] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebas2K24
+[25Jan2025 03:38:35.178] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebas2K24
+[25Jan2025 03:38:35.179] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebas2K24
+[25Jan2025 03:38:35.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebas2K24
+[25Jan2025 03:38:35.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebas2K24
+[25Jan2025 03:38:35.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
+[25Jan2025 03:38:35.312] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[25Jan2025 03:38:35.320] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[25Jan2025 03:38:35.325] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[25Jan2025 03:38:35.982] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/3636, l='ServerLevel[world]', x=285.32, y=43.00, z=266.48]
+[25Jan2025 03:38:44.789] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1040, y=-43, z=-384}
+[25Jan2025 03:38:44.790] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1039, y=-43, z=-384}
+[25Jan2025 03:39:03.830] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=960, y=-47, z=-522}
+[25Jan2025 03:39:04.882] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1262, y=-31, z=-544}
+[25Jan2025 03:39:04.882] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1263, y=-31, z=-544}
+[25Jan2025 03:39:06.468] [Worker-Main-49/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[25Jan2025 03:39:06.475] [Worker-Main-49/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:39:06.476] [Worker-Main-49/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[25Jan2025 03:39:06.833] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1020, y=-30, z=-548}
+[25Jan2025 03:39:15.224] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:39:15.224] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[25Jan2025 03:39:18.724] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1275, y=-28, z=-610}
+[25Jan2025 03:39:18.885] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1348, y=25, z=-617}
+[25Jan2025 03:39:37.314] [Worker-Main-49/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:39:37.315] [Worker-Main-49/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[25Jan2025 03:39:47.439] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1238, y=0, z=-735}
+[25Jan2025 03:39:47.439] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1237, y=0, z=-735}
+[25Jan2025 03:39:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> xaero-waypoint:Shared Location:S:1156:65:-618:3:false:0:Internal-overworld-waypoints
+[25Jan2025 03:39:55.213] [Worker-Main-51/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:39:55.214] [Worker-Main-51/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[25Jan2025 03:39:55.214] [Worker-Main-51/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[25Jan2025 03:39:55.271] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/8894, l='ServerLevel[world]', x=1040.10, y=18.00, z=-473.70]
+[25Jan2025 03:39:58.875] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[25Jan2025 03:39:58.879] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[25Jan2025 03:39:58.879] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[25Jan2025 03:40:01.038] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1305, y=-8, z=-799}
+[25Jan2025 03:40:29.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 1607.500000, 178.500000, 328.500000]
+[25Jan2025 03:40:29.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Frosted Prison]
+[25Jan2025 03:40:45.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[25Jan2025 03:40:49.325] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/11012, l='ServerLevel[world]', x=1631.50, y=68.00, z=400.41]
+[25Jan2025 03:40:52.494] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/11141, l='ServerLevel[world]', x=1741.84, y=-5.00, z=301.56]
+[25Jan2025 03:40:55.495] [Worker-Main-51/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[25Jan2025 03:40:55.495] [Worker-Main-51/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[25Jan2025 03:40:55.495] [Worker-Main-51/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[25Jan2025 03:40:57.668] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=728, y=-24, z=-629}
+[25Jan2025 03:41:15.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
