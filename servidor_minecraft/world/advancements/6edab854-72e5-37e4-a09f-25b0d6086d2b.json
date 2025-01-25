@@ -13295,6 +13295,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-01-25 05:06:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-01-25 03:35:04 +0000"
@@ -13406,6 +13412,12 @@
   "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-25 04:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-25 05:03:26 +0000"
     },
     "done": true
   },
@@ -13664,6 +13676,12 @@
   "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-25 04:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-01-25 05:03:26 +0000"
     },
     "done": true
   },

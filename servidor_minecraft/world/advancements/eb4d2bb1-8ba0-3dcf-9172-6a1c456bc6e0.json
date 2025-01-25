@@ -18640,6 +18640,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-01-25 05:06:14 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-01-25 04:47:08 +0000"
@@ -18682,6 +18688,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-01-25 05:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-25 04:03:51 +0000"
@@ -18697,6 +18709,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-25 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sharp_bones": {
+    "criteria": {
+      "has_item": "2025-01-25 05:04:32 +0000"
     },
     "done": true
   },
