@@ -5680,3 +5680,6 @@ java.lang.NullPointerException: Element not found: amount
 [25Jan2025 04:18:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
 [25Jan2025 04:18:56.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Spooky Scary Skeleton]
 [25Jan2025 04:22:02.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[25Jan2025 04:24:40.767] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/16396, l='ServerLevel[world]', x=1555.67, y=150.00, z=453.94]
+[25Jan2025 04:26:24.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 224.500000, 100.500000, 191.500000]
+[25Jan2025 04:26:30.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
