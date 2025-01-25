@@ -1819,6 +1819,7 @@
       "bread": "2024-12-28 03:43:11 +0000",
       "golden_apple": "2024-12-29 04:15:00 +0000",
       "enchanted_golden_apple": "2024-12-28 04:40:16 +0000",
+      "cooked_salmon": "2025-01-25 03:58:55 +0000",
       "carrot": "2024-12-29 05:40:39 +0000"
     },
     "done": false
@@ -13275,6 +13276,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-01-25 03:58:37 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"
@@ -13290,6 +13297,12 @@
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-25 03:58:37 +0000"
     },
     "done": true
   },

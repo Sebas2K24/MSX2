@@ -5664,3 +5664,6 @@ java.lang.NullPointerException: Element not found: amount
 [25Jan2025 03:49:57.189] [Worker-Main-51/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
 [25Jan2025 03:49:57.189] [Worker-Main-51/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
 [25Jan2025 03:50:04.691] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1505, y=36, z=569}
+[25Jan2025 03:58:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [Strong Undead]
+[25Jan2025 03:58:37.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has completed the challenge [Crusade Against Curse]
+[25Jan2025 03:58:55.616] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/16396, l='ServerLevel[world]', x=1555.67, y=150.00, z=453.94]
