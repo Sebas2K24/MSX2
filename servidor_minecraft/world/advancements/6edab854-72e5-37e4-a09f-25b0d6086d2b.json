@@ -13199,6 +13199,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-01-25 04:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"
@@ -13352,6 +13358,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-01-25 04:58:55 +0000"
     },
     "done": true
   },

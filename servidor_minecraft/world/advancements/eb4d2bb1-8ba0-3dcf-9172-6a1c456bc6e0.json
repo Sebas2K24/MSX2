@@ -18610,6 +18610,18 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-01-25 04:57:30 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/short_spruce_door": {
+    "criteria": {
+      "has_items": "2025-01-25 04:51:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-25 04:03:51 +0000"
@@ -18637,6 +18649,18 @@
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-01-25 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_spruce_door": {
+    "criteria": {
+      "has_items": "2025-01-25 04:51:09 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-01-25 04:57:30 +0000"
     },
     "done": true
   },
@@ -18679,6 +18703,24 @@
   "yungscavebiomes:frosted_caves": {
     "criteria": {
       "frosted_caves": "2025-01-25 03:46:57 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-01-25 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-01-25 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-01-25 04:52:43 +0000"
     },
     "done": true
   },
