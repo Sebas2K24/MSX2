@@ -13187,6 +13187,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"
@@ -13199,6 +13211,30 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/building_blocks/bamboo_torch": {
+    "criteria": {
+      "has_bamboo": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/building_blocks/cinderella_green_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-01-25 04:58:55 +0000"
@@ -13208,6 +13244,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
     },
     "done": true
   },
@@ -13235,9 +13277,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-01-25 05:19:13 +0000"
     },
     "done": true
   },
@@ -13271,6 +13337,24 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-25 04:48:39 +0000"
@@ -13298,6 +13382,12 @@
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-01-25 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/misc/dry_bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-01-25 05:19:13 +0000"
     },
     "done": true
   },
@@ -13331,6 +13421,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-25 04:48:39 +0000"
@@ -13358,6 +13454,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-25 04:48:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
     },
     "done": true
   },
@@ -13400,6 +13502,18 @@
   "cataclysm:kill_maledictus": {
     "criteria": {
       "ignis": "2025-01-25 03:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-25 05:19:13 +0000"
     },
     "done": true
   },
@@ -13505,6 +13619,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"
@@ -13514,6 +13634,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
     },
     "done": true
   },
@@ -13541,6 +13667,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-01-25 04:48:39 +0000"
@@ -13559,9 +13691,27 @@
     },
     "done": true
   },
+  "justaraftmod:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "has_log": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-25 04:48:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-01-25 05:19:13 +0000"
     },
     "done": true
   },
@@ -13583,9 +13733,21 @@
     },
     "done": true
   },
+  "bambooeverything:recipes/building_blocks/bamboo_ladder": {
+    "criteria": {
+      "has_bamboo": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-25 04:48:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
     },
     "done": true
   },
@@ -13598,6 +13760,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-25 04:48:39 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2025-01-25 05:19:13 +0000"
     },
     "done": true
   },
@@ -13622,6 +13790,12 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
     },
     "done": true
   },
@@ -13697,6 +13871,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-01-25 04:48:39 +0000"
@@ -13712,6 +13892,24 @@
   "undergarden:recipes/transportation/wigglewood_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-25 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-25 05:19:13 +0000"
     },
     "done": true
   },

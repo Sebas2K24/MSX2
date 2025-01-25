@@ -18604,6 +18604,12 @@
     },
     "done": true
   },
+  "biomemakeover:biomemakeover/crude_cladding": {
+    "criteria": {
+      "get_disc": "2025-01-25 05:17:36 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_brick_step": {
     "criteria": {
       "has_slab": "2025-01-25 03:58:42 +0000"
@@ -18700,6 +18706,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-25 05:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-25 04:18:56 +0000"
@@ -18733,6 +18745,12 @@
   "aquamirae:adventure/obtain_esca": {
     "criteria": {
       "esca": "2025-01-25 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/spruce_log_slab": {
+    "criteria": {
+      "has_spruce_log": "2025-01-25 05:18:02 +0000"
     },
     "done": true
   },
