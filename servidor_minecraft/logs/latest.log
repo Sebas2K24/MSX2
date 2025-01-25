@@ -5650,3 +5650,17 @@ java.lang.NullPointerException: Element not found: amount
 [25Jan2025 03:40:55.495] [Worker-Main-51/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
 [25Jan2025 03:40:57.668] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=728, y=-24, z=-629}
 [25Jan2025 03:41:15.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[25Jan2025 03:42:03.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Frosted Prison]
+[25Jan2025 03:42:22.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 224.500000, 100.500000, 191.500000]
+[25Jan2025 03:42:22.293] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/3594, l='ServerLevel[world]', x=308.24, y=7.00, z=256.53]
+[25Jan2025 03:42:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[25Jan2025 03:42:35.200] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/12128, l='ServerLevel[world]', x=123.89, y=44.00, z=183.29]
+[25Jan2025 03:43:51.489] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1751, y=2, z=521}
+[25Jan2025 03:44:12.318] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/11012, l='ServerLevel[world]', x=1631.50, y=68.00, z=400.41]
+[25Jan2025 03:46:51.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Cool, Cool Cave]
+[25Jan2025 03:46:57.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Cool, Cool Cave]
+[25Jan2025 03:48:25.679] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[25Jan2025 03:48:25.689] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[25Jan2025 03:49:57.189] [Worker-Main-51/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[25Jan2025 03:49:57.189] [Worker-Main-51/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[25Jan2025 03:50:04.691] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1505, y=36, z=569}

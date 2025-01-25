@@ -4988,8 +4988,10 @@
       "minecraft:sparse_jungle": "2025-01-03 04:33:10 +0000",
       "minecraft:river": "2024-12-21 04:01:01 +0000",
       "minecraft:stony_shore": "2025-01-07 03:30:00 +0000",
+      "minecraft:snowy_plains": "2025-01-25 03:40:29 +0000",
       "minecraft:dripstone_caves": "2025-01-09 03:32:27 +0000",
       "minecraft:swamp": "2025-01-16 04:30:56 +0000",
+      "minecraft:grove": "2025-01-25 03:40:35 +0000",
       "minecraft:cold_ocean": "2024-12-21 03:31:33 +0000",
       "minecraft:forest": "2025-01-03 04:21:52 +0000",
       "minecraft:lush_caves": "2025-01-23 04:19:11 +0000",
@@ -18598,6 +18600,18 @@
   "new_slab_variants:recipes/building_blocks/gold_block_slab": {
     "criteria": {
       "has_gold_block": "2025-01-25 03:24:36 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-01-25 03:40:29 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:frosted_caves": {
+    "criteria": {
+      "frosted_caves": "2025-01-25 03:46:57 +0000"
     },
     "done": true
   },
