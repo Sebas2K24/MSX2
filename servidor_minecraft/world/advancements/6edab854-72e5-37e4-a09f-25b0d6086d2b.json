@@ -5396,6 +5396,7 @@
       "minecraft:cold_ocean": "2024-12-29 04:10:38 +0000",
       "minecraft:forest": "2025-01-03 04:22:31 +0000",
       "minecraft:lush_caves": "2025-01-23 04:19:18 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-25 05:25:49 +0000",
       "minecraft:frozen_ocean": "2025-01-23 05:06:45 +0000",
       "minecraft:desert": "2025-01-07 03:47:48 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-25 04:47:03 +0000",
@@ -13277,6 +13278,12 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/short_spruce_door": {
+    "criteria": {
+      "has_items": "2025-01-25 05:22:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-25 05:19:13 +0000"
@@ -13409,6 +13416,12 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "blastfurnace": "2025-01-25 05:22:28 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/spruce_blinds": {
     "criteria": {
       "has_log": "2025-01-25 04:48:39 +0000"
@@ -13430,6 +13443,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-25 04:48:39 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_spruce_door": {
+    "criteria": {
+      "has_items": "2025-01-25 05:22:18 +0000"
     },
     "done": true
   },
@@ -13724,6 +13743,12 @@
   "cfm:recipes/decorations/stripped_spruce_table": {
     "criteria": {
       "has_planks": "2025-01-25 04:48:39 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "blastfurnace": "2025-01-25 05:22:28 +0000"
     },
     "done": true
   },
