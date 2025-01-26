@@ -5561,3 +5561,8 @@ java.lang.NullPointerException: Element not found: amount
 [26Jan2025 18:00:39.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/2788, l='ServerLevel[world]', x=201.36, y=69.41, z=258.59] died: Undead Knight burned to death
 [26Jan2025 18:02:15.498] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
 [26Jan2025 18:04:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has completed the challenge [Forge a Portal Wand]
+[26Jan2025 18:05:32.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Marcus'/3517, l='ServerLevel[world]', x=158.07, y=82.00, z=180.40] died: Marcus was slain by Sebas2K24
+[26Jan2025 18:06:42.781] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/3985, l='ServerLevel[world]', x=109.03, y=9.00, z=194.38]
+[26Jan2025 18:11:55.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[26Jan2025 18:11:55.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[26Jan2025 18:11:55.264] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
