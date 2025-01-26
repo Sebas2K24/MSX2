@@ -18803,18 +18803,6 @@
     },
     "done": true
   },
-  "warp_portals:forge_wand": {
-    "criteria": {
-      "warp_portals_forge_wand": "2025-01-26 18:04:38 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
-    "criteria": {
-      "has_crying_obsidian": "2025-01-26 18:04:07 +0000"
-    },
-    "done": true
-  },
   "global:root": {
     "criteria": {
       "trigger": "2025-01-26 17:58:07 +0000"
@@ -18824,6 +18812,18 @@
   "global:notnull": {
     "criteria": {
       "trigger": "2025-01-26 17:58:07 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
+    "criteria": {
+      "has_crying_obsidian": "2025-01-26 18:04:07 +0000"
+    },
+    "done": true
+  },
+  "warp_portals:forge_wand": {
+    "criteria": {
+      "warp_portals_forge_wand": "2025-01-26 18:04:38 +0000"
     },
     "done": true
   },

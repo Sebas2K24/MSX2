@@ -5566,3 +5566,28 @@ java.lang.NullPointerException: Element not found: amount
 [26Jan2025 18:11:55.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
 [26Jan2025 18:11:55.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
 [26Jan2025 18:11:55.264] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[26Jan2025 18:15:34.845] [ForkJoinPool.commonPool-worker-4/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[26Jan2025 18:15:34.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebas2K24[/100.122.20.125:52234] logged in with entity id 4988 at (222.8722393279261, 78.0, 199.1468400682529)
+[26Jan2025 18:15:34.915] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sebas2K24
+[26Jan2025 18:15:34.915] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sebas2K24
+[26Jan2025 18:15:34.916] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sebas2K24
+[26Jan2025 18:15:34.916] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sebas2K24
+[26Jan2025 18:15:34.918] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sebas2K24
+[26Jan2025 18:15:34.919] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sebas2K24
+[26Jan2025 18:15:34.920] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sebas2K24
+[26Jan2025 18:15:35.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 joined the game
+[26Jan2025 18:15:35.137] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
+[26Jan2025 18:15:35.144] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[26Jan2025 18:15:35.145] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[26Jan2025 18:17:41.212] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/5148, l='ServerLevel[world]', x=120.58, y=29.00, z=237.90]
+[26Jan2025 18:17:48.312] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/5268, l='ServerLevel[world]', x=235.55, y=52.00, z=312.18]
+[26Jan2025 18:21:26.769] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/5148, l='ServerLevel[world]', x=120.58, y=29.00, z=237.90]
+[26Jan2025 18:21:27.423] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/5268, l='ServerLevel[world]', x=235.55, y=52.00, z=312.18]
+[26Jan2025 18:21:29.219] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/3985, l='ServerLevel[world]', x=109.03, y=9.00, z=194.38]
+[26Jan2025 18:25:10.546] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Stopping the profiler & uploading results, please wait...
+[26Jan2025 18:25:13.591] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Profiler stopped & upload complete!
+[26Jan2025 18:25:13.593] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: https://spark.lucko.me/7NLqMs4P9g
+[26Jan2025 18:25:13.597] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)
+[26Jan2025 18:25:19.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 lost connection: Disconnected
+[26Jan2025 18:25:19.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 left the game
+[26Jan2025 18:25:19.660] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
