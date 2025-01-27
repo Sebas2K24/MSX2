@@ -6353,3 +6353,17 @@ java.lang.NullPointerException: Element not found: amount
 [27Jan2025 04:20:28.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aarkanen lost connection: Disconnected
 [27Jan2025 04:20:28.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen left the game
 [27Jan2025 04:20:28.160] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b
+[27Jan2025 04:30:12.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aarkanen[/100.106.28.96:63414] logged in with entity id 51286 at (5083.352385148792, 190.0, 1085.699999988079)
+[27Jan2025 04:30:12.439] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Aarkanen
+[27Jan2025 04:30:12.439] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Aarkanen
+[27Jan2025 04:30:12.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Aarkanen
+[27Jan2025 04:30:12.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Aarkanen
+[27Jan2025 04:30:12.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Aarkanen
+[27Jan2025 04:30:12.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Aarkanen
+[27Jan2025 04:30:12.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Aarkanen
+[27Jan2025 04:30:12.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen joined the game
+[27Jan2025 04:30:12.577] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b
+[27Jan2025 04:30:12.581] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[27Jan2025 04:30:12.581] [Server thread/INFO] [Jade/]: Syncing config to Aarkanen (6edab854-72e5-37e4-a09f-25b0d6086d2b)
+[27Jan2025 04:30:36.699] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/50667, l='ServerLevel[world]', x=5203.51, y=168.00, z=1128.36]
+[27Jan2025 04:32:35.398] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/50585, l='ServerLevel[world]', x=5188.92, y=174.00, z=1058.69]
