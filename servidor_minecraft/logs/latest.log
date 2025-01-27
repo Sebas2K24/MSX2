@@ -6324,3 +6324,32 @@ java.lang.NullPointerException: Element not found: amount
 [27Jan2025 04:11:09.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
 [27Jan2025 04:11:21.957] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/46977, l='ServerLevel[world]', x=4947.03, y=69.00, z=868.66]
 [27Jan2025 04:11:35.070] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/47134, l='ServerLevel[world]', x=4965.33, y=70.00, z=870.95]
+[27Jan2025 04:12:52.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[27Jan2025 04:12:52.406] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/47622, l='ServerLevel[world]', x=5200.43, y=70.00, z=820.86]
+[27Jan2025 04:16:07.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[27Jan2025 04:17:40.454] [Worker-Main-88/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 04:17:40.454] [Worker-Main-88/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[27Jan2025 04:17:45.533] [Worker-Main-87/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 04:17:45.533] [Worker-Main-87/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[27Jan2025 04:17:45.533] [Worker-Main-87/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[27Jan2025 04:18:08.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aarkanen lost connection: Disconnected
+[27Jan2025 04:18:08.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen left the game
+[27Jan2025 04:18:08.862] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b
+[27Jan2025 04:18:36.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved wrongly!
+[27Jan2025 04:19:22.153] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/49897, l='ServerLevel[world]', x=5146.16, y=156.00, z=1032.25]
+[27Jan2025 04:19:35.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aarkanen[/100.106.28.96:63228] logged in with entity id 50094 at (5083.352385148792, 190.0, 1085.699999988079)
+[27Jan2025 04:19:35.153] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Aarkanen
+[27Jan2025 04:19:35.153] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Aarkanen
+[27Jan2025 04:19:35.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Aarkanen
+[27Jan2025 04:19:35.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Aarkanen
+[27Jan2025 04:19:35.156] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Aarkanen
+[27Jan2025 04:19:35.158] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Aarkanen
+[27Jan2025 04:19:35.158] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Aarkanen
+[27Jan2025 04:19:35.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen joined the game
+[27Jan2025 04:19:35.317] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b
+[27Jan2025 04:19:35.322] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[27Jan2025 04:19:35.323] [Server thread/INFO] [Jade/]: Syncing config to Aarkanen (6edab854-72e5-37e4-a09f-25b0d6086d2b)
+[27Jan2025 04:19:35.369] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/49897, l='ServerLevel[world]', x=5146.16, y=156.00, z=1032.25]
+[27Jan2025 04:20:28.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aarkanen lost connection: Disconnected
+[27Jan2025 04:20:28.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen left the game
+[27Jan2025 04:20:28.160] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b

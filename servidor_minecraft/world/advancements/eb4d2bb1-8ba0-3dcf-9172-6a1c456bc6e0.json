@@ -1028,6 +1028,7 @@
       "glowing_grotto": "2024-12-30 00:55:37 +0000",
       "undergrowth": "2025-01-09 04:32:53 +0000",
       "rainforest": "2025-01-05 02:38:14 +0000",
+      "crag": "2025-01-27 04:17:19 +0000",
       "ominous_woods": "2025-01-03 04:22:01 +0000"
     },
     "done": false
@@ -19135,6 +19136,12 @@
   "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-27 02:57:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-01-27 04:18:40 +0000"
     },
     "done": true
   },
