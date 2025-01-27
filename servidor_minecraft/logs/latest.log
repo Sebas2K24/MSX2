@@ -6241,3 +6241,8 @@ java.lang.NullPointerException: Element not found: amount
 [27Jan2025 03:29:18.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> si amor, pero dame un momento mi mama me está llamando rapido
 [27Jan2025 03:29:26.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> esta bien amor
 [27Jan2025 03:35:00.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> ya mi amor, disculpa, mi mama queria que le corrigiera algo de una tarea de ingles y se despidio tambien
+[27Jan2025 03:42:41.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Lorem Ipsum]
+[27Jan2025 03:50:20.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [The Journey Begins]
+[27Jan2025 03:50:35.471] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at 8063 -48 -11846 in 12s
+[27Jan2025 03:50:35.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3137ms or 62 ticks behind
+[27Jan2025 03:50:43.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Lorem Ipsum]

@@ -18919,6 +18919,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-01-27 03:42:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-27 02:58:30 +0000"
@@ -19012,6 +19018,12 @@
   "handcrafted:recipes/misc/deepslate_pillar_trim": {
     "criteria": {
       "has_deepslate_pillar_trim": "2025-01-27 02:57:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-01-27 03:39:43 +0000"
     },
     "done": true
   },
