@@ -993,6 +993,7 @@
       "rocky_shrubland": "2025-01-03 04:23:16 +0000",
       "highland": "2024-12-31 05:05:38 +0000",
       "clover_patch": "2025-01-03 05:23:52 +0000",
+      "wetland": "2025-01-27 04:00:33 +0000",
       "mystic_grove": "2025-01-03 05:24:28 +0000",
       "old_growth_woodland": "2025-01-07 03:24:34 +0000",
       "crystalline_chasm": "2025-01-02 04:30:39 +0000",
@@ -1012,6 +1013,7 @@
       "volcanic_plains": "2025-01-03 05:23:03 +0000",
       "lavender_field": "2025-01-03 03:29:24 +0000",
       "fir_clearing": "2024-12-28 03:27:35 +0000",
+      "pumpkin_patch": "2025-01-27 04:04:35 +0000",
       "grassland": "2025-01-16 03:37:37 +0000",
       "undergrowth": "2025-01-09 04:32:55 +0000",
       "rainforest": "2025-01-03 05:23:47 +0000",
@@ -14154,6 +14156,12 @@
       "has_stone_types_tuff": "2025-01-27 02:58:32 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_warm": "2025-01-27 04:00:42 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
