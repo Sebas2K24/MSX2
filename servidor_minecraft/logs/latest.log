@@ -6246,3 +6246,23 @@ java.lang.NullPointerException: Element not found: amount
 [27Jan2025 03:50:35.471] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at 8063 -48 -11846 in 12s
 [27Jan2025 03:50:35.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3137ms or 62 ticks behind
 [27Jan2025 03:50:43.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Lorem Ipsum]
+[27Jan2025 03:57:19.072] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 13535 -56 8594 in 8s
+[27Jan2025 03:57:19.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[27Jan2025 03:59:24.838] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 03:59:24.838] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[27Jan2025 03:59:24.838] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[27Jan2025 03:59:41.594] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[27Jan2025 04:00:12.543] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39896, l='ServerLevel[world]', x=4522.50, y=77.00, z=-84.50]
+[27Jan2025 04:00:28.562] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/39805, l='ServerLevel[world]', x=4527.38, y=40.00, z=124.51]
+[27Jan2025 04:00:33.578] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_christmas], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch]] from pos BlockPos{x=4395, y=73, z=101}
+[27Jan2025 04:00:33.711] [Worker-Main-87/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[27Jan2025 04:00:33.716] [Worker-Main-87/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 04:00:33.716] [Worker-Main-87/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[27Jan2025 04:00:38.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3962ms or 79 ticks behind
+[27Jan2025 04:00:41.464] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created CreamEntity['Cream'/39805, l='ServerLevel[world]', x=4527.38, y=40.00, z=124.51]
+[27Jan2025 04:00:41.606] [Worker-Main-88/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 04:00:41.606] [Worker-Main-88/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[27Jan2025 04:00:46.445] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40484, l='ServerLevel[world]', x=4534.50, y=75.00, z=-43.50]
+[27Jan2025 04:00:49.946] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40506, l='ServerLevel[world]', x=4533.50, y=75.00, z=-42.50]
+[27Jan2025 04:01:02.470] [Worker-Main-91/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 04:01:02.470] [Worker-Main-91/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
