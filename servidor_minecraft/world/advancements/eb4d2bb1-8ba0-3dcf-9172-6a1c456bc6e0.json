@@ -1520,9 +1520,11 @@
       "minecraft:pillager": "2024-12-21 04:19:14 +0000",
       "minecraft:blaze": "2025-01-09 04:46:49 +0000",
       "minecraft:skeleton": "2024-12-20 04:36:35 +0000",
+      "minecraft:elder_guardian": "2025-01-27 03:12:55 +0000",
       "minecraft:ravager": "2025-01-07 03:05:23 +0000",
       "minecraft:ghast": "2025-01-09 05:24:42 +0000",
       "minecraft:hoglin": "2025-01-05 04:01:30 +0000",
+      "minecraft:guardian": "2025-01-27 03:11:08 +0000",
       "minecraft:vindicator": "2024-12-21 03:42:40 +0000",
       "minecraft:magma_cube": "2025-01-02 03:55:14 +0000",
       "minecraft:spider": "2024-12-21 03:41:37 +0000",
@@ -18863,6 +18865,18 @@
     },
     "done": true
   },
+  "fishofthieves:recipes/food/cooked_battlegill_from_smoking": {
+    "criteria": {
+      "has_battlegill": "2025-01-27 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_battlegill": {
+    "criteria": {
+      "has_battlegill": "2025-01-27 03:11:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-27 02:58:30 +0000"
@@ -18905,15 +18919,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-27 03:11:20 +0000"
+    },
+    "done": true
+  },
+  "fishofthieves:recipes/food/cooked_battlegill_from_campfire_cooking": {
+    "criteria": {
+      "has_battlegill": "2025-01-27 03:11:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-27 02:58:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-27 03:11:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-27 02:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-27 03:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-01-27 03:12:31 +0000"
     },
     "done": true
   },
@@ -18938,6 +18982,12 @@
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-27 02:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-27 03:11:09 +0000"
     },
     "done": true
   },
@@ -18971,6 +19021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-27 03:11:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-27 02:57:55 +0000"
@@ -18980,6 +19036,24 @@
   "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-27 02:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-27 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/oxidized_copper_slab": {
+    "criteria": {
+      "has_oxidized_copper": "2025-01-27 03:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-01-27 03:12:31 +0000"
     },
     "done": true
   },
@@ -18998,6 +19072,36 @@
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-27 02:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-01-27 03:12:31 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/soulful_prismarine_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-01-27 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-01-27 03:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-27 03:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-01-27 03:12:31 +0000"
     },
     "done": true
   },
@@ -19049,9 +19153,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-27 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/magmatic_prismarine_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-01-27 03:11:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-27 02:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-01-27 03:12:31 +0000"
     },
     "done": true
   },
@@ -19088,6 +19210,12 @@
   "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-27 02:57:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/prismarine_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-01-27 03:11:09 +0000"
     },
     "done": true
   },
