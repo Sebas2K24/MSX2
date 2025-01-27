@@ -18853,6 +18853,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2025-01-27 03:38:57 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-01-27 02:51:02 +0000"
