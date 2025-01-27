@@ -5975,3 +5975,70 @@ java.lang.NullPointerException: Element not found: amount
 [27Jan2025 02:50:39.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no amor
 [27Jan2025 02:50:40.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiiii
 [27Jan2025 02:50:49.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> bueno amor
+[27Jan2025 02:50:59.655] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 02:50:59.656] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[27Jan2025 02:50:59.656] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[27Jan2025 02:50:59.656] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[27Jan2025 02:51:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Alex's Caves]
+[27Jan2025 02:51:07.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> uy
+[27Jan2025 02:51:35.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Alex's Caves]
+[27Jan2025 02:51:40.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> hay oxigeno amor
+[27Jan2025 02:51:46.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> siiii
+[27Jan2025 02:52:01.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Once Upon a Cave]
+[27Jan2025 02:52:46.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ven amor, mira este libro
+[27Jan2025 02:52:52.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Once Upon a Cave]
+[27Jan2025 02:53:09.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> se me habia quedado pegado jajajaja
+[27Jan2025 02:53:13.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja
+[27Jan2025 02:53:25.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> bien raro amor
+[27Jan2025 02:53:35.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> en un rato lo leo
+[27Jan2025 02:53:38.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor, sera que debajo hay una cueva?
+[27Jan2025 02:53:49.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amooooooooooor miraaaaaaaaaaaa
+[27Jan2025 02:53:55.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que amor?
+[27Jan2025 02:53:56.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> viste el cofre de aqui?
+[27Jan2025 02:54:11.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> el balde?
+[27Jan2025 02:54:34.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> no se si es un balde pero me dio un arma genial
+[27Jan2025 02:54:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que bien amor, de ahi yo saque el libro
+[27Jan2025 02:55:01.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Set own game mode to Spectator Mode]
+[27Jan2025 02:55:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Set own game mode to Survival Mode]
+[27Jan2025 02:56:01.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> pos parece que aqui no es lo de alex caves
+[27Jan2025 02:56:06.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[27Jan2025 02:56:06.062] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/19634, l='ServerLevel[world]', x=3889.50, y=-53.00, z=-107.50]
+[27Jan2025 02:56:10.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> teletransportame
+[27Jan2025 02:56:12.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> amooooooooooor
+[27Jan2025 02:56:18.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> y ahoraaaaaa????
+[27Jan2025 02:56:32.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> veeeeeeeeeeen
+[27Jan2025 02:56:36.156] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/20352, l='ServerLevel[world]', x=4029.50, y=-48.00, z=-201.41]
+[27Jan2025 02:56:36.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[27Jan2025 02:56:46.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> que haces aquiiii
+[27Jan2025 02:56:52.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> pense que estabas donde mismo jajajaja
+[27Jan2025 02:57:08.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> por donde entraste amior?
+[27Jan2025 02:57:16.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> por un hueco en el techo
+[27Jan2025 02:57:23.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajja buscalo amor
+[27Jan2025 02:57:51.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> :c
+[27Jan2025 02:58:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajjajajajaaj
+[27Jan2025 02:59:36.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ya amor
+[27Jan2025 02:59:39.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[27Jan2025 02:59:50.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> si hay una cueva
+[27Jan2025 02:59:54.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> pero no alli
+[27Jan2025 03:00:03.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajaj
+[27Jan2025 03:00:09.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> si amor, estabamos en una pero reconoceras la cueva que te digo cuando la veas jajajaja
+[27Jan2025 03:00:17.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajajaja va amor
+[27Jan2025 03:00:21.106] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/20352, l='ServerLevel[world]', x=4029.50, y=-48.00, z=-201.41]
+[27Jan2025 03:00:29.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> gracias por salvarme amor
+[27Jan2025 03:00:35.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> de nada amor
+[27Jan2025 03:00:38.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajaja
+[27Jan2025 03:00:40.816] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 03:00:40.816] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[27Jan2025 03:00:40.816] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[27Jan2025 03:00:46.214] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 03:00:46.217] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 03:00:46.219] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 03:00:46.221] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 03:00:46.221] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/drowned -> hopo:mobs/drowned
+[27Jan2025 03:00:46.221] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[27Jan2025 03:00:46.221] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[27Jan2025 03:01:00.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> tengo que ver como se encuentran esas cuevas, las he visto por fotos y se ven calidad
+[27Jan2025 03:01:10.378] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[27Jan2025 03:01:10.378] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[27Jan2025 03:01:10.378] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[27Jan2025 03:01:10.378] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
