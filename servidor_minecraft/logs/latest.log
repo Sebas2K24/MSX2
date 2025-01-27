@@ -6367,3 +6367,8 @@ java.lang.NullPointerException: Element not found: amount
 [27Jan2025 04:30:12.581] [Server thread/INFO] [Jade/]: Syncing config to Aarkanen (6edab854-72e5-37e4-a09f-25b0d6086d2b)
 [27Jan2025 04:30:36.699] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/50667, l='ServerLevel[world]', x=5203.51, y=168.00, z=1128.36]
 [27Jan2025 04:32:35.398] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/50585, l='ServerLevel[world]', x=5188.92, y=174.00, z=1058.69]
+[27Jan2025 04:37:01.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 224.500000, 100.500000, 191.500000]
+[27Jan2025 04:37:34.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[27Jan2025 04:37:34.667] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/53021, l='ServerLevel[world]', x=234.39, y=35.00, z=290.04]
+[27Jan2025 04:41:38.320] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/50585, l='ServerLevel[world]', x=5188.92, y=174.00, z=1058.69]
+[27Jan2025 04:41:41.263] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/50667, l='ServerLevel[world]', x=5203.51, y=168.00, z=1128.36]
