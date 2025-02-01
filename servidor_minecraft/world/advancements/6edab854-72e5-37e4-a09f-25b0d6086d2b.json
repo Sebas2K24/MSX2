@@ -14301,9 +14301,9 @@
     },
     "done": true
   },
-  "adorn:recipes/smooth_stone_step": {
+  "cataclysm:find_sunken_city": {
     "criteria": {
-      "has_slab": "2025-02-01 02:55:33 +0000"
+      "factory": "2025-02-01 02:37:57 +0000"
     },
     "done": true
   },
@@ -14313,21 +14313,21 @@
     },
     "done": true
   },
-  "cataclysm:find_sunken_city": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "factory": "2025-02-01 02:37:57 +0000"
+      "location0": "2025-02-01 02:47:39 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/smooth_stone_step": {
+    "criteria": {
+      "has_slab": "2025-02-01 02:55:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-02-01 02:55:33 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-02-01 02:47:39 +0000"
     },
     "done": true
   },

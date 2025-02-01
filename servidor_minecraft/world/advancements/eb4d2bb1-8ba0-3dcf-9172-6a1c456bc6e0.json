@@ -4990,6 +4990,7 @@
       "minecraft:deep_ocean": "2025-01-27 05:32:58 +0000",
       "minecraft:eroded_badlands": "2025-01-09 03:27:11 +0000",
       "minecraft:frozen_river": "2024-12-21 05:29:32 +0000",
+      "minecraft:birch_forest": "2025-02-01 03:10:07 +0000",
       "minecraft:windswept_hills": "2025-01-16 04:38:49 +0000",
       "minecraft:badlands": "2025-01-09 03:27:04 +0000",
       "minecraft:beach": "2024-12-21 03:31:26 +0000",
@@ -19304,27 +19305,27 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location0": "2025-02-01 02:39:50 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/combat/red_hat": {
-    "criteria": {
-      "has_leather_helmet": "2025-02-01 02:52:05 +0000"
-    },
-    "done": true
-  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-02-01 02:37:57 +0000"
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-02-01 02:39:50 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-02-01 02:48:23 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/red_hat": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-01 02:52:05 +0000"
     },
     "done": true
   },
