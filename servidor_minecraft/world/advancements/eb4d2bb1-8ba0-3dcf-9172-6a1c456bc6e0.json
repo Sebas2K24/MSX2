@@ -14358,7 +14358,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_jungle": "2025-01-03 04:42:36 +0000"
+      "in_pyramid_jungle": "2025-01-03 04:42:36 +0000",
+      "in_pyramid_flower_forest": "2025-02-01 03:26:42 +0000"
     },
     "done": false
   },
@@ -19338,6 +19339,30 @@
   "jcraft:recipes/combat/puccis_hat": {
     "criteria": {
       "has_leather_helmet": "2025-02-01 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-02-01 03:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2025-02-01 03:26:57 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/gray_terracotta_slab": {
+    "criteria": {
+      "has_gray_terracotta": "2025-02-01 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/pink_terracotta_slab": {
+    "criteria": {
+      "has_pink_terracotta": "2025-02-01 03:26:57 +0000"
     },
     "done": true
   },

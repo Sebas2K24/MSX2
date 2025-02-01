@@ -10160,7 +10160,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_jungle": "2025-01-03 04:43:40 +0000"
+      "in_pyramid_jungle": "2025-01-03 04:43:40 +0000",
+      "in_pyramid_flower_forest": "2025-02-01 03:26:42 +0000"
     },
     "done": false
   },
@@ -14340,6 +14341,12 @@
   "adorn:recipes/smooth_stone_platform": {
     "criteria": {
       "has_slab": "2025-02-01 02:55:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-02-01 03:32:29 +0000"
     },
     "done": true
   },
