@@ -5895,3 +5895,36 @@ java.lang.NullPointerException: Element not found: amount
 [01Feb2025 03:14:35.720] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo]] from pos BlockPos{x=11659, y=81, z=8539}
 [01Feb2025 03:14:42.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4953ms or 99 ticks behind
 [01Feb2025 03:15:02.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5148ms or 102 ticks behind
+[01Feb2025 03:15:58.114] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 03:15:58.666] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 03:15:58.666] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 03:15:58.666] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 03:17:28.738] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 03:17:28.741] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 03:17:28.741] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 03:17:45.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> sigamos amor
+[01Feb2025 03:17:52.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> vamos amor
+[01Feb2025 03:17:52.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> creo que estamos cerca
+[01Feb2025 03:18:00.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> me gusta tu gorrito amor
+[01Feb2025 03:18:09.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajaaja da descuentos con los aldeanos
+[01Feb2025 03:18:17.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajaja entiendo amor
+[01Feb2025 03:18:34.465] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/17628, l='ServerLevel[world]', x=12020.50, y=40.00, z=8496.47]
+[01Feb2025 03:18:34.617] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created SilverChariotEntity['Silver Chariot'/17625, l='ServerLevel[world]', x=12020.49, y=40.00, z=8511.38]
+[01Feb2025 03:18:44.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> quieres jugar en llamada amor?
+[01Feb2025 03:18:49.366] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created SilverChariotEntity['Silver Chariot'/17625, l='ServerLevel[world]', x=12020.49, y=40.00, z=8511.38]
+[01Feb2025 03:18:49.367] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/17628, l='ServerLevel[world]', x=12020.50, y=40.00, z=8496.47]
+[01Feb2025 03:18:54.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> SIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+[01Feb2025 03:18:59.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> porfis amor
+[01Feb2025 03:19:01.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja
+[01Feb2025 03:19:03.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> vale amor
+[01Feb2025 03:19:13.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> busco los audifonos y te llamo
+[01Feb2025 03:19:22.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> va amor
+[01Feb2025 03:21:25.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja un segundo amor
+[01Feb2025 03:21:29.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> te escucho
+[01Feb2025 03:22:39.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> por los cazadores amor
+[01Feb2025 03:22:41.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> a mi se me quito
+[01Feb2025 03:24:48.127] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=12316, y=-49, z=8366} but found not block entity block Block{minecraft:cave_air} at location
+[01Feb2025 03:24:48.129] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=12316, y=-49, z=8366}
+[01Feb2025 03:25:42.712] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/25810, l='ServerLevel[world]', x=12341.85, y=34.00, z=8552.56]
+[01Feb2025 03:25:49.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved wrongly!
+[01Feb2025 03:26:09.421] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/26335, l='ServerLevel[world]', x=12409.50, y=5.00, z=8435.42]
