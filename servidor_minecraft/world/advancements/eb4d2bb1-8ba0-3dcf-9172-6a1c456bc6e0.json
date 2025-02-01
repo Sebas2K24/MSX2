@@ -19354,15 +19354,69 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-02-01 03:39:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2025-02-01 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-02-01 03:36:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-02-01 03:42:06 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/gray_terracotta_slab": {
     "criteria": {
       "has_gray_terracotta": "2025-02-01 03:27:05 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-02-01 03:36:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2025-02-01 03:43:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-02-01 03:36:08 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/pink_terracotta_slab": {
     "criteria": {
       "has_pink_terracotta": "2025-02-01 03:26:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2025-02-01 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-02-01 03:37:08 +0000"
     },
     "done": true
   },
