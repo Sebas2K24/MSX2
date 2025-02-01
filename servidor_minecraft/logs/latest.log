@@ -6017,3 +6017,72 @@ java.lang.NullPointerException: Element not found: amount
 [01Feb2025 04:09:59.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3114ms or 62 ticks behind
 [01Feb2025 04:10:18.546] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:toxic_caves took 4981 ms
 [01Feb2025 04:10:18.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4341ms or 86 ticks behind
+[01Feb2025 04:20:01.511] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheHandEntity['The Hand'/38997, l='ServerLevel[world]', x=112.45, y=24.90, z=233.44]
+[01Feb2025 04:20:01.513] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/39101, l='ServerLevel[world]', x=116.50, y=44.00, z=177.53]
+[01Feb2025 04:20:01.513] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/39102, l='ServerLevel[world]', x=120.19, y=44.00, z=182.22]
+[01Feb2025 04:20:01.513] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/39204, l='ServerLevel[world]', x=121.34, y=24.00, z=170.05]
+[01Feb2025 04:20:15.063] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/41043, l='ServerLevel[world]', x=145.54, y=75.00, z=404.05]
+[01Feb2025 04:20:26.775] [Worker-Main-88/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 04:20:26.775] [Worker-Main-88/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 04:20:26.775] [Worker-Main-88/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 04:20:29.394] [Worker-Main-88/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 04:20:29.395] [Worker-Main-88/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 04:20:29.395] [Worker-Main-88/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 04:20:31.470] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/41043, l='ServerLevel[world]', x=145.54, y=75.00, z=404.05]
+[01Feb2025 04:20:38.610] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/40971, l='ServerLevel[world]', x=15.37, y=72.00, z=328.98]
+[01Feb2025 04:20:51.900] [Worker-Main-85/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 04:20:51.901] [Worker-Main-85/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 04:20:51.901] [Worker-Main-85/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/drowned -> hopo:mobs/drowned
+[01Feb2025 04:21:12.470] [Worker-Main-89/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 04:21:12.470] [Worker-Main-89/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 04:21:12.471] [Worker-Main-89/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 04:21:12.471] [Worker-Main-89/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 04:21:21.628] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-131, y=30, z=614}
+[01Feb2025 04:21:31.483] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-155, y=4, z=486}
+[01Feb2025 04:21:31.601] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-144, y=14, z=530}
+[01Feb2025 04:21:32.132] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-155, y=38, z=667}
+[01Feb2025 04:21:32.133] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-155, y=38, z=669}
+[01Feb2025 04:21:36.696] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [7, 60], discarding
+[01Feb2025 04:21:38.992] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [7, 61], discarding
+[01Feb2025 04:21:46.348] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [6, 60], discarding
+[01Feb2025 04:21:46.349] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: hopo:portal_deepslate
+[01Feb2025 04:21:46.350] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [6, 61], discarding
+[01Feb2025 04:21:46.351] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [6, 62], discarding
+[01Feb2025 04:21:46.351] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [7, 62], discarding
+[01Feb2025 04:22:09.991] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [5, 60], discarding
+[01Feb2025 04:22:09.992] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [5, 61], discarding
+[01Feb2025 04:22:09.993] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [5, 62], discarding
+[01Feb2025 04:22:44.648] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-103, y=-8, z=1178}
+[01Feb2025 04:22:44.648] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-103, y=-8, z=1177}
+[01Feb2025 04:22:45.614] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-165, y=31, z=1096}
+[01Feb2025 04:22:47.170] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=212, y=20, z=1200}
+[01Feb2025 04:23:51.953] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/42870, l='ServerLevel[world]', x=172.64, y=87.00, z=1430.12]
+[01Feb2025 04:24:01.696] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/42890, l='ServerLevel[world]', x=173.27, y=91.23, z=1449.50]
+[01Feb2025 04:24:01.764] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created SilverChariotEntity['Silver Chariot'/42889, l='ServerLevel[world]', x=157.31, y=89.12, z=1454.20]
+[01Feb2025 04:24:47.671] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [8, 110], discarding
+[01Feb2025 04:24:47.672] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [9, 110], discarding
+[01Feb2025 04:24:47.673] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [10, 110], discarding
+[01Feb2025 04:24:47.684] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [8, 111], discarding
+[01Feb2025 04:24:47.685] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: hopo:portal_deepslate
+[01Feb2025 04:24:47.685] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [9, 111], discarding
+[01Feb2025 04:24:47.686] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [10, 111], discarding
+[01Feb2025 04:24:47.725] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [8, 112], discarding
+[01Feb2025 04:24:47.726] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [9, 112], discarding
+[01Feb2025 04:24:47.727] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [10, 112], discarding
+[01Feb2025 04:24:50.261] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created SilverChariotEntity['Silver Chariot'/42889, l='ServerLevel[world]', x=157.31, y=89.12, z=1454.20]
+[01Feb2025 04:24:52.308] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/42870, l='ServerLevel[world]', x=172.64, y=87.00, z=1430.12]
+[01Feb2025 04:24:52.308] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/42890, l='ServerLevel[world]', x=173.27, y=91.23, z=1449.50]
+[01Feb2025 04:25:16.720] [Worker-Main-85/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-7, y=-53, z=1825}
+[01Feb2025 04:25:25.588] [Worker-Main-85/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=166, y=-46, z=1871}
+[01Feb2025 04:25:26.986] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-86, y=23, z=1895}
+[01Feb2025 04:25:26.986] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-86, y=23, z=1893}
+[01Feb2025 04:25:31.140] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/43586, l='ServerLevel[world]', x=198.93, y=137.55, z=1859.77]
+[01Feb2025 04:25:32.682] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=202, y=-44, z=1937}
+[01Feb2025 04:25:34.283] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-127, y=-52, z=1941}
+[01Feb2025 04:25:40.936] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=47, y=-21, z=1974}
+[01Feb2025 04:25:55.467] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=195, y=-23, z=2065}
+[01Feb2025 04:26:00.368] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=214, y=-48, z=2072}
+[01Feb2025 04:26:00.368] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=214, y=-48, z=2073}
+[01Feb2025 04:26:17.618] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=140, y=-19, z=2119}
+[01Feb2025 04:26:22.563] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/43586, l='ServerLevel[world]', x=198.93, y=137.55, z=1859.77]
+[01Feb2025 04:26:53.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Super Creeps]
