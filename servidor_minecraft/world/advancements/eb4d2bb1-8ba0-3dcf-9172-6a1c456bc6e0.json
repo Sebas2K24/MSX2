@@ -19304,5 +19304,17 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-02-01 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-02-01 02:37:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
