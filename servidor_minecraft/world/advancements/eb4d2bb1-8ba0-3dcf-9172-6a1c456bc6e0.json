@@ -1007,6 +1007,7 @@
       "crystalline_chasm": "2025-01-02 04:30:39 +0000",
       "withered_abyss": "2025-01-02 03:29:31 +0000",
       "field": "2025-01-23 03:34:03 +0000",
+      "orchard": "2025-01-27 05:30:08 +0000",
       "lavender_forest": "2025-01-03 03:36:13 +0000",
       "moor": "2024-12-30 00:55:55 +0000",
       "coniferous_forest": "2024-12-20 02:10:21 +0000",
@@ -4986,6 +4987,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-23 03:33:20 +0000",
+      "minecraft:deep_ocean": "2025-01-27 05:32:58 +0000",
       "minecraft:eroded_badlands": "2025-01-09 03:27:11 +0000",
       "minecraft:frozen_river": "2024-12-21 05:29:32 +0000",
       "minecraft:windswept_hills": "2025-01-16 04:38:49 +0000",
@@ -5008,6 +5010,7 @@
       "minecraft:ocean": "2025-01-03 04:24:52 +0000",
       "minecraft:snowy_beach": "2025-01-23 05:05:37 +0000",
       "minecraft:windswept_savanna": "2025-01-16 04:29:41 +0000",
+      "minecraft:warm_ocean": "2025-01-27 05:32:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 04:31:26 +0000",
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
     },
