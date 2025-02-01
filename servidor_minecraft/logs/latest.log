@@ -6100,3 +6100,12 @@ java.lang.NullPointerException: Element not found: amount
 [01Feb2025 04:38:55.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [A Metropolis of Restless Souls]
 [01Feb2025 04:39:45.491] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=378, y=-28, z=2432}
 [01Feb2025 04:40:28.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[01Feb2025 04:52:46.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[01Feb2025 04:53:45.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[01Feb2025 04:57:58.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[01Feb2025 04:59:35.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Hot Rod]
+[01Feb2025 04:59:52.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ahorita hablo amor jajajaj
+[01Feb2025 05:04:47.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 224.500000, 100.500000, 191.500000]
+[01Feb2025 05:06:53.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[01Feb2025 05:07:09.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[01Feb2025 05:07:52.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 224.500000, 100.500000, 191.500000]

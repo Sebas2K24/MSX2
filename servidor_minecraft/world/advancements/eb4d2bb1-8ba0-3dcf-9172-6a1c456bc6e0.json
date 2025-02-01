@@ -19403,6 +19403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-01 05:04:40 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_infested_temple": {
     "criteria": {
       "location0": "2025-02-01 04:26:53 +0000"
@@ -19418,6 +19424,12 @@
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2025-02-01 03:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-01 05:04:40 +0000"
     },
     "done": true
   },
@@ -19505,6 +19517,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-01 05:04:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
       "has_cobweb": "2025-02-01 03:56:40 +0000"
@@ -19514,6 +19532,18 @@
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2025-02-01 03:37:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-02-01 04:59:35 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/smooth_stone_post": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-01 05:04:40 +0000"
     },
     "done": true
   },
