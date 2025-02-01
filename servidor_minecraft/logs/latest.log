@@ -6086,3 +6086,12 @@ java.lang.NullPointerException: Element not found: amount
 [01Feb2025 04:26:17.618] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=140, y=-19, z=2119}
 [01Feb2025 04:26:22.563] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/43586, l='ServerLevel[world]', x=198.93, y=137.55, z=1859.77]
 [01Feb2025 04:26:53.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Super Creeps]
+[01Feb2025 04:27:36.064] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=383, y=25, z=2290}
+[01Feb2025 04:28:13.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[01Feb2025 04:29:28.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[01Feb2025 04:31:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Bath Bomb]
+[01Feb2025 04:31:52.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[01Feb2025 04:31:56.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[01Feb2025 04:32:47.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Smelly Situation]
+[01Feb2025 04:34:09.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Uranium Fever]
+[01Feb2025 04:34:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Bath Bomb]

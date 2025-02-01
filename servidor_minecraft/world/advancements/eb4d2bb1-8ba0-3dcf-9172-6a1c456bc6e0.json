@@ -4994,6 +4994,7 @@
       "minecraft:windswept_hills": "2025-01-16 04:38:49 +0000",
       "minecraft:badlands": "2025-01-09 03:27:04 +0000",
       "minecraft:beach": "2024-12-21 03:31:26 +0000",
+      "minecraft:stony_peaks": "2025-02-01 04:26:43 +0000",
       "minecraft:sparse_jungle": "2025-01-03 04:33:10 +0000",
       "minecraft:river": "2024-12-21 04:01:01 +0000",
       "minecraft:stony_shore": "2025-01-07 03:30:00 +0000",
@@ -19384,6 +19385,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-02-01 04:26:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-02-01 04:32:47 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2025-02-01 03:36:43 +0000"
@@ -19399,6 +19412,12 @@
   "new_slab_variants:recipes/building_blocks/gray_terracotta_slab": {
     "criteria": {
       "has_gray_terracotta": "2025-02-01 03:27:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-02-01 04:34:09 +0000"
     },
     "done": true
   },
