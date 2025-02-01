@@ -5958,3 +5958,22 @@ java.lang.NullPointerException: Element not found: amount
 [01Feb2025 03:45:02.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 1545.500000, 120.500000, 330.500000]
 [01Feb2025 03:45:31.441] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/32706, l='ServerLevel[world]', x=13038.27, y=-26.00, z=8402.86]
 [01Feb2025 03:46:15.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[01Feb2025 03:46:37.964] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/33131, l='ServerLevel[world]', x=13045.76, y=39.00, z=8449.83]
+[01Feb2025 03:47:51.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[01Feb2025 03:48:00.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Caniac No More]
+[01Feb2025 03:48:05.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Caniac No More]
+[01Feb2025 03:49:58.859] [Server thread/WARN] [spawnermod/]: Key=alexscaves:caniac was not found when trying to access it! Returning 0
+[01Feb2025 03:50:17.072] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 03:50:17.073] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 03:50:19.130] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 03:50:19.131] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 03:50:23.117] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 03:50:23.119] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 03:50:23.120] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 03:50:25.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9440ms or 188 ticks behind
+[01Feb2025 03:50:58.520] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/33131, l='ServerLevel[world]', x=13045.76, y=39.00, z=8449.83]
+[01Feb2025 03:52:31.515] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/32706, l='ServerLevel[world]', x=13038.27, y=-26.00, z=8402.86]
+[01Feb2025 03:52:56.014] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 03:52:59.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3639ms or 72 ticks behind
+[01Feb2025 03:53:43.441] [pool-9-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga]] from pos BlockPos{x=13397, y=79, z=8629}
+[01Feb2025 03:53:48.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4463ms or 89 ticks behind

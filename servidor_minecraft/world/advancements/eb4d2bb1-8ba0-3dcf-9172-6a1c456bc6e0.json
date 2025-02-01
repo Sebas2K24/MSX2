@@ -19348,6 +19348,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-02-01 03:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_glazed_terracotta": {
     "criteria": {
       "has_pink_terracotta": "2025-02-01 03:26:57 +0000"

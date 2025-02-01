@@ -14357,6 +14357,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-02-01 03:48:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-01 03:43:43 +0000"
