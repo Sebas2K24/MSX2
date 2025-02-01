@@ -5722,3 +5722,126 @@ java.lang.NullPointerException: Element not found: amount
 [01Feb2025 02:49:32.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> el faro funcionaaa
 [01Feb2025 02:49:37.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> cooooool
 [01Feb2025 02:49:41.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajaja sip
+[01Feb2025 02:50:03.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> lastima que no habia nada bueno amor jajajaja
+[01Feb2025 02:50:07.913] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12867, l='ServerLevel[world]', x=10205.50, y=114.00, z=7406.50]
+[01Feb2025 02:50:08.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajja si amor
+[01Feb2025 02:50:15.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12915, l='ServerLevel[world]', x=10202.50, y=103.00, z=7345.50]
+[01Feb2025 02:50:20.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> esa casa esta como bajita verdad?
+[01Feb2025 02:50:21.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12932, l='ServerLevel[world]', x=10203.50, y=103.00, z=7345.50]
+[01Feb2025 02:50:46.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> +
+[01Feb2025 02:50:55.471] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13069, l='ServerLevel[world]', x=10155.50, y=122.00, z=7409.50]
+[01Feb2025 02:51:03.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajaja creo amor
+[01Feb2025 02:51:08.967] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13108, l='ServerLevel[world]', x=10176.50, y=102.00, z=7335.50]
+[01Feb2025 02:51:12.413] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13132, l='ServerLevel[world]', x=10160.50, y=120.00, z=7389.50]
+[01Feb2025 02:51:19.351] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:51:19.352] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:51:25.084] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:51:25.084] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/fast_drowned -> hopo:mobs/fast_drowned
+[01Feb2025 02:51:26.351] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:51:26.354] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:51:26.354] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:51:31.614] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13281, l='ServerLevel[world]', x=10198.50, y=96.00, z=7336.50]
+[01Feb2025 02:51:52.367] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13327, l='ServerLevel[world]', x=10174.50, y=115.00, z=7365.50]
+[01Feb2025 02:51:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> llegarooon
+[01Feb2025 02:51:59.966] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13380, l='ServerLevel[world]', x=10194.50, y=89.00, z=7321.50]
+[01Feb2025 02:52:08.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13530, l='ServerLevel[world]', x=10189.50, y=114.00, z=7408.50]
+[01Feb2025 02:52:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajaja perdon amor
+[01Feb2025 02:52:25.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13724, l='ServerLevel[world]', x=10181.50, y=86.00, z=7316.50]
+[01Feb2025 02:52:34.966] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13865, l='ServerLevel[world]', x=10202.50, y=114.00, z=7418.50]
+[01Feb2025 02:52:42.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> hay un pasaje aqui amor
+[01Feb2025 02:52:46.464] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13903, l='ServerLevel[world]', x=10203.50, y=103.00, z=7346.50]
+[01Feb2025 02:52:47.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> oooh
+[01Feb2025 02:52:51.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> que hacemos amor?
+[01Feb2025 02:52:55.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> pos revisar
+[01Feb2025 02:52:56.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajja
+[01Feb2025 02:53:17.513] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14262, l='ServerLevel[world]', x=10199.50, y=96.00, z=7337.50]
+[01Feb2025 02:53:22.512] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14275, l='ServerLevel[world]', x=10182.50, y=86.00, z=7316.50]
+[01Feb2025 02:53:33.912] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14330, l='ServerLevel[world]', x=10157.50, y=122.00, z=7409.50]
+[01Feb2025 02:53:50.367] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14364, l='ServerLevel[world]', x=10198.50, y=96.00, z=7337.50]
+[01Feb2025 02:54:08.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/12102, l='ServerLevel[world]', x=10118.30, y=117.00, z=7403.70] died, message: 'Butcher was shot by Pillager'
+[01Feb2025 02:54:57.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no hay mas na
+[01Feb2025 02:55:04.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> amoooor encontre otra tableta rosa
+[01Feb2025 02:55:08.764] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14518, l='ServerLevel[world]', x=10173.50, y=119.00, z=7391.50]
+[01Feb2025 02:55:11.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ohh que bien amor, tambien yo
+[01Feb2025 02:55:13.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> ajjajjaa
+[01Feb2025 02:55:16.017] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/14420, l='ServerLevel[world]', x=10192.08, y=75.00, z=7437.41]
+[01Feb2025 02:55:24.112] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14548, l='ServerLevel[world]', x=10189.50, y=114.00, z=7391.50]
+[01Feb2025 02:55:24.365] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14550, l='ServerLevel[world]', x=10172.50, y=119.00, z=7390.50]
+[01Feb2025 02:55:26.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14553, l='ServerLevel[world]', x=10156.50, y=122.00, z=7411.50]
+[01Feb2025 02:55:44.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14624, l='ServerLevel[world]', x=10201.50, y=114.00, z=7416.50]
+[01Feb2025 02:55:50.614] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14665, l='ServerLevel[world]', x=10189.50, y=114.00, z=7406.50]
+[01Feb2025 02:55:53.213] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14678, l='ServerLevel[world]', x=10141.50, y=123.00, z=7389.50]
+[01Feb2025 02:56:06.164] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14744, l='ServerLevel[world]', x=10189.50, y=114.00, z=7390.50]
+[01Feb2025 02:56:12.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> prosigamos amor
+[01Feb2025 02:56:12.365] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14760, l='ServerLevel[world]', x=10178.50, y=102.00, z=7333.50]
+[01Feb2025 02:56:24.266] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14833, l='ServerLevel[world]', x=10188.50, y=114.00, z=7406.50]
+[01Feb2025 02:56:35.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> jajajja si amor
+[01Feb2025 02:56:38.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajja que te ocurre amor?
+[01Feb2025 02:56:45.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> no se amor, me da gripe
+[01Feb2025 02:56:50.614] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14910, l='ServerLevel[world]', x=10172.50, y=119.00, z=7389.50]
+[01Feb2025 02:56:53.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> jajajajaja
+[01Feb2025 02:56:57.970] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/14420, l='ServerLevel[world]', x=10192.08, y=75.00, z=7437.41]
+[01Feb2025 02:57:06.611] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 02:57:06.616] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:57:06.617] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:57:17.264] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15290, l='ServerLevel[world]', x=10203.50, y=114.00, z=7416.50]
+[01Feb2025 02:58:03.923] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:58:03.923] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:58:05.594] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:58:09.449] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:58:16.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> corre amor
+[01Feb2025 02:58:49.252] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:58:49.252] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:58:50.955] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:58:50.955] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 02:58:52.095] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:58:52.096] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:58:53.744] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:58:55.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
+[01Feb2025 02:58:58.922] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:58:59.005] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:58:59.005] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 02:58:59.005] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:58:59.955] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:05.328] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:05.329] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:59:05.873] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:59:05.875] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:08.119] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[01Feb2025 02:59:14.289] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:14.289] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:59:14.289] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:59:16.999] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:17.000] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:59:18.659] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:18.659] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:59:19.909] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:59:19.909] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 02:59:19.909] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 02:59:19.975] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:19.975] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:59:22.193] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:59:22.195] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:22.195] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:59:31.004] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:31.007] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:31.008] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:31.010] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:31.011] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:59:31.011] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/drowned -> hopo:mobs/drowned
+[01Feb2025 02:59:31.011] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:59:31.672] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:31.672] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:59:39.117] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:39.117] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:59:41.210] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:41.212] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:41.214] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:41.216] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:41.216] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:59:41.217] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 02:59:41.217] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/drowned -> hopo:mobs/drowned
+[01Feb2025 02:59:43.105] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:59:45.184] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 02:59:45.188] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 02:59:45.188] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton

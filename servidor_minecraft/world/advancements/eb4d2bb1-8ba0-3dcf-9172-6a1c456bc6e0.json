@@ -19310,9 +19310,33 @@
     },
     "done": true
   },
+  "jcraft:recipes/combat/red_hat": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-01 02:52:05 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-02-01 02:37:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-02-01 02:48:23 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/kars_headwrap": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-01 02:52:05 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/puccis_hat": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-01 02:52:05 +0000"
     },
     "done": true
   },
