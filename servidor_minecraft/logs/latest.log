@@ -5996,3 +5996,24 @@ java.lang.NullPointerException: Element not found: amount
 [01Feb2025 04:06:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 12525.500000, 83.500000, 8434.500000]
 [01Feb2025 04:06:42.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved wrongly!
 [01Feb2025 04:06:44.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Create a Warp Portal]
+[01Feb2025 04:09:02.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [Use a Warp Portal]
+[01Feb2025 04:09:03.584] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 04:09:03.586] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 04:09:03.587] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 04:09:03.587] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/drowned -> hopo:mobs/drowned
+[01Feb2025 04:09:04.350] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 04:09:04.350] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 04:09:04.350] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 04:09:04.350] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[01Feb2025 04:09:08.558] [Worker-Main-73/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 04:09:08.558] [Worker-Main-73/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[01Feb2025 04:09:09.610] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 04:09:09.610] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/fast_drowned -> hopo:mobs/fast_drowned
+[01Feb2025 04:09:09.610] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 04:09:12.535] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[01Feb2025 04:09:14.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11853ms or 237 ticks behind
+[01Feb2025 04:09:42.908] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/39034, l='ServerLevel[world]', x=224.39, y=73.00, z=32.38]
+[01Feb2025 04:09:59.360] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -31 -56 2116 in 3s
+[01Feb2025 04:09:59.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3114ms or 62 ticks behind
+[01Feb2025 04:10:18.546] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:toxic_caves took 4981 ms
+[01Feb2025 04:10:18.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4341ms or 86 ticks behind

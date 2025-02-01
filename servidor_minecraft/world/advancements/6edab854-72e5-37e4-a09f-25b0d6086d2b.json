@@ -14381,6 +14381,12 @@
     },
     "done": true
   },
+  "warp_portals:create_portal": {
+    "criteria": {
+      "warp_portals_forge_wand": "2025-02-01 04:06:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-01 03:43:43 +0000"
@@ -14546,6 +14552,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-01 03:43:43 +0000"
+    },
+    "done": true
+  },
+  "warp_portals:use_portal": {
+    "criteria": {
+      "warp_portals_forge_wand": "2025-02-01 04:09:02 +0000"
     },
     "done": true
   },
