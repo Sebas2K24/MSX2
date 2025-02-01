@@ -6120,3 +6120,13 @@ java.lang.NullPointerException: Element not found: amount
 [01Feb2025 05:17:17.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
 [01Feb2025 05:17:41.436] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'hopo:portal_deepslate' in chunk [1, 173], discarding
 [01Feb2025 05:17:42.573] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=199, y=8, z=2625}
+[01Feb2025 05:19:31.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[01Feb2025 05:20:32.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to -136.500000, -4.500000, 2428.500000]
+[01Feb2025 05:20:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[01Feb2025 05:22:12.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to -93.500000, -8.500000, 2465.500000]
+[01Feb2025 05:23:39.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 224.500000, 100.500000, 191.500000]
+[01Feb2025 05:23:44.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[01Feb2025 05:24:22.792] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at -4807 -34 -291 in 2s
+[01Feb2025 05:25:06.766] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[01Feb2025 05:25:28.523] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:abyssal_chasm took 30937 ms
+[01Feb2025 05:25:28.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30924ms or 618 ticks behind
