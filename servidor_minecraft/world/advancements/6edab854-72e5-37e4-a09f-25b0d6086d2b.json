@@ -5415,6 +5415,7 @@
       "minecraft:snowy_beach": "2025-01-23 05:09:10 +0000",
       "minecraft:warm_ocean": "2025-01-27 05:23:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 04:31:30 +0000",
+      "minecraft:deep_dark": "2025-02-01 04:36:25 +0000",
       "minecraft:plains": "2025-01-03 03:37:08 +0000"
     },
     "done": false
@@ -14527,6 +14528,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-02-01 04:38:55 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2025-02-01 03:38:17 +0000"
@@ -14614,6 +14621,12 @@
   "cfm:recipes/decorations/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-01 03:43:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-01 04:36:25 +0000"
     },
     "done": true
   },

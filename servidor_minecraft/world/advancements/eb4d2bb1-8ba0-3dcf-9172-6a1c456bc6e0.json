@@ -19349,6 +19349,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/black_concrete_slab": {
+    "criteria": {
+      "has_black_concrete": "2025-02-01 04:43:41 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-02-01 03:32:35 +0000"
@@ -19376,6 +19382,18 @@
   "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
       "licowitch_tower": "2025-02-01 03:39:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2025-02-01 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-02-01 04:34:53 +0000"
     },
     "done": true
   },
@@ -19451,9 +19469,27 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/short_iron_door": {
+    "criteria": {
+      "has_items": "2025-02-01 04:37:44 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/frostmint_spear": {
     "criteria": {
       "deep_sea_sushi_roll": "2025-02-01 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_iron_door": {
+    "criteria": {
+      "has_items": "2025-02-01 04:37:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-02-01 04:43:41 +0000"
     },
     "done": true
   },
@@ -19462,6 +19498,12 @@
       "has_cobweb": "2025-02-01 03:56:40 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "helmet": "2025-02-01 04:37:52 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {

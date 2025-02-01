@@ -6095,3 +6095,8 @@ java.lang.NullPointerException: Element not found: amount
 [01Feb2025 04:32:47.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Smelly Situation]
 [01Feb2025 04:34:09.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Uranium Fever]
 [01Feb2025 04:34:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Bath Bomb]
+[01Feb2025 04:37:54.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Gassed Up]
+[01Feb2025 04:38:45.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> xaero-waypoint:Shared Location:S:164:-49:2141:3:false:0:Internal-overworld-waypoints
+[01Feb2025 04:38:55.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has reached the goal [A Metropolis of Restless Souls]
+[01Feb2025 04:39:45.491] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=378, y=-28, z=2432}
+[01Feb2025 04:40:28.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
