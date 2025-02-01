@@ -5977,3 +5977,22 @@ java.lang.NullPointerException: Element not found: amount
 [01Feb2025 03:52:59.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3639ms or 72 ticks behind
 [01Feb2025 03:53:43.441] [pool-9-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga]] from pos BlockPos{x=13397, y=79, z=8629}
 [01Feb2025 03:53:48.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4463ms or 89 ticks behind
+[01Feb2025 03:57:18.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 224.500000, 100.500000, 191.500000]
+[01Feb2025 03:57:23.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[01Feb2025 03:57:52.163] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MagiciansRedEntity['Magicians Red'/39204, l='ServerLevel[world]', x=121.34, y=24.00, z=170.05]
+[01Feb2025 04:03:29.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 12525.500000, 83.500000, 8434.500000]
+[01Feb2025 04:03:30.114] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/27249, l='ServerLevel[world]', x=12574.53, y=6.00, z=8476.50]
+[01Feb2025 04:03:30.374] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created SilverChariotEntity['Silver Chariot'/27155, l='ServerLevel[world]', x=12498.46, y=58.00, z=8521.50]
+[01Feb2025 04:03:41.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: The difficulty has been set to Peaceful]
+[01Feb2025 04:03:41.370] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheHandEntity['The Hand'/38997, l='ServerLevel[world]', x=112.45, y=24.90, z=233.44]
+[01Feb2025 04:03:41.371] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheFoolEntity['The Fool'/39101, l='ServerLevel[world]', x=116.50, y=44.00, z=177.53]
+[01Feb2025 04:03:41.371] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/39102, l='ServerLevel[world]', x=120.19, y=44.00, z=182.22]
+[01Feb2025 04:04:05.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Create a Warp Portal]
+[01Feb2025 04:04:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Use a Warp Portal]
+[01Feb2025 04:04:09.747] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[01Feb2025 04:04:09.987] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/fast_drowned -> hopo:mobs/fast_drowned
+[01Feb2025 04:04:16.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6601ms or 132 ticks behind
+[01Feb2025 04:05:18.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 12525.500000, 83.500000, 8434.500000]
+[01Feb2025 04:06:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 12525.500000, 83.500000, 8434.500000]
+[01Feb2025 04:06:42.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved wrongly!
+[01Feb2025 04:06:44.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Create a Warp Portal]

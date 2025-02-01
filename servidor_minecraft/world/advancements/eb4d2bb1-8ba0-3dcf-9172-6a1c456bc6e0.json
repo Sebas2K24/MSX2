@@ -19342,6 +19342,12 @@
     },
     "done": true
   },
+  "adhooks:recipes/tools/web_hook": {
+    "criteria": {
+      "has_item": "2025-02-01 03:56:40 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-02-01 03:32:35 +0000"
@@ -19357,6 +19363,12 @@
   "minecraft:recipes/decorations/pink_glazed_terracotta": {
     "criteria": {
       "has_pink_terracotta": "2025-02-01 03:26:57 +0000"
+    },
+    "done": true
+  },
+  "warp_portals:create_portal": {
+    "criteria": {
+      "warp_portals_forge_wand": "2025-02-01 04:04:05 +0000"
     },
     "done": true
   },
@@ -19390,6 +19402,12 @@
     },
     "done": true
   },
+  "warp_portals:use_portal": {
+    "criteria": {
+      "warp_portals_forge_wand": "2025-02-01 04:04:09 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
       "cave_book": "2025-02-01 03:36:54 +0000"
@@ -19417,6 +19435,18 @@
   "alexscaves:alexscaves/frostmint_spear": {
     "criteria": {
       "deep_sea_sushi_roll": "2025-02-01 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-02-01 03:56:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-02-01 03:56:40 +0000"
     },
     "done": true
   },
