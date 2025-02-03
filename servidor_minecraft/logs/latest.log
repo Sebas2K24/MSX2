@@ -5938,3 +5938,7 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [03Feb2025 04:40:54.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Applied effect Water Breathing to Aarkanen]
 [03Feb2025 04:41:03.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Applied effect Water Breathing to Sebas2K24]
 [03Feb2025 04:41:38.387] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/17326, l='ServerLevel[world]', x=9703.50, y=12.79, z=6927.50]
+[03Feb2025 04:43:19.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[03Feb2025 04:51:12.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[03Feb2025 04:52:23.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[03Feb2025 04:52:40.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
