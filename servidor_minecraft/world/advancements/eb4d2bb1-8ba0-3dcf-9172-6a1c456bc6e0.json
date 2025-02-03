@@ -19566,6 +19566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-02-03 04:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-02-03 03:17:48 +0000"
@@ -19590,15 +19596,39 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/raw_gold_block_slab": {
+    "criteria": {
+      "has_raw_gold_block": "2025-02-03 04:51:31 +0000"
+    },
+    "done": true
+  },
   "celestisynth:obtain_rainfall_serenity": {
     "criteria": {
       "criteria": "2025-02-03 04:10:31 +0000"
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/raw_iron_block_slab": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-03 04:50:14 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/quill": {
     "criteria": {
       "has_tag_a": "2025-02-03 03:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-03 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+    "criteria": {
+      "requirement": "2025-02-03 04:56:34 +0000"
     },
     "done": true
   },
@@ -19611,6 +19641,12 @@
   "celestisynth:recipes/misc/lunar_scrap_smelting": {
     "criteria": {
       "has_item": "2025-02-03 03:52:26 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/diamond_block_slab": {
+    "criteria": {
+      "has_diamond_block": "2025-02-03 04:50:09 +0000"
     },
     "done": true
   },
