@@ -5952,3 +5952,8 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [03Feb2025 04:59:48.291] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created GoldExperienceEntity['Gold Experience'/18944, l='ServerLevel[world]', x=220.60, y=56.00, z=215.15]
 [03Feb2025 05:00:03.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
 [03Feb2025 05:02:10.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has completed the challenge [Find: The column temple]
+[03Feb2025 05:06:44.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[03Feb2025 05:09:20.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: The difficulty has been set to Normal]
+[03Feb2025 05:10:58.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[03Feb2025 05:12:03.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aarkanen moved wrongly!
+[03Feb2025 05:13:36.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Ally Enhancer]
