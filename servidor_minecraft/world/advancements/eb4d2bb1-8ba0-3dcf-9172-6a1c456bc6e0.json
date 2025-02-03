@@ -19632,6 +19632,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ally_enhancer": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 05:13:36 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/silent_quiver": {
     "criteria": {
       "has_feather": "2025-02-03 03:24:34 +0000"

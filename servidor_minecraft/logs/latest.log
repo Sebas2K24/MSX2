@@ -5957,3 +5957,4 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [03Feb2025 05:10:58.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
 [03Feb2025 05:12:03.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aarkanen moved wrongly!
 [03Feb2025 05:13:36.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [Ally Enhancer]
+[03Feb2025 05:14:34.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved wrongly!
