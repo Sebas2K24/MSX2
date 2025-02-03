@@ -14354,15 +14354,33 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+  "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
-      "has_bucket": "2025-02-01 03:43:43 +0000"
+      "cave_book": "2025-02-01 03:36:11 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_caniac": {
+  "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
-      "killed": "2025-02-01 03:48:00 +0000"
+      "gingerbread_town": "2025-02-01 03:38:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-02-01 03:39:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-02-01 03:39:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-02-01 03:43:43 +0000"
     },
     "done": true
   },
@@ -14381,12 +14399,6 @@
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-01 03:43:43 +0000"
-    },
-    "done": true
-  },
-  "warp_portals:create_portal": {
-    "criteria": {
-      "warp_portals_forge_wand": "2025-02-01 04:06:44 +0000"
     },
     "done": true
   },
@@ -14426,12 +14438,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/licowitch_tower": {
-    "criteria": {
-      "licowitch_tower": "2025-02-01 03:39:14 +0000"
-    },
-    "done": true
-  },
   "trashcans:recipes/misc/liquid_trash_can": {
     "criteria": {
       "recipe_condition": "2025-02-01 03:43:43 +0000"
@@ -14459,12 +14465,6 @@
   "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-01 03:43:43 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_acid_with_armor": {
-    "criteria": {
-      "enter_acid_with_armor": "2025-02-01 04:31:44 +0000"
     },
     "done": true
   },
@@ -14528,24 +14528,6 @@
     },
     "done": true
   },
-  "deeperdarker:main/find_ancient_city": {
-    "criteria": {
-      "ancient_city": "2025-02-01 04:38:55 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_town": {
-    "criteria": {
-      "gingerbread_town": "2025-02-01 03:38:17 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_purple_soda": {
-    "criteria": {
-      "in_purple_soda": "2025-02-01 03:39:35 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-01 03:43:43 +0000"
@@ -14570,21 +14552,9 @@
     },
     "done": true
   },
-  "warp_portals:use_portal": {
-    "criteria": {
-      "warp_portals_forge_wand": "2025-02-01 04:09:02 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/purple_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-01 03:43:43 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2025-02-01 03:36:11 +0000"
     },
     "done": true
   },
@@ -14621,12 +14591,6 @@
   "cfm:recipes/decorations/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-01 03:43:43 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-02-01 04:36:25 +0000"
     },
     "done": true
   },
@@ -14693,6 +14657,42 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-01 03:43:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-02-01 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "warp_portals:create_portal": {
+    "criteria": {
+      "warp_portals_forge_wand": "2025-02-01 04:06:44 +0000"
+    },
+    "done": true
+  },
+  "warp_portals:use_portal": {
+    "criteria": {
+      "warp_portals_forge_wand": "2025-02-01 04:09:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-02-01 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-01 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-02-01 04:38:55 +0000"
     },
     "done": true
   },
