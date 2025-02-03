@@ -5557,3 +5557,5 @@ java.lang.NullPointerException: Element not found: amount
 [03Feb2025 03:07:18.850] [Server thread/INFO] [Jade/]: Syncing config to Aarkanen (6edab854-72e5-37e4-a09f-25b0d6086d2b)
 [03Feb2025 03:09:37.683] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
 [03Feb2025 03:09:59.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Removed every effect from Aarkanen]
+[03Feb2025 03:17:48.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [The Parrots and the Bats]
+[03Feb2025 03:21:51.686] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/2690, l='ServerLevel[world]', x=259.66, y=34.00, z=293.51]
