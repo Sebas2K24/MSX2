@@ -5599,3 +5599,8 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23789!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23789!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03Feb2025 03:55:13.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Local Brewery]
+[03Feb2025 04:02:23.986] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Stopping the profiler & uploading results, please wait...
+[03Feb2025 04:02:27.950] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Profiler stopped & upload complete!
+[03Feb2025 04:02:27.952] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: https://spark.lucko.me/XARwNEtPmm
+[03Feb2025 04:02:27.956] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)
