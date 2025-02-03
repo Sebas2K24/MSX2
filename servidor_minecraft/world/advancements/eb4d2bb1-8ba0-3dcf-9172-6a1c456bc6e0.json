@@ -19553,6 +19553,12 @@
     },
     "done": true
   },
+  "celestisynth:obtain_crescentia": {
+    "criteria": {
+      "criteria": "2025-02-03 04:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-02-03 03:55:13 +0000"
@@ -19580,6 +19586,12 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-02-03 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_rainfall_serenity": {
+    "criteria": {
+      "criteria": "2025-02-03 04:10:31 +0000"
     },
     "done": true
   },
