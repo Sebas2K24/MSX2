@@ -5559,3 +5559,4 @@ java.lang.NullPointerException: Element not found: amount
 [03Feb2025 03:09:59.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Removed every effect from Aarkanen]
 [03Feb2025 03:17:48.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [The Parrots and the Bats]
 [03Feb2025 03:21:51.686] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/2690, l='ServerLevel[world]', x=259.66, y=34.00, z=293.51]
+[03Feb2025 03:38:07.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Alex's Mobs]
