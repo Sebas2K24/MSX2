@@ -5604,3 +5604,4 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [03Feb2025 04:02:27.950] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Profiler stopped & upload complete!
 [03Feb2025 04:02:27.952] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: https://spark.lucko.me/XARwNEtPmm
 [03Feb2025 04:02:27.956] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)
+[03Feb2025 04:04:40.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has made the advancement [Local Brewery]
