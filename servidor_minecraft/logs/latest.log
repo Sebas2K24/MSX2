@@ -5626,3 +5626,13 @@ java.lang.NullPointerException: Element not found: amount
 [08Feb2025 05:16:23.636] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/100458, l='ServerLevel[world]', x=13985.51, y=126.00, z=8216.62]
 [08Feb2025 05:17:18.135] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/101615, l='ServerLevel[world]', x=14168.51, y=148.00, z=8261.64]
 [08Feb2025 05:19:25.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 213.500000, 79.500000, 195.500000]
+[08Feb2025 05:22:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[08Feb2025 05:23:48.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 213.500000, 79.500000, 195.500000]
+[08Feb2025 05:24:47.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> xaero-waypoint:Shared Location:S:14598:144:8248:14:false:0:Internal-overworld-waypoints
+[08Feb2025 05:24:54.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[08Feb2025 05:24:54.436] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/106207, l='ServerLevel[world]', x=14549.28, y=106.00, z=8326.13]
+[08Feb2025 05:24:54.440] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/105350, l='ServerLevel[world]', x=14673.67, y=80.00, z=8185.94]
+[08Feb2025 05:29:03.082] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/116629, l='ServerLevel[world]', x=299.01, y=25.00, z=114.37]
+[08Feb2025 05:29:14.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Gave 3000 experience points to Sebas2K24]
+[08Feb2025 05:30:05.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Begone, Flux]
+[08Feb2025 05:30:05.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Enchanter]
