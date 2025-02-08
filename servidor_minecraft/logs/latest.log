@@ -5592,3 +5592,18 @@ java.lang.NullPointerException: Element not found: amount
 [08Feb2025 04:19:02.770] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0
 [08Feb2025 04:19:02.776] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [08Feb2025 04:19:02.777] [Server thread/INFO] [Jade/]: Syncing config to Sebas2K24 (eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0)
+[08Feb2025 04:20:43.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[08Feb2025 04:22:34.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[08Feb2025 04:22:37.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[08Feb2025 04:24:11.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[08Feb2025 04:24:53.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> reload
+[08Feb2025 04:25:15.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[08Feb2025 04:25:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Black or White]
+[08Feb2025 04:28:02.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 213.500000, 79.500000, 195.500000]
+[08Feb2025 04:28:32.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[08Feb2025 04:28:39.409] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Stopping the profiler & uploading results, please wait...
+[08Feb2025 04:28:42.109] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Profiler stopped & upload complete!
+[08Feb2025 04:28:42.111] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: https://spark.lucko.me/AWlloK0xxX
+[08Feb2025 04:28:42.114] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)
+[08Feb2025 04:29:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 12734.500000, 89.500000, 8606.500000]
+[08Feb2025 04:29:33.066] [Worker-Main-16/INFO] [TerraBlenderFix/]: Optimizing surface rules
