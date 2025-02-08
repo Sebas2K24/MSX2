@@ -5607,3 +5607,10 @@ java.lang.NullPointerException: Element not found: amount
 [08Feb2025 04:28:42.114] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)
 [08Feb2025 04:29:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 12734.500000, 89.500000, 8606.500000]
 [08Feb2025 04:29:33.066] [Worker-Main-16/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[08Feb2025 04:29:36.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[08Feb2025 04:30:27.701] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands]] from pos BlockPos{x=12853, y=87, z=8629}
+[08Feb2025 04:32:02.254] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[08Feb2025 04:32:02.262] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[08Feb2025 04:32:28.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 was slain by Aarkanen
+[08Feb2025 04:32:29.021] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[08Feb2025 04:32:34.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
