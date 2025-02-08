@@ -5618,3 +5618,5 @@ java.lang.NullPointerException: Element not found: amount
 [08Feb2025 04:47:30.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3689ms or 73 ticks behind
 [08Feb2025 04:48:22.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36546ms or 730 ticks behind
 [08Feb2025 04:59:00.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved wrongly!
+[08Feb2025 05:04:41.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Back to childhood]
+[08Feb2025 05:04:41.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Not even afraid of death]

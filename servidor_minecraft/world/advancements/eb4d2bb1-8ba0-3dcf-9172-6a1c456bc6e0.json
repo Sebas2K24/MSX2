@@ -19723,9 +19723,105 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
+    "criteria": {
+      "has_slime_block": "2025-02-08 05:03:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-02-08 05:00:51 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/slime_block_slab": {
+    "criteria": {
+      "has_slime_block": "2025-02-08 05:03:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-02-08 05:04:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-02-08 05:03:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-02-08 05:04:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_grave_marble": {
     "criteria": {
       "has_grave_marble": "2025-02-08 04:25:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-08 05:02:47 +0000"
     },
     "done": true
   },

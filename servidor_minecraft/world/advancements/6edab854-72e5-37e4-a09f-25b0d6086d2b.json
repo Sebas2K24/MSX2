@@ -14729,5 +14729,41 @@
     },
     "done": true
   },
+  "mcwlights:recipes/redstone_slab": {
+    "criteria": {
+      "has_wood": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "has_wood": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-02-08 05:00:45 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/redstone_lamp_slab": {
+    "criteria": {
+      "has_redstone_lamp": "2025-02-08 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "adhooks:recipes/tools/prototype_launcher": {
+    "criteria": {
+      "has_item": "2025-02-08 05:02:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-02-08 05:02:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
