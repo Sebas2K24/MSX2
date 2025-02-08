@@ -5620,3 +5620,9 @@ java.lang.NullPointerException: Element not found: amount
 [08Feb2025 04:59:00.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebas2K24 moved wrongly!
 [08Feb2025 05:04:41.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Back to childhood]
 [08Feb2025 05:04:41.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Not even afraid of death]
+[08Feb2025 05:13:38.985] [Server thread/WARN] [spawnermod/]: Key=alexscaves:caramel_cube was not found when trying to access it! Returning 0
+[08Feb2025 05:15:46.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[08Feb2025 05:16:21.301] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/100420, l='ServerLevel[world]', x=13993.78, y=77.00, z=8306.19]
+[08Feb2025 05:16:23.636] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/100458, l='ServerLevel[world]', x=13985.51, y=126.00, z=8216.62]
+[08Feb2025 05:17:18.135] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KingCrimsonEntity['King Crimson'/101615, l='ServerLevel[world]', x=14168.51, y=148.00, z=8261.64]
+[08Feb2025 05:19:25.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 213.500000, 79.500000, 195.500000]
