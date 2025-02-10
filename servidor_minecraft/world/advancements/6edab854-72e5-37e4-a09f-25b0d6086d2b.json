@@ -14798,5 +14798,11 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-02-10 03:06:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

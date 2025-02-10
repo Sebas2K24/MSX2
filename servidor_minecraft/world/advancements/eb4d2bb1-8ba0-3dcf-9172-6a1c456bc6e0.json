@@ -19851,5 +19851,11 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/stripped_dark_oak_wood_slab": {
+    "criteria": {
+      "has_stripped_dark_oak_wood": "2025-02-10 03:08:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
