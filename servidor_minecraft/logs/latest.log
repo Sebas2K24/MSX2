@@ -5607,3 +5607,6 @@ java.lang.NullPointerException: Element not found: amount
 [10Feb2025 03:14:30.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> te llamare amor
 [10Feb2025 03:16:13.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> te llame amor
 [10Feb2025 03:16:35.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> oh voy amor, disculpa amor
+[10Feb2025 03:18:45.356] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/1588, l='ServerLevel[world]', x=310.26, y=19.42, z=130.00]
+[10Feb2025 03:20:04.341] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/1992, l='ServerLevel[world]', x=174.87, y=81.00, z=274.57]
+[10Feb2025 03:20:04.342] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/1562, l='ServerLevel[world]', x=157.52, y=41.00, z=277.69]
