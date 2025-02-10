@@ -5813,3 +5813,9 @@ java.lang.NullPointerException: Element not found: amount
 [10Feb2025 04:45:49.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 213.500000, 79.500000, 195.500000]
 [10Feb2025 04:46:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
 [10Feb2025 04:46:16.174] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/37068, l='ServerLevel[world]', x=174.49, y=82.00, z=283.50]
+[10Feb2025 04:55:24.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aarkanen lost connection: Disconnected
+[10Feb2025 04:55:24.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen left the game
+[10Feb2025 04:55:24.821] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b
+[10Feb2025 04:55:24.870] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Feb2025 04:55:27.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> i
+[10Feb2025 04:58:24.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 213.500000, 79.500000, 195.500000]
