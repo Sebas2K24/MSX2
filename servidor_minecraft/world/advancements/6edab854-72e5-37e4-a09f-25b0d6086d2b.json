@@ -9857,7 +9857,8 @@
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
       "locate_shipwreck": "2025-01-07 03:09:14 +0000",
-      "locate_underwater_small_ruins": "2025-01-03 04:25:10 +0000"
+      "locate_underwater_small_ruins": "2025-01-03 04:25:10 +0000",
+      "locate_ruin_cold": "2025-02-10 04:03:40 +0000"
     },
     "done": false
   },
@@ -11125,6 +11126,7 @@
   "repurposed_structures:villages": {
     "criteria": {
       "in_village_cherry": "2025-02-08 04:47:08 +0000",
+      "in_village_ocean": "2025-02-10 03:58:35 +0000",
       "in_village_oak": "2025-02-10 03:46:31 +0000",
       "in_village_jungle": "2025-01-05 04:44:03 +0000"
     },
