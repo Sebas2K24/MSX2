@@ -5780,3 +5780,17 @@ java.lang.NullPointerException: Element not found: amount
 [10Feb2025 04:17:26.746] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/31982, l='ServerLevel[world]', x=12591.51, y=81.00, z=8399.49]
 [10Feb2025 04:17:26.781] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/31982, l='ServerLevel[world]', x=12591.51, y=81.00, z=8399.49]
 [10Feb2025 04:26:39.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [A Small Cemetery]
+[10Feb2025 04:35:28.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 9740.500000, 107.500000, 6728.500000]
+[10Feb2025 04:35:29.068] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/32365, l='ServerLevel[world]', x=311.44, y=19.00, z=135.16]
+[10Feb2025 04:35:42.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[10Feb2025 04:36:14.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Applied effect Night Vision to Aarkanen]
+[10Feb2025 04:36:28.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has completed the challenge [Find: Temple quad]
+[10Feb2025 04:36:51.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[10Feb2025 04:37:26.036] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[10Feb2025 04:37:26.041] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[10Feb2025 04:37:27.975] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:frilled_shark was not found when trying to access it! Returning 0
+[10Feb2025 04:37:40.236] [Server thread/WARN] [tombstone/]: The death event of the player Aarkanen was canceled by another mod
+[10Feb2025 04:37:40.248] [Server thread/INFO] [tombstone/]: The player Aarkanen has successfully been saved
+[10Feb2025 04:38:03.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 was slain by Aarkanen
+[10Feb2025 04:38:27.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[10Feb2025 04:38:32.574] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:blobfish was not found when trying to access it! Returning 0
