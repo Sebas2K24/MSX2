@@ -11125,6 +11125,7 @@
   "repurposed_structures:villages": {
     "criteria": {
       "in_village_cherry": "2025-02-08 04:47:08 +0000",
+      "in_village_oak": "2025-02-10 03:46:31 +0000",
       "in_village_jungle": "2025-01-05 04:44:03 +0000"
     },
     "done": false
