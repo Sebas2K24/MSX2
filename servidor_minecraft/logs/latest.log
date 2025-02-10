@@ -5779,3 +5779,4 @@ java.lang.NullPointerException: Element not found: amount
 [10Feb2025 04:17:26.746] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/31983, l='ServerLevel[world]', x=12463.84, y=37.00, z=8521.65]
 [10Feb2025 04:17:26.746] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/31982, l='ServerLevel[world]', x=12591.51, y=81.00, z=8399.49]
 [10Feb2025 04:17:26.781] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/31982, l='ServerLevel[world]', x=12591.51, y=81.00, z=8399.49]
+[10Feb2025 04:26:39.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has reached the goal [A Small Cemetery]
