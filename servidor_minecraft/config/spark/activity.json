@@ -5,6 +5,19 @@
       "name": "Sebas2K24",
       "uniqueId": "eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0"
     },
+    "time": 1739156659628,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/noA7n1uYBD"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Sebas2K24",
+      "uniqueId": "eb4d2bb1-8ba0-3dcf-9172-6a1c456bc6e0"
+    },
     "time": 1738988922111,
     "type": "Profiler",
     "data": {

@@ -14732,6 +14732,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-02-08 05:00:45 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/redstone_slab": {
     "criteria": {
       "has_wood": "2025-02-08 05:02:47 +0000"
@@ -14741,12 +14747,6 @@
   "mcwlights:recipes/lamps_ceilings": {
     "criteria": {
       "has_wood": "2025-02-08 05:02:47 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_small_blimp": {
-    "criteria": {
-      "location0": "2025-02-08 05:00:45 +0000"
     },
     "done": true
   },
@@ -14765,6 +14765,36 @@
   "sophisticatedstorage:recipes/misc/storage_link": {
     "criteria": {
       "has_repeater": "2025-02-08 05:02:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-02-08 05:33:51 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-02-08 05:33:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-02-08 05:33:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-02-08 05:33:51 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-02-08 05:33:51 +0000"
     },
     "done": true
   },
