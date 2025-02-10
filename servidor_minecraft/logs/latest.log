@@ -5794,3 +5794,22 @@ java.lang.NullPointerException: Element not found: amount
 [10Feb2025 04:38:03.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 was slain by Aarkanen
 [10Feb2025 04:38:27.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
 [10Feb2025 04:38:32.574] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:blobfish was not found when trying to access it! Returning 0
+[10Feb2025 04:38:36.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[10Feb2025 04:38:40.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen has completed the challenge [Almost Unkillable]
+[10Feb2025 04:38:40.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen was killed by The Leviathan using magic
+[10Feb2025 04:38:46.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[10Feb2025 04:39:17.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has completed the challenge [A Multidimensional Predator]
+[10Feb2025 04:39:45.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[10Feb2025 04:39:45.173] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/34965, l='ServerLevel[world]', x=253.49, y=65.00, z=99.62]
+[10Feb2025 04:39:46.272] [Server thread/WARN] [tombstone/]: The death event of the player Sebas2K24 was canceled by another mod
+[10Feb2025 04:39:46.275] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[10Feb2025 04:39:56.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 drowned
+[10Feb2025 04:39:56.288] [Server thread/INFO] [tombstone/]: The player Sebas2K24 has successfully been saved
+[10Feb2025 04:40:04.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[10Feb2025 04:40:23.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Applied effect Night Vision to Aarkanen]
+[10Feb2025 04:40:28.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Applied effect Water Breathing to Aarkanen]
+[10Feb2025 04:40:46.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Applied effect Water Breathing to Sebas2K24]
+[10Feb2025 04:44:32.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[10Feb2025 04:45:49.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 213.500000, 79.500000, 195.500000]
+[10Feb2025 04:46:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to Aarkanen]
+[10Feb2025 04:46:16.174] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created D4CEntity['Dirty Deeds Done Dirt Cheap'/37068, l='ServerLevel[world]', x=174.49, y=82.00, z=283.50]

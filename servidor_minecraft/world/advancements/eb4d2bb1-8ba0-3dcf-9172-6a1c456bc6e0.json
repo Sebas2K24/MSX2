@@ -19854,6 +19854,12 @@
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_temple_quad/find_normal": {
+    "criteria": {
+      "requirement": "2025-02-10 04:36:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-02-10 03:30:59 +0000"
@@ -19893,6 +19899,12 @@
   "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-02-10 03:30:59 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-02-10 04:39:17 +0000"
     },
     "done": true
   },
