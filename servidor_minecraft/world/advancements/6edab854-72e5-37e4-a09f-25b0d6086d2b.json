@@ -14807,9 +14807,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/almost_unkillable": {
+  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
     "criteria": {
-      "coded_trigger": "2025-02-10 04:38:40 +0000"
+      "has_cracked_stone_bricks": "2025-02-10 03:35:56 +0000"
     },
     "done": true
   },
@@ -14819,9 +14819,9 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
+  "tombstone:adventure/almost_unkillable": {
     "criteria": {
-      "has_cracked_stone_bricks": "2025-02-10 03:35:56 +0000"
+      "coded_trigger": "2025-02-10 04:38:40 +0000"
     },
     "done": true
   },

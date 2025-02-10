@@ -5819,3 +5819,20 @@ java.lang.NullPointerException: Element not found: amount
 [10Feb2025 04:55:24.870] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [10Feb2025 04:55:27.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sebas2K24> i
 [10Feb2025 04:58:24.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 213.500000, 79.500000, 195.500000]
+[10Feb2025 05:00:28.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aarkanen[/100.106.28.96:63681] logged in with entity id 38334 at (9718.210974864787, 22.0, 6729.911376466342)
+[10Feb2025 05:00:28.416] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Aarkanen
+[10Feb2025 05:00:28.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Aarkanen
+[10Feb2025 05:00:28.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Aarkanen
+[10Feb2025 05:00:28.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Aarkanen
+[10Feb2025 05:00:28.419] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Aarkanen
+[10Feb2025 05:00:28.421] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Aarkanen
+[10Feb2025 05:00:28.422] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Aarkanen
+[10Feb2025 05:00:28.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aarkanen joined the game
+[10Feb2025 05:00:28.537] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6edab854-72e5-37e4-a09f-25b0d6086d2b
+[10Feb2025 05:00:28.553] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[10Feb2025 05:00:28.554] [Server thread/INFO] [Jade/]: Syncing config to Aarkanen (6edab854-72e5-37e4-a09f-25b0d6086d2b)
+[10Feb2025 05:01:00.624] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/32365, l='ServerLevel[world]', x=311.44, y=19.00, z=135.16]
+[10Feb2025 05:01:13.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[10Feb2025 05:01:13.220] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/38430, l='ServerLevel[world]', x=9648.69, y=-16.00, z=6732.64]
+[10Feb2025 05:01:13.270] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/38430, l='ServerLevel[world]', x=9648.69, y=-16.00, z=6732.64]
+[10Feb2025 05:05:12.571] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/34965, l='ServerLevel[world]', x=253.49, y=65.00, z=99.62]
