@@ -5610,3 +5610,53 @@ java.lang.NullPointerException: Element not found: amount
 [10Feb2025 03:18:45.356] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created ShadowTheWorldEntity['Shadow The World'/1588, l='ServerLevel[world]', x=310.26, y=19.42, z=130.00]
 [10Feb2025 03:20:04.341] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created StarPlatinumEntity['Star Platinum'/1992, l='ServerLevel[world]', x=174.87, y=81.00, z=274.57]
 [10Feb2025 03:20:04.342] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created KillerQueenEntity['Killer Queen'/1562, l='ServerLevel[world]', x=157.52, y=41.00, z=277.69]
+[10Feb2025 03:30:25.613] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:blue_jay was not found when trying to access it! Returning 0
+[10Feb2025 03:33:28.125] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Father Shadows'/4133, l='ServerLevel[world]', x=12383.70, y=-39.00, z=8415.30] died: Father Shadows was slain by Sebas2K24
+[10Feb2025 03:33:50.672] [Worker-Main-3/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[10Feb2025 03:34:38.610] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 03:34:38.610] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[10Feb2025 03:36:01.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas2K24 has made the advancement [Quite the Renovation]
+[10Feb2025 03:37:19.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> xaero-waypoint:Waypoint:X:12352:37:8191:2:false:0:Internal-overworld-waypoints
+[10Feb2025 03:37:56.819] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 03:37:56.820] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[10Feb2025 03:37:57.004] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[10Feb2025 03:37:57.014] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 03:37:57.015] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[10Feb2025 03:38:41.756] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish]] from pos BlockPos{x=12475, y=80, z=8011}
+[10Feb2025 03:38:46.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[10Feb2025 03:40:22.065] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/7528, l='ServerLevel[world]', x=12457.50, y=-9.00, z=8374.47]
+[10Feb2025 03:41:34.433] [Server thread/ERROR] [placebo/]: ##############################
+[10Feb2025 03:41:34.434] [Server thread/ERROR] [placebo/]: A Block apotheosis:boss_spawner with BlockEntityType minecraft:chest has subscribed as a TickingEntityBlock but is not using TickingBlockEntityType!
+[10Feb2025 03:41:34.434] [Server thread/ERROR] [placebo/]: ##############################
+[10Feb2025 03:41:39.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Aarkanen> xaero-waypoint:Shared Location:S:12456:50:8055:13:false:0:Internal-overworld-waypoints
+[10Feb2025 03:42:33.172] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/9975, l='ServerLevel[world]', x=12579.84, y=7.00, z=8500.16]
+[10Feb2025 03:42:35.270] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/9976, l='ServerLevel[world]', x=12582.54, y=34.00, z=8495.19]
+[10Feb2025 03:42:55.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Feb2025 03:43:46.051] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/10616, l='ServerLevel[world]', x=12463.60, y=19.00, z=8172.62]
+[10Feb2025 03:44:25.233] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 03:44:25.234] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[10Feb2025 03:44:25.234] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[10Feb2025 03:44:58.495] [Worker-Main-60/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 03:44:58.495] [Worker-Main-60/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[10Feb2025 03:44:58.727] [Worker-Main-60/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[10Feb2025 03:44:58.734] [Worker-Main-60/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 03:44:59.901] [Worker-Main-42/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 03:44:59.902] [Worker-Main-42/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[10Feb2025 03:44:59.923] [pool-10-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom]] from pos BlockPos{x=12523, y=76, z=9253}
+[10Feb2025 03:45:01.543] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 03:45:01.543] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[10Feb2025 03:45:01.546] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 03:45:01.548] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 03:45:01.550] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 03:45:01.551] [Worker-Main-61/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[10Feb2025 03:45:05.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4019ms or 80 ticks behind
+[10Feb2025 03:45:06.993] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/plains
+[10Feb2025 03:45:15.890] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[10Feb2025 03:45:15.891] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[10Feb2025 03:45:15.934] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[10Feb2025 03:45:23.736] [Worker-Main-42/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[10Feb2025 03:45:29.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9323ms or 186 ticks behind
+[10Feb2025 03:46:16.202] [pool-10-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]] from pos BlockPos{x=12821, y=85, z=8315}
+[10Feb2025 03:47:08.876] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/13927, l='ServerLevel[world]', x=12912.47, y=-8.00, z=9135.27]
+[10Feb2025 03:47:08.877] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/13927, l='ServerLevel[world]', x=12912.47, y=-8.00, z=9135.27]
+[10Feb2025 03:47:26.874] [Server thread/WARN] [spawnermod/]: Key=jcraft:sha was not found when trying to access it! Returning 0
