@@ -5753,3 +5753,29 @@ java.lang.NullPointerException: Element not found: amount
 [10Feb2025 03:58:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Applied effect Water Breathing to Sebas2K24]
 [10Feb2025 04:05:54.222] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/23172, l='ServerLevel[world]', x=7307.51, y=-27.00, z=4054.64]
 [10Feb2025 04:07:03.323] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/23172, l='ServerLevel[world]', x=7307.51, y=-27.00, z=4054.64]
+[10Feb2025 04:08:08.121] [Server thread/WARN] [spawnermod/]: Key=jcraft:lifedetector was not found when trying to access it! Returning 0
+[10Feb2025 04:08:22.563] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 04:08:22.567] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 04:08:22.570] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 04:08:22.572] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 04:08:22.573] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[10Feb2025 04:08:22.573] [Worker-Main-41/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[10Feb2025 04:08:32.381] [Worker-Main-60/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 04:08:32.381] [Worker-Main-60/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[10Feb2025 04:08:32.382] [Worker-Main-60/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[10Feb2025 04:08:32.382] [Worker-Main-60/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[10Feb2025 04:08:58.103] [Worker-Main-42/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[10Feb2025 04:08:58.106] [Worker-Main-42/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 04:08:58.106] [Worker-Main-42/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[10Feb2025 04:09:00.423] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[10Feb2025 04:09:00.423] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[10Feb2025 04:12:03.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Sebas2K24 to 213.500000, 79.500000, 195.500000]
+[10Feb2025 04:12:14.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebas2K24: Teleported Aarkanen to Sebas2K24]
+[10Feb2025 04:15:11.364] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/31642, l='ServerLevel[world]', x=123.94, y=85.75, z=133.06] died: Honeyed Archer suffocated in a wall
+[10Feb2025 04:17:23.318] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created MetallicaEntity['Metallica'/9975, l='ServerLevel[world]', x=12579.84, y=7.00, z=8500.16]
+[10Feb2025 04:17:23.323] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HorusEntity['Horus'/9976, l='ServerLevel[world]', x=12582.54, y=34.00, z=8495.19]
+[10Feb2025 04:17:23.384] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created HGEntity['entity.jcraft.hierophant_green'/7528, l='ServerLevel[world]', x=12457.50, y=-9.00, z=8374.47]
+[10Feb2025 04:17:23.476] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created SilverChariotEntity['Silver Chariot'/31981, l='ServerLevel[world]', x=12469.05, y=-13.00, z=8366.67]
+[10Feb2025 04:17:26.746] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created TheSunEntity['The Sun'/31983, l='ServerLevel[world]', x=12463.84, y=37.00, z=8521.65]
+[10Feb2025 04:17:26.746] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/31982, l='ServerLevel[world]', x=12591.51, y=81.00, z=8399.49]
+[10Feb2025 04:17:26.781] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created WhiteSnakeEntity['Whitesnake'/31982, l='ServerLevel[world]', x=12591.51, y=81.00, z=8399.49]
