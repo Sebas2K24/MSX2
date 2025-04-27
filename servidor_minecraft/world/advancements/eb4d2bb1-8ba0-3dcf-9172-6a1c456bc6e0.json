@@ -832,7 +832,9 @@
       "shrubland": "2024-12-21 04:25:29 +0000",
       "rocky_shrubland": "2025-01-03 04:22:08 +0000",
       "highland": "2024-12-31 05:05:18 +0000",
+      "jade_cliffs": "2025-04-25 03:30:52 +0000",
       "wetland": "2025-01-27 04:00:31 +0000",
+      "clover_patch": "2025-04-25 03:30:42 +0000",
       "mystic_grove": "2025-01-07 03:05:48 +0000",
       "old_growth_woodland": "2025-01-07 03:25:19 +0000",
       "maple_woods": "2025-01-27 04:03:29 +0000",
@@ -1280,16 +1282,21 @@
       "minecraft:spider": "2024-12-21 03:41:37 +0000",
       "minecraft:piglin_brute": "2025-01-02 03:51:14 +0000",
       "minecraft:creeper": "2024-12-20 05:00:48 +0000",
+      "minecraft:evoker": "2025-04-27 03:08:58 +0000",
       "minecraft:phantom": "2025-01-05 04:05:33 +0000",
       "minecraft:zombified_piglin": "2025-01-02 03:47:44 +0000",
       "minecraft:witch": "2025-01-03 04:40:01 +0000",
       "minecraft:wither_skeleton": "2024-12-29 04:59:58 +0000",
       "minecraft:husk": "2024-12-20 04:13:43 +0000",
+      "minecraft:ender_dragon": "2025-04-25 04:29:24 +0000",
+      "minecraft:shulker": "2025-04-27 03:02:13 +0000",
       "minecraft:cave_spider": "2024-12-29 04:38:23 +0000",
       "minecraft:piglin": "2025-01-02 03:51:22 +0000",
       "minecraft:stray": "2024-12-21 05:19:07 +0000",
       "minecraft:enderman": "2024-12-28 04:07:52 +0000",
       "minecraft:silverfish": "2025-01-03 03:31:53 +0000",
+      "minecraft:endermite": "2025-04-27 02:52:45 +0000",
+      "minecraft:vex": "2025-04-27 03:07:31 +0000",
       "minecraft:zombie": "2024-12-20 02:32:50 +0000",
       "minecraft:drowned": "2025-01-02 05:34:09 +0000",
       "minecraft:zombie_villager": "2024-12-28 03:51:54 +0000"
@@ -1629,9 +1636,11 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-20 02:42:57 +0000",
-      "opened_chest": "2024-12-20 02:35:20 +0000"
+      "opened_shulker": "2025-04-27 02:53:05 +0000",
+      "opened_chest": "2024-12-20 02:35:20 +0000",
+      "opened_cart": "2025-04-27 04:04:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "lootr:1chest": {
     "criteria": {
@@ -4680,6 +4689,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-25 03:30:21 +0000",
       "minecraft:taiga": "2025-01-23 03:33:20 +0000",
       "minecraft:deep_ocean": "2025-01-27 05:32:58 +0000",
       "minecraft:eroded_badlands": "2025-01-09 03:27:11 +0000",
@@ -20687,9 +20697,9 @@
     },
     "done": false
   },
-  "adorn:recipes/purple_table_lamp": {
+  "apotheosis:enchanting/bookshelf": {
     "criteria": {
-      "has_carpet": "2025-04-23 03:47:30 +0000"
+      "bookshelf": "2025-04-23 03:29:33 +0000"
     },
     "done": true
   },
@@ -20705,15 +20715,484 @@
     },
     "done": true
   },
-  "apotheosis:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2025-04-23 03:29:33 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/frying/glow_berry_jam": {
     "criteria": {
       "has_ingredient": "2025-04-23 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/purple_table_lamp": {
+    "criteria": {
+      "has_carpet": "2025-04-23 03:47:30 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_jotaro_outfit": {
+    "criteria": {
+      "has_jotaro_cap": "2025-04-25 03:11:57 +0000"
+    },
+    "done": false
+  },
+  "iammusicplayer:recipes/misc/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-25 03:14:27 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-25 03:14:27 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-25 03:14:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-04-25 03:20:59 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-04-25 03:26:20 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_enderman": "2025-04-25 04:28:05 +0000",
+      "baby_skeleton": "2025-04-25 03:27:38 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-04-25 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "snowyspirit:recipes/decorations/sled_spruce": {
+    "criteria": {
+      "has_item": "2025-04-25 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_jungle": "2025-04-25 03:44:17 +0000"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-25 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-25 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-25 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-25 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-25 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-25 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-25 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-25 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-25 03:47:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-04-25 03:48:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "silicon": "2025-04-25 03:48:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-04-25 04:01:37 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-04-25 04:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-25 04:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-25 04:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-04-25 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-25 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-25 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-25 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-25 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-04-25 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-25 04:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-27 02:38:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-27 02:38:31 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/dios_diary": {
+    "criteria": {
+      "has_nether_star": "2025-04-27 02:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-27 02:41:12 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2025-04-27 02:41:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2025-04-27 02:53:05 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/end_stone_brick_platform": {
+    "criteria": {
+      "has_slab": "2025-04-27 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/end_stone_brick_step": {
+    "criteria": {
+      "has_slab": "2025-04-27 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 02:55:45 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/purpur_post": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 02:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 02:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 02:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 02:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 02:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 02:55:45 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/green_baby": {
+    "criteria": {
+      "has_totem": "2025-04-27 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/magenta_table_lamp": {
+    "criteria": {
+      "has_carpet": "2025-04-27 03:13:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-27 03:13:39 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruined_portal_end": {
+    "criteria": {
+      "in_ruined_portal_end": "2025-04-27 03:14:27 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-04-27 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-04-27 03:15:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-04-27 03:24:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-27 04:04:05 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/end_stone_brick_post": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-27 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-04-27 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-27 04:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-04-27 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-04-27 04:09:51 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:root": {
+    "criteria": {
+      "awesomedungeonend:end_palace": "2025-04-27 04:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-04-27 04:02:43 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_enderchest": {
+    "criteria": {
+      "has_enderchest": "2025-04-27 03:52:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/end_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-04-27 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:end_palace/find_normal": {
+    "criteria": {
+      "requirement": "2025-04-27 04:21:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/end_stone_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-27 04:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-27 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/end_stone_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-27 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-04-27 03:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_end_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_end": "2025-04-27 04:03:11 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-04-27 04:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-04-27 04:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-27 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-04-27 03:52:28 +0000"
     },
     "done": true
   },
