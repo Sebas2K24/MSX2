@@ -1724,6 +1724,7 @@
       "minecraft:spider": "2024-12-28 03:55:41 +0000",
       "minecraft:piglin_brute": "2025-01-02 03:37:15 +0000",
       "minecraft:creeper": "2025-01-03 03:41:08 +0000",
+      "minecraft:slime": "2025-04-30 03:14:55 +0000",
       "minecraft:phantom": "2025-01-05 03:47:59 +0000",
       "minecraft:zombified_piglin": "2025-01-09 04:42:07 +0000",
       "minecraft:witch": "2025-02-01 03:40:02 +0000",
@@ -15497,27 +15498,9 @@
     },
     "done": true
   },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-04-27 04:04:09 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_dark_oak_table": {
     "criteria": {
       "has_planks": "2025-04-27 03:48:19 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_challenger": {
-    "criteria": {
-      "location0": "2025-04-27 04:40:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-04-27 04:28:29 +0000"
     },
     "done": true
   },
@@ -15602,12 +15585,6 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-04-27 03:48:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-04-27 04:21:14 +0000"
     },
     "done": true
   },
@@ -15725,18 +15702,6 @@
     },
     "done": true
   },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_end": "2025-04-27 04:03:10 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/transportation/soul_elytra": {
-    "criteria": {
-      "has_elytra": "2025-04-27 04:28:29 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_log": "2025-04-27 03:48:19 +0000"
@@ -15800,6 +15765,54 @@
   "cfm:recipes/decorations/dark_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-04-27 03:48:19 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_end": "2025-04-27 04:03:10 +0000"
+    },
+    "done": false
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-27 04:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-27 04:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-27 04:28:29 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-04-27 04:28:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-04-27 04:40:14 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2025-04-30 03:45:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-04-30 04:32:45 +0000"
     },
     "done": true
   },

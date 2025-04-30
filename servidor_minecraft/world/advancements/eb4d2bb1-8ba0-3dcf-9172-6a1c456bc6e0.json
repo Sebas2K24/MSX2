@@ -1283,6 +1283,7 @@
       "minecraft:piglin_brute": "2025-01-02 03:51:14 +0000",
       "minecraft:creeper": "2024-12-20 05:00:48 +0000",
       "minecraft:evoker": "2025-04-27 03:08:58 +0000",
+      "minecraft:slime": "2025-04-30 03:14:42 +0000",
       "minecraft:phantom": "2025-01-05 04:05:33 +0000",
       "minecraft:zombified_piglin": "2025-01-02 03:47:44 +0000",
       "minecraft:witch": "2025-01-03 04:40:01 +0000",
@@ -21052,57 +21053,15 @@
     },
     "done": true
   },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-04-27 04:04:05 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/end_stone_brick_post": {
     "criteria": {
       "has_end_stone_bricks": "2025-04-27 03:52:28 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_challenger": {
-    "criteria": {
-      "location0": "2025-04-27 04:42:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-04-27 04:27:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-04-27 03:52:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-04-27 04:09:51 +0000"
-    },
-    "done": true
-  },
-  "awesomedungeonend:root": {
-    "criteria": {
-      "awesomedungeonend:end_palace": "2025-04-27 04:21:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_block": {
-    "criteria": {
-      "has_chorus_fruit_popped": "2025-04-27 04:02:43 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/backpack_enderchest": {
-    "criteria": {
-      "has_enderchest": "2025-04-27 03:52:32 +0000"
     },
     "done": true
   },
@@ -21118,21 +21077,9 @@
     },
     "done": true
   },
-  "awesomedungeonend:end_palace/find_normal": {
-    "criteria": {
-      "requirement": "2025-04-27 04:21:11 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/end_stone_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-27 03:52:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-04-27 04:21:27 +0000"
     },
     "done": true
   },
@@ -21154,33 +21101,9 @@
     },
     "done": true
   },
-  "cataclysm:kill_ender_guardian": {
-    "criteria": {
-      "enderguardian": "2025-04-27 03:58:06 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/balustrade_end_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-04-27 03:52:28 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_end": "2025-04-27 04:03:11 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/transportation/soul_elytra": {
-    "criteria": {
-      "has_elytra": "2025-04-27 04:27:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_rod": {
-    "criteria": {
-      "has_chorus_fruit_popped": "2025-04-27 04:02:43 +0000"
     },
     "done": true
   },
@@ -21193,6 +21116,132 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-04-27 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_enderchest": {
+    "criteria": {
+      "has_enderchest": "2025-04-27 03:52:32 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-04-27 03:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-04-27 04:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-04-27 04:02:43 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_end": "2025-04-27 04:03:11 +0000"
+    },
+    "done": false
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-27 04:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-04-27 04:09:51 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:root": {
+    "criteria": {
+      "awesomedungeonend:end_palace": "2025-04-27 04:21:11 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:end_palace/find_normal": {
+    "criteria": {
+      "requirement": "2025-04-27 04:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-27 04:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-27 04:27:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-04-27 04:27:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-04-27 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-04-30 03:19:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/light_gray_table_lamp": {
+    "criteria": {
+      "has_carpet": "2025-04-30 03:26:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-04-30 04:16:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-04-30 04:16:17 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2025-04-30 03:45:46 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-04-30 03:59:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-04-30 04:16:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-04-30 04:16:17 +0000"
     },
     "done": true
   },
