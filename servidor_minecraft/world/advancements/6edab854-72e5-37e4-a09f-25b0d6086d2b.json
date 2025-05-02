@@ -1725,6 +1725,7 @@
       "minecraft:piglin_brute": "2025-01-02 03:37:15 +0000",
       "minecraft:creeper": "2025-01-03 03:41:08 +0000",
       "minecraft:slime": "2025-04-30 03:14:55 +0000",
+      "minecraft:evoker": "2025-05-02 03:58:09 +0000",
       "minecraft:phantom": "2025-01-05 03:47:59 +0000",
       "minecraft:zombified_piglin": "2025-01-09 04:42:07 +0000",
       "minecraft:witch": "2025-02-01 03:40:02 +0000",
@@ -1737,6 +1738,7 @@
       "minecraft:enderman": "2024-12-31 05:21:51 +0000",
       "minecraft:silverfish": "2025-01-03 04:44:30 +0000",
       "minecraft:endermite": "2025-04-27 02:53:52 +0000",
+      "minecraft:vex": "2025-05-02 03:17:32 +0000",
       "minecraft:zombie": "2024-12-28 04:07:59 +0000",
       "quark:foxhound": "2025-01-09 04:42:11 +0000",
       "minecraft:drowned": "2025-01-03 04:28:02 +0000",
@@ -9829,6 +9831,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_end": "2025-05-02 04:13:19 +0000",
       "in_pyramid_jungle": "2025-01-03 04:43:40 +0000",
       "in_pyramid_flower_forest": "2025-02-01 03:26:42 +0000"
     },
@@ -15813,6 +15816,30 @@
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-04-30 04:32:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-02 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:root": {
+    "criteria": {
+      "awesomedungeonend:end_castle_evoker": "2025-05-02 03:55:53 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:end_castle_evoker/find_normal": {
+    "criteria": {
+      "requirement": "2025-05-02 03:55:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-05-02 04:19:41 +0000"
     },
     "done": true
   },

@@ -13995,6 +13995,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_end": "2025-05-02 04:13:16 +0000",
       "in_pyramid_jungle": "2025-01-03 04:42:36 +0000",
       "in_pyramid_flower_forest": "2025-02-01 03:26:42 +0000"
     },
@@ -21209,18 +21210,6 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_purple": {
-    "criteria": {
-      "has_dyes/black": "2025-04-30 04:16:17 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_purple": {
-    "criteria": {
-      "has_dyes/black": "2025-04-30 04:16:17 +0000"
-    },
-    "done": true
-  },
   "repurposed_structures:shipwrecks": {
     "criteria": {
       "in_shipwreck_end": "2025-04-30 03:45:46 +0000"
@@ -21233,6 +21222,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-04-30 04:16:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-04-30 04:16:17 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_purple": {
     "criteria": {
       "has_dyes/black": "2025-04-30 04:16:17 +0000"
@@ -21242,6 +21243,450 @@
   "ae2:recipes/misc/network/cables/glass_purple": {
     "criteria": {
       "has_dyes/black": "2025-04-30 04:16:17 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/purpur_platform": {
+    "criteria": {
+      "has_slab": "2025-05-02 03:17:42 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/purpur_step": {
+    "criteria": {
+      "has_slab": "2025-05-02 03:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-05-02 03:21:06 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonend:end_castle_evoker/find_normal": {
+    "criteria": {
+      "requirement": "2025-05-02 03:56:12 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/illunite_shard": {
+    "criteria": {
+      "get_stew": "2025-05-02 03:58:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-05-02 04:20:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/warped_support": {
+    "criteria": {
+      "has_plank": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_warped_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_desk": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_table": {
+    "criteria": {
+      "has_warped_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_table": {
+    "criteria": {
+      "has_warped_table": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
+    "criteria": {
+      "has_warped_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_mail_box": {
+    "criteria": {
+      "has_warped_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_limited_barrel_1": {
+    "criteria": {
+      "has_warped_plank": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_limited_barrel_4": {
+    "criteria": {
+      "has_warped_plank": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_limited_barrel_3": {
+    "criteria": {
+      "has_warped_plank": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_limited_barrel_2": {
+    "criteria": {
+      "has_warped_plank": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_chair": {
+    "criteria": {
+      "has_warped_chair": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_dining_bench": {
+    "criteria": {
+      "has_warped_dining_bench": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-05-02 04:46:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_couch": {
+    "criteria": {
+      "has_warped_couch": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/warped_seat": {
+    "criteria": {
+      "has_plank": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
+    "criteria": {
+      "has_warped_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_desk": {
+    "criteria": {
+      "has_warped_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_park_bench": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_crate": {
+    "criteria": {
+      "has_warped_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_crate": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_chair": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_drawer": {
+    "criteria": {
+      "has_warped_drawer": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/warped_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/warped_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_table": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_warped": {
+    "criteria": {
+      "has_item": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/warped_planks": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_barrel": {
+    "criteria": {
+      "has_warped_plank": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_pillar_trim": {
+    "criteria": {
+      "has_warped_pillar_trim": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_desk": {
+    "criteria": {
+      "has_warped_desk": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_corner_trim": {
+    "criteria": {
+      "has_warped_corner_trim": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_warped_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/warped_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_counter": {
+    "criteria": {
+      "has_warped_counter": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/warped_post": {
+    "criteria": {
+      "has_warped_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 04:28:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
+    "criteria": {
+      "has_warped_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_drawer": {
+    "criteria": {
+      "has_warped_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_shelf": {
+    "criteria": {
+      "has_warped_shelf": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-05-02 04:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_cupboard": {
+    "criteria": {
+      "has_warped_cupboard": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-05-02 04:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/warped_chest": {
+    "criteria": {
+      "has_warped_plank": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/warped_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-02 04:34:19 +0000"
     },
     "done": true
   },
