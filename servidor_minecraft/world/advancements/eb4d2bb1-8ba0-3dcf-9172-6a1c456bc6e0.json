@@ -4722,6 +4722,7 @@
       "minecraft:warm_ocean": "2025-01-27 05:32:40 +0000",
       "minecraft:frozen_peaks": "2025-02-08 05:16:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 04:31:26 +0000",
+      "minecraft:deep_dark": "2025-05-11 02:37:56 +0000",
       "minecraft:plains": "2024-12-20 03:38:55 +0000"
     },
     "done": false
@@ -15404,6 +15405,7 @@
     "criteria": {
       "in_village_cherry": "2025-02-08 04:47:10 +0000",
       "in_village_ocean": "2025-02-10 04:00:24 +0000",
+      "in_village_oak": "2025-05-11 03:24:44 +0000",
       "in_village_jungle": "2025-01-05 04:43:57 +0000"
     },
     "done": false
@@ -21282,6 +21284,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-05-02 04:23:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 04:28:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-05-02 04:34:19 +0000"
@@ -21405,12 +21419,6 @@
   "handcrafted:recipes/misc/warped_dining_bench": {
     "criteria": {
       "has_warped_dining_bench": "2025-05-02 04:34:19 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_gray_picket_fence": {
-    "criteria": {
-      "has_concrete": "2025-05-02 04:46:35 +0000"
     },
     "done": true
   },
@@ -21618,12 +21626,6 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/misc/tiny_tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-05-02 04:28:15 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
     "criteria": {
       "has_warped_planks": "2025-05-02 04:34:19 +0000"
@@ -21642,12 +21644,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/gray_picket_fence": {
-    "criteria": {
-      "has_concrete": "2025-05-02 04:46:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-05-02 04:34:19 +0000"
@@ -21657,12 +21653,6 @@
   "handcrafted:recipes/misc/warped_cupboard": {
     "criteria": {
       "has_warped_cupboard": "2025-05-02 04:34:19 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/magenta_picket_fence": {
-    "criteria": {
-      "has_concrete": "2025-05-02 04:23:20 +0000"
     },
     "done": true
   },
@@ -21687,6 +21677,84 @@
   "adorn:recipes/warped_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-05-02 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-05-02 04:46:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-05-02 04:46:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-05-08 03:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-08 03:46:19 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-05-08 03:46:19 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-05-08 03:46:19 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-05-08 04:13:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-05-11 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-05-11 02:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-05-11 02:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-11 03:07:51 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mansions": {
+    "criteria": {
+      "in_mansion_taiga": "2025-05-11 03:53:05 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-05-11 03:59:14 +0000"
     },
     "done": true
   },
