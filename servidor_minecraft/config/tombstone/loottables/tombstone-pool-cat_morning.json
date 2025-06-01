@@ -60,24 +60,8 @@
       "name": "tombstone:gemstone_of_familiar"
     },
     {
-      "type": "minecraft:item",
-      "weight": 500,
-      "functions": [
-        {
-          "function": "tombstone:check_enabled"
-        },
-        {
-          "function": "tombstone:is_halloween"
-        },
-        {
-          "function": "tombstone:delayed_nbt_loot"
-        }
-      ],
-      "name": "tombstone:lollipop"
-    },
-    {
       "type": "minecraft:empty",
-      "weight": 339
+      "weight": 839
     }
   ]
 }

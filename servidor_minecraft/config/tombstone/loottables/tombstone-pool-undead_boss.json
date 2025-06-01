@@ -8,13 +8,6 @@
       "weight": 100,
       "functions": [
         {
-          "function": "minecraft:set_nbt",
-          "tag": "{enchant:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
-        },
-        {
           "function": "tombstone:delayed_nbt_loot"
         }
       ],
@@ -59,21 +52,18 @@
           "ancient": true
         }
       ],
-      "name": "minecraft:air"
+      "name": "tombstone:strange_scroll"
     },
     {
       "type": "minecraft:item",
       "weight": 50,
       "functions": [
         {
-          "function": "minecraft:set_nbt",
-          "tag": "{ancient:1b,enchant:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
-        },
-        {
           "function": "tombstone:delayed_nbt_loot"
+        },
+        {
+          "function": "minecraft:set_nbt",
+          "tag": "{ancient:1b}"
         }
       ],
       "name": "tombstone:magic_scroll"
@@ -82,9 +72,6 @@
       "type": "minecraft:item",
       "weight": 100,
       "functions": [
-        {
-          "function": "tombstone:check_enabled"
-        },
         {
           "function": "tombstone:delayed_nbt_loot"
         }
@@ -95,9 +82,6 @@
       "type": "minecraft:item",
       "weight": 100,
       "functions": [
-        {
-          "function": "tombstone:check_enabled"
-        },
         {
           "function": "tombstone:delayed_nbt_loot"
         }

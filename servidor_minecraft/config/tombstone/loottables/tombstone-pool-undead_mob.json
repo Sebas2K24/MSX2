@@ -42,9 +42,6 @@
       "weight": 20,
       "functions": [
         {
-          "function": "tombstone:check_enabled"
-        },
-        {
           "function": "tombstone:delayed_nbt_loot"
         }
       ],

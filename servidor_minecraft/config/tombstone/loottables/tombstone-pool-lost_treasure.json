@@ -18,7 +18,8 @@
       "weight": 40,
       "functions": [
         {
-          "function": "tombstone:random_pottery_sherd"
+          "function": "tombstone:random_in_tag",
+          "rl": "minecraft:decorated_pot_sherds"
         }
       ],
       "name": "minecraft:book"
@@ -40,81 +41,19 @@
     },
     {
       "type": "minecraft:item",
-      "weight": 3,
+      "weight": 15,
       "functions": [
         {
-          "function": "minecraft:set_nbt",
-          "tag": "{ancient:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
+          "function": "tombstone:random_magic_tablet",
+          "ancient": true
         }
       ],
-      "name": "tombstone:tablet_of_recall"
-    },
-    {
-      "type": "minecraft:item",
-      "weight": 3,
-      "functions": [
-        {
-          "function": "minecraft:set_nbt",
-          "tag": "{ancient:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
-        }
-      ],
-      "name": "tombstone:tablet_of_home"
-    },
-    {
-      "type": "minecraft:item",
-      "weight": 3,
-      "functions": [
-        {
-          "function": "minecraft:set_nbt",
-          "tag": "{ancient:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
-        }
-      ],
-      "name": "tombstone:tablet_of_assistance"
-    },
-    {
-      "type": "minecraft:item",
-      "weight": 3,
-      "functions": [
-        {
-          "function": "minecraft:set_nbt",
-          "tag": "{ancient:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
-        }
-      ],
-      "name": "tombstone:tablet_of_cupidity"
-    },
-    {
-      "type": "minecraft:item",
-      "weight": 3,
-      "functions": [
-        {
-          "function": "minecraft:set_nbt",
-          "tag": "{ancient:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
-        }
-      ],
-      "name": "tombstone:tablet_of_guard"
+      "name": "tombstone:strange_tablet"
     },
     {
       "type": "minecraft:item",
       "weight": 20,
       "functions": [
-        {
-          "function": "tombstone:check_enabled"
-        },
         {
           "function": "tombstone:delayed_nbt_loot"
         }
@@ -125,9 +64,6 @@
       "type": "minecraft:item",
       "weight": 50,
       "functions": [
-        {
-          "function": "tombstone:check_enabled"
-        },
         {
           "function": "tombstone:delayed_nbt_loot"
         }
@@ -149,9 +85,6 @@
       "weight": 10,
       "functions": [
         {
-          "function": "tombstone:check_enabled"
-        },
-        {
           "function": "tombstone:delayed_nbt_loot"
         }
       ],
@@ -161,9 +94,6 @@
       "type": "minecraft:item",
       "weight": 10,
       "functions": [
-        {
-          "function": "tombstone:check_enabled"
-        },
         {
           "function": "tombstone:delayed_nbt_loot"
         }

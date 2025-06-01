@@ -38,9 +38,6 @@
       "weight": 25,
       "functions": [
         {
-          "function": "tombstone:check_enabled"
-        },
-        {
           "function": "tombstone:delayed_nbt_loot"
         }
       ],
@@ -66,7 +63,7 @@
           "ancient": true
         }
       ],
-      "name": "minecraft:air"
+      "name": "tombstone:strange_scroll"
     }
   ]
 }

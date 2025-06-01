@@ -27,15 +27,12 @@
           "ancient": false
         }
       ],
-      "name": "minecraft:air"
+      "name": "tombstone:strange_scroll"
     },
     {
       "type": "minecraft:item",
       "weight": 20,
       "functions": [
-        {
-          "function": "tombstone:check_enabled"
-        },
         {
           "function": "tombstone:delayed_nbt_loot"
         }
@@ -44,81 +41,19 @@
     },
     {
       "type": "minecraft:item",
-      "weight": 10,
+      "weight": 50,
       "functions": [
         {
-          "function": "minecraft:set_nbt",
-          "tag": "{enchant:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
+          "function": "tombstone:random_magic_tablet",
+          "ancient": false
         }
       ],
-      "name": "tombstone:tablet_of_cupidity"
-    },
-    {
-      "type": "minecraft:item",
-      "weight": 10,
-      "functions": [
-        {
-          "function": "minecraft:set_nbt",
-          "tag": "{enchant:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
-        }
-      ],
-      "name": "tombstone:tablet_of_home"
-    },
-    {
-      "type": "minecraft:item",
-      "weight": 10,
-      "functions": [
-        {
-          "function": "minecraft:set_nbt",
-          "tag": "{enchant:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
-        }
-      ],
-      "name": "tombstone:tablet_of_assistance"
-    },
-    {
-      "type": "minecraft:item",
-      "weight": 10,
-      "functions": [
-        {
-          "function": "minecraft:set_nbt",
-          "tag": "{enchant:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
-        }
-      ],
-      "name": "tombstone:tablet_of_recall"
-    },
-    {
-      "type": "minecraft:item",
-      "weight": 10,
-      "functions": [
-        {
-          "function": "minecraft:set_nbt",
-          "tag": "{enchant:1b}"
-        },
-        {
-          "function": "tombstone:check_enabled"
-        }
-      ],
-      "name": "tombstone:tablet_of_guard"
+      "name": "tombstone:strange_tablet"
     },
     {
       "type": "minecraft:item",
       "weight": 50,
       "functions": [
-        {
-          "function": "tombstone:check_enabled"
-        },
         {
           "function": "tombstone:delayed_nbt_loot"
         }
@@ -140,9 +75,6 @@
       "weight": 10,
       "functions": [
         {
-          "function": "tombstone:check_enabled"
-        },
-        {
           "function": "tombstone:delayed_nbt_loot"
         }
       ],
@@ -152,9 +84,6 @@
       "type": "minecraft:item",
       "weight": 10,
       "functions": [
-        {
-          "function": "tombstone:check_enabled"
-        },
         {
           "function": "tombstone:delayed_nbt_loot"
         }

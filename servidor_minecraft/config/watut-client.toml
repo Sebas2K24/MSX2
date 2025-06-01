@@ -1,6 +1,8 @@
 
 #General mod settings
 [general]
+	#SETTING THESE CLIENT SIDE SETTINGS TO FALSE WILL OVERRIDE ANY OF THE SAME SERVER SETTINGS THAT ARE SET TO TRUE (for your client only)
+	dummySetting = true
 	#Sends relative mouse position and clicking
 	sendMouseInfo = true
 	#Sends a calculated rate of typing. If off, uses a default value on server
@@ -46,8 +48,6 @@
 	playScreenOpenSounds = true
 	#Plays a sutble sound when a player clicks their mouse in a Gui
 	playMouseClickSounds = true
-	#SETTING THESE CLIENT SIDE SETTINGS TO FALSE WILL OVERRIDE ANY OF THE SAME SERVER SETTINGS THAT ARE SET TO TRUE (for your client only)
-	dummySetting = true
 	#Adjusts the size of the gui visual that appears infront of a player, 2 = twice the size
 	#Range: 0.1 ~ 1.7976931348623157E308
 	particleSizeScale = 1.0
